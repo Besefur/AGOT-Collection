@@ -1,0 +1,470 @@
+#CODE;RUSSIAN;x
+nick_the_inquisitor;Инквизитор[This.GetEndSha];x
+nick_the_purifier;Очиститель[This.GetEndNitsa];x
+String_man_at_arm;всадник;x
+String_spahi;спахи;x
+MNM.6668.d;В последнее время Вы не проявляли должной осторожности, часто и временами неприкрыто используя возможности, которыми наделили Вас [Root.GetSocietyName]. В результате священники теперь открыто обвиняют Вас в вероотступничестве!;x
+opinion_accused_apostate;Обвиняется в вероотступничестве;x
+accused_apostate;Клеймо вероотступника;x
+accused_apostate_desc;Эт[GetEtaEtot] [GetAgedPerson] обвиняется в вероотступничестве. Правдивы эти обвинения или нет - это уже не столь важно...;x
+accuse_rival_tooltip;Воспользоваться возможностью обвинить своего врага в вероотступничестве. Может быть, §Y[rival_target.GetBestName]§! и невинов[rival_target.GetNaEn], но Ваш сюзерен от этого не станет мудрее...;x
+apostate_found_tooltip;§Y[accused_apostate.GetBestName]§! будет приведен[accused_apostate.GetEndA] Вами ко двору сюзерена, пусть  §Y[Root.Liege.GetTitle] [Root.Liege.GetFirstName]§! решит судьбу эт[accused_apostate.GetOyOgo] вероотступни[accused_apostate.GetTsyKa]!;x
+MNM.70110.d.highly_suspected_society_member;[accused_apostate.GetBestName] наконец выдал[accused_apostate.GetEndA] себя. После принятия заявлений от нескольких свидетелей и пристального наблюдения за каждым [accused_apostate.GetHersHis] шагом, Вы собрали достаточно доказательств для обвинений в вероотступничестве - очевидно, [accused_apostate.GetSocietyName] приняли [accused_apostate.GetHersHis] в свои ряды! Ваши [Root.GetReligionWarriorPlural] готовы взять [accused_apostate.GetHersHis] под стражу.;x
+MNM.70110.d.suspected_society_member;[accused_apostate.GetBestName] наконец выдал[accused_apostate.GetEndA] себя. После принятия заявлений от нескольких свидетелей и пристального наблюдения за каждым [accused_apostate.GetHersHis] шагом, Вы теперь имеете достаточно оснований для обвинений в вероотступничестве - [accused_apostate.GetSocietyName] тесно общались с н[accused_apostate.GetEyIm]. Ваши [Root.GetReligionWarriorPlural] готовы взять [accused_apostate.GetHersHis] под стражу.;x
+MNM.70110.d.suspected_apostate;[accused_apostate.GetBestName] наконец выдал[accused_apostate.GetEndA] себя. Вы шпионили за н[accused_apostate.GetEyIm] и нашли множество еретических символов, запрещённых текстов. Всё это даёт Вам основания для обвинений в вероотступничестве - [accused_apostate.GetSheHe] утверждает, что исповедует [accused_apostate.GetReligionFullName], будучи при этом тайн[accused_apostate.GetOyuYm] [accused_apostate.GetTrueReligionAdherentINS]! Ваши [Root.GetReligionWarriorPlural] готовы взять [accused_apostate.GetHersHis] под стражу.;x
+MNM.70110.d.no_suspicion;Похоже, [accused_apostate.GetBestName] ступил[accused_apostate.GetEndA] на скользкую дорожку, [Root.Religion.GetRandomEvilGodName] отравляет [accused_apostate.GetHersHis] душу. Собрав заявления среди крестьян и детей, Вы получили свидетельства [accused_apostate.GetHersHis] вероотступничества. Ваши [Root.GetReligionWarriorPlural] готовы взять [accused_apostate.GetHersHis] под стражу.;x
+MNM.70110.d.innocent_victim;Похоже, [accused_apostate.GetBestName] ступил[accused_apostate.GetEndA] на скользкую дорожку, [Root.Religion.GetRandomEvilGodName] отравляет [accused_apostate.GetHersHis] душу. Собрав заявления среди крестьян и детей, Вы получили свидетельства [accused_apostate.GetHersHis] вероотступничества. Ваши [Root.GetReligionWarriorPlural] готовы взять [accused_apostate.GetHersHis] под стражу.;x
+MNM.70110.a;Взять [accused_apostate.GetHersHis]! [Root.Liege.GetTitle] решит [accused_apostate.GetHersHis] судьбу.;x #[Root.Liege.GetTitle] [Root.Liege.GetFirstName]'s justice.;x
+MNM.70110.b;У меня есть более подходящий кандидат для обвинений.;x
+MNM.70200.d.highly_suspected_society_member;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] ворва[Root.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] в окружении нескольких [Root.GetReligionWarriorPluralGEN]. С ними был[accused_apostate.GetEndA] [accused_apostate.GetBestName], закованн[accused_apostate.GetAyaYy] в цепи. "[Root.PrimaryTitle.GetFOA], эт[accused_apostate.GetEtaEtot] вероотступни[accused_apostate.GetTsaK] открыто заявляет, что [accused_apostate.GetSocietyName] приняли [accused_apostate.GetHersHis] в свои ряды!".;x
+MNM.70200.d.suspected_society_member;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] ворва[Root.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] в окружении нескольких [Root.GetReligionWarriorPluralGEN]. С ними был[accused_apostate.GetEndA] [accused_apostate.GetBestName], закованн[accused_apostate.GetAyaYy] в цепи. "[Root.PrimaryTitle.GetFOA], у меня есть неопровержимые доказательства того, что эт[accused_apostate.GetEtaEtot] вероотступни[accused_apostate.GetTsaK] и [accused_apostate.GetSocietyName] тесно сотрудничали!".;x
+MNM.70200.d.suspected_apostate;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] ворва[Root.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] в окружении нескольких [Root.GetReligionWarriorPluralGEN]. С ними был[accused_apostate.GetEndA] [accused_apostate.GetBestName], закованн[accused_apostate.GetAyaYy] в цепи. "[Root.PrimaryTitle.GetFOA], мы поймали эт[accused_apostate.GetUOgo] [accused_apostate.GetAgedPersonACC] за чтением [accused_apostate.GetSecretReligionScriptureAdjAndNameGEN]!".;x
+MNM.70200.d.no_suspicion;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] ворва[Root.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] в окружении нескольких [Root.GetReligionWarriorPluralGEN]. С ними был[accused_apostate.GetEndA] [accused_apostate.GetBestName], закованн[accused_apostate.GetAyaYy] в цепи. "[Root.PrimaryTitle.GetFOA], обеспокоенные крестьяне и их дети боятся эт[accused_apostate.GetUOgo] [accused_apostate.GetAgedPersonACC], говорят [accused_apostate.GetSheHe] - [accused_apostate.GetWarlockWitch]!".;x
+MNM.70200.d.innocent_victim;[Root.GetLordSpiritualName] [Root.job_spiritual.GetFirstName] ворва[Root.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] в окружении нескольких [Root.GetReligionWarriorPluralGEN]. С ними был[accused_apostate.GetEndA] [accused_apostate.GetBestName], закованн[accused_apostate.GetAyaYy] в цепи. "[Root.PrimaryTitle.GetFOA], обеспокоенные крестьяне и их дети боятся эт[accused_apostate.GetUOgo] [accused_apostate.GetAgedPersonACC], говорят [accused_apostate.GetSheHe] - [accused_apostate.GetWarlockWitch]!".;x
+MNM.70200.a;Сжечь [accused_apostate.GetHersHis]!;x
+MNM.70200.b;Бросьте [accused_apostate.GetHersHis] в подземелье!;x
+MNM.70200.c;Клеймить [accused_apostate.GetHersHis] калёным железом!;x
+MNM.70200.d;Отпустите [accused_apostate.GetHersHis], [accused_apostate.GetSheHe] безобид[accused_apostate.GetNaEn].;x
+MNM.70300.d;Будь проклят[my_liege.job_spiritual.GetEndA] эт[my_liege.job_spiritual.GetEtaEtot] [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]! Со своим отрядом [my_liege.job_spiritual.GetReligionWarriorPluralGEN] [my_liege.job_spiritual.GetSheHe] ворва[my_liege.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] и, заковав меня в цепи, обвинил[my_liege.job_spiritual.GetEndA] в вероотступничестве. И теперь [my_liege.GetBestName] решил[my_liege.GetEndA] сжечь меня заживо!;x
+MNM.70300.a;[accused_apostate.GetDWDevil], отомсти за меня!;x
+MNM.70300.b;[Root.GetNumenFOA] спаси мою душу!;x
+MNM.70310.d;Будь проклят[my_liege.job_spiritual.GetEndA] эт[my_liege.job_spiritual.GetEtaEtot] [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]! Со своим отрядом [my_liege.job_spiritual.GetReligionWarriorPluralGEN] [my_liege.job_spiritual.GetSheHe] ворва[my_liege.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] и, заковав меня в цепи, обвинил[my_liege.job_spiritual.GetEndA] в вероотступничестве. И теперь [my_liege.GetBestName] решил[my_liege.GetEndA] бросить меня в подземелье!;x
+MNM.70310.a;Я выйду на свободу, и ты за это заплатишь!;x
+MNM.70320.d;Будь проклят[my_liege.job_spiritual.GetEndA] эт[my_liege.job_spiritual.GetEtaEtot] [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]! Со своим отрядом [my_liege.job_spiritual.GetReligionWarriorPluralGEN] [my_liege.job_spiritual.GetSheHe] ворва[my_liege.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] и, заковав меня в цепи, обвинил[my_liege.job_spiritual.GetEndA] в вероотступничестве. [my_liege.GetBestName] решил[my_liege.GetEndA] отпустить меня, но заклеймить.;x
+MNM.70320.a;Могло быть и хуже.;x
+MNM.70330.d;Будь проклят[my_liege.job_spiritual.GetEndA] эт[my_liege.job_spiritual.GetEtaEtot] [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName]! Со своим отрядом [my_liege.job_spiritual.GetReligionWarriorPluralGEN] [my_liege.job_spiritual.GetSheHe] ворва[my_liege.job_spiritual.GetLasLsya] в м[Root.GetMyChamberACC] и, заковав меня в цепи, обвинил[my_liege.job_spiritual.GetEndA] в вероотступничестве. К счастью [my_liege.GetBestName] решил[my_liege.GetEndA] отпустить меня!;x
+MNM.70330.a;Я свобод[Root.GetNaEn]!;x
+MNM.70400.d.executed;Беда! Ваш[From.GetEndA] соратни[From.GetTsaK] [From.GetBestName] арестован[From.GetEndA]. [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] и [my_liege.job_spiritual.GetHersHis] верные [my_liege.job_spiritual.GetReligionWarriorPlural] схватили [From.GetHersHis] сегодня утром, чтобы сжечь на костре! [Root.GetSocietyNameCap] в опасности.;x
+MNM.70400.d.imprisoned;Беда! Ваш[From.GetEndA] соратни[From.GetTsaK] [From.GetBestName] арестован[From.GetEndA]. [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] и [my_liege.job_spiritual.GetHersHis] верные [my_liege.job_spiritual.GetReligionWarriorPlural] схватили [From.GetHersHis] сегодня утром, [my_liege.GetTitle] [my_liege.GetFirstName] приказал[my_liege.GetEndA] бросить [From.GetHersHis] в подземелье. [Root.GetSocietyNameCap] в опасности.;x
+MNM.70400.d.caught;Беда! Ваш[From.GetEndA] соратни[From.GetTsaK] [From.GetBestName] арестован[From.GetEndA]. [my_liege.GetLordSpiritualName] [my_liege.job_spiritual.GetFullName] и [my_liege.job_spiritual.GetHersHis] верные [my_liege.job_spiritual.GetReligionWarriorPlural] схватили [From.GetHersHis] сегодня утром, чтобы клеймить как вероотступни[From.GetTsuKa]. К счастью [From.GetHerHim] сохранили жизнь, но [Root.GetSocietyName] теперь в большей опасности.;x
+MNM.70400.a;Пора залечь на дно...;x
+alert_close_gates_name;Закрыть ворота;x
+alert_open_gates_name;Открыть ворота;x
+EVTOPTA_TOG_621_Aztec_Religious_Head;Твои мерзкие боги здесь бессильны, [From.GetBestName]!;x
+String_Muslim;мусульман;x
+monastic_order_convert_county;Обратить округ;x
+monastic_order_convert_county_desc;Пусть [From.GetSocietyName] отправят своих эмиссаров к местному населению, чтобы обратить его в [From.GetReligionFullName].;x
+monastic_order_convert_county_power_desc;Позволяет, кликнув §Gправой кнопкой мыши§! на щите (гербе) соответствующего округа, обратить местное население в Вашу веру.;x
+EVTDESC_MNM_4990;Большинство [From.GetAdjective]ского населения приняло [Root.GetReligionFullName].;x
+EVTDESC_MNM_4991;Посланник вернулся и сообщил, что [FromFrom.GetTitledFirstName] отправил[FromFrom.GetEndA] эмиссаров к округ [From.GetName]. Им удалось убедить большинство местного населения принять [FromFrom.GetReligionFullName].;x
+TRIGGER_ARTIFACT_OWNER;Владелец артефакта;x
+TRIGGER_ARTIFACT_ORIGINAL_OWNER;Изначальный владелец артефакта;x
+INHERITANCE_LOST_ARTIFACTS_LOG;В результате передачи власти $CHARACTER$ больше не владеет ценностью, известной как $ARTIFACT$.;x
+ask_wards_liege_to_allow_culture_religion_swap_desc;§Y[Root.Liege.GetTitledFirstName]§! получит от Вас письмо с просьбой повлиять на воспитание ребёнка по имени §Y[Root.GetFirstName]§!. Сосредоточившить на §Yнаследии§!, §Y[Root.GetFirstName]§! примет религию и культуру своего наставника.;x
+change_wards_focus_to_heritage_desc;Благодаря смене воспитания на §YНаследие§!, юн[Root.GetAyaYy] §Y[Root.GetFirstName]§! примет религию и культуру своего наставника.;x
+EVTDESC_ZE_2131;Уважаем[Root.GetAyaYy] [Root.GetTitledNameWithNick],\nВаша инициатива мне нравится - пусть юн[FromFrom.GetAyaYy] [FromFrom.GetFirstName] воспитывается в духе нашего наследия и традиций.;x
+EVTOPTA_ZE_2131;Уверен[Root.GetEndA], это пойдёт [FromFrom.GetHerHim] только на пользу.;x
+GIVE_ARTIFACT_INTERACTION_TITLE;Передать артефакт;x
+GIVE_ARTIFACT_INTERACTION_DESC;§Y[Recipient.GetBestName]§! получит от Вас в подарок артефакт из Вашей сокровищницы.;x
+GIVE_ARTIFACT_INTERACTION_LONG_DESC;Вы можете предложить один из артефактов из Вашей сокровищницы в качестве подарка.;x
+GIVE_ARTIFACT_INTERACTION_0;Выберите артефакт - благодарность будет зависеть от его качества и ценности для получателя.;x
+GIVE_ARTIFACT_INTERACTION_1;Пусть $ARTIFACT|Y$ станет подарком, который §Y[Recipient.GetBestName]§! примет от Вас, это повысит [Recipient.GetHersHis] мнение о Вас на §G+$OPINION$§!;x
+GIVE_ARTIFACT_INTERACTION_2;Пусть $ARTIFACT|Y$ станет подарком, который §Y[Recipient.GetBestName]§! примет от Вас. §RЭто улучшит [Recipient.GetHersHis] мнение о Вас в дальнейшем.§!;x
+GIVE_ARTIFACT_INTERACTION_ACCEPT_SETUP;Артефакт был принят как подарок;x
+GIVE_ARTIFACT_INTERACTION_ACCEPT_LOG;§Y[Recipient.GetBestName]§! принял[Recipient.GetEndA] в подарок артефакт, известный как §Y[GetArtifactName]§!. §Y[Actor.GetBestName]§! преподнес[Actor.GetNoneE] его [Recipient.GetHerHim].;x
+GIVE_ARTIFACT_INTERACTION_DECLINE_SETUP;Артефакт как подарок был отклонён;x
+GIVE_ARTIFACT_INTERACTION_DECLINE_LOG;§Y[Recipient.GetBestName]§! отказа[Recipient.GetLasLsya] принять в подарок артефакт, известный как §Y[GetArtifactName]§!, который предложил[Actor.GetEndA] [Recipient.GetHerHim] §Y[Actor.GetBestName]§!.;x
+GIVE_ARTIFACT_INTERACTION_OFFER;[Actor.GetBestName] предлагает мне подарок - [GetArtifactName].;x
+GIVE_ARTIFACT_INTERACTION_LETTER;[GetArtifactName] - мой скромный дар Вам, примете ли Вы его?;x
+SELECT_ARTIFACT;Выбрать артефакт;x
+EVTDESC538;Какая великолепная работа! Конечно, я приму Ваш подарок!;x
+gave_artifact;Дарение мне артефакта;x
+QUALITY;Качество;x
+desc_recently_burnt_the_land;Дикие племена недавно разорили это поселение. Крестьяне вооружаются, чтобы защитить свои дома.;x
+desc_burnt_the_land;Частые и жестокие налёты дикарей оставили на этой земле лишь пепелище.;x
+rampaging_nomads;Разъярённые орды;x
+desc_rampaging_nomads;Орды диких племён терроризируют жителей этого округа. Если им завладеет цивилизованный правитель, они, скорее всего, рассеятся.;x
+recently_burnt_the_land_not_owner;Разграблено дикарями;x
+desc_recently_burnt_the_land_not_owner;Дикие племена недавно разорили это поселение. Пока этот модификатор действует, округ не может быть разорён снова.;x
+EVTDESC_HL_4814_NON_NOMAD;Ваши воины разграбили, разорила и разрушили селение [target_location.GetName], не осталось ничего, кроме руин...;x
+PROVINCE_HOTKEY_INFO;§GПравая кнопка мыши§! - перейти к правителю округа\n§GShift + ПКМ§! - к его верховному сюзерену\n§GAlt + ПКМ§! - взаимодействие с правителем округа\n§GAlt + Shift + ПКМ§! - взаимодействие с его сюзереном;x
+EMPTY_SEAT_VOTES;$NUM|Y$ свободных мест;x
+SET_SECRET_RELIGION_NONE;$CHARACTER|Y$ прекратит тайно исповедовать свою религию\n;x
+SET_SECRET_RELIGION;$CHARACTER|Y$ начнёт тайно исповедовать $RELIGION|Y$§Y[__]§!\n;x #R_ISM
+HAVE_NOT_RELIGION_GROUP_SECRET;Втайне НЕ исповедует $RELIGION_GROUP|Y$[__];x #R_ISM
+HAVE_RELIGION_GROUP_SECRET;Втайне исповедует $RELIGION_GROUP|Y$[__];x #R_ISM
+HAVE_NOT_RELIGION_GROUP_TRUE;НЕ исповедует $RELIGION_GROUP|Y$[__] на самом деле;x #R_ISM
+HAVE_RELIGION_GROUP_TRUE;На самом деле исповедует $RELIGION_GROUP|Y$[__];x #R_ISM
+HAVE_NOT_RELIGION_GROUP_CHARACTER;НЕ исповедует $RELIGION_GROUP|Y$[__] открыто;x #R_ISM
+HAVE_RELIGION_GROUP_CHARACTER;Открыто исповедует $RELIGION_GROUP|Y$[__];x #R_ISM
+HAVE_NOT_RELIGION_SECRET;Втайне НЕ исповедует $RELIGION|Y$§Y[__]§!;x #RR_ISM
+HAVE_RELIGION_SECRET;Втайне исповедует $RELIGION|Y$§Y[__]§!;x #R_ISM
+HAVE_NOT_RELIGION_TRUE;НЕ исповедует $RELIGION|Y$§Y[__]§! на самом деле;x #R_ISM
+HAVE_RELIGION_TRUE;На самом деле исповедует $RELIGION|Y$§Y[__]§!;x #R_ISM
+HAVE_NO_SECRET_RELIGION;НЕ исповедует втайне что-то;x
+HAVE_A_SECRET_RELIGION;Втайне исповедует что-то;x
+HAVE_NOT_RELIGION_CHARACTER;НЕ исповедует $RELIGION|Y$§Y[__]§! открыто;x #R_ISM
+HAVE_RELIGION_CHARACTER;Открыто исповедует $RELIGION|Y$§Y[__]§!;x #R_ISM
+RELIGION_CHANGE_SECRET;$WHERE|Y$ начнёт тайно исповедовать $NAME|Y$§Y[__]§!\n;x #R_ISM
+String_Fire_and_blood;Огонь и кровь;x
+String_Huitzilopochtlis_strength_to_you;Да укрепит тебя Уицилопочтли;x
+String_hummingbird_symbol;символ колибри;x
+String_Cathar;катар;x
+String_Fraticelli;фратичеллиан;x
+String_Waldesian;вальденсиан;x
+String_Lollard;лоллард;x
+String_Bogomilist;богомилист;x
+String_Monothelite;монофелит;x
+String_Iconoclast;иконоборче;x
+String_Paulician;павликиан;x
+String_Miaphysite;миафизит;x
+String_Monophysite;монофизит;x
+String_Nestorian;несториан;x
+String_Messalian;мессалиан;x
+String_Zikri;зикрий;x
+String_Yazidi;езид;x
+String_Druze;друз;x
+String_Hurufi;хуруфий;x
+String_Ibadi;ибадит;x
+String_Kharijite;хариджит;x
+String_Samaritan;самаритян;x
+String_Karaite;караит;x
+String_Mazdaki;маздакий;x
+String_Manichean;манихей;x
+String_Aztec;ацтек;x
+String_Asceticus;Аскетик;x
+String_Book_of_Illumination;Книга Джилве;x
+String_Epistles_of_Wisdom;Послания Мудрости;x
+String_Great_Secret;Великая тайна;x
+corrupting_magic_minor;Расплата за магию;x
+#corrupting_magic_minor_desc;Любая сила имеет свою цену. Использование тёмной магии повредило тело эт[GetOyOgo] [GetAgedPersonGEN], сделав его хрупким и уязвимым к болезням.;x
+corrupting_magic_major;Расплата за магию;x
+corrupting_magic_major_desc;Любая сила имеет свою цену. Использование тёмной магии повредило тело эт[GetOyOgo] [GetAgedPersonGEN], сделав его хрупким и уязвимым к болезням.;x
+EVTOPTA_MNM_7051;Я знал[Root.GetEndA], что сила имеет свою цену...;x
+EVTDESC_MNM_7051;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. И теперь [Root.GetDWDevil] отравляет мой разум и лишает сил. Тревожные мысли терзают меня и не дают заснуть.;x
+EVTDESC_MNM_7052;Оно внутри, я чувствую его! Чарующий голос, сладкое прикосновение тёмного спасителя! [Root.GetDWDevil] говорит со мной, дарует мне силу, она растекается по моим венам - захватывающее ощущение, теперь ничто в этом мире меня не остановит!;x
+EVTOPTA_MNM_7052;[Root.GetDWDevil]! Направь меня!;x
+EVTOPTA_MNM_7051_TT;Использование тёмных сил осквернило Вас.\n;x
+EVTDESC_MNM_7053;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. И теперь [Root.GetDWDevil] опутывает мою гортань и язык. Я пытаюсь говорить, но что-то сковывает меня, затрудняя общение с людьми и чтение заклинаний.;x
+EVTDESC_MNM_7054;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. Лёгкая хромота постепенно переросла в нечто отвратительное и уродливое. Когда я прикасаюсь к своим опухшим искривлённым лодыжкам, чувствую, как что-то тёмное пульсирует внутри...;x
+EVTDESC_MNM_7055;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. Мало по малу, мой позвоночник всё больше искривлялся, наклоняя мою голову, как будто тёмные силы исказили моё тело, отвратив его от небес.;x
+EVTDESC_MNM_7056;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. Поначалу мне казалось, что морщины, пятна и отёки на лице были следствием плохого самочувствия, вызванного нехваткой сна. Но теперь я с трудом узнаю себя в зеркале.;x
+EVTDESC_MNM_7057;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. И теперь [Root.GetDWDevil] отравляет моё тело и лишает сил, поражая разными недугами. Не могу припомнить последний день, когда бы у меня не было рвоты или кашля.;x
+EVTDESC_MNM_7058;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. И теперь [Root.GetDWDevil] отравляет моё тело и лишает сил, поражая разными недугами. Сколько бы я не спал[Root.GetEndA], никогда не чувствую себя отдохнувш[Root.GetEyIm].;x
+EVTDESC_MNM_7059;Скверна медленно разъедала меня изнутри, я не понимал[Root.GetEndA], что происходит, пока не стало слишком поздно. И теперь [Root.GetDWDevil] отравляет моё тело и лишает сил. Я постоянно чувствую голод, но изо всех сил стараюсь сдерживать себя...;x
+String_garden;сад;x
+String_Hibiscus;Гибискус;x
+String_Ginger_Root;Корень имбиря;x
+String_Mandrake;Корень мандрагоры;x
+String_Lemon_Grass;Лемонграсс;x
+String_Nettles;Листья крапивы;x
+String_Wormwood;Лист полыни;x
+String_Valerian;Лист валерьяны;x
+String_Violet;Цветок фиалки;x
+String_Yarrow;Тысячелистник;x
+String_Gall_Bladder;Желчный пузырь;x
+String_Kidney;Свиная почка;x
+String_Eyeballs;Глазные яблоки;x
+String_Cloven_hooves;Раздвоенные копыта;x
+String_Antlers;Оленьи рога;x
+String_Snout;Кабанье рыло;x
+String_Heart;Кроличье сердце;x
+String_Liver;Гусиная печень;x
+String_Intestines;Овечьи кишки;x
+String_Silver;Серебро;x
+String_Mercury;Ртуть;x
+String_Aqua_Regia;Aqua Regia;x
+String_Aqua_Fortis;Aqua Fortis;x
+String_Brimstone;Серный порошок;x
+String_Gold;Золото;x
+String_Copper;Медь;x
+String_Iron;Железо;x
+String_Tin;Олово;x
+String_crescent;полумесяц;x
+EVTOPTD_MNM_1200_herb;Немного [GetSelectedIngredient_1GEN] должно помочь.;x
+EVTOPTD_MNM_1200_animal_part;Добавлю [GetSelectedIngredient_1GEN]...;x
+EVTOPTD_MNM_1200_powder;Уверен[Root.GetEndA], щепотка [GetSelectedIngredient_1GEN] не помешает.;x
+EVTOPTD_MNM_1200_liquid;Пара капель [GetSelectedIngredient_1GEN] создадут нужный букет.;x
+EVTOPTD_MNM_1200_tt;Использование §Y[GetSelectedIngredient_1GEN]§! повысит Ваши шансы на хороший исход.\n;x
+destroy_selected_ingredient_1_tt;Ингредиент §Y[GetSelectedIngredient_1]§! будет удалён из §Yсокровищницы§!\n;x
+destroy_selected_ingredient_2_tt;Ингредиент §Y[GetSelectedIngredient_2]§! будет удалён из §Yсокровищницы§!\n;x
+destroy_selected_ingredient_1_and_2_tt;§Y[GetSelectedIngredient_1]§! и §Y[GetSelectedIngredient_2]§! будут удалены из §Yсокровищницы§!\n;x
+destroy_selected_ingredient_1_plus_random_other_ingredient_tt;§Y[GetSelectedIngredient_1]§!, а также один из произвольных ингредиентов будут удалены из §Yсокровищницы§!\n;x
+ingredient_option_available_tt;Этот вариант доступен Вам, поскольку Вы имеете нужный §Yингредиент§! в своей §Yсокровищнице§!\n \n;x
+multiple_ingredient_option_available_tt;Этот вариант доступен Вам, поскольку Вы имеете несколько §Yингредиентов§! в Вашей §Yсокровищнице§!\n \n;x
+EVTDESC_MNM_1200_B;Поставив миску перед собой, я дожда[Root.GetLasLsya], пока содержащаяся в ней вода полностью успокоится. Созерцание водной глади позволит мне направить стремления на поиск ответов, но алхимические ингредиенты могут помочь мне создать нечто новое. Глубоко вздохнув, я уже принял[Root.GetEndA] решение...;x
+EVTDESC_MNM_5208; "[fellow_member_target.GetTitledFirstName]... [fellow_member_target.GetHersHisCap] речь так напыщенна, аж противно, и с каких пор [fellow_member_target.GetSheHe] стал[fellow_member_target.GetEndA] экспертом [Root.GetHermeticDebateSubjectPREPV]?" — вздохнув подумал[Root.GetEndA] я, нащупывая флакон в кармане.;x
+EVTOPTC_MNM_5211;Хорошее снадобье поможет мне сконцентрироваться.;x
+EVTOPTA_MNM_1622_use_ingredients;В моих склянках есть то, что нам поможет!;x
+EVTOPTC_MNM_1842_herb;Не волнуйся, я сварю кое-что из [GetSelectedIngredient_1GEN].;x
+EVTOPTC_MNM_1842_animal_part;Отвар из [GetSelectedIngredient_1GEN] поможет.;x
+EVTOPTC_MNM_1842_powder;Зелье с щепоткой [GetSelectedIngredient_1GEN] решит проблему.;x
+EVTOPTC_MNM_1842_liquid;Эликсир с каплей [GetSelectedIngredient_1GEN] придётся кстати.;x
+EVTOPTC_MNM_1844_herb;Давай поговорим об этом, а я приготовлю кое-что.;x
+EVTOPTC_MNM_1844_animal_part;Давай выпьем этот отвар из [GetSelectedIngredient_1GEN].;x
+EVTOPTC_MNM_1844_powder;Тебе поможет эликсир с добавлением [GetSelectedIngredient_1GEN].;x
+EVTOPTC_MNM_1844_liquid;Ну... Ты можешь опробовать эликсир из [GetSelectedIngredient_1GEN].;x
+nauseous_from_potion;Тошнота;x
+nauseous_from_potion_desc;Эт[GetEtaEtot] [GetAgedPerson] чувствует себя нехорошо.;x
+opinion_apologized;Извинения;x
+opinion_cheered_up;Воодушевление;x
+opinion_calmed;Успокоение;x
+EVTDESC_MNM_1855;Всё больше погружаясь в свои изыскания, я понял[Root.GetEndA], что некоторые вещи, которыми я обладаю, могут приблизить меня к ответу.;x
+EVTOPTA_MNM_1855;Сожгу [GetSelectedIngredient_1] и вдохну его аромат.;x
+EVTOPTB_MNM_1855;Приготовлю отвар из [GetSelectedIngredient_2GEN].;x
+EVTOPTC_MNM_1855;Буду спать с куском [GetSelectedIngredient_2GEN] под подушкой.;x
+EVTOPTD_MNM_1855;Попробую нечто новое!;x
+EVTOPTE_MNM_1855;Но лучше не прибегать к этим методам.;x
+destroy_all_ingredients_tt;Все §Yингредиенты§! будут уничтожены и удалены из §Yсокровищницы§!\n;x
+random_ingredients_are_destroyed_tt;Некоторые §Yингредиенты§! будут уничтожены и удалены из §Yсокровищницы§!\n;x
+ingredients_are_sent_tt;Некоторые §Yингредиенты§! будут удалены из §Yсокровищницы§! - их получит §Y[From.GetTitledFirstName]§! для приготовлений к ритуалу.\nЕсть шансы на повышение Вашего опыта.\n;x
+EVTOPTB_MNM_1435_single_ingredient;Я использую простое зелье.;x
+EVTDESC_MNM_5109_hermetic;Недавно мне посчастливилось стать обладател[Root.GetSoftNitseyEm] алхимических ингредиентов. Полагаю, раз уж я состою в герметическом ордене, мне следует изучить их... Вот, например, [GetSelectedIngredient_1][GetSelectedIngredient_1_property].;x
+EVTDESC_MNM_5109_other_society;Недавно в моём распоряжении оказались кое-какие "алхимические" ингредиенты. Понятия не имею, для чего они. Вот, например, [GetSelectedIngredient_1][GetSelectedIngredient_1_property].;x
+EVTDESC_MNM_5109_no_society;Недавно в моём распоряжении оказались некие алхимические ингредиенты. Я уже заинтригован[Root.GetEndA]. Вот, к примеру [GetSelectedIngredient_1][GetSelectedIngredient_1_property].;x
+EVTDESC_MNM_5109_child;Мне сказали, что какие-то "алхимические ингредиенты" теперь по праву мои. Не знаю, для чего нужны все эти интересные штуки, но [GetSelectedIngredient_1][GetSelectedIngredient_1_property].;x
+EVTOPTA_MNM_5109;[GetSelectedIngredient_1] и [GetSelectedIngredient_2] мне точно не нужны.;x
+EVTOPTB_MNM_5109;Это всё граничит с ересью!;x
+EVTOPTC_MNM_5109;Не имею ничего против того, чтобы держать их при себе.;x
+String_is_surprisingly_fragrant; удивительно ароматен;x
+String_are_surprisingly_fragrant; удивительно ароматны;x
+String_is_faintly_fragrant; источает слабый запах;x
+String_are_faintly_fragrant; источают слабый запах;x
+String_has_turned_to_dust; почти превратился в пыль;x
+String_have_turned_to_dust; почти превратились в пыль;x
+String_reminds_me_of_them; выглядит забавно;x
+String_remind_me_of_them; выглядят забавно;x
+String_carries_an_unpleasant_smell; источает неприятный запах;x
+String_carry_an_unpleasant_smell; источают неприятный запах;x
+String_is_fantastically_shiny; обладает невероятным блеском;x
+String_are_fantastically_shiny; обладают невероятным блеском;x
+String_should_not_be_touched;... лучше не прикасаться к этой... субстанции;x
+String_should_definitely_not_be_touched;... ТАКОЕ определённо нельзя трогать;x
+String_would_make_most_people_uncomfortable;... большинство испытало бы дискомфорт, увидев такое;x
+String_is_glass_jar; с трудом удерживается даже внутри стеклянной ёмкости;x
+String_are_in_glass_jar; с трудом удерживаются даже в стеклянной ёмкости;x
+String_has_an_eerie_color;... цвет какой-то жуткий;x
+String_have_an_eerie_color;... цвет какой-то жуткий;x
+String_is_disgusting; выглядит отвратительно;x
+String_are_disgusting; выглядят отвратительно;x
+String_might_take_up_too_much_space; может занять слишком много места в моей лаборатории;x
+String_does_not_send_desired_message; не обещает ожидаемого результата;x
+String_do_not_send_desired_message; не обещают ожидаемого результата;x
+String_does_not_contribute_to_the_decor; явно не соответствует стилю моего [Root.GetCapitalBuildingGEN];x
+String_do_not_contribute_to_the_decor; явно не соответствуют стилю моего [Root.GetCapitalBuildingGEN];x
+String_is_somewhat_pretty; выглядит просто изумительно;x
+String_are_somewhat_pretty; выглядят просто изумительно;x
+String_makes_me_shiver; вызывает у меня мурашки;x
+String_make_me_shiver; вызывают у меня мурашки;x
+String_might_possess_hidden_uses;... возможно, эта субстанция обладает скрытыми свойствами;x
+String_reeks; жутко воняет;x
+String_reek; жутко воняют;x
+String_glitters; слегка поблёскивает на свету;x
+String_glitter; слегка поблёскивают на свету;x
+EVTDESC_MNM_5110;Мои соратники по ордену иногда обсуждают сложные заклятья и особые рецепты, чтобы отвратить зло, и, возможно, мне тоже следует принять меры предосторожности. Сверившись со звёздами, я направи[Root.GetLasLsya] к своим полкам – [GetSelectedIngredient_1][GetSelectedIngredient_1_property].;x
+EVTOPTA_MNM_5110;Этого ингредиента будет вполне достаточно.;x
+EVTOPTB_MNM_5110;Нужна комбинация элементов.;x
+EVTOPTC_MNM_5110;Лучше распишу стены священными символами!;x
+EVTOPTD_MNM_5110;Должно быть, у меня паранойя.;x
+must_have_ingredients_tt;Есть хотя бы два §Yингредиента§!;x
+EVTDESC_MNM_5115_self;В таком состоянии меня почти не заботит качество моего зелья. Тем не менее, осматривая свои полки, я никак не могу решить, какой из ингредиентов лучше использовать... [GetSelectedIngredient_1][GetSelectedIngredient_1_property].;x
+EVTDESC_MNM_5115_other;[potion_target.GetTitledFirstName] скорее всего примет моё зелье, независимо от его качества. Однако, копаясь в своих рецептах, я никак не могу определиться с ингредиентами... [GetSelectedIngredient_1][GetSelectedIngredient_1_property]. Даже не знаю, как м[potion_target.GetOyaOy] [potion_target.GetRootRelation] это воспримет.;x
+EVTOPTA_MNM_5115_herb;Хорошо, добавлю [GetSelectedIngredient_1].;x
+EVTOPTA_MNM_5115_animal_part;[GetSelectedIngredient_1]... А почему бы и нет?;x
+EVTOPTA_MNM_5115_powder;Пара щепоток [GetSelectedIngredient_1GEN], да, то, что нужно.;x
+EVTOPTA_MNM_5115_liquid;Капля [GetSelectedIngredient_1GEN] даст нужный эффект.;x
+EVTOPTB_MNM_5115_herb;Немного [GetSelectedIngredient_2GEN] - вот, что нужно.;x
+EVTOPTB_MNM_5115_animal_part;Нет, лучше [GetSelectedIngredient_2].;x
+EVTOPTB_MNM_5115_powder;Лучше... [GetSelectedIngredient_2]!;x
+EVTOPTB_MNM_5115_liquid;Здесь нужно нечто иное - [GetSelectedIngredient_2].;x
+EVTOPTC_MNM_5115_herb;Одной дозы [GetSelectedIngredient_2GEN] будет достаточно.;x
+EVTOPTC_MNM_5115_animal_part;Нет, лучше [GetSelectedIngredient_2].;x
+EVTOPTC_MNM_5115_powder;Лучше... [GetSelectedIngredient_2]!;x
+EVTOPTC_MNM_5115_liquid;Здесь нужно нечто иное - [GetSelectedIngredient_2].;x
+EVTOPTD_MNM_5115;Надо совместить два ингредиента!;x
+EVTOPTD_MNM_5115_duplicate;Хмм... двойная доза... может сработать!;x
+EVTOPTE_MNM_5115;А пошло оно! Пора выкинуть эти склянки на помойку!;x
+EVTOPTE_MNM_5115_tt;Отчаянные времена требуют отчаянных мер.\n;x
+must_not_already_be_preparing_potion_tt;Убедитесь, что приготовление зелья НЕ начато.;x
+EVTDESC_MNM_4950;[From.GetTitledFirstName] и я пообщались некоторое время, и похоже, мне удалось своими духовными наставлениями увести [From.GetHersHis] с порочного пути.;x
+EVTDESC_MNM_4951;[FromFrom.GetTitledFirstName] и я пообщались некоторое время, и стало ясно, сколь ошибочными были мои поступки и стремления.;x
+EVTDESC_MNM_4960;[From.GetTitledFirstName] внимательно меня выслушал[From.GetEndA]. Я объяснил[Root.GetEndA] [From.GetHerHim], что значит быть добродетельным, и, судя по всему, наша беседа сделала [From.GetHersHis] лучше.;x
+EVTDESC_MNM_4961;[FromFrom.GetTitledFirstName] ясно дал[FromFrom.GetEndA] мне понять, как [FromFrom.GetSheHe] справляется с тяжёлыми жизненными ситуациям посредством добродетели. Выслушав [FromFrom.GetHersHis] внимательно, я понял[Root.GetEndA], как быть в согласии с собой.;x
+monastic_orders_spiritual_guidance;Духовные наставления;x
+monastic_orders_spiritual_guidance_desc;Вы знаете, что [Root.GetTitledFirstName] греш[Root.GetNaEn], но в Ваших же силах направить [Root.GetHersHis] на путь истинный, избавив от одного из пороков.;x
+monastic_orders_spiritual_guidance_power_desc;Позволяет Вам кликнув §Gправым кнопкой мыши§! по любому персонажу с титулом в пределах Вашей страны, родственнику или товарищу по обществу, избавить его от одного из пороков. Это работает только с теми пороками, которыми Вы не обладаете.;x
+opinion_spiritual_guidance;Дал[___] духовное наставление;x #[From.GetEndA]`
+spiritual_guidance_tooltip;Долж[Root.GetNaEn] обладать пороком, которым §Y[From.GetTitledFirstName]§! НЕ обладает;x
+monastic_orders_teach_virtue;Научить добродетели;x
+monastic_orders_teach_virtue_desc;Вы заметили, как [Root.GetTitledFirstName] иногда колеблется в своих стремлениях совершить правильный поступок. Вы можете подтолкнуть [Root.GetHersHis] в верном направлении, обучив одной из своих добродетелей.;x
+monastic_orders_teach_virtue_power_desc;Позволяет Вам кликнув §Gправым кнопкой мыши§! по любому персонажу с титулом в пределах Вашей страны, родственнику или товарищу по обществу, обучить его одной из добродетелей. Это работает только с теми добродетелями, которыми Вы сами обладаете.;x
+opinion_teach_virtue;Обучение добродетелям;x
+teach_virtue_tooltip;Убедитесь, что у н[Root.GetHersHis] НЕТ всех тех же добродетелей, которыми обладает §Y[From.GetTitledFirstName]§!;x
+EVTDESC20271;Уважаем[Root.GetAyaYy] [Root.GetTitledFirstName],\nВаши изыскания показались мне весьма убедительными, я последую Вашему совету и приму [Root.GetReligionFullName]. Тем не менее, куда разумнее, скрыть этот факт от посторонних глаз. Вам советую поступить также.\nВаш сюзерен,\n [From.GetTitledFirstName];x
+EVTOPTA20271;Мудрое решение.;x
+EVTOPTB20271;Скрывать свои взгляды? Ни за что!;x
+secretly_convert_to_province_religion;Тайно принять [Root.Location.GetReligionFullName];x
+secretly_convert_to_province_religion_desc;§Y[Root.Location.County.GetAdjective]ские§! жители, исповедующие §Y[Root.Location.GetReligionFullName]§!, впечатляют меня глубиной и страстью своей веры. Чувствую, как §Y[Root.Location.Religion.GetRandomGodName]§! зовёт меня... Но лучше держать это в тайне.;x
+secretly_convert_to_close_relations_religion;Тайно принять [Root.GetReligionFullName];x
+secretly_convert_to_close_relations_religion_desc;То, как §Y[Root.GetFirstName]§! воспринимает §Y[Root.GetReligionFullName]§!, [Root.GetHersHis] искренняя вера в него, так интригует и завораживает меня. Конечно, я не могу открыто исповедовать его, но тайно...;x
+religion_openly_norse_or_reformed_tooltip;Открыто исповедует §Y[германскоеязычество]§!;x
+religion_openly_baltic_or_reformed_tooltip;Открыто исповедует §Y[балтийскоеязычество]§!;x
+religion_openly_finnish_or_reformed_tooltip;Открыто исповедует §Y[финскоеязычество]§!;x
+religion_openly_slavic_or_reformed_tooltip;Открыто исповедует §Y[славянскоеязычество]§!;x
+religion_openly_tengri_or_reformed_tooltip;Открыто исповедует §Y[тенгрианскоеязычество]§!;x
+religion_openly_west_african_or_reformed_tooltip;Открыто исповедует §Y[сахелианскоеязычество]§!;x
+religion_openly_zun_or_reformed_tooltip;Открыто исповедует §Y[зунскоеязычество]§!;x
+religion_openly_aztec_or_reformed_tooltip;Открыто исповедует §Y[ацтекскоеязычество]§!;x
+FOLLOWS_SECRET_RELIGION_TOOLTIP;Этот человек тайно исповедует $RELIGION|Y$§Y[__]§!;x #R_ISM
+CAN_SEE_SECRET_RELIGION;Знает, что $WHO|Y$ тайно исповедует другую веру;x
+CANNOT_SEE_SECRET_RELIGION;НЕ знает, что $WHO|Y$ тайно исповедует другую веру;x
+FILTER_HAS_SECRET_RELIGION;Тайное вероисповедание;x
+alert_society_rank_up_possible_instant;§YМожно поднять ранг в обществе§!;x
+alert_society_rank_up_possible_delayed;Вы обрели достаточно влияния в своём обществе, чтобы потребовать продвижения по рангу.;x
+ALLY_ORDER_BUSY_OTHER_CAMPAIGN;Этот человек не может помочь Вам, будучи занятым в войне: $WAR|Y$;x
+opinion_abducted;Похищение;x
+known_satanist;Известный демонопоклонник;x
+known_satanist_desc;Эт[GetUOgo] [GetAgedPersonACC] разоблачили в поклонении демонам.;x
+EVTTITLE_MNM_7855;[GetDemonHuntersEventTitle];x
+EVTTITLE_MNM_7855_A;Губительница демонов;x
+EVTTITLE_MNM_7855_A_again;Bозвращение губительницы;x
+EVTDESC_MNM_7855_A;Уже наступила ночь, а я всё ещё размышлял[Root.GetEndA] над своим последним ритуалом: "Должны же быть какие-то более эффективные способы смывать кровь с одежды...?"\n"Ты - [Root.GetDWDemon]!", — молвил голос позади меня. Я оберну[Root.GetLasLsya] и увидел[Root.GetEndA] зловещую фигуру молодой женщины. Небрежно направив на Вас деревянный кол, она продолжила: "Я не могу позволить такому злу, как ты безнаказанно действовать в этом мире".;x
+EVTDESC_MNM_7855_A_again;Возвращаясь в св[Root.GetMyChamberACC] ночью, я заметил[Root.GetEndA] какую-то тень, промелькнувшую мимо меня. "Давно это было", — прозвучал знакомый женский голос. "Как тебе удалось проникнуть в мой [Root.GetCapitalBuilding]?", — спросил[Root.GetEndA] я, пытаясь скрыть свою тревожность, и услышал[Root.GetEndA] лишь: "Cтража спит, [Root.PrimaryTitle.GetFOA]... Закончим начатое".;x
+EVTTITLE_MNM_7855_B;Pазъярённые селяне;x
+EVTTITLE_MNM_7855_B_again;И снова разъярённые селяне;x
+EVTDESC_MNM_7855_B;Возвращаясь после вечерней прогулки со своим фамильяром, я направи[Root.GetLasLsya] прямиком через главные ворота. Внезапно множество теней замелькало передо мной, и я оказа[Root.GetLasLsya] окруженн[Root.GetOyYm] толпой, оттеснившей меня к стене. По выражению их лиц в свете факелов было видно, что они весьма недовольны. Вдруг кто-то заорал: "Сжечь [Root.GetHersHis]!".;x
+EVTDESC_MNM_7855_B_again;Ночью я возвраща[Root.GetLasLsya] в [Root.GetCapitalHolding] через главные ворота, будучи уверенн[Root.GetOyYm] в эффективности своей маскировки. Некоторые ритуалы требуют умения смешаться с толпой, скрываясь среди простолюдинов. Это стало для меня таким естественным, что, полагаю, пора продавать [GetDWPartyClothes]!\n"Это [Root.GetSheHe]! — вдруг закричал кто-то - СЖЕЧЬ [Root.GetHersHis]!";x
+EVTTITLE_MNM_7855_C;Oхотники на демонов;x
+EVTTITLE_MNM_7855_C_again;Bозвращение охотников;x
+EVTDESC_MNM_7855_C;Сегодня полнолуние, поэтому я верну[Root.GetLasLsya] в св[Root.GetMyChamberACC] уже глубокой ночью, исполнив ритуал. Смывая кровь с рук, я заметил[Root.GetEndA], как позади меня кто-то пробормотал: "Не так быстро, [Root.GetDWDemon]". Его коснулся моей спины, и тут я услышал[Root.GetEndA] другой голос: "Убей [Root.GetHersHis], брат, просто убей".;x
+EVTDESC_MNM_7855_C_again;Закончив расписывать кровью стену в честь [GetDWRandomDemonGEN], я наслажда[Root.GetLasLsya] результатами своих трудов, мерцающее пламя свечей придавало узору особый вид. Вдруг две огромные тени выросли прямо передо мной, закрыв обзор. Высокий заявил: "Я говорил тебе, брат, нам представится ещё один шанс".;x
+EVTTITLE_MNM_7855_D;Oхотник на демонов;x
+EVTTITLE_MNM_7855_D_again;Bозвращение охотника;x
+EVTDESC_MNM_7855_D;Во время очередного кровавого ритуала, мой соратник охнул от удивления: "Ты приглашал[Root.GetEndA] кого-то ещё?". Прежде чем я успел[Root.GetEndA] ему ответить, кто-то бросил факел, искры обожгли мою кожу. "Мы - безумцы в глазах [Root.GetReligionHighGodGEN], все мы, — пафосно заявила тёмная фигура. — Умри, демон!".;x
+EVTDESC_MNM_7855_D_again;Мне до сих пор снятся кошмары о таинственном охотнике на демонов, которого мне довелось однажды встретить. В последнее время я плохо скрывал[Root.GetEndA] последствия своих тёмных деяний, и теперь меня легко выследить... Взглянув на потолок, я заметил[Root.GetEndA], как исчез лунный свет - надо мной нависла грозная мужская фигура: "Вот мы и встретились снова".;x
+EVTTITLE_MNM_7855_E;Bерные [Root.GetReligionHighGodDAT];x
+EVTTITLE_MNM_7855_E_again;Bсё ещё верные [Root.Religion.GetHighGodName];x
+EVTDESC_MNM_7855_E;И о чем только думал мой управляющий, когда решил впустить "святых рыцарей" в наш [Root.GetCapitalHolding]. Они знают, все знают, что я такое и что могу сделать! Конечно, с наступлением ночи, я нисколечки не был[Root.GetEndA] удивлен[Root.GetEndA], когда эти клоуны окружили меня в тёмном переулке. "Все [GetDWDemons] должны быть истреблены!", — прокричали они хором.;x
+EVTDESC_MNM_7855_E_again;Проводя осмотр своих земель в скромном окружении слуг, я заметил[Root.GetEndA] облако пыли, поднимающееся на горизонте вдоль дороги. Прошло немного времени, прежде чем оттуда появился отряд рыцарей – их флаг точно такой же, как у тех охотников на демонов, от которых мне едва удалось сбежать в прошлый раз.;x
+EVTOPTA_MNM_7855;Что это значит? Я не сдамся без боя!;x
+EVTOPTA_MNM_7855_again;Невероятное упрямство! Ну что ж, сразимся!;x
+EVTOPTB_MNM_7855;Со мной лучше не связываться!;x
+EVTOPTB_MNM_7855_TT;Достать заколдованный кинжал и вонзить его в тайный символ, выгравированный на Вашей ноге.\n;x
+EVTOPTB_MNM_7855_TT_singular;Противник будет отброшен и оглушен.\n;x
+EVTOPTB_MNM_7855_TT_plural;Ваши противники будут отброшены и оглушены.\n;x
+EVTOPTC_MNM_7855_A;Но мы ведь можем договориться?;x
+EVTOPTC_MNM_7855_B;Зачем так спешить? Договоримся? У меня есть золото!;x
+EVTOPTC_MNM_7855_C;Ну-ну, мы же не дикари, давайте решим вопрос мирно.;x
+EVTOPTC_MNM_7855_D;Не думаю, что ты откажешься уйти отсюда богатым.;x
+EVTOPTC_MNM_7855_E;Даже богатые [Root.GetDWDemons]? Может договоримся?;x
+EVTOPTC_MNM_7855_A_again;Нет, погоди, давай обсудим! Есть золото.;x
+EVTOPTC_MNM_7855_B_again;Ой, да ладно... Опять? Что ж давайте обсудим!;x
+EVTOPTC_MNM_7855_C_again;Снова Вы?! У меня есть деньги, много денег...;x
+EVTOPTC_MNM_7855_D_again;Я дам тебе больше золота, чем ты сможешь унести.;x
+EVTOPTC_MNM_7855_E_again;Я всё ещё богат[Root.GetEndA]! Обсудим это?;x
+EVTOPTD_MNM_7855;Я всё скажу! [other_member_to_blame.GetSocietyRank] [other_member_to_blame.GetFirstName]!;x
+EVTOPTA_MNM_7855_TT;[GetDWDevil] поддержит Вас, укрепив боевые навыки.\n;x
+EVTOPTD_MNM_7855_TT;В минуту отчаяния Вы предадите своих соратников.\n§Y[other_member_to_blame.GetTitledFirstName]§! попадет под подозрения.\n;x
+EVTOPTC_MNM_7855_TT;Вы тянетесь за кошельком, в надежде купить своё спасение.\n;x
+you_are_seriously_injured_TT;Вы будете серьезно ранены\n;x
+you_are_killed_in_personal_combat_TT;Вас убьют в поединке\n;x
+they_impale_you;женщина закатывает глаза, прежде чем убить Вас\n;x
+they_drag_you_off_to_burn;они смеются над Вашим предложением, прежде чем сжечь на костре\n;x
+they_saw_you_in_half;охотник на демонов игнорирует Ваше предложение, а затем медленно убивает Вас\n;x
+they_escape_TT;будучи побеждёнными, они оставили Вас в покое\n;x
+they_accept_your_offer_TT;они приняли Ваше предложение, оставив Вас в покое\n;x
+EVTDESC_MNM_1225_A;Один из охотничьих отрядов поймал сегодня великого белого вепря. Должно быть сам[Root.GetHGodEndA] [Root.Religion.GetHighGodName] послал[Root.GetHGodEndA] это существо, потребовалось десять человек, чтобы завалить этого зверя. Это событие безусловно вдохновило солдат и стало тем благом, которого я ждал[Root.GetEndA]. "Барды уже слагают об этом песни, [Root.PrimaryTitle.GetFOA]", — сказал мне капитан.;x
+EVTDESC_MNM_1225_B;Один из охотничьих отрядов поймал сегодня великого белого вепря. Говорят потребовалось десять человек, чтобы завалить этого зверя, а слухи об эффекте, который это произвело на моих солдат, активно рапространяются среди придворных. "Барды уже слагают об этом песни, [Root.PrimaryTitle.GetFOA]", — сказал мне капитан. Это определённо идёт вразрез с моими ожиданиями.;x
+EVTDESC_MNM_1225_D;Не знаю почему, но теперь меня интересует [envisioned_friend.GetEducationSubject]. Это всё [envisioned_friend.GetTitledFirstName]. Может быть, дело в [envisioned_friend.GetHersHis] [envisioned_friend.GetFriendEnjoyableQuirk], но мы очень сблизились с н[envisioned_friend.GetEyIm], всё больше времени проводим вместе. Думаю, [envisioned_friend.GetSheHe] делает меня лучше.;x
+EVTDESC_MNM_1225_F;Недавно мне сказали, что под кровлей наших казарм поселилась сова. Один из моих советников предлагает приручить её. Но разве я не долж[Root.GetNaEn] был[Root.GetEndA] получить какой-то знак того, что это существо предназначено для меня? "Не зацикливайтесь на этом, [Root.GetLordLady]", — сказал мне управляющий, протягивая клетку с пойманной птицей.;x
+EVTOPTB_MNM_1225_power;Как же я не предвидел[Root.GetEndA] такое событие?;x
+proud_hunters_spirit;Гордые охотники;x
+proud_hunters_spirit_desc;Охотники этих земель и их успехи вдохновляют, как знать, так и простолюдинов.;x
+String_way_with_words;манере говорить;x #Предл. падеж
+String_love_of_poetry;любви к поэзии;x  #Предл. падеж
+String_fascination_with_plants;увлечении растениями;x
+String_morbid_sense_of_humor;извращенном чувстве юмора;x
+String_gentle_spirit;доброй душе;x
+String_what_makes_a_good_person;способе показать, что значит быть достойным человеком;x
+String_mischieveous_sense_of_humor;утончённом чувстве юмора;x
+String_challenging_me;стремлении вывести меня за рамки обыденного;x
+String_infectious_smile;заразительной улыбке;x
+String_taste_in_music;музыкальных вкусах;x
+String_appreciation_for_small_things;трепетном отношении к маленьким радостям;x
+String_optimistic_outlook_on_life;оптимистичных взглядах на жизнь;x
+String_innocence;невинности;x
+String_jaded_view_of_romance;извращённом взгляде на романтику;x
+String_cracking_knuckles;похрустывании суставами;x
+String_fighting_spirit;несгибаемой воле;x
+String_sharp_wit;необычайном уме и проницательности;x
+EVTOPTA_MNM_1842;Не мешай мне. Я занят[Root.GetEndA]!;x
+EVTTITLE_MNM_4217;Oчищение огнём;x
+EVTDESC_MNM_4217;Беседуя со своими соратниками, я упомянул[Root.GetEndA] старые книги, которые храню в [Root.Capital.County.GetAdjective]ской библиотеке. "Большая часть текстов - какая-то тарабарщина!", — с насмешкой отметил[Root.GetEndA] я. Но в ответ услышал[Root.GetEndA]: "Мы - [This.GetSocietyName] и не можем столь легкомысленно относится к подобным книгам, [Root.Religion.GetRandomEvilGodName] может запутать нас!".;x
+EVTOPTA_MNM_4217;Хмм... Ладно, я уничтожу самую опасную.;x
+EVTOPTA_MNM_4217_zealous;Вы не поняли! Я избавлюсь от книги сегодня же.;x
+EVTOPTB_MNM_4217;Я уже приготови[Root.GetLasLsya] сжечь некоторые из них.;x
+EVTOPTB_MNM_4217_zealous;Я очищу мой [Root.GetCapitalHolding] от этой нечисти.;x
+EVTOPTC_MNM_4217;Звучит немного чересчур, не находите?;x
+EVTOPTC_MNM_4217_scholar;Любое знание представляет ценность.;x
+EVTTITLE_MNM_4218;Cтарая пыльная книга;x
+EVTDESC_MNM_4218;Отправляясь спать, я бросил[Root.GetEndA] взгляд на прикроватную тумбочку и с удивлением обнаружил[Root.GetEndA] на ней толстую книгу в кожаном переплёте. Что это значит?;x
+EVTOPTA_MNM_4218_TT;Выбросить книгу, чтобы позже сжечь.\n;x
+EVTOPTA_MNM_4218;Я был[Root.GetEndA] уверен[Root.GetEndA], что уже избави[Root.GetLasLsya] от неё...;x
+EVTOPTB_MNM_4218;Интересно, и давно она тут лежит?;x
+EVTOPTB_MNM_4218_TT;Вы чешете затылок.\n;x
+secretly_convert_to_catholic_holy_site;Тайно принять католичество;x
+secretly_convert_to_catholic_holy_site_desc;§YКатолики§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_orthodox_holy_site;Тайно принять православие;x
+secretly_convert_to_orthodox_holy_site_desc;§YПравославные§! христиане прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_miaphysite_holy_site;Тайно принять миафизитство;x
+secretly_convert_to_miaphysite_holy_site_desc;§YМиафизиты§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_nestorian_holy_site;Тайно принять несторианство;x
+secretly_convert_to_nestorian_holy_site_desc;§YНесториане§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_sunni_holy_site;Тайно принять суннизм;x
+secretly_convert_to_sunni_holy_site_desc;§YСунниты§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_shiite_holy_site;Тайно принять шиизм;x
+secretly_convert_to_shiite_holy_site_desc;§YШииты§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_ibadi_holy_site;Тайно принять ибадизм;x
+secretly_convert_to_ibadi_holy_site_desc;§YИбадиты§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_jewish_holy_site;Тайно принять иудаизм;x
+secretly_convert_to_jewish_holy_site_desc;§YИудеи§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_zoroastrian_holy_site;Тайно принять зороастризм;x
+secretly_convert_to_zoroastrian_holy_site_desc;§YЗороастрийцы§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_hindu_holy_site;Тайно принять индуизм;x
+secretly_convert_to_hindu_holy_site_desc;§YИндуисты§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_buddhist_holy_site;Тайно принять буддизм;x
+secretly_convert_to_buddhist_holy_site_desc;§YБуддисты§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_jain_holy_site;Тайно принять джайнизм;x
+secretly_convert_to_jain_holy_site_desc;§YДжайны§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_norse_pagan_holy_site;Тайно принять германское язычество;x
+secretly_convert_to_norse_pagan_holy_site_desc;Последователи §Yгерманской§! веры прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_norse_pagan_reformed_holy_site;Тайно принять германское язычество;x
+secretly_convert_to_norse_pagan_reformed_holy_site_desc;Последователи §Yгерманской§! веры прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_slavic_pagan_holy_site;Тайно принять славянское язычество;x
+secretly_convert_to_slavic_pagan_holy_site_desc;§YСлавянские§! родоверы прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_slavic_pagan_reformed_holy_site;Тайно принять славянское язычество;x
+secretly_convert_to_slavic_pagan_reformed_holy_site_desc;§YСлавянские§! родоверы прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_tengri_pagan_holy_site;Тайно принять тенгрианство;x
+secretly_convert_to_tengri_pagan_holy_site_desc;§YТенгриане§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_tengri_pagan_reformed_holy_site;Тайно принять тенгрианство;x
+secretly_convert_to_tengri_pagan_reformed_holy_site_desc;§YТенгриане§! прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_baltic_pagan_holy_site;Тайно принять балтийское язычество;x
+secretly_convert_to_baltic_pagan_holy_site_desc;Последователи §Yбалтийской§! веры прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_baltic_pagan_reformed_holy_site;Тайно принять балтийское язычество;x
+secretly_convert_to_baltic_pagan_reformed_holy_site_desc;Последователи §Yбалтийской§! веры прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_finnish_pagan_holy_site;Тайно принять финское язычество;x
+secretly_convert_to_finnish_pagan_holy_site_desc;Последователи §Yфинской§! веры прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_finnish_pagan_reformed_holy_site;Тайно принять финское язычество;x
+secretly_convert_to_finnish_pagan_reformed_holy_site_desc;Последователи §Yфинской§! веры прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_west_african_pagan_holy_site;Тайно принять западноафриканское язычество;x
+secretly_convert_to_west_african_pagan_holy_site_desc;Последователи §Yзападноафриканских§! культов прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_west_african_pagan_reformed_holy_site;Тайно принять западноафриканское язычество;x
+secretly_convert_to_west_african_pagan_reformed_holy_site_desc;Последователи §Yзападноафриканских§! культов прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_aztec_holy_site;Тайно принять ацтекское язычество;x
+secretly_convert_to_aztec_holy_site_desc;Последователи §Yацтекских§! культов прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_aztec_reformed_holy_site;Тайно принять ацтекское язычество;x
+secretly_convert_to_aztec_reformed_holy_site_desc;Последователи §Yацтекских§! культов прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_zun_pagan_holy_site;Тайно принять зунское язычество;x
+secretly_convert_to_zun_pagan_holy_site_desc;Солнцепоклонники, также известные как §Yзунисты§!, прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+secretly_convert_to_zun_pagan_reformed_holy_site;Тайно принять зунское язычество;x
+secretly_convert_to_zun_pagan_reformed_holy_site_desc;Солнцепоклонники, также известные как §Yзунисты§!, прибывают в наши земли, чтобы совершить паломничество к §Y[Root.Location.County.GetAdjective]ской§! святыне. То, с какой глубиной и страстью они следуют своей вере, весьма впечатляет меня. Возможно, мне следует присоединиться к ним, но лучше держать это в тайне.;x
+RULE_SECRET_CULTS;Тайные культы;x
+RULE_SECRET_CULTS_DEFAULT_DESC;В игре присутствуют тайные религиозные культы.;x
+RULE_SECRET_CULTS_NONE_DESC;Тайных религиозных культов в игре нет.;x
+EVTOPTC20270;Я НИКОГДА не приму эту ересь... публично.;x
+EVTOPTD_SOA_4000;Интересно... Надо поговорить с местными.;x
+DECLARE_WAR_INTERACTION_SHORT_DESC;Объявить войну правителю по имени §Y[Recipient.GetBestName]§!;x
+ASK_TO_DECLARE_WAR_INTERACTION_SHORT_DESC;Объявить войну правителю по имени §Y[Recipient.GetBestName]§!;x
+ASK_REALM_PEACE_INTERACTION_SHORT_DESC;Попросить о §Yмире внутри страны§!;x
+REVOKE_TITLE_INTERACTION_SHORT_DESC;Отозвать титул §Y[ThirdPartyTitle.GetFullName]§! у человека по имени §Y[Recipient.GetTitledFirstName]§!;x
+GRANT_VICE_ROYALTY_INTERACTION_SHORT_DESC;Даровать наместничество §Y[ThirdPartyTitle.GetFullName]§! человеку по имени §Y[Recipient.GetTitledFirstName]§!;x
