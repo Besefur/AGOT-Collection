@@ -18,6 +18,9 @@
 	liege = "k_dragonstone"
 }
 8130.6.1 = { holder = 201308 }
+8130.10.22 = {
+	liege = e_iron_throne
+}
 8167.1.1 = { holder = 101309 }
 8196.1.1 = { holder = 201310 }
 8227.1.1 = { holder = 101311 }

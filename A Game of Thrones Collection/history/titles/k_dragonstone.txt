@@ -42,6 +42,9 @@
 	liege = 0
 	holder = 77012		#Rhaenyra (Named heir of Viserys I, loses the dance)
 }
+8130.10.22 = {
+	holder = 0
+}
 8283.6.1 = {
 	liege = e_iron_throne
 	de_jure_liege = e_iron_throne

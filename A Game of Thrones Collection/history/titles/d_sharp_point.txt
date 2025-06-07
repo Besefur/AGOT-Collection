@@ -47,6 +47,9 @@
 8129.4.1 = {
 	liege = "k_dragonstone"
 }
+8130.10.22 = {
+	liege = e_iron_throne
+}
 8145.1.1 = { holder = 3014049 } # Kaeron Bar Emmon (nc)
 8188.1.1 = { holder = 3016049 } # Enfren Bar Emmon (nc)
 8200.1.1 = { holder = 3019049 } # Robin Bar Emmon (nc)

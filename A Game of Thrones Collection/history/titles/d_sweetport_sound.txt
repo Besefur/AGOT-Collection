@@ -21,6 +21,9 @@
 8129.4.1 = {
 	liege = "k_dragonstone"
 }
+8130.10.22 = {
+	liege = e_iron_throne
+}
 8135.1.1 = { holder = 31451 } # Allar (nc)
 8155.1.1 = { holder = 31651 } # Sefton (nc)
 8157.1.1 = { holder = 31951 } # Aegon (nc)

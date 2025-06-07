@@ -26,6 +26,9 @@
 	liege = "k_dragonstone"
 }
 8130.5.22 = { holder = 3014050 } # Clement Celtigar (C)
+8130.10.22 = {
+	liege = e_iron_throne
+}
 8167.1.1 = { holder = 3020050 } # Amrell (nc)
 8187.1.1 = { holder = 3021050 } # Annos (nc)
 8188.1.1 = { holder = 3023050 } # Dontos (nc)

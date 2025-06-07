@@ -65,6 +65,7 @@
 	liege = "k_dragonstone"
 }
 8130.10.22 = {
+	liege = e_iron_throne
     holder = 77013      #Aegon II (took control of Dragonstone after Rhaenyra's execution, kept Aegon III hostage.)
 }
 8131.1.8 = {
