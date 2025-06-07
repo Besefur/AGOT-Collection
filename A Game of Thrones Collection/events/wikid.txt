@@ -18163,12 +18163,14 @@ character_event = {
 	is_triggered_only = yes
 
 	ai = no
-	has_character_flag = touring_royal_progress
 
 	trigger = {
 		trait = wikid
-		has_character_flag = on_a_foreign_tour
-		has_character_flag = royal_progress_destination_needed
+		OR = {
+			has_character_flag = on_a_foreign_tour
+			has_character_flag = touring_royal_progress
+			has_character_flag = royal_progress_destination_needed
+		}
 	}
 
 	option = {
