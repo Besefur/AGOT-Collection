@@ -557,9 +557,14 @@ targeted_decisions = {
 		}
 		effect = {
 			FROM = {
-				gain_title = k_dragonstone
 				gain_title = d_dragonstone
 				gain_title = c_dragonstone
+
+				if = {
+					limit = { has_landed_title = k_dragonstone }
+
+					gain_title = k_dragonstone
+				}
 			}
 		}
 		ai_will_do = {

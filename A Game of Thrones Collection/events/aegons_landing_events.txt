@@ -45,18 +45,24 @@ narrative_event = {
 			}
 			recalc_succession = yes
 			e_iron_throne = {
-				k_dragonstone = { de_jure_liege = PREV }
+				k_dragonstone = {
+					de_jure_liege = PREV
+					destroy_landed_title = THIS
+				}
 			}
 			k_crownlands = {
-				#d_crackclaw_point = { de_jure_liege = PREV }
-				#d_dragonstone = { de_jure_liege = PREV }
+				# d_crackclaw_point = { de_jure_liege = PREV }
+				d_dragonstone = { de_jure_liege = PREV }
+				d_driftmark = { de_jure_liege = PREV }
+				d_claw_isle = { de_jure_liege = PREV }
+				d_merling_isles = { de_jure_liege = PREV }
 				d_rosby = { de_jure_liege = PREV }
 				d_duskendale = { de_jure_liege = PREV }
 				d_blackwater_rush = { de_jure_liege = PREV }
 				d_kings_landing = { de_jure_liege = PREV }
-				#d_kingswood = { de_jure_liege = PREV }
-				d_wendwater = { de_jure_liege = PREV }
-				d_masseys_hook = { de_jure_liege = PREV }
+				# d_kingswood = { de_jure_liege = PREV }
+				# d_wendwater = { de_jure_liege = PREV }
+				# d_masseys_hook = { de_jure_liege = PREV }
 				d_hayford = { de_jure_liege = PREV }
 				d_stokeworth = { de_jure_liege = PREV }
 				d_flatgreens = { de_jure_liege = PREV }
@@ -735,14 +741,14 @@ character_event = {
 			}
 			character_event = { id = aegons_landing.13 days = 5 }
 		}
-		if = { #Sharp Point Becomes Sworn to Dragonstone
+		if = { #Sharp Point Becomes Sworn to Crownlands
 			limit = {
 				d_sharp_point = {
-					NOT = { dejure_liege_title = { title = k_dragonstone } }
+					NOT = { dejure_liege_title = { title = k_crownlands } }
 					holder_scope = { is_liege_or_above = ROOT }
 				}
 			}
-			k_dragonstone = {
+			k_crownlands = {
 				d_sharp_point = {
 					de_jure_liege = PREV
 					holder_scope = { set_defacto_liege = ROOT }
@@ -752,11 +758,11 @@ character_event = {
 		if = { #Sweetport Sound Becomes Sworn to Dragonstone
 			limit = {
 				d_sweetport_sound = {
-					NOT = { dejure_liege_title = { title = k_dragonstone } }
+					NOT = { dejure_liege_title = { title = k_crownlands } }
 					holder_scope = { is_liege_or_above = ROOT }
 				}
 			}
-			k_dragonstone = {
+			k_crownlands = {
 				d_sweetport_sound = {
 					de_jure_liege = PREV
 					holder_scope = { set_defacto_liege = ROOT }
@@ -2428,6 +2434,39 @@ narrative_event = {
 			}
 			clr_title_flag = k_crownlands
 		}
+		d_wendwater = { # Massey's Hook
+			if = {
+				limit = {
+					OR = {
+						is_variable_equal = { which = "de_facto_empire" value = 1 }
+						holder_scope = { is_liege_or_above = ROOT }
+						AND = {
+							has_holder = no
+							any_de_jure_vassal_title = {
+								OR = {
+									is_variable_equal = { which = "de_facto_empire" value = 1 }
+									holder_scope = { is_liege_or_above = ROOT }
+								}
+							}
+						}
+					}
+				}
+				custom_tooltip = {
+					text = TOOLTIPlordship_in_crownlands
+					hidden_tooltip = {
+						de_jure_liege = k_crownlands
+						set_title_flag = k_crownlands
+					}
+				}
+			}
+			hidden_tooltip = {
+				if = {
+					limit = { NOT = { has_title_flag = k_crownlands } }
+					de_jure_liege = k_stormlands
+				}
+			}
+			clr_title_flag = k_crownlands
+		}
 		custom_tooltip = {
 			text = TOOLTIPNORMALCROWNLANDSEND # King's Landing
 			hidden_tooltip = { d_kings_landing = { de_jure_liege = k_crownlands } }
@@ -2972,7 +3011,7 @@ narrative_event = {
 			}
 			k_stormlands = {
 				d_kings_landing = { de_jure_liege = PREV }
-				d_kingswood = { de_jure_liege = PREV }
+				d_wendwater = { de_jure_liege = PREV }
 				d_masseys_hook = { de_jure_liege = PREV }
 				holder_scope = {
 					c_dalston_keep = {
@@ -3345,10 +3384,10 @@ narrative_event = {
 		}
 		hidden_tooltip = {
 			k_stormlands = {
-				d_kingswood = { de_jure_liege = PREV }
+				d_wendwater = { de_jure_liege = PREV }
 				d_masseys_hook = { de_jure_liege = PREV }
 				holder_scope = {
-					d_kingswood = {
+					d_wendwater = {
 						holder_scope = { set_defacto_liege = PREVPREV }
 					}
 					d_masseys_hook = {
