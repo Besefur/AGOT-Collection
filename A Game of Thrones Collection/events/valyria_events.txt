@@ -14119,7 +14119,7 @@ province_event = {
 					remove_trait = honest
 					remove_trait = craven
 					remove_trait = content
-					random_list =	{
+					random_list = {
 						30 = { add_trait = poor_warrior }
 						30 = { add_trait = trained_warrior }
 						20 = { add_trait = skilled_warrior }

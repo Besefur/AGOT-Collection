@@ -272,6 +272,70 @@ character_event = {
 					culture = volantene
 					set_graphical_culture = volantene
 				}
+				1 = {
+					culture = volantene
+					set_graphical_culture = summer_tyroshi
+				}
+				1 = {
+					culture = Moluu-Islander
+					set_graphical_culture = Moluu-Islander
+				}
+				1 = {
+					culture = Exile-Islander
+					set_graphical_culture = Exile-Islander
+				}
+				1 = {
+					culture = summer_islander
+					set_graphical_culture = summer_islander
+				}
+				1 = {
+					culture = Ulthosi
+					set_graphical_culture = Ulthosi
+				}
+				1 = {
+					culture = zabhadi
+					set_graphical_culture = zabhadi
+				}
+				0.5 = {
+					culture = lengi
+					set_graphical_culture = lengi
+				}
+				0.5 = {
+					culture = islander
+					set_graphical_culture = islander
+				}
+				1 = {
+					culture = naathi
+					set_graphical_culture = naathi
+				}
+				1 = {
+					culture = yi_ti
+					set_graphical_culture = yi_ti
+				}
+				1 = {
+					culture = moraqi
+					set_graphical_culture = moraqi
+				}
+				0.5 = {
+					culture = mantaryan
+					set_graphical_culture = Albino
+				}
+				1 = {
+					culture = mantaryan
+					set_graphical_culture = mantaryan
+				}
+				0.01 = {
+					culture = northman
+					set_graphical_culture = white_walker
+				}
+				0.5 = {
+					culture = volantene
+					set_graphical_culture = brindlemen
+				}
+				0.5 = {
+					culture = ibbenese
+					set_graphical_culture = ibbenese
+				}
 			}
 			random_list = {
 				1 = { add_trait = ugly }
@@ -294,12 +358,18 @@ character_event = {
 				4 = { add_trait = is_fat }
 			}
 			random_list = {
+				1 = { add_trait = clubfoot }
+				1 = { add_trait = blinded }
+				1 = { add_trait = hunchback }
+				1 = { add_trait = mystic }
+				1 = { add_trait = quick }
 				1 = { add_trait = ugly }
 				1 = { add_trait = ugly_1 }
 				1 = { add_trait = ugly_2 }
 				1 = { add_trait = dwarf }
 				1 = { add_trait = dwarf_1 }
 				1 = { add_trait = dwarf_2 }
+				1 = { add_trait = stutter }
 				1 = { add_trait = slow }
 				1 = { add_trait = slow_1 }
 				1 = { add_trait = imbecile }
