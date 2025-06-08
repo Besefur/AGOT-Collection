@@ -1,160 +1,160 @@
 20100000 = {
-    name = "Delpyrian"
+    name = "Дельпириан"
     culture = urban-braavosi
 }
 20100001 = {
-    name = "Nesteris"
+    name = "Нестерис"
     culture = urban-braavosi
 }
 20100002 = {
-    name = "Veleron"
+    name = "Велерон"
     culture = urban-braavosi
 }
 20100003 = {
-    name = "Jawakar"
+    name = "Джавакар"
     culture = urban-braavosi
 }
 20100004 = {
-    name = "Zalynor"
+    name = "Залинор"
     culture = urban-braavosi
 }
 20100005 = {
-    name = "Fardeenor"
+    name = "Фардинор"
     culture = urban-braavosi
 }
 20100006 = {
-    name = "Velerion"
+    name = "Велерион"
     culture = urban-braavosi
 }
 20100007 = {
-    name = "mo Aquazyn"
+    name = "мо Акуазин"
     culture = urban-braavosi
 }
 20100008 = {
-    name = "Gasparion"
+    name = "Гаспарион"
     culture = urban-braavosi
 }
 20100009 = {
-    name = "Parnello"
+    name = "Парнелло"
     culture = urban-braavosi
 }
 20100010 = {
-    name = "Braavonis"
+    name = "Браавонис"
     culture = urban-braavosi
 }
 20100011 = {
-    name = "Antarys"
+    name = "Антарис"
     culture = urban-braavosi
 }
 20100012 = {
-    name = "Ironsmith"
+    name = "Айронсмит"
     culture = urban-braavosi
 }
 20100013 = {
-    name = "Xylo"
+    name = "Ксило"
     culture = urban-braavosi
 }
 20100014 = {
-    name = "Teryn"
+    name = "Терин"
     culture = urban-braavosi
 }
 20100015 = {
-    name = "Raenhelm"
+    name = "Раенхельм"
     culture = urban-braavosi
 }
 20100016 = {
-    name = "Jaewak"
+    name = "Джаевак"
     culture = urban-braavosi
 }
 20100017 = {
-    name = "Forellis"
+    name = "Фореллис"
     culture = urban-braavosi
 }
 20100018 = {
-    name = "Manteryx"
+    name = "Мантерикс"
     culture = urban-braavosi
 }
 20100019 = {
-    name = "Tendyrion"
+    name = "Тендирион"
     culture = urban-braavosi
 }
 20100020 = {
-    name = "Fregan"
+    name = "Фреган"
     culture = urban-braavosi
 }
 20100021 = {
-    name = "Gresyon"
+    name = "Гресион"
     culture = urban-braavosi
 }
 20100022 = {
-    name = "Demetryx"
+    name = "Деметрикс"
     culture = urban-braavosi
 }
 20100023 = {
-    name = "Wutangi"
+    name = "Вутанги"
     culture = urban-braavosi
 }
 20100024 = {
-    name = "Ferris"
+    name = "Феррис"
     culture = urban-braavosi
 }
 20100025 = {
-    name = "Ydoryn"
+    name = "Идорин"
     culture = urban-braavosi
 }
 20100026 = {
-    name = "Saarn"
+    name = "Саарн"
     culture = urban-braavosi
 }
 20100027 = {
-    name = "Malhorys"
+    name = "Малхорис"
     culture = urban-braavosi
 }
 20100028 = {
-    name = "Orbaerys"
+    name = "Орбаэрис"
     culture = urban-braavosi
 }
 20100029 = {
-    name = "Irnatos"
+    name = "Ирнатос"
     culture = urban-braavosi
 }
 20100030 = {
-    name = "Sororhin"
+    name = "Соророхин"
     culture = urban-braavosi
 }
 20100031 = {
-    name = "Ennaenon"
+    name = "Эннэнон"
     culture = urban-braavosi
 }
 20100032 = {
-    name = "Qhonis"
+    name = "Кхонис"
     culture = urban-braavosi
 }
 20100033 = {
-    name = "Ostaar"
+    name = "Остаар"
     culture = urban-braavosi
 }
 20100034 = {
-    name = "Gasparis"
+    name = "Гаспарис"
     culture = urban-braavosi
 }
 20100035 = {
-    name = "Ferryn"
+    name = "Феррин"
     culture = urban-braavosi
 }
 20100036 = {
-    name = "Dotharis"
+    name = "Дотарис"
     culture = urban-braavosi
 }
 20100037 = {
-    name = "Jalurutis"
+    name = "Джалурутис"
     culture = urban-braavosi
 }
 20100038 = {
-    name = "Pranelios"
+    name = "Пранелиос"
     culture = urban-braavosi
 }
 20100039 = {
-    name = "Laesoros"
+    name = "Лэсорос"
     culture = urban-braavosi
 }

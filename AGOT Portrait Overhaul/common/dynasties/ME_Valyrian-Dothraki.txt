@@ -1,108 +1,108 @@
 99960200 = {
-	name = "Bharbae"
+	name = "Бхарбаэ"
 	culture = valyrian_dothraki
 
 
 }
 99960201 = {
-	name = "Drogaera"
+	name = "Дрогаэра"
 	culture = valyrian_dothraki
 
 
 }
 
 99960202 = {
-	name = "Jhaquonis"
+	name = "Жаквонис"
 	culture = valyrian_dothraki
 
 
 }
 99960203 = {
-	name = "Temmoe"
+	name = "Теммоэ"
 	culture = valyrian_dothraki
 
 
 }
 99960204 = {
-	name = "Peono"
+	name = "Пеоно"
 	culture = valyrian_dothraki
 
 
 }
 99960205 = {
-	name = "Jhaqo"
+	name = "Жакко"
 	culture = valyrian_dothraki
 
 
 }
 99960206 = {
-	name = "Zekkeon"
+	name = "Зеккеон"
 	culture = valyrian_dothraki
 
 
 }
 99960207 = {
-	name = "Mengorea"
+	name = "Менгореа"
 	culture = valyrian_dothraki
 
 
 }
 99960208 = {
-	name = "Horrona"
+	name = "Хоррона"
 	culture = valyrian_dothraki
 
 
 }
 99960209 = {
-	name = "Onqae"
+	name = "Онкаэ"
 	culture = valyrian_dothraki
 
 
 }
 99960210 = {
-	name = "Temamo"
+	name = "Темамо"
 	culture = valyrian_dothraki
 
 
 }
 99960211 = {
-	name = "Zirqeon"
+	name = "Зиркеон"
 	culture = valyrian_dothraki
 
 
 }
 99960212 = {
-	name = "Onqeon"
+	name = "Онкеон"
 	culture = valyrian_dothraki
 
 
 }
 99960213 = {
-	name = "Durkio"
+	name = "Дуркио"
 	culture = valyrian_dothraki
 
 
 }
 99960214 = {
-	name = "Haeg"
+	name = "Хаэг"
 	culture = valyrian_dothraki
 
 
 }
 99960215 = {
-	name = "Kovarreon"
+	name = "Коварреон"
 	culture = valyrian_dothraki
 
 
 }
 99960216 = {
-	name = "Marreo"
+	name = "Маррео"
 	culture = valyrian_dothraki
 
 
 }
 99960217 = {
-	name = "Raego"
+	name = "Раэго"
 	culture = valyrian_dothraki
 
 

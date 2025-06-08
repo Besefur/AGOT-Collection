@@ -1,146 +1,145 @@
 #Dorne
 1988061 = {
-	name = "Goldcinder"
+	name = "Голдсиндер"
 	culture = valyrian_stone_dornish
 }
 1988062 = {
-	name = "Betterleaf"
+	name = "Беттерлиф"
 	culture = valyrian_stone_dornish
 }
 1988063 = {
-	name = "Scythe"
+	name = "Сайт"
 	culture = valyrian_stone_dornish
 }
 1988064 = {
-	name = "Goldhil"
+	name = "Голдхил"
 	culture = valyrian_stone_dornish
 }
 1988065 = {
-	name = "Buckhorn"
+	name = "Бакхорн"
 	culture = valyrian_stone_dornish
 }
 1988066 = {
-	name = "Redwick"
+	name = "Редвик"
 	culture = valyrian_stone_dornish
 }
 1988067 = {
-	name = "Fishswell"
+	name = "Фишсвелл"
 	culture = valyrian_sand_dornish
 }
 1988068 = {
-	name = "Newshall"
+	name = "Ньюшолл"
 	culture = valyrian_sand_dornish
 }
 1988069 = {
-	name = "Hendareon"
+	name = "Хендареон"
 	culture = valyrian_sand_dornish
 }
 1988070 = {
-	name = "Picklewood"
+	name = "Пиклевуд"
 	culture = valyrian_sand_dornish
 }
 1988071 = {
-	name = "Cinderfield"
+	name = "Синдерфилд"
 	culture = valyrian_sand_dornish
 }
 1988072 = {
-	name = "Argood"
+	name = "Аргуд"
 	culture = valyrian_sand_dornish
 }
 1988073 = {
-	name = "Grimsel"
+	name = "Гримсел"
 	culture = valyrian_salt_dornish
 }
 1988074 = {
-	name = "Nottlewood"
+	name = "Ноттлвуд"
 	culture = valyrian_salt_dornish
 }
 1988075 = {
-	name = "Halftree"
+	name = "Халфтри"
 	culture = valyrian_salt_dornish
 }
 1988076 = {
-	name = "Goldland"
+	name = "Голдленд"
 	culture = valyrian_salt_dornish
 }
 1988077 = {
-	name = "Merlon"
+	name = "Мерлон"
 	culture = valyrian_salt_dornish
 }
 1988078 = {
-	name = "Blakstone"
+	name = "Блэкстоун"
 	culture = valyrian_salt_dornish
 }
 1988079 = {
-	name = "Cinderfur"
+	name = "Синдерфур"
 	culture = valyrian_stone_dornish
 }
 1988080 = {
-	name = "Crowner"
+	name = "Краунер"
 	culture = valyrian_stone_dornish
 }
 1988081 = {
-	name = "Clapton"
+	name = "Клэптон"
 	culture = valyrian_stone_dornish
 }
 1988082 = {
-	name = "Ratheon"
+	name = "Ратеон"
 	culture = valyrian_stone_dornish
 }
 1988083 = {
-	name = "Godwyck"
+	name = "Годвик"
 	culture = valyrian_stone_dornish
 }
 1988084 = {
-	name = "Hallemore"
+	name = "Халлемор"
 	culture = valyrian_stone_dornish
 }
 1988085 = {
-	name = "Searer"
+	name = "Сирер"
 	culture = valyrian_sand_dornish
 }
 1988086 = {
-	name = "Queenwood"
+	name = "Куинвуд"
 	culture = valyrian_sand_dornish
 }
 1988087 = {
-	name = "Gilet"
+	name = "Джилет"
 	culture = valyrian_sand_dornish
 }
 1988088 = {
-	name = "Emmerwock"
+	name = "Эммервок"
 	culture = valyrian_sand_dornish
 }
 1988089 = {
-	name = "Whiteflower"
+	name = "Уайтфлауэр"
 	culture = valyrian_sand_dornish
 }
 1988090 = {
-	name = "Broock"
+	name = "Брук"
 	culture = valyrian_sand_dornish
 }
 1988092 = {
-	name = "Bettle"
+	name = "Беттл"
 	culture = valyrian_salt_dornish
 }
 1988093 = {
-	name = "Landell"
+	name = "Ланделл"
 	culture = valyrian_salt_dornish
 }
 1988094 = {
-	name = "Leeka"
+	name = "Лика"
 	culture = valyrian_salt_dornish
 }
 1988095 = {
-	name = "Marstone"
+	name = "Марстоун"
 	culture = valyrian_salt_dornish
 }
 1988096 = {
-	name = "Valantar"
+	name = "Вэлантар"
 	culture = valyrian_salt_dornish
 }
 1988097 = {
-	name = "Matollen"
+	name = "Матоллен"
 	culture = valyrian_salt_dornish
 }
-

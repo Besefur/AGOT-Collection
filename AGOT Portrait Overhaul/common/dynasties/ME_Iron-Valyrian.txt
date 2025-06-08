@@ -1,105 +1,105 @@
 #Non-canon Houses for random
 99174440 = {
-	name = "Irontail"
+	name = "Айронтейл"
 	culture = iron_valyrian
 }
 99174441 = {
-	name = "Fireflames"
+	name = "Файрфлеймс"
 	culture = iron_valyrian
 }
 99174442 = {
-	name = "Drakereaver"
+	name = "Дрейкривер"
 	culture = iron_valyrian
 }
 99174443 = {
-	name = "Draken"
+	name = "Дрейкен"
 	culture = iron_valyrian
 }
 99174444 = {
-	name = "Firestone"
+	name = "Фаерстоун"
 	culture = iron_valyrian
 }
 99174445 = {
-	name = "Blacksmoke"
+	name = "Блэксмоук"
 	culture = iron_valyrian
 }
 99174446 = {
-	name = "Boiler"
+	name = "Бойлер"
 	culture = iron_valyrian
 }
 99174447 = {
-	name = "Deathwing"
+	name = "Десвинг"
 	culture = iron_valyrian
 }
 99174448 = {
-	name = "Ironflames"
+	name = "Айронфлеймс"
 	culture = iron_valyrian
 }
 99174449 = {
-	name = "Talliron"
+	name = "Толлайрон"
 	culture = iron_valyrian
 }
 99174450 = {
-	name = "Grimsmoke"
+	name = "Гримсмоук"
 	culture = iron_valyrian
 }
 99174451 = {
-	name = Wrothbone
+	name = "Ротбоун"
 	culture = iron_valyrian
 }
 99174452 = {
-	name = Dragonmast
+	name = "Драггонмаст"
 	culture = iron_valyrian
 }
 99174453 = {
-	name = Wingly
+	name = "Вингли"
 	culture = iron_valyrian
 }
 99174454 = {
-	name = Farfire
+	name = "Фарфаер"
 	culture = iron_valyrian
 }
 99174455 = {
-	name = Melbone
+	name = "Мелбоун"
 	culture = iron_valyrian
 }
 99174456 = {
-	name = Meltingly
+	name = "Мелтингли"
 	culture = iron_valyrian
 }
 99174457 = {
-	name = Tidalflames
+	name = "Тайдалфлеймс"
 	culture = iron_valyrian
 }
 99174458 = {
-	name = Seagrave
+	name = "Сигрейв"
 	culture = iron_valyrian
 }
 99174459 = {
-	name = Seawing
+	name = "Сивинг"
 	culture = iron_valyrian
 }
 99174460 = {
-	name = Blackroad
+	name = "Блэкрод"
 	culture = iron_valyrian
 }
 99174461 = {
-	name = Stonesmoke
+	name = "Стоунсмоук"
 	culture = iron_valyrian
 }
 99174462 = {
-	name = Flybarrow
+	name = "Флайбарроу"
 	culture = iron_valyrian
 }
 99174463 = {
-	name = Staves
+	name = "Стейвз"
 	culture = iron_valyrian
 }
 99174468 = {
-	name = Blackshields
+	name = "Блэкшилдс"
 	culture = iron_valyrian
 }
 99174469 = {
-	name = Steamwater
+	name = "Стимвотер"
 	culture = iron_valyrian
 }

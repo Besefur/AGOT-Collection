@@ -1,104 +1,104 @@
 14100000 = {
-        name = "Dakari"
-        culture = parrot-islander
+	name = "Дакари"
+	culture = parrot-islander
 }
 14100001 = {
-        name = "Ademola"
-        culture = parrot-islander
+	name = "Адемола"
+	culture = parrot-islander
 }
 14100002 = {
-        name = "Zamara"
-        culture = parrot-islander
+	name = "Замара"
+	culture = parrot-islander
 }
 14100003 = {
-        name = "Onyango"
-        culture = parrot-islander
+	name = "Оньянго"
+	culture = parrot-islander
 }
 14100004 = {
-        name = "Jelani"
-        culture = parrot-islander
+	name = "Джелани"
+	culture = parrot-islander
 }
 14100005 = {
-        name = "Xankoh"
-        culture = parrot-islander
+	name = "Ксанко"
+	culture = parrot-islander
 }
 14100006 = {
-        name = "Bahari"
-        culture = parrot-islander
+	name = "Бахари"
+	culture = parrot-islander
 }
 14100007 = {
-        name = "Diallo"
-        culture = parrot-islander
+	name = "Диалло"
+	culture = parrot-islander
 }
 14100008 = {
-        name = "Kato"
-        culture = parrot-islander
+	name = "Като"
+	culture = parrot-islander
 }
 14100009 = {
-        name = "Mubarak"
-        culture = parrot-islander
+	name = "Мубарак"
+	culture = parrot-islander
 }
 14100010 = {
-        name = "Okeke"
-        culture = parrot-islander
+	name = "Океке"
+	culture = parrot-islander
 }
 14100011 = {
-        name = "Toure"
-        culture = parrot-islander
+	name = "Туре"
+	culture = parrot-islander
 }
 14100012 = {
-        name = "Xiop"
-        culture = parrot-islander
+	name = "Ксиоп"
+	culture = parrot-islander
 }
 14100013 = {
-        name = "Asante"
-        culture = parrot-islander
+	name = "Асанте"
+	culture = parrot-islander
 }
 14100014 = {
-        name = "Kwabena"
-        culture = parrot-islander
+	name = "Квабена"
+	culture = parrot-islander
 }
 14100015 = {
-        name = "Sowande"
-        culture = parrot-islander
+	name = "Сованде"
+	culture = parrot-islander
 }
 14100016 = {
-        name = "Xaziri"
-        culture = parrot-islander
+	name = "Ксазири"
+	culture = parrot-islander
 }
 14100017 = {
-        name = "Amara"
-        culture = parrot-islander
+	name = "Амара"
+	culture = parrot-islander
 }
 14100018 = {
-        name = "Nyongo"
-        culture = parrot-islander
+	name = "Ньонго"
+	culture = parrot-islander
 }
 14100019 = {
-        name = "Kanu"
-        culture = parrot-islander
+	name = "Кану"
+	culture = parrot-islander
 }
 14100020 = {
-        name = "Adeyemi"
-        culture = parrot-islander
+	name = "Адейеми"
+	culture = parrot-islander
 }
 14100021 = {
-        name = "Ibeji"
-        culture = parrot-islander
+	name = "Ибеджи"
+	culture = parrot-islander
 }
 14100022 = {
-        name = "Mwangi"
-        culture = parrot-islander
+	name = "Мванги"
+	culture = parrot-islander
 }
 14100023 = {
-        name = "Zuberi"
-        culture = parrot-islander
+	name = "Зубэри"
+	culture = parrot-islander
 }
 14100024 = {
-        name = "Xodion"
-        culture = parrot-islander
+	name = "Ксодион"
+	culture = parrot-islander
 }
 14100025 = {
-        name = "Nkrumah"
-        culture = parrot-islander
+	name = "Нкрума"
+	culture = parrot-islander
 }

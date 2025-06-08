@@ -1,40 +1,40 @@
 99559326 = {
-	name = "Fardos"
+	name = "Фардос"
 	culture = valyrian_moraqi
 }
 99559336 = {
-	name = "Jabboros"
+	name = "Джабборос"
 	culture = valyrian_moraqi
 }
 9955932 = {
-	name = "Alaeda"
+	name = "Алаэда"
 	culture = valyrian_moraqi
 }
 9969164 = {
-	name = "Malhador"
+	name = "Малхадор"
 	culture = valyrian_moraqi
 }
 9955933 = {
-	name = "Jaffaela"
+	name = "Джаффаэла"
 	culture = valyrian_moraqi
 }
 9955934 = {
-	name = "Masihys"
+	name = "Масихис"
 	culture = valyrian_moraqi
 }
 9955935 = {
-	name = "Kazemeon"
+	name = "Каземеон"
 	culture = valyrian_moraqi
 }
 9955936 = {
-	name = "Mahabharys"
+	name = "Махабхарис"
 	culture = valyrian_moraqi
 }
 9955937 = {
-	name = "Dallalo"
+	name = "Даллало"
 	culture = valyrian_moraqi
 }
 9955938 = {
-	name = "Ghanaema"
+	name = "Ганаэма"
 	culture = valyrian_moraqi
 }

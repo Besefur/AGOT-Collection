@@ -1,32 +1,32 @@
 99570352 = {
-	name = "Kozena"
+	name = "Козена"
 	culture = valyrian_lengi
 }
 99570353 = {
-	name = "Toya"
+	name = "Тойя"
 	culture = valyrian_lengi
 }
 99570354 = {
-	name = "Taezizo"
+	name = "Таэзизо"
 	culture = valyrian_lengi
 }
 99570355 = {
-	name = "Mistheoz"
+	name = "Мистеоз"
 	culture = valyrian_lengi
 }
 99570356 = {
-	name = "Ondoraliz"
+	name = "Ондорализ"
 	culture = valyrian_lengi
 }
 99570358 = {
-	name = "Egrarys"
+	name = "Эграрыс"
 	culture = valyrian_lengi
 }
 99570359 = {
-	name = "Revashi"
+	name = "Реваши"
 	culture = valyrian_lengi
 }
 99570360 = {
-	name = "Teltarzo"
+	name = "Тельтарзо"
 	culture = valyrian_lengi
 }

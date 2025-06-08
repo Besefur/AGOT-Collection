@@ -1,160 +1,160 @@
 27102000 = {
-    name = "Essohrin"
+    name = "Эссохрин"
     culture = "rovo-dothraki"
 }
 27102001 = {
-    name = "Bharon"
+    name = "Бхарон"
     culture = "rovo-dothraki"
 }
 27102002 = {
-    name = "Drogaera"
+    name = "Дрогаэра"
     culture = "rovo-dothraki"
 }
 27102003 = {
-    name = "Sorryl"
+    name = "Соррил"
     culture = "rovo-dothraki"
 }
 27102004 = {
-    name = "Jhaquonis"
+    name = "Жаквонис"
     culture = "rovo-dothraki"
 }
 27102005 = {
-    name = "Ostos"
+    name = "Остос"
     culture = "rovo-dothraki"
 }
 27102006 = {
-    name = "Temmoe"
+    name = "Теммоэ"
     culture = "rovo-dothraki"
 }
 27102007 = {
-    name = "Paessoran"
+    name = "Паэссоран"
     culture = "rovo-dothraki"
 }
 27102008 = {
-    name = "Pakarr"
+    name = "Пакарр"
     culture = "rovo-dothraki"
 }
 27102009 = {
-    name = "Vhassoran"
+    name = "Вхассоран"
     culture = "rovo-dothraki"
 }
 27102010 = {
-    name = "Hestelion"
+    name = "Хестелион"
     culture = "rovo-dothraki"
 }
 27102011 = {
-    name = "Nahiris"
+    name = "Нахирис"
     culture = "rovo-dothraki"
 }
 27102012 = {
-    name = "Dynyris"
+    name = "Динирис"
     culture = "rovo-dothraki"
 }
 27102013 = {
-    name = "Forah"
+    name = "Фора"
     culture = "rovo-dothraki"
 }
 27102014 = {
-    name = "Brenen"
+    name = "Бренен"
     culture = "rovo-dothraki"
 }
 27102015 = {
-    name = "Stassyl"
+    name = "Стассил"
     culture = "rovo-dothraki"
 }
 27102016 = {
-    name = "Essyris"
+    name = "Эссирис"
     culture = "rovo-dothraki"
 }
 27102017 = {
-    name = "Aenyris"
+    name = "Энирис"
     culture = "rovo-dothraki"
 }
 27102018 = {
-    name = "Mopen"
+    name = "Мопен"
     culture = "rovo-dothraki"
 }
 27102019 = {
-    name = "Ennymion"
+    name = "Эннимион"
     culture = "rovo-dothraki"
 }
 27102020 = {
-    name = "Dynah"
+    name = "Дина"
     culture = "rovo-dothraki"
 }
 27102021 = {
-    name = "Flaerel"
+    name = "Флэрель"
     culture = "rovo-dothraki"
 }
 27102022 = {
-    name = "Vollion"
+    name = "Воллион"
     culture = "rovo-dothraki"
 }
 27102023 = {
-    name = "Ahryr"
+    name = "Ахир"
     culture = "rovo-dothraki"
 }
 27102024 = {
-    name = "Zarraqa"
+    name = "Зарракка"
     culture = "rovo-dothraki"
 }
 27102025 = {
-    name = "Maros"
+    name = "Марос"
     culture = "rovo-dothraki"
 }
 27102026 = {
-    name = "Xaroqo"
+    name = "Ксароко"
     culture = "rovo-dothraki"
 }
 27102027 = {
-    name = "Zekkon"
+    name = "Зеккон"
     culture = "rovo-dothraki"
 }
 27102028 = {
-    name = "Mengorea"
+    name = "Менгореа"
     culture = "rovo-dothraki"
 }
 27102029 = {
-    name = "Horrona"
+    name = "Хоррона"
     culture = "rovo-dothraki"
 }
 27102030 = {
-    name = "Onqae"
+    name = "Онкэ"
     culture = "rovo-dothraki"
 }
 27102031 = {
-    name = "Temamok"
+    name = "Темамок"
     culture = "rovo-dothraki"
 }
 27102032 = {
-    name = "Zirqeon"
+    name = "Зиркеон"
     culture = "rovo-dothraki"
 }
 27102033 = {
-    name = "Onqeon"
+    name = "Онкеон"
     culture = "rovo-dothraki"
 }
 27102034 = {
-    name = "Durkarr"
+    name = "Дуркарр"
     culture = "rovo-dothraki"
 }
 27102035 = {
-    name = "Haegarth"
+    name = "Хэгарт"
     culture = "rovo-dothraki"
 }
 27102036 = {
-    name = "Kovarreon"
+    name = "Коварреон"
     culture = "rovo-dothraki"
 }
 27102037 = {
-    name = "Marreo"
+    name = "Маррео"
     culture = "rovo-dothraki"
 }
 27102038 = {
-    name = "Raego"
+    name = "Раэго"
     culture = "rovo-dothraki"
 }
 27102039 = {
-    name = "Khaloros"
+    name = "Кхалорос"
     culture = "rovo-dothraki"
 }

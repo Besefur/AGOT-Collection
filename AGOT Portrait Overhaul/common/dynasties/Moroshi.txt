@@ -1,117 +1,116 @@
 19100002 = {
-    name = "Varyn"
+    name = "Варин"
     culture = moroshi
 }
 19100003 = {
-    name = "Saery"
+    name = "Саери"
     culture = moroshi
 }
 19100004 = {
-    name = "Thalys"
+    name = "Талис"
     culture = moroshi
 }
 19100005 = {
-    name = "Marantha"
+    name = "Маранта"
     culture = moroshi
 }
 19100006 = {
-    name = "Dorion"
+    name = "Дорион"
     culture = moroshi
 }
 19100007 = {
-    name = "Seraphis"
+    name = "Серафис"
     culture = moroshi
 }
 19100008 = {
-    name = "Lyronis"
+    name = "Лиронис"
     culture = moroshi
 }
 19100009 = {
-    name = "Salloshar"
+    name = "Саллошар"
     culture = moroshi
 }
 19100010 = {
-    name = "Rhyserisar"
+    name = "Рисэризар"
     culture = moroshi
 }
 19100011 = {
-    name = "Ryllaer"
+    name = "Риллаэр"
     culture = moroshi
 }
 19100012 = {
-    name = "Mynarath"
+    name = "Минарат"
     culture = moroshi
 }
 19100013 = {
-    name = "Elysar"
+    name = "Элисар"
     culture = moroshi
 }
 19100014 = {
-    name = "Varion"
+    name = "Варион"
     culture = moroshi
 }
 19100015 = {
-    name = "Sarynna"
+    name = "Саринна"
     culture = moroshi
 }
 19100016 = {
-    name = "Theronio"
+    name = "Теронио"
     culture = moroshi
 }
 19100017 = {
-    name = "Lyssar"
+    name = "Лиссар"
     culture = moroshi
 }
 19100018 = {
-    name = "Rhyion"
+    name = "Риион"
     culture = moroshi
 }
 19100019 = {
-    name = "Vesyna"
+    name = "Весина"
     culture = moroshi
 }
 19100020 = {
-    name = "Aeloroth"
+    name = "Аэлороф"
     culture = moroshi
 }
 19100021 = {
-    name = "Isyra"
+    name = "Исира"
     culture = moroshi
 }
 19100022 = {
-    name = "Velarys"
+    name = "Веларис"
     culture = moroshi
 }
 19100023 = {
-    name = "Sarion"
+    name = "Сарион"
     culture = moroshi
 }
 19100024 = {
-    name = "Myrion"
+    name = "Мирион"
     culture = moroshi
 }
 19100025 = {
-    name = "Sellys"
+    name = "Сэллис"
     culture = moroshi
 }
 19100026 = {
-    name = "Elyrios"
+    name = "Элириос"
     culture = moroshi
 }
 19100027 = {
-    name = "Alysar"
+    name = "Алисар"
     culture = moroshi
 }
 19100028 = {
-    name = "Thyra"
+    name = "Тира"
     culture = moroshi
 }
 19100029 = {
-    name = "Sarna"
+    name = "Сарна"
     culture = moroshi
 }
 19100030 = {
-    name = "Valys"
+    name = "Валис"
     culture = moroshi
 }
-

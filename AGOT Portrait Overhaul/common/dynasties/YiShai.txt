@@ -1,82 +1,82 @@
 #Non-canon Houses for random
 
 20011037 = {
-    name = "Chandrei"
+    name = "Чандрей"
     culture = yishai
 }
 20011038 = {
-    name = "Liyuhtun"
+    name = "Лиюхтун"
     culture = yishai
 }
 20011039 = {
-    name = "Mandalayar"
+    name = "Мандалаяр"
     culture = yishai
 }
 20011040 = {
-    name = "Aruni"
+    name = "Аруни"
     culture = yishai
 }
 20011041 = {
-    name = "Yongli"
+    name = "Юнли"
     culture = yishai
 }
 20011042 = {
-    name = "Lithu"
+    name = "Литу"
     culture = yishai
 }
 20011043 = {
-    name = "Tawkyaung"
+    name = "Таукьяунг"
     culture = yishai
 }
 20011044 = {
-    name = "Anshulei"
+    name = "Аншулей"
     culture = yishai
 }
 20011045 = {
-    name = "Suryatha"
+    name = "Сурьятха"
     culture = yishai
 }
 20011046 = {
-    name = "Inlethu"
+    name = "Инлету"
     culture = yishai
 }
 20011047 = {
-    name = "Rohini"
+    name = "Рохини"
     culture = yishai
 }
 20011048 = {
-    name = "Laksita"
+    name = "Лаксита"
     culture = yishai
 }
 20011049 = {
-    name = "Paganlaung"
+    name = "Паганлаунг"
     culture = yishai
 }
 20011050 = {
-    name = "Angkora"
+    name = "Ангкора"
     culture = yishai
 }
 20011051 = {
-    name = "Rohanmei"
+    name = "Роханмей"
     culture = yishai
 }
 20011052 = {
-    name = "Chamkrong"
+    name = "Чамкронг"
     culture = yishai
 }
 20011053 = {
-    name = "Sariktang"
+    name = "Сариктанг"
     culture = yishai
 }
 20011054 = {
-    name = "Sokrei"
+    name = "Сокрей"
     culture = yishai
 }
 20011055 = {
-    name = "Dvaravati"
+    name = "Дваравати"
     culture = yishai
 }
 20011056 = {
-    name = "Ravikar"
+    name = "Равикар"
     culture = yishai
 }

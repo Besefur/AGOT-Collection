@@ -1,164 +1,164 @@
 24102000 = {
-    name = "Raaqaer"
+    name = "Раакэр"
     culture = "summer-freecity"
 }
 24102001 = {
-    name = "Rhexanos"
+    name = "Рексанос"
     culture = "summer-freecity"
 }
 24102002 = {
-    name = "Rogaerios"
+    name = "Рогэриос"
     culture = "summer-freecity"
 }
 24102003 = {
-    name = "Trynnae"
+    name = "Триннэ"
     culture = "summer-freecity"
 }
 24102004 = {
-    name = "Xhoxae"
+    name = "Ксоксэ"
     culture = "summer-freecity"
 }
 24102005 = {
-    name = "Anerlior"
+    name = "Анерлиор"
     culture = "summer-freecity"
 }
 24102006 = {
-    name = "Antaryios"
+    name = "Антариос"
     culture = "summer-freecity"
 }
 24102007 = {
-    name = "Reyhaen"
+    name = "Рейхэн"
     culture = "summer-freecity"
 }
 24102008 = {
-    name = "Myrakius"
+    name = "Миракиус"
     culture = "summer-freecity"
 }
 24102009 = {
-    name = "Maeloris"
+    name = "Мэлорис"
     culture = "summer-freecity"
 }
 24102010 = {
-    name = "Tumorish"
+    name = "Тумориш"
     culture = "summer-freecity"
 }
 24102011 = {
-    name = "Zhoqolos"
+    name = "Жоколос"
     culture = "summer-freecity"
 }
 24102012 = {
-    name = "Banaerys"
+    name = "Банэрис"
     culture = "summer-freecity"
 }
 24102013 = {
-    name = "Irrokaeros"
+    name = "Иррокаэрос"
     culture = "summer-freecity"
 }
 24102014 = {
-    name = "Dyrelaer"
+    name = "Дайрелаэр"
     culture = "summer-freecity"
 }
 24102015 = {
-    name = "Xhaarys"
+    name = "Ксхаарис"
     culture = "summer-freecity"
 }
 24102016 = {
-    name = "Irrahnott"
+    name = "Иррахнотт"
     culture = "summer-freecity"
 }
 24102017 = {
-    name = "Baharrys"
+    name = "Бахарис"
     culture = "summer-freecity"
 }
 24102018 = {
-    name = "Hestadios"
+    name = "Хестадиос"
     culture = "summer-freecity"
 }
 24102019 = {
-    name = "Lyrakys"
+    name = "Лиракис"
     culture = "summer-freecity"
 }
 24102020 = {
-    name = "Chamox"
+    name = "Чамокс"
     culture = "summer-freecity"
 }
 24102021 = {
-    name = "Lotaehan"
+    name = "Лотэхан"
     culture = "summer-freecity"
 }
 24102022 = {
-    name = "Ropnolis"
+    name = "Ропнолис"
     culture = "summer-freecity"
 }
 24102023 = {
-    name = "Dirrstaar"
+    name = "Диррстаар"
     culture = "summer-freecity"
 }
 24102024 = {
-    name = "H'ghanys"
+    name = "Х'ганис"
     culture = "summer-freecity"
 }
 24102025 = {
-    name = "Zhaalos"
+    name = "Жаалос"
     culture = "summer-freecity"
 }
 24102026 = {
-    name = "Vhassarios"
+    name = "Вхассариос"
     culture = "summer-freecity"
 }
 24102027 = {
-    name = "Nagaryen"
+    name = "Нагариен"
     culture = "summer-freecity"
 }
 24102028 = {
-    name = "Nefaetys"
+    name = "Нефэтис"
     culture = "summer-freecity"
 }
 24102029 = {
-    name = "Idaryios"
+    name = "Идариос"
     culture = "summer-freecity"
 }
 24102030 = {
-    name = "Qhobos"
+    name = "Кобос"
     culture = "summer-freecity"
 }
 24102031 = {
-    name    = "Volantios"
+    name    = "Волантиос"
     culture = "summer-freecity"
 }
 24102032 = {
-    name    = "Xaqas"
+    name    = "Ксакас"
     culture = "summer-freecity"
 }
 24102033 = {
-    name    = "Rynderios"
+    name    = "Риндериос"
     culture = "summer-freecity"
 }
 24102034 = {
-    name    = "Mopinaryon"
+    name    = "Мопинарйон"
     culture = "summer-freecity"
 }
 24102035 = {
-    name    = "Tartaryen"
+    name    = "Тартариен"
     culture = "summer-freecity"
 }
 24102036 = {
-    name    = "Rahyr"
+    name    = "Рахир"
     culture = "summer-freecity"
 }
 24102037 = {
-    name    = "Okanylos"
+    name    = "Оканилос"
     culture = "summer-freecity"
 }
 24102038 = {
-    name    = "Faenylios"
+    name    = "Фэнилиос"
     culture = "summer-freecity"
 }
 24102039 = {
-    name    = "Flaerys"
+    name    = "Флэрис"
     culture = "summer-freecity"
 }
 24102040 = {
-    name    = "Aeneratys"
+    name    = "Энератис"
     culture = "summer-freecity"
 }

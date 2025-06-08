@@ -1,104 +1,104 @@
 15100000 = {
-        name = "Jhala"
-        culture = jhala-highlander
+	name = "Джала"
+	culture = jhala-highlander
 }
 15100001 = {
-        name = "Kwasi"
-        culture = jhala-highlander
+	name = "Кваси"
+	culture = jhala-highlander
 }
 15100002 = {
-        name = "Azibo"
-        culture = jhala-highlander
+	name = "Азибо"
+	culture = jhala-highlander
 }
 15100003 = {
-        name = "Lysar"
-        culture = jhala-highlander
+	name = "Лисар"
+	culture = jhala-highlander
 }
 15100004 = {
-        name = "Nantai"
-        culture = jhala-highlander
+	name = "Нантай"
+	culture = jhala-highlander
 }
 15100005 = {
-        name = "Belay"
-        culture = jhala-highlander
+	name = "Белай"
+	culture = jhala-highlander
 }
 15100006 = {
-        name = "Makeda"
-        culture = jhala-highlander
+	name = "Македа"
+	culture = jhala-highlander
 }
 15100007 = {
-        name = "Adahi"
-        culture = jhala-highlander
+	name = "Адахи"
+	culture = jhala-highlander
 }
 15100008 = {
-        name = "Jabari"
-        culture = jhala-highlander
+	name = "Джабари"
+	culture = jhala-highlander
 }
 15100009 = {
-        name = "Saboro"
-        culture = jhala-highlander
+	name = "Саборо"
+	culture = jhala-highlander
 }
 15100010 = {
-        name = "Taharo"
-        culture = jhala-highlander
+	name = "Тахаро"
+	culture = jhala-highlander
 }
 15100011 = {
-        name = "Amara"
-        culture = jhala-highlander
+	name = "Амара"
+	culture = jhala-highlander
 }
 15100012 = {
-        name = "Alemayehu"
-        culture = jhala-highlander
+	name = "Алемайеху"
+	culture = jhala-highlander
 }
 15100013 = {
-        name = "Zenash"
-        culture = jhala-highlander
+	name = "Зенаш"
+	culture = jhala-highlander
 }
 15100014 = {
-        name = "Soroa"
-        culture = jhala-highlander
+	name = "Сороа"
+	culture = jhala-highlander
 }
 15100015 = {
-        name = "Zanji"
-        culture = jhala-highlander
+	name = "Занджи"
+	culture = jhala-highlander
 }
 15100016 = {
-        name = "Kidankoro"
-        culture = jhala-highlander
+	name = "Киданкоро"
+	culture = jhala-highlander
 }
 15100017 = {
-        name = "Nantari"
-        culture = jhala-highlander
+	name = "Нантари"
+	culture = jhala-highlander
 }
 15100018 = {
-        name = "Jomari"
-        culture = jhala-highlander
+	name = "Джомари"
+	culture = jhala-highlander
 }
 15100019 = {
-        name = "Zalari"
-        culture = jhala-highlander
+	name = "Залари"
+	culture = jhala-highlander
 }
 15100020 = {
-        name = "Abebemaro"
-        culture = jhala-highlander
+	name = "Абебемаро"
+	culture = jhala-highlander
 }
 15100021 = {
-        name = "Girmaxaro"
-        culture = jhala-highlander
+	name = "Гирмаксаро"
+	culture = jhala-highlander
 }
 15100022 = {
-        name = "Ankor"
-        culture = jhala-highlander
+	name = "Анкор"
+	culture = jhala-highlander
 }
 15100023 = {
-        name = "Amari"
-        culture = jhala-highlander
+	name = "Амари"
+	culture = jhala-highlander
 }
 15100024 = {
-        name = "Kassaye"
-        culture = jhala-highlander
+	name = "Кассае"
+	culture = jhala-highlander
 }
 15100025 = {
-        name = "Xulysara"
-        culture = jhala-highlander
+	name = "Ксулисара"
+	culture = jhala-highlander
 }

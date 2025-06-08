@@ -1,35 +1,35 @@
 99607300 = {
-	name = "Fardenys"
+	name = "Фарденис"
 	culture = jogos_valyrian
 	used_for_random = no
 	can_appear = no
 }
 99607301 = {
-	name = "Barialys"
+	name = "Бариалис"
 	culture = jogos_valyrian
 	used_for_random = no
 	can_appear = no
 }
 99607302 = {
-	name = "Jawakar"
+	name = "Джавакар"
 	culture = jogos_valyrian
 	used_for_random = no
 	can_appear = no
 }
 99607303 = {
-	name = "Zaidon"
+	name = "Зайдон"
 	culture = jogos_valyrian
 	used_for_random = no
 	can_appear = no
 }
 99607304 = {
-	name = "Ehsanyr"
+	name = "Эсанир"
 	culture = jogos_valyrian
 	used_for_random = no
 	can_appear = no
 }
 99607305 = {
-	name = "Zawakaera"
+	name = "Завакаэра"
 	culture = jogos_valyrian
 	used_for_random = no
 	can_appear = no

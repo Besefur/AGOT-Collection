@@ -1,105 +1,104 @@
 12100000 = {
-	name = "Lago"
+	name = "Лаго"
 	culture = lamentman
 }
 12100001 = {
-	name = "Zholomo"
+	name = "Жоломо"
 	culture = lamentman
 }
 12100002 = {
-	name = "Djombaque
-"
+	name = "Джамбоке"
 	culture = lamentman
 }
 12100003 = {
-	name = "Ezaraq"
+	name = "Эзарак"
 	culture = lamentman
 }
 12100004 = {
-	name = "Sambique"
+	name = "Самбоке"
 	culture = lamentman
 }
 12100005 = {
-	name = "Talaro" #canon
+	name = "Таларо" #canon
 	culture = lamentman
 }
 12100006 = {
-	name = "Xyrio" #nc
+	name = "Ксирио" #nc
 	culture = lamentman
 }
 12100007 = {
-	name = "Yondara" #nc
+	name = "Йондара" #nc
 	culture = lamentman
 }
 12100008 = {
-	name = "Shalos" #nc
+	name = "Шалос" #nc
 	culture = lamentman
 }
 12100009 = {
-	name = "Karamusa" #nc
+	name = "Карамуса" #nc
 	culture = lamentman
 }
 12100010 = {
-	name = "Lomar" #nc
+	name = "Ломар" #nc
 	culture = lamentman
 }
 12100011 = {
-	name = "Isyro" #nc
+	name = "Исиро" #nc
 	culture = lamentman
 }
 12100012 = {
-	name = "Enxamana" #nc
+	name = "Эншамана" #nc
 	culture = lamentman
 }
 12100013 = {
-	name = "Rocafort" #nc
+	name = "Рокафорт" #nc
 	culture = lamentman
 }
 12100014 = {
-	name = "Ixion" #nc
+	name = "Иксион" #nc
 	culture = lamentman
 }
 12100015 = {
-	name = "Xandar" #nc
+	name = "Зандар" #nc
 	culture = lamentman
 }
 12100016 = {
-	name = "Xylara" #nc
+	name = "Ксилара" #nc
 	culture = lamentman
 }
 12100017 = {
-	name = "Zyloshan" #nc
+	name = "Зилошан" #nc
 	culture = lamentman
 }
 12100018 = {
-	name = "Jarama" #nc
+	name = "Джарама" #nc
 	culture = lamentman
 }
 12100019 = {
-	name = "Holandeza" #nc
+	name = "Холандеза" #nc
 	culture = lamentman
 }
 12100020 = {
-	name = "Rumbi" #nc
+	name = "Румби" #nc
 	culture = lamentman
 }
 12100021 = {
-	name = "Laros" #nc
+	name = "Ларос" #nc
 	culture = lamentman
 }
 12100022 = {
-	name = "Myrion" #nc
+	name = "Мирион" #nc
 	culture = lamentman
 }
 12100023 = {
-	name = "Zhalara" #nc
+	name = "Жалара" #nc
 	culture = lamentman
 }
 12100024 = {
-	name = "Nalolo" #nc
+	name = "Налоло" #nc
 	culture = lamentman
 }
 12100025 = {
-	name = "Mansoa" #nc
+	name = "Мансоа" #nc
 	culture = lamentman
 }

@@ -1,53 +1,53 @@
 99930226 = {
-	name = "Rynar"
+	name = "Ринар"
 	culture = dothrak_tyroshi
 }
 99930227 = {
-	name = "Nahor"
+	name = "Нахор"
 	culture = dothrak_tyroshi
 }
 99930228 = {
-	name = "Tumor"
+	name = "Тумор"
 	culture = dothrak_tyroshi
 }
 99930229 = {
-	name = "Tumayn"
+	name = "Тумайн"
 	culture = dothrak_tyroshi
 }
 
 99930231 = {
-	name = "Tumdan"
+	name = "Тумдан"
 	culture = dothrak_tyroshi
 }
 99930232 = {
-	name = "Tuhor"
+	name = "Тухор"
 	culture = dothrak_tyroshi
 }
 99930233 = {
-	name = "Tadar"
+	name = "Тадар"
 	culture = dothrak_tyroshi
 }
 99930234 = {
-	name = "Qumit"
+	name = "Кумит"
 	culture = dothrak_tyroshi
 }
 99930235 = {
-	name = "Nahi"
+	name = "Нахи"
 	culture = dothrak_tyroshi
 }
 99930236 = {
-	name = "Rymi"
+	name = "Рими"
 	culture = dothrak_tyroshi
 }
 99930237 = {
-	name = "Amito"
+	name = "Амито"
 	culture = dothrak_tyroshi
 }
 99930238 = {
-	name = "Aner"
+	name = "Анер"
 	culture = dothrak_tyroshi
 }
 99930239 = {
-	name = "Breys"
+	name = "Брейс"
 	culture = dothrak_tyroshi
 }

@@ -1,68 +1,68 @@
 9932901 = {
-	name = "Adiuron"
+	name = "Адиурон"
 	culture = shadow_valyrian
 }
 9932902 = {
-	name = "Belibnio"
+	name = "Белибнио"
 	culture = shadow_valyrian
 }
 9932903 = {
-	name = "Belsumis"
+	name = "Белсумис"
 	culture = shadow_valyrian
 }
 9932904 = {
-	name = "Cirtae"
+	name = "Циртэ"
 	culture = shadow_valyrian
 }
 9932905 = {
-	name = "Dilganos"
+	name = "Дилганос"
 	culture = shadow_valyrian
 }
 9932906 = {
-	name = "Enzunarea"
+	name = "Энзунареа"
 	culture = shadow_valyrian
 }
 9932907 = {
-	name = "Gudeara"
+	name = "Гудеара"
 	culture = shadow_valyrian
 }
 9932908 = {
-	name = "Istarses"
+	name = "Истарсес"
 	culture = shadow_valyrian
 }
 9932909 = {
-	name = "Izdubaro"
+	name = "Издубаро"
 	culture = shadow_valyrian
 }
 9932910 = {
-	name = "Kastubilion"
+	name = "Кастубилион"
 	culture = shadow_valyrian
 }
 9932911 = {
-	name = "Lidunnamoru"
+	name = "Лидуннамору"
 	culture = shadow_valyrian
 }
 9932912 = {
-	name = "Mulagon"
+	name = "Мулагон"
 	culture = shadow_valyrian
 }
 9932913 = {
-	name = "Multhae"
+	name = "Мултэ"
 	culture = shadow_valyrian
 }
 9932914 = {
-	name = "Nabona"
+	name = "Набона"
 	culture = shadow_valyrian
 }
 9932915 = {
-	name = "Nabonius"
+	name = "Набониус"
 	culture = shadow_valyrian
 }
 9932916 = {
-	name = "Nabukbi"
+	name = "Набукби"
 	culture = shadow_valyrian
 }
 9932917 = {
-	name = "Namtaros"
+	name = "Намтарос"
 	culture = shadow_valyrian
 }

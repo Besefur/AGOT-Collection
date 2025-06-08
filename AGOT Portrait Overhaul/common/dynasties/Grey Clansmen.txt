@@ -1,82 +1,82 @@
-#Non-canon Houses for random
+#Некэноничные Дома для случайных
 
 20016037 = {
-    name = "Nganas"
+    name = "Нганас"
     culture = grey_waste
 }
 20016038 = {
-    name = "Kharatak"
+    name = "Харатак"
     culture = grey_waste
 }
 20016039 = {
-    name = "Tundri"
+    name = "Тундри"
     culture = grey_waste
 }
 20016040 = {
-    name = "Pustosha"
+    name = "Пустоша"
     culture = grey_waste
 }
 20016041 = {
-    name = "Moroz"
+    name = "Мороз"
     culture = grey_waste
 }
 20016042 = {
-    name = "Yukagir"
+    name = "Юкагир"
     culture = grey_waste
 }
 20016043 = {
-    name = "Khanty"
+    name = "Ханты"
     culture = grey_waste
 }
 20016044 = {
-    name = "Zimni"
+    name = "Зимни"
     culture = grey_waste
 }
 20016045 = {
-    name = "Sivak"
+    name = "Сивак"
     culture = grey_waste
 }
 20016046 = {
-    name = "Chukchi"
+    name = "Чукчи"
     culture = grey_waste
 }
 20016047 = {
-    name = "Tungus"
+    name = "Тунгус"
     culture = grey_waste
 }
 20016048 = {
-    name = "Uryupnik"
+    name = "Урюпник"
     culture = grey_waste
 }
 20016049 = {
-    name = "Yasenmor"
+    name = "Ясенмор"
     culture = grey_waste
 }
 20016050 = {
-    name = "Nanai"
+    name = "Нанай"
     culture = grey_waste
 }
 20016051 = {
-    name = "Ulch"
+    name = "Ульч"
     culture = grey_waste
 }
 20016052 = {
-    name = "Taygazhar"
+    name = "Тайгажар"
     culture = grey_waste
 }
 20016053 = {
-    name = "Oroch"
+    name = "Ороч"
     culture = grey_waste
 }
 20016054 = {
-    name = "Negidal"
+    name = "Негидал"
     culture = grey_waste
 }
 20016055 = {
-    name = "Nivkh"
+    name = "Нивх"
     culture = grey_waste
 }
 20016056 = {
-    name = "Mertvokh"
+    name = "Мертвох"
     culture = grey_waste
 }

@@ -1,127 +1,124 @@
-#Non-canon Houses for random
-
 90101000 = {
-	name = "mo Ullhaera"
+	name = "мо Уллхаэра"
 	culture = bhorashi
 }
 90101001 = {
-	name = "mo Nakonys"
+	name = "мо Наконыс"
 	culture = bhorashi
 }
 90101002 = {
-	name = "mo Grazdhaena"
+	name = "мо Граздхаэна"
 	culture = bhorashi
 }
 90101026 = {
-	name = "zo Galea"
+	name = "зо Галеа"
 	culture = bhorashi
 }
 90101027 = {
-	name = "zo Mazonerys"
+	name = "зо Мазонерыс"
 	culture = bhorashi
 }
 90101028 = {
-	name = "zo Dracarys"
+	name = "зо Дракарыс"
 	culture = bhorashi
 }
 90101050 = {
-	name = "zo Rhaelon"
+	name = "зо Раэлон"
 	culture = bhorashi
 }
 90101051 = {
-	name = "na Laerio"
+	name = "на Лаэрио"
 	culture = bhorashi
 }
 90101052 = {
-	name = "zo Naqerys"
+	name = "зо Накерыс"
 	culture = bhorashi
 }
 90101053 = {
-	name = "zo Hasontys"
+	name = "зо Хазонтыс"
 	culture = bhorashi
 }
 90101054 = {
-	name = "na Shezdae"
+	name = "на Шездаэ"
 	culture = bhorashi
 }
 90101055 = {
-	name = "zo Rella"
+	name = "зо Релла"
 	culture = bhorashi
 }
 90101056 = {
-	name = "mo Yhiconys"
+	name = "мо Йиконыс"
 	culture = bhorashi
 }
 90101057 = {
-	name = "zo Ilayra"
+	name = "зо Илайра"
 	culture = bhorashi
 }
 90101058 = {
-	name = "mo Rhaego"
+	name = "мо Раэго"
 	culture = bhorashi
 }
 90101059 = {
-	name = "mo Aellar"
+	name = "мо Аэллар"
 	culture = bhorashi
 }
 90101060 = {
-	name = "na Qundegon"
+	name = "на Кундегон"
 	culture = bhorashi
 }
 90101061 = {
-	name = "na Zindehegon"
+	name = "на Зиндехегон"
 	culture = bhorashi
 }
 90101062 = {
-	name = "mo Zokaerys"
+	name = "мо Зокаэрыс"
 	culture = bhorashi
 }
 90101063 = {
-	name = "na Dhaero"
+	name = "на Дхаэро"
 	culture = bhorashi
 }
 90101064 = {
-	name = "mo Lilonys"
+	name = "мо Лилоныс"
 	culture = bhorashi
 }
 90101065 = {
-	name = "na Bhorashai"
+	name = "на Бхорашай"
 	culture = bhorashi
 }
 90101066 = {
-	name = "na Yhorae"
+	name = "на Йораэ"
 	culture = bhorashi
 }
 90101067 = {
-	name = "zo Lazoneon"
+	name = "зо Лазонеон"
 	culture = bhorashi
 }
 90101068 = {
-	name = "na Karneon"
+	name = "на Карнеон"
 	culture = bhorashi
 }
 90101069 = {
-	name = "mo Shaezzon"
+	name = "мо Шаэззон"
 	culture = bhorashi
 }
 90101070 = {
-	name = "zo Puhaerys"
+	name = "зо Пухаэрыс"
 	culture = bhorashi
 }
 90101071 = {
-	name = "na Toloza"
+	name = "на Толоза"
 	culture = bhorashi
 }
 90101072 = {
-	name = "zo Mantaera"
+	name = "зо Мантаэра"
 	culture = bhorashi
 }
 90101073 = {
-	name = "zo Ghiscaera"
+	name = "зо Гисцаэра"
 	culture = bhorashi
 }
 90101074 = {
-	name = "zo Yunkerys"
+	name = "зо Юнкерыс"
 	culture = bhorashi
 }
-

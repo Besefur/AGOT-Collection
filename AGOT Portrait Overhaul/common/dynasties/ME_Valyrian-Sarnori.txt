@@ -1,76 +1,76 @@
 9956804 = {
-	name = "Godhaena"
+	name = "Годхаэна"
 	culture = valyrian_sarnori
 }
 99568995 = {
-	name = "Gajjor"
+	name = "Гаджор"
 	culture = valyrian_sarnori
 }
 9956806 = {
-	name = "Jariwae"
+	name = "Джариваэ"
 	culture = valyrian_sarnori
 }
 9956807 = {
-	name = "Kamdaros"
+	name = "Камдарос"
 	culture = valyrian_sarnori
 }
 9956808 = {
-	name = "Kotakeon"
+	name = "Котакеон"
 	culture = valyrian_sarnori
 }
 9956809 = {
-	name = "Macweon"
+	name = "Маквеон"
 	culture = valyrian_sarnori
 }
 9956810 = {
-	name = "Nayakys"
+	name = "Наякис"
 	culture = valyrian_sarnori
 }
 9956811 = {
-	name = "Pathakys"
+	name = "Патакис"
 	culture = valyrian_sarnori
 }
 9956812 = {
-	name = "Rathodon"
+	name = "Ратодон"
 	culture = valyrian_sarnori
 }
 9956813 = {
-	name = "Sutharos"
+	name = "Сутхарос"
 	culture = valyrian_sarnori
 }
 9956814 = {
-	name = "Sheladeon"
+	name = "Шеладеон"
 	culture = valyrian_sarnori
 }
 995681995 = {
-	name = "Tripathys"
+	name = "Трипатис"
 	culture = valyrian_sarnori
 }
 9956816 = {
-	name = "Thakarys"
+	name = "Такарис"
 	culture = valyrian_sarnori
 }
 9956817 = {
-	name = "Visaro"
+	name = "Висаро"
 	culture = valyrian_sarnori
 }
 9956818 = {
-	name = "Bhuvaera"
+	name = "Бхуваэра"
 	culture = valyrian_sarnori
 }
 9956819 = {
-	name = "Juthano"
+	name = "Джутано"
 	culture = valyrian_sarnori
 }
 9956820 = {
-	name = "Odeara"
+	name = "Одеара"
 	culture = valyrian_sarnori
 }
 9956822 = {
-	name = "Amailys"
+	name = "Амаилис"
 	culture = valyrian_sarnori
 }
 9956823 = {
-	name = "Ashereon"
+	name = "Ашереон"
 	culture = valyrian_sarnori
 }

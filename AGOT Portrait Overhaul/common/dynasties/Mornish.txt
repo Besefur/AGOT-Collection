@@ -1,160 +1,160 @@
 28102000 = {
-    name = "Roshani"
+    name = "Рошани"
     culture = "mornish"
 }
 28102001 = {
-    name = "Zarvand"
+    name = "Зарванд"
     culture = "mornish"
 }
 28102002 = {
-    name = "Yuezhir"
+    name = "Юэжир"
     culture = "mornish"
 }
 28102003 = {
-    name = "Kushani"
+    name = "Кушани"
     culture = "mornish"
 }
 28102004 = {
-    name = "Tajiri"
+    name = "Таджири"
     culture = "mornish"
 }
 28102005 = {
-    name = "Sakkara"
+    name = "Саккара"
     culture = "mornish"
 }
 28102006 = {
-    name = "Yuezho"
+    name = "Юэжо"
     culture = "mornish"
 }
 28102007 = {
-    name = "Kushiroan"
+    name = "Кушироан"
     culture = "mornish"
 }
 28102008 = {
-    name = "Tajimoar"
+    name = "Таджимоар"
     culture = "mornish"
 }
 28102009 = {
-    name = "Sakarayev"
+    name = "Сакараев"
     culture = "mornish"
 }
 28102010 = {
-    name = "Yuezhak"
+    name = "Юэжак"
     culture = "mornish"
 }
 28102011 = {
-    name = "Kushano"
+    name = "Кушано"
     culture = "mornish"
 }
 28102012 = {
-    name = "Tajibek"
+    name = "Таджибек"
     culture = "mornish"
 }
 28102013 = {
-    name = "Sakalo"
+    name = "Сакало"
     culture = "mornish"
 }
 28102014 = {
-    name = "Yuezhan"
+    name = "Юэжан"
     culture = "mornish"
 }
 28102015 = {
-    name = "Kushim"
+    name = "Кушим"
     culture = "mornish"
 }
 28102016 = {
-    name = "Tajit"
+    name = "Таджит"
     culture = "mornish"
 }
 28102017 = {
-    name = "Sakhar"
+    name = "Сахар"
     culture = "mornish"
 }
 28102018 = {
-    name = "Yuezharr"
+    name = "Юэжарр"
     culture = "mornish"
 }
 28102019 = {
-    name = "Kushanka"
+    name = "Кушанка"
     culture = "mornish"
 }
 28102020 = {
-    name = "Tajifar"
+    name = "Таджифар"
     culture = "mornish"
 }
 28102021 = {
-    name = "Sakatali"
+    name = "Сакатали"
     culture = "mornish"
 }
 28102022 = {
-    name = "Yuezhbek"
+    name = "Юэжбек"
     culture = "mornish"
 }
 28102023 = {
-    name = "Kusharbek"
+    name = "Кушарбек"
     culture = "mornish"
 }
 28102024 = {
-    name = "Tajin"
+    name = "Таджин"
     culture = "mornish"
 }
 28102025 = {
-    name = "Sakmotar"
+    name = "Сакмотар"
     culture = "mornish"
 }
 28102026 = {
-    name = "Yuelarro"
+    name = "Юэларро"
     culture = "mornish"
 }
 28102027 = {
-    name = "Kushintarr"
+    name = "Кушинтарр"
     culture = "mornish"
 }
 28102028 = {
-    name = "Tajkarr"
+    name = "Таджкарр"
     culture = "mornish"
 }
 28102029 = {
-    name = "Sakar"
+    name = "Сакар"
     culture = "mornish"
 }
 28102030 = {
-    name = "Yuezhist"
+    name = "Юэжист"
     culture = "mornish"
 }
 28102031 = {
-    name = "Kushanosk"
+    name = "Кушаноск"
     culture = "mornish"
 }
 28102032 = {
-    name = "Tajistai"
+    name = "Таджистаи"
     culture = "mornish"
 }
 28102033 = {
-    name = "Sakkoich"
+    name = "Саккоич"
     culture = "mornish"
 }
 28102034 = {
-    name = "Yuezhanoich"
+    name = "Юэжаноич"
     culture = "mornish"
 }
 28102035 = {
-    name = "Kushanoitch"
+    name = "Кушанойтч"
     culture = "mornish"
 }
 28102036 = {
-    name = "Tajimoich"
+    name = "Таджимоич"
     culture = "mornish"
 }
 28102037 = {
-    name = "Sakaristi"
+    name = "Сакаристи"
     culture = "mornish"
 }
 28102038 = {
-    name = "Yuezharo"
+    name = "Юэжаро"
     culture = "mornish"
 }
 28102039 = {
-    name = "Kusharayev"
+    name = "Кушараев"
     culture = "mornish"
 }

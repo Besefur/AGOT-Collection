@@ -1,160 +1,160 @@
 2210000 = {
-    name = "Aerynheart"
+    name = "Эринхарт"
     culture = "andavosi"
 }
 2210001 = {
-    name = "Velaryos"
+    name = "Велариос"
     culture = "andavosi"
 }
 2210002 = {
-    name = "Raelen"
+    name = "Раэлен"
     culture = "andavosi"
 }
 2210003 = {
-    name = "Aeonblade"
+    name = "Эонблейд"
     culture = "andavosi"
 }
 2210004 = {
-    name = "Nyriael"
+    name = "Нириаэль"
     culture = "andavosi"
 }
 2210005 = {
-    name = "Stargyre"
+    name = "Старгайр"
     culture = "andavosi"
 }
 2210006 = {
-    name = "Fyron"
+    name = "Файрон"
     culture = "andavosi"
 }
 2210007 = {
-    name = "Moonaerys"
+    name = "Мунаэрис"
     culture = "andavosi"
 }
 2210008 = {
-    name = "Taelon"
+    name = "Таэлон"
     culture = "andavosi"
 }
 2210009 = {
-    name = "Dragonari"
+    name = "Драгонари"
     culture = "andavosi"
 }
 22100010 = {
-    name = "Styxarr"
+    name = "Стиксарр"
     culture = "andavosi"
 }
 22100011 = {
-    name = "Silverglade"
+    name = "Сильверглейд"
     culture = "andavosi"
 }
 22100012 = {
-    name = "Sunyrion"
+    name = "Санрион"
     culture = "andavosi"
 }
 22100013 = {
-    name = "Bladeael"
+    name = "Блейдэль"
     culture = "andavosi"
 }
 22100014 = {
-    name = "Flinthor"
+    name = "Флинтор"
     culture = "andavosi"
 }
 22100015 = {
-    name = "Wyrionshade"
+    name = "Вирионшейд"
     culture = "andavosi"
 }
 22100016 = {
-    name = "Blaezon"
+    name = "Блэзон"
     culture = "andavosi"
 }
 22100017 = {
-    name = "Ironhearth"
+    name = "Айронхарт"
     culture = "andavosi"
 }
 22100018 = {
-    name = "Bosong"
+    name = "Босонг"
     culture = "andavosi"
 }
 22100019 = {
-    name = "Golnari"
+    name = "Голнари"
     culture = "andavosi"
 }
 22100020 = {
-    name = "Sparroswael"
+    name = "Спарросуэл"
     culture = "andavosi"
 }
 22100021 = {
-    name = "Duskari"
+    name = "Даскари"
     culture = "andavosi"
 }
 22100022 = {
-    name = "Lazeari"
+    name = "Лазиари"
     culture = "andavosi"
 }
 22100023 = {
-    name = "Maelson"
+    name = "Мэлсон"
     culture = "andavosi"
 }
 22100024 = {
-    name = "Darstyr"
+    name = "Дарстир"
     culture = "andavosi"
 }
 22100025 = {
-    name = "Spaerrow"
+    name = "Сперроу"
     culture = "andavosi"
 }
 22100026 = {
-    name = "Hawkari"
+    name = "Хокари"
     culture = "andavosi"
 }
 22100027 = {
-    name = "Rivron"
+    name = "Риврон"
     culture = "andavosi"
 }
 22100028 = {
-    name = "Sorreni"
+    name = "Соррени"
     culture = "andavosi"
 }
 22100029 = {
-    name = "Thundraelon"
+    name = "Тандрэлон"
     culture = "andavosi"
 }
 22100030 = {
-    name = "Meadowpeak"
+    name = "Медоупик"
     culture = "andavosi"
 }
 22100031 = {
-    name = "Thornael"
+    name = "Торнаэль"
     culture = "andavosi"
 }
 22100032 = {
-    name = "Dynaris"
+    name = "Динарис"
     culture = "andavosi"
 }
 22100033 = {
-    name = "Raeltin"
+    name = "Рэлтин"
     culture = "andavosi"
 }
 22100034 = {
-    name = "Highlaeke"
+    name = "Хайлик"
     culture = "andavosi"
 }
 22100035 = {
-    name = "Maerri"
+    name = "Мэрри"
     culture = "andavosi"
 }
 22100036 = {
-    name = "Eranyi"
+    name = "Эрани"
     culture = "andavosi"
 }
 22100037 = {
-    name = "Redbaerron"
+    name = "Рэдберрон"
     culture = "andavosi"
 }
 22100038 = {
-    name = "Zaelorr"
+    name = "Зэлорр"
     culture = "andavosi"
 }
 22100039 = {
-    name = "Barrborr"
+    name = "Баррборр"
     culture = "andavosi"
 }

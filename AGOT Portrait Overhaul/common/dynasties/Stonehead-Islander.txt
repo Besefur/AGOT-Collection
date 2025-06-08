@@ -1,105 +1,104 @@
 13100000 = {
-	name = "Alcafara"
+	name = "Алкафара"
 	culture = stonehead-islander
 }
 13100001 = {
-	name = "Bolamares"
+	name = "Боламарес"
 	culture = stonehead-islander
 }
 13100002 = {
-	name = "Cantancho
-"
+	name = "Кантачо"
 	culture = stonehead-islander
 }
 13100003 = {
-	name = "Fulancio"
+	name = "Фуланчо"
 	culture = stonehead-islander
 }
 13100004 = {
-	name = "Huelayado"
+	name = "Хуэлаядо"
 	culture = stonehead-islander
 }
 13100005 = {
-	name = "Jandrova" #canon
+	name = "Джандрова" #canon
 	culture = stonehead-islander
 }
 13100006 = {
-	name = "Kotabano" #nc
+	name = "Котабано" #nc
 	culture = stonehead-islander
 }
 13100007 = {
-	name = "Xanto" #nc
+	name = "Ксанто" #nc
 	culture = stonehead-islander
 }
 13100008 = {
-	name = "Djocantillo" #nc
+	name = "Джокантильо" #nc
 	culture = stonehead-islander
 }
 13100009 = {
-	name = "Vacarojo" #nc
+	name = "Вакарохо" #nc
 	culture = stonehead-islander
 }
 13100010 = {
-	name = "Gabotico" #nc
+	name = "Габотико" #nc
 	culture = stonehead-islander
 }
 13100011 = {
-	name = "Yambi" #nc
+	name = "Йамби" #nc
 	culture = stonehead-islander
 }
 13100012 = {
-	name = "Jarrif" #nc
+	name = "Джарриф" #nc
 	culture = stonehead-islander
 }
 13100013 = {
-	name = "Zanzi" #nc
+	name = "Занзи" #nc
 	culture = stonehead-islander
 }
 13100014 = {
-	name = "Stone" #nc
+	name = "Стоун" #nc
 	culture = stonehead-islander
 }
 13100015 = {
-	name = "Lhorar" #nc
+	name = "Лхорар" #nc
 	culture = stonehead-islander
 }
 13100016 = {
-	name = "Santaxa" #nc
+	name = "Сантакса" #nc
 	culture = stonehead-islander
 }
 13100017 = {
-	name = "Tolasho" #nc
+	name = "Толашо" #nc
 	culture = stonehead-islander
 }
 13100018 = {
-	name = "Rogallo" #nc
+	name = "Рогальо" #nc
 	culture = stonehead-islander
 }
 13100019 = {
-	name = "Quentynzo" #nc
+	name = "Квентинзо" #nc
 	culture = stonehead-islander
 }
 13100020 = {
-	name = "Wyllarion" #nc
+	name = "Вилларион" #nc
 	culture = stonehead-islander
 }
 13100021 = {
-	name = "Caelos" #nc
+	name = "Кайлос" #nc
 	culture = stonehead-islander
 }
 13100022 = {
-	name = "Jovar" #nc
+	name = "Джовар" #nc
 	culture = stonehead-islander
 }
 13100023 = {
-	name = "Zalmero" #nc
+	name = "Залмеро" #nc
 	culture = stonehead-islander
 }
 13100024 = {
-	name = "Alcazar" #nc
+	name = "Алказар" #nc
 	culture = stonehead-islander
 }
 13100025 = {
-	name = "Urian" #nc
+	name = "Уриан" #nc
 	culture = stonehead-islander
 }

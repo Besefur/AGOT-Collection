@@ -1,228 +1,228 @@
 23102000 = {
-    name = "Wargwaelf"
+    name = "Варгвэльф"
     culture = "axeman"
 }
 23102001 = {
-    name = "Sahaerion"
+    name = "Сахаэрион"
     culture = "axeman"
 }
 23102002 = {
-    name = "Reindaer"
+    name = "Рэйндар"
     culture = "axeman"
 }
 23102003 = {
-    name = "Fyrstdaen"
+    name = "Фирстдэн"
     culture = "axeman"
 }
 23102004 = {
-    name = "Ravynaexe"
+    name = "Равинэкс"
     culture = "axeman"
 }
 23102005 = {
-    name = "Malorsen"
+    name = "Малорасен"
     culture = "axeman"
 }
 23102006 = {
-    name = "Gotyrdaenes"
+    name = "Готирдэнэс"
     culture = "axeman"
 }
 23102007 = {
-    name = "Irrahosh"
+    name = "Иррахош"
     culture = "axeman"
 }
 23102008 = {
-    name = "Thaider"
+    name = "Тайдер"
     culture = "axeman"
 }
 23102009 = {
-    name = "Maeloris"
+    name = "Мэлорис"
     culture = "axeman"
 }
 23102010 = {
-    name = "Daegon"
+    name = "Дэгон"
     culture = "axeman"
 }
 23102011 = {
-    name = "Fyrstsen"
+    name = "Фирстсен"
     culture = "axeman"
 }
 23102012 = {
-    name = "Skaeyr"
+    name = "Скэйр"
     culture = "axeman"
 }
 23102013 = {
-    name = "Irrokaeros"
+    name = "Иррокаэрос"
     culture = "axeman"
 }
 23102014 = {
-    name = "Sahaeryf"
+    name = "Сахаэриф"
     culture = "axeman"
 }
 23102015 = {
-    name = "Faeskoryos"
+    name = "Фэскориос"
     culture = "axeman"
 }
 23102016 = {
-    name = "Irrahnott"
+    name = "Иррахнотт"
     culture = "axeman"
 }
 23102017 = {
-    name = "Sesaedyr"
+    name = "Сэсэдир"
     culture = "axeman"
 }
 23102018 = {
-    name = "Gyldenndaen"
+    name = "Гилденндэн"
     culture = "axeman"
 }
 23102019 = {
-    name = "Irrahaedyr"
+    name = "Иррахэдир"
     culture = "axeman"
 }
 23102020 = {
-    name = "Valyrodaene"
+    name = "Валиродэнэ"
     culture = "axeman"
 }
 23102021 = {
-    name = "Treodaene"
+    name = "Трэодэнэ"
     culture = "axeman"
 }
 23102022 = {
-    name = "Aengilwerre"
+    name = "Энгилверрэ"
     culture = "axeman"
 }
 23102023 = {
-    name = "Skymyrios"
+    name = "Скимириос"
     culture = "axeman"
 }
 23102024 = {
-    name = "Gotyrdaene"
+    name = "Готирдэнэ"
     culture = "axeman"
 }
 23102025 = {
-    name = "Solhaekyr"
+    name = "Солхэкыр"
     culture = "axeman"
 }
 23102026 = {
-    name = "Ravaerios"
+    name = "Раваэриос"
     culture = "axeman"
 }
 23102027 = {
-    name = "Malorsithe"
+    name = "Малорасит"
     culture = "axeman"
 }
 23102028 = {
-    name = "Tundaer"
+    name = "Тундар"
     culture = "axeman"
 }
 23102029 = {
-    name = "Irrahthaeis"
+    name = "Иррахтэис"
     culture = "axeman"
 }
 23102030 = {
-    name = "Thordeir"
+    name = "Тордэйр"
     culture = "axeman"
 }
 23102031 = {
-    name    = "Wudsmaen"
+    name    = "Вудсмэн"
     culture = "axeman"
 }
 23102032 = {
-    name    = "Gotysson"
+    name    = "Готиссон"
     culture = "axeman"
 }
 23102033 = {
-    name    = "Irrahfraer"
+    name    = "Иррафраэр"
     culture = "axeman"
 }
 23102034 = {
-    name    = "Krakynhaerth"
+    name    = "Кракинхэрт"
     culture = "axeman"
 }
 23102035 = {
-    name    = "Jaeger"
+    name    = "Йаэгер"
     culture = "axeman"
 }
 23102036 = {
-    name    = "Rahyr"
+    name    = "Рахир"
     culture = "axeman"
 }
 23102037 = {
-    name    = "Oxblaer"
+    name    = "Оксблэр"
     culture = "axeman"
 }
 23102038 = {
-    name    = "Nottaeris"
+    name    = "Ноттэрис"
     culture = "axeman"
 }
 23102039 = {
-    name    = "Dunedaer"
+    name    = "Дунэдар"
     culture = "axeman"
 }
 23102040 = {
-    name    = "Irraerys"
+    name    = "Ирраэрис"
     culture = "axeman"
 }
 23102041 = {
-    name    = "Himinndaene"
+    name    = "Гиминндэнэ"
     culture = "axeman"
 }
 23102042 = {
-    name    = "Halrune"
+    name    = "Халрунэ"
     culture = "axeman"
 }
 23102043 = {
-    name    = "Treofraer"
+    name    = "Трэофраэр"
     culture = "axeman"
 }
 23102044 = {
-    name    = "Irrahaff"
+    name    = "Иррахэфф"
     culture = "axeman"
 }
 23102045 = {
-    name    = "Rosehaerin"
+    name    = "Розэхэрин"
     culture = "axeman"
 }
 23102046 = {
-    name    = "Maelkondi"
+    name    = "Мэлконди"
     culture = "axeman"
 }
 23102047 = {
-    name    = "Treosangr"
+    name    = "Трэосангр"
     culture = "axeman"
 }
 23102048 = {
-    name    = "Irrahjagaer"
+    name    = "Иррахйагаэр"
     culture = "axeman"
 }
 23102049 = {
-    name    = "Teigaer"
+    name    = "Тэйгар"
     culture = "axeman"
 }
 23102050 = {
-    name    = "Sahaileys"
+    name    = "Сахаилэйс"
     culture = "axeman"
 }
 23102051 = {
-    name    = "Scaehorn"
+    name    = "Скэхорн"
     culture = "axeman"
 }
 23102052 = {
-    name    = "Irraxaetyr"
+    name    = "Ирраксэтир"
     culture = "axeman"
 }
 23102053 = {
-    name    = "Solhaeukr"
+    name    = "Солхэукр"
     culture = "axeman"
 }
 23102054 = {
-    name    = "Malorsun"
+    name    = "Малорасун"
     culture = "axeman"
 }
 23102055 = {
-    name    = "Treofraer"
+    name    = "Трэофраэр"
     culture = "axeman"
 }
 23102056 = {
-    name    = "Styrdaene"
+    name    = "Стирдэнэ"
     culture = "axeman"
 }

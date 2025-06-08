@@ -1,126 +1,126 @@
 #Non-canon Houses for random
 
 70101000 = {
-    name = "Broggnar"
+    name = "Броггнар"
     culture = islander
 }
 70101001 = {
-    name = "Cullthorn"
+    name = "Каллторн"
     culture = islander
 }
 70101002 = {
-    name = "Dralokar"
+    name = "Дралокар"
     culture = islander
 }
 70101003 = {
-    name = "Eleogson"
+    name = "Элеогсон"
     culture = islander
 }
 70101004 = {
-    name = "Grothgar"
+    name = "Гротгар"
     culture = islander
 }
 70101005 = {
-    name = "Jothran"
+    name = "Джотран"
     culture = islander
 }
 70101006 = {
-    name = "Krullborn"
+    name = "Круллборн"
     culture = islander
 }
 70101007 = {
-    name = "Moggothos"
+    name = "Могготтос"
     culture = islander
 }
 70101008 = {
-    name = "Quorthammer"
+    name = "Квортхаммер"
     culture = islander
 }
 70101009 = {
-    name = "Sogolothar"
+    name = "Соголотхар"
     culture = islander
 }
 70101010 = {
-    name = "Tumosher"
+    name = "Тумошер"
     culture = islander
 }
 70101011 = {
-    name = "Ulfblade"
+    name = "Ульфблейд"
     culture = islander
 }
 70101012 = {
-    name = "Ygonhart"
+    name = "Игонхарт"
     culture = islander
 }
 70101013 = {
-    name = "Torrsheld"
+    name = "Торршельд"
     culture = islander
 }
 70101014 = {
-    name = "Betharionixar"
+    name = "Бетарьониксар"
     culture = islander
 }
 70101015 = {
-    name = "Cossomararx"
+    name = "Коссомараркс"
     culture = islander
 }
 70101016 = {
-    name = "Frynnelisovixyr"
+    name = "Фриннелисовиксир"
     culture = islander
 }
 70101017 = {
-    name = "Gylorwynskixar"
+    name = "Гильорвинскиксар"
     culture = islander
 }
 70101018 = {
-    name = "Izembarrexyr"
+    name = "Изембаррексир"
     culture = islander
 }
 70101019 = {
-    name = "Meralysson"
+    name = "Мералиссон"
     culture = islander
 }
 70101020 = {
-    name = "Lannaroskithar"
+    name = "Ланнароскитхар"
     culture = islander
 }
 70101021 = {
-    name = "Ummarisothor"
+    name = "Уммарисотор"
     culture = islander
 }
 70101022 = {
-    name = "Tagganaris"
+    name = "Тагганарис"
     culture = islander
 }
 70101023 = {
-    name = "Tormar"
+    name = "Тормар"
     culture = islander
 }
 70101024 = {
-    name = "Bellegereon"
+    name = "Белледжерон"
     culture = islander
 }
 70101025 = {
-    name = "Deniathorn"
+    name = "Дениаторн"
     culture = islander
 }
 70101026 = {
-    name = "Zialor"
+    name = "Зиалор"
     culture = islander
 }
 70101027 = {
-    name = "Tagganarionixar"
+    name = "Тагганариониксар"
     culture = islander
 }
 70101028 = {
-    name = "Tormaroskexyr"
+    name = "Тормароскексир"
     culture = islander
 }
 70101029 = {
-    name = "Zialorovithar"
+    name = "Зиалоровитар"
     culture = islander
 }
 70101030 = {
-    name = "Xeleogstaraq"
+    name = "Кселеогстарак"
     culture = islander
 }

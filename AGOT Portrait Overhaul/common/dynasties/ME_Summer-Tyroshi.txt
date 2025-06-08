@@ -1,72 +1,72 @@
 99930208 = {
-	name = "Xidarys"
+	name = "Ксидарис"
 	culture = summer_tyroshi
 }
 99930209 = {
-	name = "Quhori"
+	name = "Квори"
 	culture = summer_tyroshi
 }
 99930210 = {
-	name = "Qudar"
+	name = "Кудар"
 	culture = summer_tyroshi
 }
 99930211 = {
-	name = "Adayni"
+	name = "Адайни"
 	culture = summer_tyroshi
 }
 99930212 = {
-	name = "Odaryha"
+	name = "Одариха"
 	culture = summer_tyroshi
 }
 99930213 = {
-	name = "Ahori"
+	name = "Ахори"
 	culture = summer_tyroshi
 }
 99930214 = {
-	name = "Ruanis"
+	name = "Руанис"
 	culture = summer_tyroshi
 }
 99930215 = {
-	name = "Raddars"
+	name = "Раддарс"
 	culture = summer_tyroshi
 }
 99930216 = {
-	name = "Qyndona"
+	name = "Квиндона"
 	culture = summer_tyroshi
 }
 99930217 = {
-	name = "Lyndona"
+	name = "Линдона"
 	culture = summer_tyroshi
 }
 99930218 = {
-	name = "Quaydona"
+	name = "Квайдона"
 	culture = summer_tyroshi
 }
 99930219 = {
-	name = "Xaharis"
+	name = "Ксахарис"
 	culture = summer_tyroshi
 }
 99930220 = {
-	name = "Kaharis"
+	name = "Кахарис"
 	culture = summer_tyroshi
 }
 99930221 = {
-	name = "Lasaharis"
+	name = "Ласахарис"
 	culture = summer_tyroshi
 }
 99930222 = {
-	name = "Qasaharis"
+	name = "Квасахарис"
 	culture = summer_tyroshi
 }
 99930223 = {
-	name = "Ohasaris"
+	name = "Охазарис"
 	culture = summer_tyroshi
 }
 99930224 = {
-	name = "Quasoris"
+	name = "Квазорис"
 	culture = summer_tyroshi
 }
 99930225 = {
-	name = "Xhasoris"
+	name = "Ксазорис"
 	culture = summer_tyroshi
 }

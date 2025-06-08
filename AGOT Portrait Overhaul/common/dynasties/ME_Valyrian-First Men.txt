@@ -1,164 +1,164 @@
 99881854 = {
-	name = "Finn"
+	name = "Финн"
 	culture = valyrian_northman
 }
 99881855 = {
-	name = "Winterflame"
+	name = "Винтерфлейм"
 	culture = valyrian_northman
 }
 99881856 = {
-	name = "Ashes"
+	name = "Эшес"
 	culture = valyrian_northman
 }
 99881857 = {
-	name = "Heatshire"
+	name = "Хитшир"
 	culture = valyrian_northman
 }
 99881858 = {
-	name = "Winterwing"
+	name = "Винтервинг"
 	culture = valyrian_northman
 }
 99881859 = {
-	name = "Frostflame"
+	name = "Фростфлейм"
 	culture = valyrian_northman
 }
 99881860 = {
-	name = "Snowfire"
+	name = "Сноуфайр"
 	culture = valyrian_northman
 }
 99881861 = {
-	name = "Frostwing"
+	name = "Фроствинг"
 	culture = valyrian_northman
 }
 99881862 = {
-	name = "Whiteflame"
+	name = "Вайтфлейм"
 	culture = valyrian_northman
 }
 99881863 = {
-	name = "Hotsteel"
+	name = "Хотстил"
 	culture = valyrian_northman
 }
 99881864 = {
-	name = "Firewhisk"
+	name = "Файрвиск"
 	culture = valyrian_northman
 }
 99881865 = {
-	name = "Flyfire"
+	name = "Флайфайр"
 	culture = valyrian_northman
 }
 99881866 = {
-	name = "Coldflames"
+	name = "Колдфлеймс"
 	culture = valyrian_northman
 }
 99881867 = {
-	name = "Coldhands"
+	name = "Колдхэндс"
 	culture = valyrian_northman
 }
 99881868 = {
-	name = "Scorchtimber"
+	name = "Скорчтимбер"
 	culture = valyrian_northman
 }
 99881869 = {
-	name = "Ice Bow"
+	name = "Айс Боу"
 	culture = valyrian_northman
 }
 99881870 = {
-	name = "Flintareon"
+	name = "Флинтареон"
 	culture = valyrian_northman
 }
 99881871 = {
-	name = "Cravyon"
+	name = "Крейвьон"
 	culture = valyrian_northman
 }
 99881872 = {
-	name = "Manderfall"
+	name = "Мандерфолл"
 	culture = valyrian_northman
 }
 99881873 = {
-	name = "Lavarivers"
+	name = "Лавариверс"
 	culture = valyrian_northman
 }
 99881874 = {
-	name = "Sanderon"
+	name = "Сандерон"
 	culture = valyrian_northman
 }
 99881875 = {
-	name = "Direon"
+	name = "Дайреон"
 	culture = valyrian_northman
 }
 99881876 = {
-	name = "Loneflame"
+	name = "Лоунфлейм"
 	culture = valyrian_northman
 }
 99881877 = {
-	name = "Manatheon"
+	name = "Манатеон"
 	culture = valyrian_northman
 }
 99881878 = {
-	name = "Firefield"
+	name = "Файрфилд"
 	culture = valyrian_northman
 }
 99881879 = {
-	name = "Winstark"
+	name = "Винстарк"
 	culture = valyrian_northman
 }
 99881880 = {
-	name = "Burner"
+	name = "Бёрнер"
 	culture = valyrian_northman
 }
 99881882 = {
-	name = "Heats"
+	name = "Хитс"
 	culture = valyrian_northman
 }
 99881883 = {
-	name = "LavaWell"
+	name = "ЛаваВелл"
 	culture = valyrian_northman
 }
 99881884 = {
-	name = "Starfront"
+	name = "Старфронт"
 	culture = valyrian_northman
 }
 99881885 = {
-	name = "Windmoor"
+	name = "Виндмур"
 	culture = valyrian_northman
 }
 99881886 = {
-	name = "Underton"
+	name = "Андертон"
 	culture = valyrian_northman
 }
 99881887 = {
-	name = "Molten"
+	name = "Молтен"
 	culture = valyrian_northman
 }
 99881888 = {
-	name = "Lockheed"
+	name = "Локхид"
 	culture = valyrian_northman
 }
 99881889 = {
-	name = "Fireman"
+	name = "Файрмен"
 	culture = valyrian_northman
 }
 99881890 = {
-	name = "Hotfoot"
+	name = "Хотфут"
 	culture = valyrian_northman
 }
 99881891 = {
-	name = "Lavabed"
+	name = "Лавабед"
 	culture = valyrian_northman
 }
 99881892 = {
-	name = "Warmlake"
+	name = "Вормлейк"
 	culture = valyrian_northman
 }
 99881893 = {
-	name = "Firesmith"
+	name = "Файрсмит"
 	culture = valyrian_northman
 }
 99881894 = {
-	name = "Condor"
+	name = "Кондор"
 	culture = valyrian_northman
 }
 99881895 = {
-	name = "Mountainer"
+	name = "Маунтинер"
 	culture = valyrian_northman
 }

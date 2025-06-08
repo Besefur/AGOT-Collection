@@ -1,126 +1,126 @@
 #Non-canon Houses for random
 
 60101000 = {
-    name = "Sandoros"
+    name = "Сандорос"
     culture = summer-rhoynar
 }
 60101001 = {
-    name = "Nyssaqua"
+    name = "Ниссакуа"
     culture = summer-rhoynar
 }
 60101002 = {
-    name = "Valynx"
+    name = "Валинкс"
     culture = summer-rhoynar
 }
 60101003 = {
-    name = "Allyris"
+    name = "Аллирис"
     culture = summer-rhoynar
 }
 60101004 = {
-    name = "Marasyl"
+    name = "Марасил"
     culture = summer-rhoynar
 }
 60101005 = {
-    name = "Tovarro"
+    name = "Товарро"
     culture = summer-rhoynar
 }
 60101006 = {
-    name = "Ulyssor"
+    name = "Улиссор"
     culture = summer-rhoynar
 }
 60101007 = {
-    name = "Daltys"
+    name = "Далтис"
     culture = summer-rhoynar
 }
 60101008 = {
-    name = "Sylvarro"
+    name = "Сильварро"
     culture = summer-rhoynar
 }
 60101009 = {
-    name = "Qhoval"
+    name = "Ковал"
     culture = summer-rhoynar
 }
 60101010 = {
-    name = "Maravo"
+    name = "Мараво"
     culture = summer-rhoynar
 }
 60101011 = {
-    name = "Ryssal"
+    name = "Риссал"
     culture = summer-rhoynar
 }
 60101012 = {
-    name = "Lorandor"
+    name = "Лорандор"
     culture = summer-rhoynar
 }
 60101013 = {
-    name = "Dornys"
+    name = "Дорнис"
     culture = summer-rhoynar
 }
 60101014 = {
-    name = "Vossar"
+    name = "Воссар"
     culture = summer-rhoynar
 }
 60101015 = {
-    name = "Xarion"
+    name = "Ксарион"
     culture = summer-rhoynar
 }
 60101016 = {
-    name = "Sylvor"
+    name = "Сильвор"
     culture = summer-rhoynar
 }
 60101017 = {
-    name = "Nysara"
+    name = "Ниссара"
     culture = summer-rhoynar
 }
 60101018 = {
-    name = "Toriss"
+    name = "Торисс"
     culture = summer-rhoynar
 }
 60101019 = {
-    name = "Meros"
+    name = "Мерос"
     culture = summer-rhoynar
 }
 60101020 = {
-    name = "Xorys"
+    name = "Ксорис"
     culture = summer-rhoynar
 }
 60101021 = {
-    name = "Valarro"
+    name = "Валарро"
     culture = summer-rhoynar
 }
 60101022 = {
-    name = "Zalynor"
+    name = "Залинор"
     culture = summer-rhoynar
 }
 60101023 = {
-    name = "Xandros"
+    name = "Ксандрос"
     culture = summer-rhoynar
 }
 60101024 = {
-    name = "Vallor"
+    name = "Валлор"
     culture = summer-rhoynar
 }
 60101025 = {
-    name = "Rynsar"
+    name = "Ринсар"
     culture = summer-rhoynar
 }
 60101026 = {
-    name = "Xoryn"
+    name = "Ксорин"
     culture = summer-rhoynar
 }
 60101027 = {
-    name = "Darys"
+    name = "Дарис"
     culture = summer-rhoynar
 }
 60101028 = {
-    name = "Zorin"
+    name = "Зорин"
     culture = summer-rhoynar
 }
 60101029 = {
-    name = "Xalyss"
+    name = "Ксалисс"
     culture = summer-rhoynar
 }
 60101030 = {
-    name = "Naros"
+    name = "Нарос"
     culture = summer-rhoynar
 }

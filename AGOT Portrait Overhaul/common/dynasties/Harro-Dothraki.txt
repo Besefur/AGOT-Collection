@@ -1,199 +1,132 @@
 70100000 = {
-	name = "Bharon"
+	name = "Бхарон"
 	culture = harro-dothraki
-
-
 }
 70100001 = {
-	name = "Drogaera"
+	name = "Дрогера"
 	culture = harro-dothraki
-
-
 }
-
 70100002 = {
-	name = "Jhaquonis"
+	name = "Жаквонис"
 	culture = harro-dothraki
-
-
 }
 70100003 = {
-	name = "Temmoe"
+	name = "Тэммэ"
 	culture = harro-dothraki
-
-
 }
 70100004 = {
-	name = "Pakarr"
+	name = "Пакарр"
 	culture = harro-dothraki
-
-
 }
 70100005 = {
-	name = "Jhaqo"
+	name = "Жакко"
 	culture = harro-dothraki
-
-
 }
 70100006 = {
-	name = "Zekkon"
+	name = "Зеккон"
 	culture = harro-dothraki
-
-
 }
 70100007 = {
-	name = "Mengorea"
+	name = "Менгореа"
 	culture = harro-dothraki
-
-
 }
 70100008 = {
-	name = "Horrona"
+	name = "Хорронна"
 	culture = harro-dothraki
-
-
 }
 70100009 = {
-	name = "Onqae"
+	name = "Онкэ"
 	culture = harro-dothraki
-
-
 }
 70100010 = {
-	name = "Temamok"
+	name = "Тэмамок"
 	culture = harro-dothraki
-
-
 }
 70100011 = {
-	name = "Zirqeon"
+	name = "Зиркеон"
 	culture = harro-dothraki
-
-
 }
 70100012 = {
-	name = "Onqeon"
+	name = "Онкеон"
 	culture = harro-dothraki
-
-
 }
 70100013 = {
-	name = "Durkarr"
+	name = "Дуркарр"
 	culture = harro-dothraki
-
-
 }
 70100014 = {
-	name = "Haegarth"
+	name = "Хегарт"
 	culture = harro-dothraki
-
-
 }
 70100015 = {
-	name = "Kovarreon"
+	name = "Коварреон"
 	culture = harro-dothraki
-
-
 }
 70100016 = {
-	name = "Marreo"
+	name = "Маррео"
 	culture = harro-dothraki
-
-
 }
 70100017 = {
-	name = "Raego"
+	name = "Раего"
 	culture = harro-dothraki
-
-
 }
 70100018 = {
-	name = "Khaloros"
+	name = "Халорос"
 	culture = harro-dothraki
-
-
 }
 70100019 = {
-	name = "Zarraqa"
+	name = "Зарракка"
 	culture = harro-dothraki
-
-
 }
 70100020 = {
-	name = "Xaroqo"
+	name = "Ксароко"
 	culture = harro-dothraki
-
-
 }
 70100021 = {
-	name = "Vezqae"
+	name = "Везкэ"
 	culture = harro-dothraki
-
-
 }
 70100022 = {
-	name = "Raekarth"
+	name = "Раекарт"
 	culture = harro-dothraki
-
-
 }
 70100023 = {
-	name = "Kavaro"
+	name = "Каваро"
 	culture = harro-dothraki
-
-
 }
 70100024 = {
-	name = "Qirroq"
+	name = "Киррок"
 	culture = harro-dothraki
-
-
 }
 70100025 = {
-	name = "Jorrok"
+	name = "Джоррок"
 	culture = harro-dothraki
-
-
 }
 70100026 = {
-	name = "Vezorra"
+	name = "Везорра"
 	culture = harro-dothraki
-
-
 }
 70100027 = {
-	name = "Rhaqora"
+	name = "Раккора"
 	culture = harro-dothraki
-
-
 }
 70100028 = {
-	name = "Tharroq"
+	name = "Таррок"
 	culture = harro-dothraki
-
-
 }
 70100029 = {
-	name = "Havarae"
+	name = "Хаварэ"
 	culture = harro-dothraki
-
-
 }
 70100030 = {
-	name = "Zaqaerio"
+	name = "Закаэрио"
 	culture = harro-dothraki
-
-
 }
 70100031 = {
-	name = "Varraqon"
+	name = "Варраккон"
 	culture = harro-dothraki
-
-
 }
 70100032 = {
-	name = "Kavaero"
+	name = "Каваэро"
 	culture = harro-dothraki
-
-
 }

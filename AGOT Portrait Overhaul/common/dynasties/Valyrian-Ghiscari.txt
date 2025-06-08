@@ -1,125 +1,124 @@
 99360000 = {
-	name = "mo Ullhaera"
-	culture = valyrian_ghiscari
+    name = "мо Уллхера"
+    culture = valyrian_ghiscari
 }
 99360001 = {
-	name = "mo Nakonys"
-	culture = valyrian_ghiscari
+    name = "мо Наконис"
+    culture = valyrian_ghiscari
 }
 99360002 = {
-	name = "mo Grazdhaena"
-	culture = valyrian_ghiscari
+    name = "мо Граздхэна"
+    culture = valyrian_ghiscari
 }
 99360026 = {
-	name = "zo Galea"
-	culture = valyrian_ghiscari
+    name = "зо Галеа"
+    culture = valyrian_ghiscari
 }
 99360027 = {
-	name = "zo Mazonerys"
-	culture = valyrian_ghiscari
+    name = "зо Мазонерис"
+    culture = valyrian_ghiscari
 }
 99360028 = {
-	name = "zo Dracarys"
-	culture = valyrian_ghiscari
+    name = "зо Дракарис"
+    culture = valyrian_ghiscari
 }
 99360050 = {
-	name = "zo Rhaelon"
-	culture = valyrian_ghiscari
+    name = "зо Раэлон"
+    culture = valyrian_ghiscari
 }
 99360051 = {
-	name = "na Laerio"
-	culture = valyrian_ghiscari
+    name = "на Лаэрио"
+    culture = valyrian_ghiscari
 }
 99360052 = {
-	name = "zo Naqerys"
-	culture = valyrian_ghiscari
+    name = "зо Накерис"
+    culture = valyrian_ghiscari
 }
 99360053 = {
-	name = "zo Hasontys"
-	culture = valyrian_ghiscari
+    name = "зо Хасонтис"
+    culture = valyrian_ghiscari
 }
 99360054 = {
-	name = "na Shezdae"
-	culture = valyrian_ghiscari
+    name = "на Шездэ"
+    culture = valyrian_ghiscari
 }
 99360055 = {
-	name = "zo Rella"
-	culture = valyrian_ghiscari
+    name = "зо Релла"
+    culture = valyrian_ghiscari
 }
 99360056 = {
-	name = "mo Yhiconys"
-	culture = valyrian_ghiscari
+    name = "мо Йиконис"
+    culture = valyrian_ghiscari
 }
 99360057 = {
-	name = "zo Ilayra"
-	culture = valyrian_ghiscari
+    name = "зо Илайра"
+    culture = valyrian_ghiscari
 }
 99360058 = {
-	name = "mo Rhaego"
-	culture = valyrian_ghiscari
+    name = "мо Раэго"
+    culture = valyrian_ghiscari
 }
 99360059 = {
-	name = "mo Aellar"
-	culture = valyrian_ghiscari
+    name = "мо Аэллар"
+    culture = valyrian_ghiscari
 }
 99360060 = {
-	name = "na Qundegon"
-	culture = valyrian_ghiscari
+    name = "на Кундегон"
+    culture = valyrian_ghiscari
 }
 99360061 = {
-	name = "na Zindehegon"
-	culture = valyrian_ghiscari
+    name = "на Зиндехегон"
+    culture = valyrian_ghiscari
 }
 99360062 = {
-	name = "mo Zokaerys"
-	culture = valyrian_ghiscari
+    name = "мо Зокаэрис"
+    culture = valyrian_ghiscari
 }
 99360063 = {
-	name = "na Dhaero"
-	culture = valyrian_ghiscari
+    name = "на Дхаэро"
+    culture = valyrian_ghiscari
 }
 99360064 = {
-	name = "mo Lilonys"
-	culture = valyrian_ghiscari
+    name = "мо Лилонис"
+    culture = valyrian_ghiscari
 }
 99360065 = {
-	name = "na Gharys"
-	culture = valyrian_ghiscari
+    name = "на Гхарис"
+    culture = valyrian_ghiscari
 }
 99360066 = {
-	name = "na Yhorae"
-	culture = valyrian_ghiscari
+    name = "на Йораэ"
+    culture = valyrian_ghiscari
 }
 99360067 = {
-	name = "zo Lazoneon"
-	culture = valyrian_ghiscari
+    name = "зо Лазонеон"
+    culture = valyrian_ghiscari
 }
 99360068 = {
-	name = "na Karneon"
-	culture = valyrian_ghiscari
+    name = "на Карнеон"
+    culture = valyrian_ghiscari
 }
 99360069 = {
-	name = "mo Shaezzon"
-	culture = valyrian_ghiscari
+    name = "мо Шэеззон"
+    culture = valyrian_ghiscari
 }
 99360070 = {
-	name = "zo Puhaerys"
-	culture = valyrian_ghiscari
+    name = "зо Пухаэрис"
+    culture = valyrian_ghiscari
 }
 99360071 = {
-	name = "na Toloza"
-	culture = valyrian_ghiscari
+    name = "на Толоза"
+    culture = valyrian_ghiscari
 }
 99360072 = {
-	name = "zo Mantaera"
-	culture = valyrian_ghiscari
+    name = "зо Мантаэра"
+    culture = valyrian_ghiscari
 }
 99360073 = {
-	name = "zo Ghiscaera"
-	culture = valyrian_ghiscari
+    name = "зо Гхисцаэра"
+    culture = valyrian_ghiscari
 }
 99360074 = {
-	name = "zo Yunkerys"
-	culture = valyrian_ghiscari
+    name = "зо Юнкерис"
+    culture = valyrian_ghiscari
 }
-

@@ -1,160 +1,160 @@
 25102000 = {
-    name = "Chandralith"
+    name = "Чандралит"
     culture = "manticore-islander"
 }
 25102001 = {
-    name = "Alkeshar"
+    name = "Алкешар"
     culture = "manticore-islander"
 }
 25102002 = {
-    name = "Akeyrar"
+    name = "Акерар"
     culture = "manticore-islander"
 }
 25102003 = {
-    name = "Cromsha"
+    name = "Кромша"
     culture = "manticore-islander"
 }
 25102004 = {
-    name = "Eibersi"
+    name = "Эйберси"
     culture = "manticore-islander"
 }
 25102005 = {
-    name = "K'Moolar"
+    name = "К'Мулар"
     culture = "manticore-islander"
 }
 25102006 = {
-    name = "Hoaglund"
+    name = "Хоглунд"
     culture = "manticore-islander"
 }
 25102007 = {
-    name = "Schacaborn"
+    name = "Шакаборн"
     culture = "manticore-islander"
 }
 25102008 = {
-    name = "Klarkashia"
+    name = "Кларкашия"
     culture = "manticore-islander"
 }
 25102009 = {
-    name = "Kirowell"
+    name = "Кировелл"
     culture = "manticore-islander"
 }
 25102010 = {
-    name = "Luvhennia"
+    name = "Лювхенния"
     culture = "manticore-islander"
 }
 25102011 = {
-    name = "Kerahfeli"
+    name = "Керафели"
     culture = "manticore-islander"
 }
 25102012 = {
-    name = "Mylakhroni"
+    name = "Милакрони"
     culture = "manticore-islander"
 }
 25102013 = {
-    name = "Zamaclia"
+    name = "Замаклия"
     culture = "manticore-islander"
 }
 25102014 = {
-    name = "Zarnaki"
+    name = "Зарнаки"
     culture = "manticore-islander"
 }
 25102015 = {
-    name = "Mezzari"
+    name = "Меццари"
     culture = "manticore-islander"
 }
 25102016 = {
-    name = "Amonroth"
+    name = "Амонрот"
     culture = "manticore-islander"
 }
 25102017 = {
-    name = "Aphoomari"
+    name = "Афумари"
     culture = "manticore-islander"
 }
 25102018 = {
-    name = "Appcolor"
+    name = "Аппколор"
     culture = "manticore-islander"
 }
 25102019 = {
-    name = "Atlachsi"
+    name = "Атлакси"
     culture = "manticore-islander"
 }
 25102020 = {
-    name = "Z'uqqastrand"
+    name = "З'уккастранд"
     culture = "manticore-islander"
 }
 25102021 = {
-    name = "Binuchsi"
+    name = "Бинюкси"
     culture = "manticore-islander"
 }
 25102022 = {
-    name = "Bukshi"
+    name = "Букши"
     culture = "manticore-islander"
 }
 25102023 = {
-    name = "Coinchennix"
+    name = "Коинченникс"
     culture = "manticore-islander"
 }
 25102024 = {
-    name = "Ghadamonis"
+    name = "Гадамонис"
     culture = "manticore-islander"
 }
 25102025 = {
-    name = "Gtuhaner"
+    name = "Гтуханер"
     culture = "manticore-islander"
 }
 25102026 = {
-    name = "Gurathnaki"
+    name = "Гуратнаки"
     culture = "manticore-islander"
 }
 25102027 = {
-    name = "Jukshabbi"
+    name = "Джукшабби"
     culture = "manticore-islander"
 }
 25102028 = {
-    name = "Ryujinsi"
+    name = "Рюджинси"
     culture = "manticore-islander"
 }
 25102029 = {
-    name = "Gwandura"
+    name = "Гвандура"
     culture = "manticore-islander"
 }
 25102030 = {
-    name = "Mnomquahni"
+    name = "Мномкуани"
     culture = "manticore-islander"
 }
 25102031 = {
-    name = "Mordiggianni"
+    name = "Мордиджианни"
     culture = "manticore-islander"
 }
 25102032 = {
-    name = "Nssu-Ghahnboi"
+    name = "Нссу-Ганбой"
     culture = "manticore-islander"
 }
 25102033 = {
-    name = "Psuchawrling"
+    name = "Псухаврлинг"
     culture = "manticore-islander"
 }
 25102034 = {
-    name = "Ptar-Axtlani"
+    name = "Птар-Акстлани"
     culture = "manticore-islander"
 }
 25102035 = {
-    name = "Uttausi"
+    name = "Уттауси"
     culture = "manticore-islander"
 }
 25102036 = {
-    name = "Shaikori"
+    name = "Шайкори"
     culture = "manticore-islander"
 }
 25102037 = {
-    name = "Shaurashi"
+    name = "Шаураши"
     culture = "manticore-islander"
 }
 25102038 = {
-    name = "Shaurasho"
+    name = "Шаурашо"
     culture = "manticore-islander"
 }
 25102039 = {
-    name = "Uitzilcapaci"
+    name = "Уицилкапаси"
     culture = "manticore-islander"
 }

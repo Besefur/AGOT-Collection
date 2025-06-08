@@ -1,101 +1,100 @@
 16100026 = {
-   name = "Lekala"
+   name = "Лекала"
    culture = moluu-islander
 }
 16100027 = {
-    name = "Thulani"
+    name = "Тулани"
     culture = moluu-islander
 }
 16100028 = {
-    name = "Zuri"
+    name = "Зури"
     culture = moluu-islander
 }
 16100029 = {
-    name = "Malika"
+    name = "Малика"
     culture = moluu-islander
 }
 16100030 = {
-    name = "Nomvula"
+    name = "Номвула"
     culture = moluu-islander
 }
 16100031 = {
-    name = "Dumisani"
+    name = "Думисани"
     culture = moluu-islander
 }
 16100032 = {
-    name = "Nkosana"
+    name = "Нкосана"
     culture = moluu-islander
 }
 16100033 = {
-    name = "Thando"
+    name = "Тандо"
     culture = moluu-islander
 }
 16100034 = {
-    name = "Luthando"
+    name = "Лутандо"
     culture = moluu-islander
 }
 16100035 = {
-    name = "Malaika"
+    name = "Малаика"
     culture = moluu-islander
 }
 16100036 = {
-    name = "Thulile"
+    name = "Тулиле"
     culture = moluu-islander
 }
 16100037 = {
-    name = "Nkosazana"
+    name = "Нкосазана"
     culture = moluu-islander
 }
 16100038 = {
-    name = "Zolani"
+    name = "Золани"
     culture = moluu-islander
 }
 16100039 = {
-    name = "Nomalanga"
+    name = "Номаланга"
     culture = moluu-islander
 }
 16100040 = {
-    name = "Lunga"
+    name = "Лунга"
     culture = moluu-islander
 }
 16100041 = {
-    name = "Thabang"
+    name = "Табанг"
     culture = moluu-islander
 }
 16100042 = {
-    name = "Zanele"
+    name = "Занеле"
     culture = moluu-islander
 }
 16100043 = {
-    name = "Sipho"
+    name = "Сифо"
     culture = moluu-islander
 }
 16100044 = {
-    name = "Thandiwe"
+    name = "Тандиве"
     culture = moluu-islander
 }
 16100045 = {
-    name = "Mandla"
+    name = "Мандла"
     culture = moluu-islander
 }
 16100046 = {
-    name = "Nandi"
+    name = "Нанди"
     culture = moluu-islander
 }
 16100047 = {
-    name = "Sizwe"
+    name = "Сизве"
     culture = moluu-islander
 }
 16100048 = {
-    name = "Nompumelelo"
+    name = "Номпумелело"
     culture = moluu-islander
 }
 16100049 = {
-    name = "Khaya"
+    name = "Кхая"
     culture = moluu-islander
 }
 16100050 = {
-    name = "Lethabo"
+    name = "Летабо"
     culture = moluu-islander
 }
-

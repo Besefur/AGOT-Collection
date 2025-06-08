@@ -1,101 +1,101 @@
 17100051 = {
-    name = "Jikiba"
+    name = "Джикиба"
     culture = "exile-islander"
 }
 17100052 = {
-    name = "Kukiza"
+    name = "Кукиза"
     culture = "exile-islander"
 }
 17100053 = {
-    name = "Mbali"
+    name = "Мбали"
     culture = "exile-islander"
 }
 17100054 = {
-    name = "Lulwazi"
+    name = "Лулвази"
     culture = "exile-islander"
 }
 17100055 = {
-    name = "Thombo"
+    name = "Томбо"
     culture = "exile-islander"
 }
 17100056 = {
-    name = "Dindi"
+    name = "Динди"
     culture = "exile-islander"
 }
 17100057 = {
-    name = "Ntombi"
+    name = "Нтомби"
     culture = "exile-islander"
 }
 17100058 = {
-    name = "Zikomo"
+    name = "Зикомо"
     culture = "exile-islander"
 }
 17100059 = {
-    name = "Xazi"
+    name = "Ксази"
     culture = "exile-islander"
 }
 17100060 = {
-    name = "Thula"
+    name = "Тула"
     culture = "exile-islander"
 }
 17100061 = {
-    name = "Nandiwe"
+    name = "Нандиве"
     culture = "exile-islander"
 }
 17100062 = {
-    name = "Xengo"
+    name = "Ксенго"
     culture = "exile-islander"
 }
 17100063 = {
-    name = "Kwabena"
+    name = "Квабена"
     culture = "exile-islander"
 }
 17100064 = {
-    name = "Xola"
+    name = "Ксола"
     culture = "exile-islander"
 }
 17100065 = {
-    name = "Muntu"
+    name = "Мунту"
     culture = "exile-islander"
 }
 17100066 = {
-    name = "Nomusa"
+    name = "Номуса"
     culture = "exile-islander"
 }
 17100067 = {
-    name = "Lwazi"
+    name = "Лвази"
     culture = "exile-islander"
 }
 17100068 = {
-    name = "Kwezi"
+    name = "Квези"
     culture = "exile-islander"
 }
 17100069 = {
-    name = "Xwana"
+    name = "Ксвана"
     culture = "exile-islander"
 }
 17100070 = {
-    name = "Thando"
+    name = "Тандо"
     culture = "exile-islander"
 }
 17100071 = {
-    name = "Zalika"
+    name = "Залика"
     culture = "exile-islander"
 }
 17100072 = {
-    name = "Biko"
+    name = "Бико"
     culture = "exile-islander"
 }
 17100073 = {
-    name = "Mirembe"
+    name = "Мирембе"
     culture = "exile-islander"
 }
 17100074 = {
-    name = "Xuru"
+    name = "Ксуру"
     culture = "exile-islander"
 }
 17100075 = {
-    name = "Uzuri"
+    name = "Узури"
     culture = "exile-islander"
 }
 

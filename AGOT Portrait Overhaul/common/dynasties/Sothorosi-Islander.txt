@@ -1,146 +1,146 @@
 #Non-canon Houses for random
 
 80101000 = {
-    name = "Axblade"
+    name = "Аксблейд"
     culture = sothorosi-islander
 }
 80101001 = {
-    name = "Howlstone"
+    name = "Хаулстоун"
     culture = sothorosi-islander
 }
 80101002 = {
-    name = "Flyssen"
+    name = "Флиссен"
     culture = sothorosi-islander
 }
 80101003 = {
-    name = "Tearzyl"
+    name = "Тирзил"
     culture = sothorosi-islander
 }
 80101004 = {
-    name = "Skullarr"
+    name = "Скалларр"
     culture = sothorosi-islander
 }
 80101005 = {
-    name = "Talontide"
+    name = "Тэлонтид"
     culture = sothorosi-islander
 }
 80101006 = {
-    name = "Harrowblade"
+    name = "Харроблейд"
     culture = sothorosi-islander
 }
 80101007 = {
-    name = "Venomheart"
+    name = "Веномхарт"
     culture = sothorosi-islander
 }
 80101008 = {
-    name = "Sorrowsail"
+    name = "Сорроусеил"
     culture = sothorosi-islander
 }
 80101009 = {
-    name = "Bittershore"
+    name = "Биттершор"
     culture = sothorosi-islander
 }
 80101010 = {
-    name = "Maraviar"
+    name = "Маравиар"
     culture = sothorosi-islander
 }
 80101011 = {
-    name = "Zanjara"
+    name = "Занджара"
     culture = sothorosi-islander
 }
 80101012 = {
-    name = "Ashantide"
+    name = "Ашантид"
     culture = sothorosi-islander
 }
 80101013 = {
-    name = "Malagroove"
+    name = "Малагрув"
     culture = sothorosi-islander
 }
 80101014 = {
-    name = "Kivutide"
+    name = "Кивутид"
     culture = sothorosi-islander
 }
 80101015 = {
-    name = "Temujara"
+    name = "Темуджара"
     culture = sothorosi-islander
 }
 80101016 = {
-    name = "Yorrobreeze"
+    name = "Йорробриз"
     culture = sothorosi-islander
 }
 80101017 = {
-    name = "Zarambeau"
+    name = "Зарамбо"
     culture = sothorosi-islander
 }
 80101018 = {
-    name = "Ifrikara"
+    name = "Ифрикара"
     culture = sothorosi-islander
 }
 80101019 = {
-    name = "Sablemba"
+    name = "Сейблэмба"
     culture = sothorosi-islander
 }
 80101020 = {
-    name = "Serpenttalon"
+    name = "Серпентталон"
     culture = sothorosi-islander
 }
 80101021 = {
-    name = "Ironkraken"
+    name = "Айронкрейкен"
     culture = sothorosi-islander
 }
 80101022 = {
-    name = "Sailweaver"
+    name = "Сейлвивер"
     culture = sothorosi-islander
 }
 80101023 = {
-    name = "Barash"
+    name = "Бараш"
     culture = sothorosi-islander
 }
 80101024 = {
-    name = "Bluddfish"
+    name = "Бладдфиш"
     culture = sothorosi-islander
 }
 80101025 = {
-    name = "Myrkhearth"
+    name = "Миркхирт"
     culture = sothorosi-islander
 }
 80101026 = {
-    name = "Zialor"
+    name = "Зиалор"
     culture = sothorosi-islander
 }
 80101027 = {
-    name = "Rift"
+    name = "Рифт"
     culture = sothorosi-islander
 }
 80101028 = {
-    name = "Silenttide"
+    name = "Сайленттид"
     culture = sothorosi-islander
 }
 80101029 = {
-    name = "Marrowrend"
+    name = "Марроуренд"
     culture = sothorosi-islander
 }
 80101030 = {
-    name = "Howl"
+    name = "Хаул"
     culture = sothorosi-islander
 }
 80101031 = {
-    name = "Gogossoson"
+    name = "Гогоссосон"
     culture = sothorosi-islander
 }
 80101032 = {
-    name = "Xhoson"
+    name = "Ксосон"
     culture = sothorosi-islander
 }
 80101033 = {
-    name = "Qhoson"
+    name = "Кхосон"
     culture = sothorosi-islander
 }
 80101034 = {
-    name = "Xhanuson"
+    name = "Ксанусон"
     culture = sothorosi-islander
 }
 80101035 = {
-    name = "Luxhoson"
+    name = "Луксосон"
     culture = sothorosi-islander
 }

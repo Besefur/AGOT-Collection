@@ -1,36 +1,36 @@
 9955945 = {
-	name = "Paevola"
+	name = "Паэвола"
 	culture = mountain_valyrian
 }
 9955946 = {
-	name = "Mikaela"
+	name = "Микаэла"
 	culture = mountain_valyrian
 }
 9955947 = {
-	name = "Malinenys"
+	name = "Малиненюс"
 	culture = mountain_valyrian
 }
 9955948 = {
-	name = "Anttilaero"
+	name = "Анттилаэро"
 	culture = mountain_valyrian
 }
 9955949 = {
-	name = "Tannousar"
+	name = "Танноусар"
 	culture = mountain_valyrian
 }
 9955950 = {
-	name = "Kivimakys"
+	name = "Кивимакюс"
 	culture = mountain_valyrian
 }
 9955951 = {
-	name = "Laurilalos"
+	name = "Лаурилалос"
 	culture = mountain_valyrian
 }
 9955952 = {
-	name = "Sismoron"
+	name = "Сисморон"
 	culture = mountain_valyrian
 }
 9955953 = {
-	name = "Vuorinenae"
+	name = "Вуориненэ"
 	culture = mountain_valyrian
 }

@@ -1,160 +1,160 @@
 26102000 = {
-    name = "Jabbouri"
+    name = "Джаббури"
     culture = "marahain"
 }
 26102001 = {
-    name = "Aladdi"
+    name = "Аладди"
     culture = "marahain"
 }
 26102002 = {
-    name = "Malhallador"
+    name = "Малхалладор"
     culture = "marahain"
 }
 26102003 = {
-    name = "Jaffarala"
+    name = "Джаффарала"
     culture = "marahain"
 }
 26102004 = {
-    name = "Massailla"
+    name = "Массаилла"
     culture = "marahain"
 }
 26102005 = {
-    name = "Kazemi"
+    name = "Каземи"
     culture = "marahain"
 }
 26102006 = {
-    name = "Mahabhari"
+    name = "Махабхари"
     culture = "marahain"
 }
 26102007 = {
-    name = "Dallali"
+    name = "Даллали"
     culture = "marahain"
 }
 26102008 = {
-    name = "Ghanem"
+    name = "Ганем"
     culture = "marahain"
 }
 26102009 = {
-    name = "Hallafa"
+    name = "Халлафа"
     culture = "marahain"
 }
 26102010 = {
-    name = "Kamali"
+    name = "Камали"
     culture = "marahain"
 }
 26102011 = {
-    name = "Chandralith"
+    name = "Чандралит"
     culture = "marahain"
 }
 26102012 = {
-    name = "Alkeshar"
+    name = "Алкешар"
     culture = "marahain"
 }
 26102013 = {
-    name = "Akeyrar"
+    name = "Акейрар"
     culture = "marahain"
 }
 26102014 = {
-    name = "Cromsha"
+    name = "Кромша"
     culture = "marahain"
 }
 26102015 = {
-    name = "Eibersi"
+    name = "Эйберси"
     culture = "marahain"
 }
 26102016 = {
-    name = "K'Moolar"
+    name = "К'Мулар"
     culture = "marahain"
 }
 26102017 = {
-    name = "Hoaglund"
+    name = "Хогланд"
     culture = "marahain"
 }
 26102018 = {
-    name = "Schacaborn"
+    name = "Шакаборн"
     culture = "marahain"
 }
 26102019 = {
-    name = "Klarkashia"
+    name = "Кларкашия"
     culture = "marahain"
 }
 26102020 = {
-    name = "Luvhennia"
+    name = "Лувхенния"
     culture = "marahain"
 }
 26102021 = {
-    name = "Kerahfeli"
+    name = "Керафели"
     culture = "marahain"
 }
 26102022 = {
-    name = "Mylakhroni"
+    name = "Майлахрони"
     culture = "marahain"
 }
 26102023 = {
-    name = "Zamaclia"
+    name = "Замаклия"
     culture = "marahain"
 }
 26102024 = {
-    name = "Zarnaki"
+    name = "Зарнаки"
     culture = "marahain"
 }
 26102025 = {
-    name = "Mezzari"
+    name = "Меццари"
     culture = "marahain"
 }
 26102026 = {
-    name = "Amonroth"
+    name = "Амонрот"
     culture = "marahain"
 }
 26102027 = {
-    name = "Aphoomari"
+    name = "Афуумари"
     culture = "marahain"
 }
 26102028 = {
-    name = "Appcolor"
+    name = "Аппколор"
     culture = "marahain"
 }
 26102029 = {
-    name = "Atlachsi"
+    name = "Атлакси"
     culture = "marahain"
 }
 26102030 = {
-    name = "Z'uqqastrand"
+    name = "З'уккастранд"
     culture = "marahain"
 }
 26102031 = {
-    name = "Binuchsi"
+    name = "Бинукси"
     culture = "marahain"
 }
 26102032 = {
-    name = "Bukshi"
+    name = "Букши"
     culture = "marahain"
 }
 26102033 = {
-    name = "Coinchennix"
+    name = "Коинченникс"
     culture = "marahain"
 }
 26102034 = {
-    name = "Ghadamonis"
+    name = "Гадамонис"
     culture = "marahain"
 }
 26102035 = {
-    name = "Gtuhaner"
+    name = "Гтуханер"
     culture = "marahain"
 }
 26102036 = {
-    name = "Gurathnaki"
+    name = "Гуратнаки"
     culture = "marahain"
 }
 26102037 = {
-    name = "Jukshabbi"
+    name = "Джукшабби"
     culture = "marahain"
 }
 26102038 = {
-    name = "Ryujinsi"
+    name = "Рюджинси"
     culture = "marahain"
 }
 26102039 = {
-    name = "Gwandura"
+    name = "Гвандура"
     culture = "marahain"
 }
