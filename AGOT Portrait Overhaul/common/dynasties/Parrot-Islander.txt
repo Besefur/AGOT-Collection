@@ -1,0 +1,104 @@
+14100000 = {
+        name = "Dakari"
+        culture = parrot-islander
+}
+14100001 = {
+        name = "Ademola"
+        culture = parrot-islander
+}
+14100002 = {
+        name = "Zamara"
+        culture = parrot-islander
+}
+14100003 = {
+        name = "Onyango"
+        culture = parrot-islander
+}
+14100004 = {
+        name = "Jelani"
+        culture = parrot-islander
+}
+14100005 = {
+        name = "Xankoh"
+        culture = parrot-islander
+}
+14100006 = {
+        name = "Bahari"
+        culture = parrot-islander
+}
+14100007 = {
+        name = "Diallo"
+        culture = parrot-islander
+}
+14100008 = {
+        name = "Kato"
+        culture = parrot-islander
+}
+14100009 = {
+        name = "Mubarak"
+        culture = parrot-islander
+}
+14100010 = {
+        name = "Okeke"
+        culture = parrot-islander
+}
+14100011 = {
+        name = "Toure"
+        culture = parrot-islander
+}
+14100012 = {
+        name = "Xiop"
+        culture = parrot-islander
+}
+14100013 = {
+        name = "Asante"
+        culture = parrot-islander
+}
+14100014 = {
+        name = "Kwabena"
+        culture = parrot-islander
+}
+14100015 = {
+        name = "Sowande"
+        culture = parrot-islander
+}
+14100016 = {
+        name = "Xaziri"
+        culture = parrot-islander
+}
+14100017 = {
+        name = "Amara"
+        culture = parrot-islander
+}
+14100018 = {
+        name = "Nyongo"
+        culture = parrot-islander
+}
+14100019 = {
+        name = "Kanu"
+        culture = parrot-islander
+}
+14100020 = {
+        name = "Adeyemi"
+        culture = parrot-islander
+}
+14100021 = {
+        name = "Ibeji"
+        culture = parrot-islander
+}
+14100022 = {
+        name = "Mwangi"
+        culture = parrot-islander
+}
+14100023 = {
+        name = "Zuberi"
+        culture = parrot-islander
+}
+14100024 = {
+        name = "Xodion"
+        culture = parrot-islander
+}
+14100025 = {
+        name = "Nkrumah"
+        culture = parrot-islander
+}

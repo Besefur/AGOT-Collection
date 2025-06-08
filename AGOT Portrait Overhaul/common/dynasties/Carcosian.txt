@@ -1,0 +1,120 @@
+18100000 = {
+    name = "Huangshan"
+    culture = carcosian
+}
+18100001 = {
+    name = "Yutian"
+    culture = carcosian
+}
+18100002 = {
+    name = "Zhaohan"
+    culture = carcosian
+}
+18100003 = {
+    name = "Jiarui"
+    culture = carcosian
+}
+18100004 = {
+    name = "Yutian"
+    culture = carcosian
+}
+18100005 = {
+    name = "Khotar"
+    culture = carcosian
+}
+18100006 = {
+    name = "Turfang"
+    culture = carcosian
+}
+18100007 = {
+    name = "Baktar"
+    culture = carcosian
+}
+18100008 = {
+    name = "Karakshi"
+    culture = carcosian
+}
+18100009 = {
+    name = "Loulan"
+    culture = carcosian
+}
+18100010 = {
+    name = "Jianu"
+    culture = "carcosian"
+}
+18100011 = {
+    name = "Xian"
+    culture = "carcosian"
+}
+18100012 = {
+    name = "khoja"
+    culture = "carcosian"
+}
+18100013 = {
+    name = "Qinshan"
+    culture = "carcosian"
+}
+18100014 = {
+    name = "Shanqian"
+    culture = "carcosian"
+}
+18100015 = {
+    name = "Caishi"
+    culture = "carcosian"
+}
+18100016 = {
+    name = "Yuezhi"
+    culture = "carcosian"
+}
+18100017 = {
+    name = "Jianu"
+    culture = "carcosian"
+}
+18100018 = {
+    name = "Wusun"
+    culture = "carcosian"
+}
+18100019 = {
+    name = "Fangzhi"
+    culture = "carcosian"
+}
+18100020 = {
+    name = "Yanfei"
+    culture = carcosian
+}
+18100021 = {
+    name = "Sana"
+    culture = carcosian
+}
+18100022 = {
+    name = "Yarkand"
+    culture = carcosian
+}
+18100023 = {
+    name = "Xian"
+    culture = carcosian
+}
+18100024 = {
+    name = "Zarangai"
+    culture = carcosian
+}
+18100025 = {
+    name = "Varamei"
+    culture = "carcosian"
+}
+18100026 = {
+    name = "Huanbai"
+    culture = "carcosian"
+}
+18100027 = {
+    name = "Kuqa"
+    culture = "carcosian"
+}
+18100028 = {
+    name = "Qiuzhi"
+    culture = "carcosian"
+}
+18100029 = {
+    name = "Liangong"
+    culture = "carcosian"
+}

@@ -1,0 +1,101 @@
+16100026 = {
+   name = "Lekala"
+   culture = moluu-islander
+}
+16100027 = {
+    name = "Thulani"
+    culture = moluu-islander
+}
+16100028 = {
+    name = "Zuri"
+    culture = moluu-islander
+}
+16100029 = {
+    name = "Malika"
+    culture = moluu-islander
+}
+16100030 = {
+    name = "Nomvula"
+    culture = moluu-islander
+}
+16100031 = {
+    name = "Dumisani"
+    culture = moluu-islander
+}
+16100032 = {
+    name = "Nkosana"
+    culture = moluu-islander
+}
+16100033 = {
+    name = "Thando"
+    culture = moluu-islander
+}
+16100034 = {
+    name = "Luthando"
+    culture = moluu-islander
+}
+16100035 = {
+    name = "Malaika"
+    culture = moluu-islander
+}
+16100036 = {
+    name = "Thulile"
+    culture = moluu-islander
+}
+16100037 = {
+    name = "Nkosazana"
+    culture = moluu-islander
+}
+16100038 = {
+    name = "Zolani"
+    culture = moluu-islander
+}
+16100039 = {
+    name = "Nomalanga"
+    culture = moluu-islander
+}
+16100040 = {
+    name = "Lunga"
+    culture = moluu-islander
+}
+16100041 = {
+    name = "Thabang"
+    culture = moluu-islander
+}
+16100042 = {
+    name = "Zanele"
+    culture = moluu-islander
+}
+16100043 = {
+    name = "Sipho"
+    culture = moluu-islander
+}
+16100044 = {
+    name = "Thandiwe"
+    culture = moluu-islander
+}
+16100045 = {
+    name = "Mandla"
+    culture = moluu-islander
+}
+16100046 = {
+    name = "Nandi"
+    culture = moluu-islander
+}
+16100047 = {
+    name = "Sizwe"
+    culture = moluu-islander
+}
+16100048 = {
+    name = "Nompumelelo"
+    culture = moluu-islander
+}
+16100049 = {
+    name = "Khaya"
+    culture = moluu-islander
+}
+16100050 = {
+    name = "Lethabo"
+    culture = moluu-islander
+}
+

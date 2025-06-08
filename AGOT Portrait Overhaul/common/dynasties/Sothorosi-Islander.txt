@@ -1,0 +1,146 @@
+#Non-canon Houses for random
+
+80101000 = {
+    name = "Axblade"
+    culture = sothorosi-islander
+}
+80101001 = {
+    name = "Howlstone"
+    culture = sothorosi-islander
+}
+80101002 = {
+    name = "Flyssen"
+    culture = sothorosi-islander
+}
+80101003 = {
+    name = "Tearzyl"
+    culture = sothorosi-islander
+}
+80101004 = {
+    name = "Skullarr"
+    culture = sothorosi-islander
+}
+80101005 = {
+    name = "Talontide"
+    culture = sothorosi-islander
+}
+80101006 = {
+    name = "Harrowblade"
+    culture = sothorosi-islander
+}
+80101007 = {
+    name = "Venomheart"
+    culture = sothorosi-islander
+}
+80101008 = {
+    name = "Sorrowsail"
+    culture = sothorosi-islander
+}
+80101009 = {
+    name = "Bittershore"
+    culture = sothorosi-islander
+}
+80101010 = {
+    name = "Maraviar"
+    culture = sothorosi-islander
+}
+80101011 = {
+    name = "Zanjara"
+    culture = sothorosi-islander
+}
+80101012 = {
+    name = "Ashantide"
+    culture = sothorosi-islander
+}
+80101013 = {
+    name = "Malagroove"
+    culture = sothorosi-islander
+}
+80101014 = {
+    name = "Kivutide"
+    culture = sothorosi-islander
+}
+80101015 = {
+    name = "Temujara"
+    culture = sothorosi-islander
+}
+80101016 = {
+    name = "Yorrobreeze"
+    culture = sothorosi-islander
+}
+80101017 = {
+    name = "Zarambeau"
+    culture = sothorosi-islander
+}
+80101018 = {
+    name = "Ifrikara"
+    culture = sothorosi-islander
+}
+80101019 = {
+    name = "Sablemba"
+    culture = sothorosi-islander
+}
+80101020 = {
+    name = "Serpenttalon"
+    culture = sothorosi-islander
+}
+80101021 = {
+    name = "Ironkraken"
+    culture = sothorosi-islander
+}
+80101022 = {
+    name = "Sailweaver"
+    culture = sothorosi-islander
+}
+80101023 = {
+    name = "Barash"
+    culture = sothorosi-islander
+}
+80101024 = {
+    name = "Bluddfish"
+    culture = sothorosi-islander
+}
+80101025 = {
+    name = "Myrkhearth"
+    culture = sothorosi-islander
+}
+80101026 = {
+    name = "Zialor"
+    culture = sothorosi-islander
+}
+80101027 = {
+    name = "Rift"
+    culture = sothorosi-islander
+}
+80101028 = {
+    name = "Silenttide"
+    culture = sothorosi-islander
+}
+80101029 = {
+    name = "Marrowrend"
+    culture = sothorosi-islander
+}
+80101030 = {
+    name = "Howl"
+    culture = sothorosi-islander
+}
+80101031 = {
+    name = "Gogossoson"
+    culture = sothorosi-islander
+}
+80101032 = {
+    name = "Xhoson"
+    culture = sothorosi-islander
+}
+80101033 = {
+    name = "Qhoson"
+    culture = sothorosi-islander
+}
+80101034 = {
+    name = "Xhanuson"
+    culture = sothorosi-islander
+}
+80101035 = {
+    name = "Luxhoson"
+    culture = sothorosi-islander
+}

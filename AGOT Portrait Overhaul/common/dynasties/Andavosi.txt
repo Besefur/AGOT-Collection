@@ -1,0 +1,160 @@
+2210000 = {
+    name = "Aerynheart"
+    culture = "andavosi"
+}
+2210001 = {
+    name = "Velaryos"
+    culture = "andavosi"
+}
+2210002 = {
+    name = "Raelen"
+    culture = "andavosi"
+}
+2210003 = {
+    name = "Aeonblade"
+    culture = "andavosi"
+}
+2210004 = {
+    name = "Nyriael"
+    culture = "andavosi"
+}
+2210005 = {
+    name = "Stargyre"
+    culture = "andavosi"
+}
+2210006 = {
+    name = "Fyron"
+    culture = "andavosi"
+}
+2210007 = {
+    name = "Moonaerys"
+    culture = "andavosi"
+}
+2210008 = {
+    name = "Taelon"
+    culture = "andavosi"
+}
+2210009 = {
+    name = "Dragonari"
+    culture = "andavosi"
+}
+22100010 = {
+    name = "Styxarr"
+    culture = "andavosi"
+}
+22100011 = {
+    name = "Silverglade"
+    culture = "andavosi"
+}
+22100012 = {
+    name = "Sunyrion"
+    culture = "andavosi"
+}
+22100013 = {
+    name = "Bladeael"
+    culture = "andavosi"
+}
+22100014 = {
+    name = "Flinthor"
+    culture = "andavosi"
+}
+22100015 = {
+    name = "Wyrionshade"
+    culture = "andavosi"
+}
+22100016 = {
+    name = "Blaezon"
+    culture = "andavosi"
+}
+22100017 = {
+    name = "Ironhearth"
+    culture = "andavosi"
+}
+22100018 = {
+    name = "Bosong"
+    culture = "andavosi"
+}
+22100019 = {
+    name = "Golnari"
+    culture = "andavosi"
+}
+22100020 = {
+    name = "Sparroswael"
+    culture = "andavosi"
+}
+22100021 = {
+    name = "Duskari"
+    culture = "andavosi"
+}
+22100022 = {
+    name = "Lazeari"
+    culture = "andavosi"
+}
+22100023 = {
+    name = "Maelson"
+    culture = "andavosi"
+}
+22100024 = {
+    name = "Darstyr"
+    culture = "andavosi"
+}
+22100025 = {
+    name = "Spaerrow"
+    culture = "andavosi"
+}
+22100026 = {
+    name = "Hawkari"
+    culture = "andavosi"
+}
+22100027 = {
+    name = "Rivron"
+    culture = "andavosi"
+}
+22100028 = {
+    name = "Sorreni"
+    culture = "andavosi"
+}
+22100029 = {
+    name = "Thundraelon"
+    culture = "andavosi"
+}
+22100030 = {
+    name = "Meadowpeak"
+    culture = "andavosi"
+}
+22100031 = {
+    name = "Thornael"
+    culture = "andavosi"
+}
+22100032 = {
+    name = "Dynaris"
+    culture = "andavosi"
+}
+22100033 = {
+    name = "Raeltin"
+    culture = "andavosi"
+}
+22100034 = {
+    name = "Highlaeke"
+    culture = "andavosi"
+}
+22100035 = {
+    name = "Maerri"
+    culture = "andavosi"
+}
+22100036 = {
+    name = "Eranyi"
+    culture = "andavosi"
+}
+22100037 = {
+    name = "Redbaerron"
+    culture = "andavosi"
+}
+22100038 = {
+    name = "Zaelorr"
+    culture = "andavosi"
+}
+22100039 = {
+    name = "Barrborr"
+    culture = "andavosi"
+}

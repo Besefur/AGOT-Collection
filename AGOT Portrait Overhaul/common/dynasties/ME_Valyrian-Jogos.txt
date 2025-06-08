@@ -1,0 +1,36 @@
+99607300 = {
+	name = "Fardenys"
+	culture = jogos_valyrian
+	used_for_random = no
+	can_appear = no
+}
+99607301 = {
+	name = "Barialys"
+	culture = jogos_valyrian
+	used_for_random = no
+	can_appear = no
+}
+99607302 = {
+	name = "Jawakar"
+	culture = jogos_valyrian
+	used_for_random = no
+	can_appear = no
+}
+99607303 = {
+	name = "Zaidon"
+	culture = jogos_valyrian
+	used_for_random = no
+	can_appear = no
+}
+99607304 = {
+	name = "Ehsanyr"
+	culture = jogos_valyrian
+	used_for_random = no
+	can_appear = no
+}
+99607305 = {
+	name = "Zawakaera"
+	culture = jogos_valyrian
+	used_for_random = no
+	can_appear = no
+}

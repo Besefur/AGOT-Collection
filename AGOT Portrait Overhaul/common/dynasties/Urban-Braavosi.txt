@@ -1,0 +1,160 @@
+20100000 = {
+    name = "Delpyrian"
+    culture = urban-braavosi
+}
+20100001 = {
+    name = "Nesteris"
+    culture = urban-braavosi
+}
+20100002 = {
+    name = "Veleron"
+    culture = urban-braavosi
+}
+20100003 = {
+    name = "Jawakar"
+    culture = urban-braavosi
+}
+20100004 = {
+    name = "Zalynor"
+    culture = urban-braavosi
+}
+20100005 = {
+    name = "Fardeenor"
+    culture = urban-braavosi
+}
+20100006 = {
+    name = "Velerion"
+    culture = urban-braavosi
+}
+20100007 = {
+    name = "mo Aquazyn"
+    culture = urban-braavosi
+}
+20100008 = {
+    name = "Gasparion"
+    culture = urban-braavosi
+}
+20100009 = {
+    name = "Parnello"
+    culture = urban-braavosi
+}
+20100010 = {
+    name = "Braavonis"
+    culture = urban-braavosi
+}
+20100011 = {
+    name = "Antarys"
+    culture = urban-braavosi
+}
+20100012 = {
+    name = "Ironsmith"
+    culture = urban-braavosi
+}
+20100013 = {
+    name = "Xylo"
+    culture = urban-braavosi
+}
+20100014 = {
+    name = "Teryn"
+    culture = urban-braavosi
+}
+20100015 = {
+    name = "Raenhelm"
+    culture = urban-braavosi
+}
+20100016 = {
+    name = "Jaewak"
+    culture = urban-braavosi
+}
+20100017 = {
+    name = "Forellis"
+    culture = urban-braavosi
+}
+20100018 = {
+    name = "Manteryx"
+    culture = urban-braavosi
+}
+20100019 = {
+    name = "Tendyrion"
+    culture = urban-braavosi
+}
+20100020 = {
+    name = "Fregan"
+    culture = urban-braavosi
+}
+20100021 = {
+    name = "Gresyon"
+    culture = urban-braavosi
+}
+20100022 = {
+    name = "Demetryx"
+    culture = urban-braavosi
+}
+20100023 = {
+    name = "Wutangi"
+    culture = urban-braavosi
+}
+20100024 = {
+    name = "Ferris"
+    culture = urban-braavosi
+}
+20100025 = {
+    name = "Ydoryn"
+    culture = urban-braavosi
+}
+20100026 = {
+    name = "Saarn"
+    culture = urban-braavosi
+}
+20100027 = {
+    name = "Malhorys"
+    culture = urban-braavosi
+}
+20100028 = {
+    name = "Orbaerys"
+    culture = urban-braavosi
+}
+20100029 = {
+    name = "Irnatos"
+    culture = urban-braavosi
+}
+20100030 = {
+    name = "Sororhin"
+    culture = urban-braavosi
+}
+20100031 = {
+    name = "Ennaenon"
+    culture = urban-braavosi
+}
+20100032 = {
+    name = "Qhonis"
+    culture = urban-braavosi
+}
+20100033 = {
+    name = "Ostaar"
+    culture = urban-braavosi
+}
+20100034 = {
+    name = "Gasparis"
+    culture = urban-braavosi
+}
+20100035 = {
+    name = "Ferryn"
+    culture = urban-braavosi
+}
+20100036 = {
+    name = "Dotharis"
+    culture = urban-braavosi
+}
+20100037 = {
+    name = "Jalurutis"
+    culture = urban-braavosi
+}
+20100038 = {
+    name = "Pranelios"
+    culture = urban-braavosi
+}
+20100039 = {
+    name = "Laesoros"
+    culture = urban-braavosi
+}

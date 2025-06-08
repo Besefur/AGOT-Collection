@@ -1,0 +1,127 @@
+#Non-canon Houses for random
+
+90101000 = {
+	name = "mo Ullhaera"
+	culture = bhorashi
+}
+90101001 = {
+	name = "mo Nakonys"
+	culture = bhorashi
+}
+90101002 = {
+	name = "mo Grazdhaena"
+	culture = bhorashi
+}
+90101026 = {
+	name = "zo Galea"
+	culture = bhorashi
+}
+90101027 = {
+	name = "zo Mazonerys"
+	culture = bhorashi
+}
+90101028 = {
+	name = "zo Dracarys"
+	culture = bhorashi
+}
+90101050 = {
+	name = "zo Rhaelon"
+	culture = bhorashi
+}
+90101051 = {
+	name = "na Laerio"
+	culture = bhorashi
+}
+90101052 = {
+	name = "zo Naqerys"
+	culture = bhorashi
+}
+90101053 = {
+	name = "zo Hasontys"
+	culture = bhorashi
+}
+90101054 = {
+	name = "na Shezdae"
+	culture = bhorashi
+}
+90101055 = {
+	name = "zo Rella"
+	culture = bhorashi
+}
+90101056 = {
+	name = "mo Yhiconys"
+	culture = bhorashi
+}
+90101057 = {
+	name = "zo Ilayra"
+	culture = bhorashi
+}
+90101058 = {
+	name = "mo Rhaego"
+	culture = bhorashi
+}
+90101059 = {
+	name = "mo Aellar"
+	culture = bhorashi
+}
+90101060 = {
+	name = "na Qundegon"
+	culture = bhorashi
+}
+90101061 = {
+	name = "na Zindehegon"
+	culture = bhorashi
+}
+90101062 = {
+	name = "mo Zokaerys"
+	culture = bhorashi
+}
+90101063 = {
+	name = "na Dhaero"
+	culture = bhorashi
+}
+90101064 = {
+	name = "mo Lilonys"
+	culture = bhorashi
+}
+90101065 = {
+	name = "na Bhorashai"
+	culture = bhorashi
+}
+90101066 = {
+	name = "na Yhorae"
+	culture = bhorashi
+}
+90101067 = {
+	name = "zo Lazoneon"
+	culture = bhorashi
+}
+90101068 = {
+	name = "na Karneon"
+	culture = bhorashi
+}
+90101069 = {
+	name = "mo Shaezzon"
+	culture = bhorashi
+}
+90101070 = {
+	name = "zo Puhaerys"
+	culture = bhorashi
+}
+90101071 = {
+	name = "na Toloza"
+	culture = bhorashi
+}
+90101072 = {
+	name = "zo Mantaera"
+	culture = bhorashi
+}
+90101073 = {
+	name = "zo Ghiscaera"
+	culture = bhorashi
+}
+90101074 = {
+	name = "zo Yunkerys"
+	culture = bhorashi
+}
+

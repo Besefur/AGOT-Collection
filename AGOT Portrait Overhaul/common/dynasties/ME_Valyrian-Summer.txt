@@ -1,0 +1,52 @@
+11110000 = {
+	name = "Xhonis"
+	culture = valyrian-summer
+}
+11110001 = {
+	name = "Bonae"
+	culture = valyrian-summer
+}
+11110002 = {
+	name = "Mova"
+	culture = valyrian-summer
+}
+11110003 = {
+	name = "Rhaeqho"
+	culture = valyrian-summer
+}
+11110004 = {
+	name = "Xhoana"
+	culture = valyrian-summer
+}
+11110005 = {
+	name = "Qonarys" #canon
+	culture = valyrian-summer
+}
+11110006 = {
+	name = "Xhaneon" #nc
+	culture = valyrian-summer
+}
+11110007 = {
+	name = "Luxhoa" #nc
+	culture = valyrian-summer
+}
+11110008 = {
+	name = "Xhaxaes" #nc
+	culture = valyrian-summer
+}
+11110009 = {
+	name = "Haxaes" #nc
+	culture = valyrian-summer
+}
+11110010 = {
+	name = "Uxaela" #nc
+	culture = valyrian-summer
+}
+11110001 = {
+	name = "Agbealu" #nc
+	culture = valyrian-summer
+}
+11110002 = {
+	name = "Ajakarios" #nc
+	culture = valyrian-summer
+}

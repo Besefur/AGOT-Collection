@@ -1,0 +1,72 @@
+99930208 = {
+	name = "Xidarys"
+	culture = summer_tyroshi
+}
+99930209 = {
+	name = "Quhori"
+	culture = summer_tyroshi
+}
+99930210 = {
+	name = "Qudar"
+	culture = summer_tyroshi
+}
+99930211 = {
+	name = "Adayni"
+	culture = summer_tyroshi
+}
+99930212 = {
+	name = "Odaryha"
+	culture = summer_tyroshi
+}
+99930213 = {
+	name = "Ahori"
+	culture = summer_tyroshi
+}
+99930214 = {
+	name = "Ruanis"
+	culture = summer_tyroshi
+}
+99930215 = {
+	name = "Raddars"
+	culture = summer_tyroshi
+}
+99930216 = {
+	name = "Qyndona"
+	culture = summer_tyroshi
+}
+99930217 = {
+	name = "Lyndona"
+	culture = summer_tyroshi
+}
+99930218 = {
+	name = "Quaydona"
+	culture = summer_tyroshi
+}
+99930219 = {
+	name = "Xaharis"
+	culture = summer_tyroshi
+}
+99930220 = {
+	name = "Kaharis"
+	culture = summer_tyroshi
+}
+99930221 = {
+	name = "Lasaharis"
+	culture = summer_tyroshi
+}
+99930222 = {
+	name = "Qasaharis"
+	culture = summer_tyroshi
+}
+99930223 = {
+	name = "Ohasaris"
+	culture = summer_tyroshi
+}
+99930224 = {
+	name = "Quasoris"
+	culture = summer_tyroshi
+}
+99930225 = {
+	name = "Xhasoris"
+	culture = summer_tyroshi
+}

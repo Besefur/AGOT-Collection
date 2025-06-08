@@ -1,0 +1,199 @@
+70100000 = {
+	name = "Bharon"
+	culture = harro-dothraki
+
+
+}
+70100001 = {
+	name = "Drogaera"
+	culture = harro-dothraki
+
+
+}
+
+70100002 = {
+	name = "Jhaquonis"
+	culture = harro-dothraki
+
+
+}
+70100003 = {
+	name = "Temmoe"
+	culture = harro-dothraki
+
+
+}
+70100004 = {
+	name = "Pakarr"
+	culture = harro-dothraki
+
+
+}
+70100005 = {
+	name = "Jhaqo"
+	culture = harro-dothraki
+
+
+}
+70100006 = {
+	name = "Zekkon"
+	culture = harro-dothraki
+
+
+}
+70100007 = {
+	name = "Mengorea"
+	culture = harro-dothraki
+
+
+}
+70100008 = {
+	name = "Horrona"
+	culture = harro-dothraki
+
+
+}
+70100009 = {
+	name = "Onqae"
+	culture = harro-dothraki
+
+
+}
+70100010 = {
+	name = "Temamok"
+	culture = harro-dothraki
+
+
+}
+70100011 = {
+	name = "Zirqeon"
+	culture = harro-dothraki
+
+
+}
+70100012 = {
+	name = "Onqeon"
+	culture = harro-dothraki
+
+
+}
+70100013 = {
+	name = "Durkarr"
+	culture = harro-dothraki
+
+
+}
+70100014 = {
+	name = "Haegarth"
+	culture = harro-dothraki
+
+
+}
+70100015 = {
+	name = "Kovarreon"
+	culture = harro-dothraki
+
+
+}
+70100016 = {
+	name = "Marreo"
+	culture = harro-dothraki
+
+
+}
+70100017 = {
+	name = "Raego"
+	culture = harro-dothraki
+
+
+}
+70100018 = {
+	name = "Khaloros"
+	culture = harro-dothraki
+
+
+}
+70100019 = {
+	name = "Zarraqa"
+	culture = harro-dothraki
+
+
+}
+70100020 = {
+	name = "Xaroqo"
+	culture = harro-dothraki
+
+
+}
+70100021 = {
+	name = "Vezqae"
+	culture = harro-dothraki
+
+
+}
+70100022 = {
+	name = "Raekarth"
+	culture = harro-dothraki
+
+
+}
+70100023 = {
+	name = "Kavaro"
+	culture = harro-dothraki
+
+
+}
+70100024 = {
+	name = "Qirroq"
+	culture = harro-dothraki
+
+
+}
+70100025 = {
+	name = "Jorrok"
+	culture = harro-dothraki
+
+
+}
+70100026 = {
+	name = "Vezorra"
+	culture = harro-dothraki
+
+
+}
+70100027 = {
+	name = "Rhaqora"
+	culture = harro-dothraki
+
+
+}
+70100028 = {
+	name = "Tharroq"
+	culture = harro-dothraki
+
+
+}
+70100029 = {
+	name = "Havarae"
+	culture = harro-dothraki
+
+
+}
+70100030 = {
+	name = "Zaqaerio"
+	culture = harro-dothraki
+
+
+}
+70100031 = {
+	name = "Varraqon"
+	culture = harro-dothraki
+
+
+}
+70100032 = {
+	name = "Kavaero"
+	culture = harro-dothraki
+
+
+}

@@ -1,0 +1,82 @@
+#Non-canon Houses for random
+
+20015037 = {
+    name = "Kamuy"
+    culture = lengish
+}
+20015038 = {
+    name = "Sikot"
+    culture = lengish
+}
+20015039 = {
+    name = "Okikurumi"
+    culture = lengish
+}
+20015040 = {
+    name = "Nupuri"
+    culture = lengish
+}
+20015041 = {
+    name = "Yukar"
+    culture = lengish
+}
+20015042 = {
+    name = "Kotan"
+    culture = lengish
+}
+20015043 = {
+    name = "Poro"
+    culture = lengish
+}
+20015044 = {
+    name = "Seta"
+    culture = lengish
+}
+20015045 = {
+    name = "Ipe"
+    culture = lengish
+}
+20015046 = {
+    name = "Ray"
+    culture = lengish
+}
+20015047 = {
+    name = "Tuma"
+    culture = lengish
+}
+20015048 = {
+    name = "Chikap"
+    culture = lengish
+}
+20015049 = {
+    name = "Ainu"
+    culture = lengish
+}
+20015050 = {
+    name = "Tukura"
+    culture = lengish
+}
+20015051 = {
+    name = "Nise"
+    culture = lengish
+}
+20015052 = {
+    name = "Asir"
+    culture = lengish
+}
+20015053 = {
+    name = "Pon"
+    culture = lengish
+}
+20015054 = {
+    name = "Shisam"
+    culture = lengish
+}
+20015055 = {
+    name = "Atuy"
+    culture = lengish
+}
+20015056 = {
+    name = "Kina"
+    culture = lengish
+}

@@ -1,0 +1,126 @@
+#Non-canon Houses for random
+
+60101000 = {
+    name = "Sandoros"
+    culture = summer-rhoynar
+}
+60101001 = {
+    name = "Nyssaqua"
+    culture = summer-rhoynar
+}
+60101002 = {
+    name = "Valynx"
+    culture = summer-rhoynar
+}
+60101003 = {
+    name = "Allyris"
+    culture = summer-rhoynar
+}
+60101004 = {
+    name = "Marasyl"
+    culture = summer-rhoynar
+}
+60101005 = {
+    name = "Tovarro"
+    culture = summer-rhoynar
+}
+60101006 = {
+    name = "Ulyssor"
+    culture = summer-rhoynar
+}
+60101007 = {
+    name = "Daltys"
+    culture = summer-rhoynar
+}
+60101008 = {
+    name = "Sylvarro"
+    culture = summer-rhoynar
+}
+60101009 = {
+    name = "Qhoval"
+    culture = summer-rhoynar
+}
+60101010 = {
+    name = "Maravo"
+    culture = summer-rhoynar
+}
+60101011 = {
+    name = "Ryssal"
+    culture = summer-rhoynar
+}
+60101012 = {
+    name = "Lorandor"
+    culture = summer-rhoynar
+}
+60101013 = {
+    name = "Dornys"
+    culture = summer-rhoynar
+}
+60101014 = {
+    name = "Vossar"
+    culture = summer-rhoynar
+}
+60101015 = {
+    name = "Xarion"
+    culture = summer-rhoynar
+}
+60101016 = {
+    name = "Sylvor"
+    culture = summer-rhoynar
+}
+60101017 = {
+    name = "Nysara"
+    culture = summer-rhoynar
+}
+60101018 = {
+    name = "Toriss"
+    culture = summer-rhoynar
+}
+60101019 = {
+    name = "Meros"
+    culture = summer-rhoynar
+}
+60101020 = {
+    name = "Xorys"
+    culture = summer-rhoynar
+}
+60101021 = {
+    name = "Valarro"
+    culture = summer-rhoynar
+}
+60101022 = {
+    name = "Zalynor"
+    culture = summer-rhoynar
+}
+60101023 = {
+    name = "Xandros"
+    culture = summer-rhoynar
+}
+60101024 = {
+    name = "Vallor"
+    culture = summer-rhoynar
+}
+60101025 = {
+    name = "Rynsar"
+    culture = summer-rhoynar
+}
+60101026 = {
+    name = "Xoryn"
+    culture = summer-rhoynar
+}
+60101027 = {
+    name = "Darys"
+    culture = summer-rhoynar
+}
+60101028 = {
+    name = "Zorin"
+    culture = summer-rhoynar
+}
+60101029 = {
+    name = "Xalyss"
+    culture = summer-rhoynar
+}
+60101030 = {
+    name = "Naros"
+    culture = summer-rhoynar
+}

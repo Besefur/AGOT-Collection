@@ -1,0 +1,726 @@
+### HOUSE DRACE ###
+
+78000 = {
+	name = "Payne"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	dna = "bjdhdcijgfp"
+	properties = "0r0dbk000000"
+
+	father = 78031
+	mother = 78032
+
+	add_trait = "oblivion"
+
+	7960.1.1 = {
+		birth = yes
+	}
+	7976.1.1 = {
+		add_trait = "skilled_tactician"
+		add_trait = "skilled_warrior"
+	}
+	7990.1.1 = {
+		add_spouse = 78001
+	}
+	8000.1.1 = {
+		effect = {
+			religion = the_seven
+		}
+	}
+	8010.1.1 = {
+		death = { death_reason = death_battle } # Died in Dorne
+	}
+}
+78001 = {
+	name = "Aella"
+	female = yes
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	add_trait = "fair_1"
+
+	7970.1.1 = { birth = yes }
+	8000.1.1 = { effect = { religion = the_seven } }
+	8039.1.1 = { death = yes }
+}
+78002 = {
+	name = "Vaeron"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78000
+	mother = 78001
+
+	add_trait = "fair_1"
+
+	8001.1.1 = {
+		birth = yes
+	}
+	8000.1.1 = {
+		effect = {
+			religion = the_seven
+		}
+	}
+	8010.1.1 = {
+		add_trait = "oblivion"
+		add_trait = "squire"
+	}
+	8013.1.1 = {
+		add_trait = "tough_soldier"
+		add_trait = "trained_warrior"
+	}
+	8015.1.={
+		add_trait = "knight"
+		remove_trait = "squire"
+	}
+	8016.1.1 = {
+		add_spouse = 78003
+	}
+	8043.1.10 = {
+		death = yes
+	}
+}
+78003 = {
+	name = "Gael"
+	female = yes
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	8000.1.1 = { birth = yes }
+	8043.1.10 = { add_trait = "widowed" add_trait = "depressed" }
+	8045.1.1 = { death = yes }
+}
+78004 = {
+	name = "Aurion"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	father = 78002
+	mother = 78003
+
+	8023.1.1 = {
+		birth = yes
+	}
+	8039.1.1 = {
+		add_trait = "underhanded_rogue"
+	}
+	8043.1.10 = {
+		add_trait = "oblivion"
+	}
+	8045.1.1 = {
+		add_spouse = 78005
+	}
+	8077.1.1 = {
+		add_trait = "widowed"
+	}
+	8080.1.1 = {
+		death = yes
+	}
+}
+78005 = {
+	name = "Dalla"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8020.1.1 = { birth = yes }
+	8077.1.1 = { death = yes }
+}
+78006 = {
+	name = "Otherys"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	father = 78004
+	mother = 78005
+
+	8048.1.1 = {
+		birth = yes
+	}
+	8080.1.1 = {
+		add_trait = "oblivion"
+	}
+	8100.1.1 = {
+		death = yes
+	}
+}
+78007 = {
+	name = "Triston"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+	dna = "bacbgobhcex"
+	properties = "0s0enk000000"
+
+	father = 78006
+
+	8080.1.1 = {
+		birth = yes
+	}
+	8090.1.1 = {
+		add_trait = "squire"
+	}
+	8096.1.1 = {
+		add_trait = "knight"
+		add_trait = "skilled_tactician"
+		add_trait = "master_warrior"
+	}
+	8100.1.1 = {
+		add_trait = "oblivion"
+	}
+	8110.1.1 = {
+		add_spouse = 78008
+	}
+	8130.3.7 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+78008 = {
+	name = "Marya"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8081.1.1 = { birth = yes }
+	8139.1.1 = { death = yes }
+}
+78009 = {
+	name = "Vayne"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	add_trait = strong_1
+
+	father = 78007
+	mother = 78008
+
+	8102.1.1 = {
+		birth = yes
+	}
+	8115.1.1 = {
+		add_trait = "squire"
+	}
+	8118.1.1 = {
+		add_trait = "tough_soldier"
+		add_trait = "skilled_warrior"
+	}
+	8120.1.1 = {
+		add_trait = "knight"
+		remove_trait = "squire"
+	}
+	8130.3.7 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+78010 = {
+	name = "Rayne"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	add_trait = "strong"
+
+	father = 78007
+	mother = 78008
+
+	8114.1.1 = {
+		birth = yes
+	}
+	8130.1.1 = {
+		add_trait = "misguided_warrior"
+		add_trait = "trained_warrior"
+	}
+	8130.3.7 = {
+		add_trait = oblivion
+	}
+	8131.1.1 = {
+		add_trait = "knight"
+		remove_trait = "squire"
+	}
+	8135.1.1 = {
+		remove_trait = "trained_warrior"
+		add_trait = "skilled_warrior"
+	}
+	8136.1.1 = {
+		add_spouse = 78011
+	}
+	8177.1.1 = {
+		death = yes
+	}
+}
+78011 = {
+	name = "Aelinor"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8116.1.1 = { birth = yes }
+	8176.1.1 = { death = yes }
+}
+78012 = {
+	name = "Quenton"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	father = 78010
+	mother = 78011
+
+	8140.1.1 = {
+		birth = yes
+	}
+	8158.1.1 = {
+		add_spouse = 78013
+	}
+	8177.1.1 = {
+		add_trait = "oblivion"
+	}
+	8195.3.8 = {
+		death = yes
+	}
+}
+78013 = {
+	name = "Leyla"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8142.1.1 = { birth = yes }
+	8200.1.1 = { death = yes }
+}
+78014 = {
+	name = "Valarr"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	add_trait = "strong_1"
+
+	father = 78012
+	mother = 78013
+
+	8170.1.1 = {
+		birth = yes
+	}
+	8182.1.1 = {
+		add_trait = "squire"
+	}
+	8186.1.1 = {
+		add_trait = "skilled_tactician"
+		add_trait = "skilled_warrior"
+	}
+	8190.1.1 = {
+		effect = {
+			add_friend = 77024
+			add_friend = 88187
+		}
+	}
+	8195.1.1 = {
+		add_spouse = 78015
+	}
+	8195.3.8 = {
+		add_trait = "oblivion"
+	}
+	8200.1.1 = {
+		death = yes
+	}
+}
+78015 = {
+	name = "Talla"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8180.1.1 = { birth = yes }
+	8196.1.1 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+78016 = {
+	name = "Crispian"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	add_trait = "strong"
+
+	father = 78014
+	mother = 78015
+
+	8196.1.1 = {
+		birth = yes
+	}
+	8200.1.1 = {
+		add_trait = "oblivion"
+	}
+	8212.1.1 = {
+		add_trait = "charismatic_negotiator"
+	}
+	8220.1.1 = {
+		add_spouse = 78017
+	}
+	8260.10.1 = {
+		death = {
+			death_reason = death_battle
+			killer = 10757
+		}
+	}
+}
+78017 = {
+	name = "Leana"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8204.1.1 = { birth = yes }
+	8260.1.1 = { death = yes }
+}
+78018 = {
+	name = "Quenton"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	father = 78016
+	mother = 78017
+
+	8223.1.1 = {
+		birth = yes
+	}
+	8258.1.1 = {
+		add_spouse = 78019
+	}
+	8260.10.1 = {
+		add_trait = "oblivion"
+	}
+	8282.1.1 = {
+		death = yes
+	}
+}
+78019 = {
+	name = "Marei"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8230.1.1 = { birth = yes }
+	8260.1.1 = {
+		death = {
+			death_reason = death_childbirth
+		}
+	}
+}
+78020 = {
+	name = "Aelix"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	father = 78018
+	mother = 78019
+
+	8260.1.1 = {
+		birth = yes
+	}
+	8272.1.1 = {
+		add_trait = "squire"
+	}
+	8276.1.1 = {
+		add_trait = "skilled_warrior"
+		add_trait = "tough_soldier"
+	}
+	8280.1.1 = {
+		add_spouse = 78021
+	}
+	8282.1.1 = {
+		add_trait = "oblivion"
+	}
+	8283.6.1 = {
+		death = {
+			death_reason = death_battle
+		}
+	}
+}
+78021 = {
+	name = "Fringilla"
+	female = yes
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	8264.1.1 = { birth = yes }
+	8298.1.1 = { death = yes }
+}
+78022 = {
+	name = "Payne"
+	dynasty = "5700145"
+
+	religion = "the_seven"
+	culture = "high_valyrian"
+
+	dna = "aeaffkibgcm"
+	properties = "0w0dik000000"
+
+	add_trait = "strong_1"
+	add_trait = "just"
+	add_trait = "patient"
+	add_trait = "honorable"
+	add_trait = "cavalry_leader"
+	add_trait = "aggressive_leader"
+	add_trait = "stubborn"
+
+	disallow_random_traits = yes
+
+	father = 78020
+	mother = 78021
+
+	8282.1.1 = {
+		birth = yes
+	}
+	8283.6.1 = {
+		add_trait = "oblivion"
+		employer = 307 #Myles Toyne
+	}
+	8292.1.1 = {
+		add_trait = "squire"
+		add_trait = "mystic"
+	}
+	8297.1.1 = {
+		employer = 88241 #Harry Strickland
+		add_trait = "trained_warrior"
+	}
+	8298.1.1 = {
+		add_trait = "skilled_warrior"
+		remove_trait = "trained_warrior"
+		add_trait = "skilled_tactician"
+		add_trait = "scholar"
+	}
+	8300.1.1 = {
+		add_trait = "knight"
+		remove_trait = "squire"
+	}
+	8300.3.1 = {
+		employer = 125009 #Young Griff
+		add_trait = "one_eyed"
+	}
+}
+78023 = {
+	name = "Paine"
+	female = yes
+	dynasty = "5700145"
+
+	dna = "cjagffgbjbk"
+	properties = "0n0edk000000"
+
+	religion = "the_seven"
+	culture = "western_valyrian"
+
+	add_trait = "fair_1"
+	add_trait = "diligent"
+	add_trait = "proud"
+	add_trait = "fashionable"
+	add_trait = "kind"
+	add_trait = "gregarious"
+
+	father = 78020
+	mother = 78021
+
+	8282.1.1 = {
+		birth = yes
+		effect = {
+			culture = high_valyrian
+		}
+	}
+	8283.1.1 = {
+		employer = 307 #Myles Toyne
+	}
+	8297.1.1 = {
+		employer = 88241 #Harry Strickland
+		add_trait = "charismatic_negotiator"
+	}
+	8300.3.1 = {
+		employer = 125009 #Young Griff
+	}
+}
+
+####
+78024 = {
+	name = "Seron"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	add_trait = "oblivion"
+
+	7840.1.1 = {
+		birth = yes
+		create_bloodline = {
+			type = drace_bloodline
+			has_dlc = "Holy Fury"
+		}
+	}
+	7886.1.1 = { death = { death_reason = death_missing } }
+}
+78025 = {
+	name = "Callon"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78024
+
+	add_trait = "oblivion"
+
+	7862.1.1 = {
+		birth = yes
+	}
+	7880.1.1 = {
+		add_spouse = 78026
+	}
+	7900.1.1 = {
+		death = yes
+	}
+}
+78026 = {
+	name = "Conith"
+	female = yes
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78024
+
+	add_trait = "fair_1"
+
+	7864.1.1 = { birth = yes }
+	7910.1.1 = { death = yes }
+
+}
+78027 = {
+	name = "Dinechon"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78024
+
+	7866.1.1 = { birth = yes }
+	7886.1.1 = { death = { death_reason = death_missing } }
+}
+78028 = {
+	name = "Nichon"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78024
+
+	7868.1.1 = { birth = yes }
+	7886.1.1 = { death = { death_reason = death_missing } }
+}
+78029 = {
+	name = "Raechon"
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78027
+
+	add_trait = "fair_1"
+
+	7885.1.1 = { birth = yes }
+	7886.1.1 = { death = { death_reason = death_missing } }
+}
+78030 = {
+	name = "Raithor"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78025
+	mother = 78026
+
+	add_trait = "oblivion"
+
+	7900.1.1 = {
+		birth = yes
+	}
+	7955.1.1 = {
+		death = yes
+	}
+}
+78031 = {
+	name = "Saechon"
+	dynasty = 5700145
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78030
+
+	add_trait = "oblivion"
+
+	7920.1.1 = {
+		birth = yes
+	}
+	7940.1.1 = {
+		add_spouse = 78032
+	}
+	7980.1.1 = {
+		death = yes
+	}
+}
+78032 = {
+	name = "Amaranth"
+	female = yes
+
+	religion = "valyrian_rel"
+	culture = "high_valyrian"
+
+	father = 78027
+
+	add_trait = "fair_1"
+
+	7925.1.1 = { birth = yes }
+	8000.1.1 = { effect = { religion = the_seven } }
+	7990.1.1 = { death = yes }
+}

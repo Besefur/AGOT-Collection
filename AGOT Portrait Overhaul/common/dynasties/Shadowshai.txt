@@ -1,0 +1,86 @@
+#Non-canon Houses for random
+
+30101057 = {
+    name = "Sayantra"
+    culture = shadowshai
+}
+30101058 = {
+    name = "Harakaram"
+    culture = shadowshai
+}
+30101059 = {
+    name = "Mohen"
+    culture = shadowshai
+}
+30101060 = {
+    name = "Avarana"
+    culture = shadowshai
+}
+30101061 = {
+    name = "Sandhya"
+    culture = shadowshai
+}
+30101062 = {
+    name = "Grahana"
+    culture = shadowshai
+}
+30101063 = {
+    name = "Holavira"
+    culture = shadowshai
+}
+30101064 = {
+    name = "Rakhnira"
+    culture = shadowshai
+}
+30101065 = {
+    name = "Bhutamu"
+    culture = shadowshai
+}
+30101066 = {
+    name = "Agadham"
+    culture = shadowshai
+}
+30101067 = {
+    name = "Kasrin"
+    culture = shadowshai
+}
+30101068 = {
+    name = "Sutarcci"
+    culture = shadowshai
+}
+30101069 = {
+    name = "Mishra"
+    culture = shadowshai
+}
+30101070 = {
+    name = "Angirra"
+    culture = shadowshai
+}
+30101071 = {
+    name = "Suttaata"
+    culture = shadowshai
+}
+30101072 = {
+    name = "Bhrama"
+    culture = shadowshai
+}
+30101073 = {
+    name = "Nabu-Izhi"
+    culture = shadowshai
+}
+30101074 = {
+    name = "Namtarin"
+    culture = shadowshai
+}
+30101075 = {
+    name = "Nerilisir"
+    culture = shadowshai
+}
+30101076 = {
+    name = "Nin-Rizhu"
+    culture = shadowshai
+}
+30101077 = {
+    name = "Orzhamus"
+    culture = shadowshai
+}

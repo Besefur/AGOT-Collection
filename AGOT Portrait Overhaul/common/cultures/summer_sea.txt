@@ -1,0 +1,1154 @@
+summer_islands = {
+	graphical_cultures = { africangfx } # buildings
+
+	summer_islander = {
+		graphical_cultures = { summerislandgfx }
+
+		color = { 0.0 0.6 0.0 } #Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Canon
+			Джалабхар:1000 Кухуру:500 Тал:300 Ксаро:300 Ксондо:1000 Ксоан:300 Мальтар:500 Бококко:500 Балак:200
+
+			#Non Canon
+			Абрафо Адейему Аньим Аркамун
+			Бапато
+			Чакоро Чибундо
+			Делмабхар Дабаку Дошуру
+			Эскендер
+			Гвалахуру Гатубхар
+			Изингодо Изодо
+			Джарамого Джирадхар Джалахуру Джарадо
+			Кондэ Короксар Квасдо
+			Лузаксаро
+			Макхан Манахуру Мермесбхар
+			Ньядундо
+			Оренго Одингаксо Олуджондо Олухуру
+			Пунуксаро Паро
+			Кваро Кубхар
+			Ратемо Рудо
+			Санго Симбхар Сибоксоан
+			Тапухуру Тхабо
+			Удо
+			Кселимо Ксакан Ксонодо Ксал
+
+			Ксала Ксаладаар Ксарос Ксаллар Маррал Саллал Ксаллоба Сололхор Забахо Ксолхабба Забхар Зхалла Зхабар Бакул Бхаррал Золхаллар
+			Болхабхос Сарос Ксобха Залор Джаллоно Джарос Сантарро Мабхор Солор Ксалла Доррал Даллалхор Данадхар Зхобаба Толхар Зонтар Джонаба
+			Маро Мхондо Малабхар Тхондо Тхоан Талтхар Талабхар Квал Кваро Квондо Квалтхар Квалабхар Ксухру Джохуру Тухуру Бухуру Кухуру Нухуру
+			Лухуру Ларо Лхондо Лхоан Лалтхар Лабхар Мабалла Лонаба Лонтар Садхаро Радхаро Солхонар Ксолхонар Молхонор Талхонар Зонар Танал Танаба Толор
+			Торалхал Толло Банара Марас Бобхас Тадхонтор Далхобос Ксокулхор Золтаррор Ксобас Дадхор Ксабо Салор Ксадха Боллолхол Задхоллар Бхаррала Таллакол
+			Таррас Болос Толар Мабар Джорос Солтокво Зхала Джалло Дабас Аллос Алтаро Мараллар Балларос Ксоквар Сорронар Моррос Зантас Зхорарал Джадхаррор
+			Зханар Джаллол Залар Ксалар Бхалонтар Мадхакар Салтбор Сантонар Зарралха Бхоралтар Ксононар Манос Талла Салхонтал Даноквас Дхобол Данаба Дхалла
+			Тхондо Далтхар Донаба Далаксаар Дхаллар Долзхаллар Далаюхар Долхонара Джобхал Собхар Толхор Торра Ксаладхор Джабар Джанаба Далабхар Салабхар Калабхар Налабхар
+			Ялабхар Балабхар Талабхар Ралабхар Алабхар Калабхар Мококко Джококко Дококко Сококко Тококко Кококко
+
+			Адедомола Афолаби Адебимпе Ануловапоси Оланреваджу Омоболанла Абиодун Энитан Олуватоин Бабатунда Оладела Бабаджида Адеранке Олуварентими Адейеми Экундайо Тениайо
+		}
+		female_names = {
+			#Canon
+			Алаяйя:700 Катая:700 Коиджа:700 Ксанда:500 Чатана:500
+
+			#Non Canon
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Танта Часа Ксола Нола Ксолла Ксонорра Ксотана Рараза Задхата Толорра Сала Толла Ксара Садха Ксарра Маррара Тотара Рарраса Рарадха Роллаза Рана
+			Нолта Ксола Джоза Ксатала Ларана Лодхара Залонта Соджа Ксоджа Тоджа Роджа Фоджа Кводжа Мхатана Рхатана Схатана Пхатана Лхатана Дхатана Бхатана Квхатана
+			Гванда Манда Банда Санда Ланда Бхатайя Ихатайя Лхатайя Дхатайя Джхтайя Схатайя Кхатайя Ксхатайя Гхатайя Зхатайя Татайя Таяйя Лхаяйя Дхалайя Кхалайя
+			Чалаяйя Палайя Малайяйя Фатайя Натана Ксаталла Зхадхата Зхонда
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	Summerosi = {
+		graphical_cultures = { siwesterosigfx summerislandgfx }
+
+		color = { 0.6 0.7 0.4 } #Med Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
+			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
+			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
+			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
+			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
+			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
+			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
+			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
+			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
+			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
+			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Zachery	Zoronno Zaryio
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
+			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
+			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
+			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
+			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
+			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
+			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
+			Haenei Harraya Helanea Henerah Helissei
+			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
+			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
+			Kobijja Koraxha Kwasya Kelarra Kyra
+			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
+			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
+			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
+			Onyaya Oluhura Olyssa Onora Osmera Olivia
+			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
+			Qaena Quanda Quhura Qubya
+			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
+			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
+			Ujja Uda Ursula
+			Vaenei Violet Victoria_Victaria Valiete Vellya
+			Wenyla Wenela Wynei
+			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
+			Yaena Yetsa Yetunde
+			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	lamentman = {
+		graphical_cultures = { siwesterosigfx summerislandgfx }
+
+		color = { 0.4 0.7 0.4 } #Med Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
+			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
+			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
+			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
+			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
+			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
+			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
+			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
+			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
+			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
+			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Zachery	Zoronno Zaryio
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
+			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
+			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
+			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
+			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
+			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
+			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
+			Haenei Harraya Helanea Henerah Helissei
+			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
+			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
+			Kobijja Koraxha Kwasya Kelarra Kyra
+			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
+			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
+			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
+			Onyaya Oluhura Olyssa Onora Osmera Olivia
+			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
+			Qaena Quanda Quhura Qubya
+			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
+			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
+			Ujja Uda Ursula
+			Vaenei Violet Victoria_Victaria Valiete Vellya
+			Wenyla Wenela Wynei
+			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
+			Yaena Yetsa Yetunde
+			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	stonehead-islander = {
+		graphical_cultures = { summerwesterosigfx summerislandgfx }
+
+		color = { 0.8 0.4 0.3 } #Ruddy
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
+			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
+			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
+			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
+			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
+			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
+			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
+			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
+			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
+			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
+			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Zachery	Zoronno Zaryio
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
+			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
+			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
+			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
+			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
+			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
+			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
+			Haenei Harraya Helanea Henerah Helissei
+			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
+			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
+			Kobijja Koraxha Kwasya Kelarra Kyra
+			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
+			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
+			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
+			Onyaya Oluhura Olyssa Onora Osmera Olivia
+			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
+			Qaena Quanda Quhura Qubya
+			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
+			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
+			Ujja Uda Ursula
+			Vaenei Violet Victoria_Victaria Valiete Vellya
+			Wenyla Wenela Wynei
+			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
+			Yaena Yetsa Yetunde
+			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	parrot-islander = {
+		graphical_cultures = { moluuislandergfx summerislandgfx }
+
+		color = { 0.0 0.3 0.2 } #Teal
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
+			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
+			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
+			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
+			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
+			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
+			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
+			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
+			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
+			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
+			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Zachery	Zoronno Zaryio
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
+			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
+			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
+			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
+			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
+			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
+			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
+			Haenei Harraya Helanea Henerah Helissei
+			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
+			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
+			Kobijja Koraxha Kwasya Kelarra Kyra
+			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
+			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
+			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
+			Onyaya Oluhura Olyssa Onora Osmera Olivia
+			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
+			Qaena Quanda Quhura Qubya
+			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
+			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
+			Ujja Uda Ursula
+			Vaenei Violet Victoria_Victaria Valiete Vellya
+			Wenyla Wenela Wynei
+			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
+			Yaena Yetsa Yetunde
+			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+
+	}
+
+	jhala-highlander = {
+		graphical_cultures = { moluuislandergfx summerislandgfx }
+
+		color = { 0.0 0.4 0.2 } #Dark Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
+			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
+			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
+			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
+			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
+			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
+			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
+			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
+			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
+			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
+			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Zachery	Zoronno Zaryio
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
+			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
+			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
+			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
+			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
+			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
+			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
+			Haenei Harraya Helanea Henerah Helissei
+			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
+			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
+			Kobijja Koraxha Kwasya Kelarra Kyra
+			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
+			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
+			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
+			Onyaya Oluhura Olyssa Onora Osmera Olivia
+			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
+			Qaena Quanda Quhura Qubya
+			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
+			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
+			Ujja Uda Ursula
+			Vaenei Violet Victoria_Victaria Valiete Vellya
+			Wenyla Wenela Wynei
+			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
+			Yaena Yetsa Yetunde
+			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	Summer-Westerosi = {
+		graphical_cultures = { summerwesterosigfx summerislandgfx }
+
+		color = { 0.0 0.6 0.0 } #Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun Addam Aegon Aemon Alesander Allard Allos Alyn Anders Andren Andrew Andrion Argilac Arion Arlan Armond Arrec Arstan Arthur Axel
+			Bapato Benedict Benfrey Benjicot Bennifer Bradamar Brus Bryan Bryar Brynden Bywin
+			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos
+			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan
+			Eskender Edric Edwyn Ellard Elwood Elyas Enfren Erryk Eustace
+			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle
+			Isingodo Isodo Igon Imry
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel
+			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles
+			Nyadundo Nestor Niles
+			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
+			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Zachery
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Arjana Abraya Arianne Ammara Aelinor Andrya Amyra Amera Alise
+			Bujiba Bapaya Beony Barra Brienne Belandra Briony
+			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
+			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
+			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
+			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
+			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
+			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya
+			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
+			Kobijja Koraxha Kwasya Kelarra Kyra
+			Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa
+			Manyara Makya Manahura Mara Marelle Marissa Marsella Mena Monet
+			Nella
+			Onyaya Oluhura Olyssa Onora Osmera Olivia
+			Pojja Paya Patrice Patricia
+			Quanda Quhura Qubya
+			Rhea Rohanne Rylene Rylla Rylena Rosey
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra
+			Tatenda Talyaya Tinessa Tyshara Theona Tarissa
+			Ujja Uda Ursula
+			Violet Victoria_Victaria Valiete
+			Xara Xhonda Xha Xajja Xataya
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	summer-rhoynar = {
+		graphical_cultures = { summerrhoynargfx summerislandgfx saltdornishgfx }
+
+		color = { 0.8 0.4 0.1 } #Light Brown
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Allar Anders Aryen Aron Alleras Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
+			Belyar Bors Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
+			Caleyen Casyos Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
+			Daemyn Daeron Dygos Dezyel Doran Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
+			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
+			Garyn Gasoyne Gerrys Gulyan Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
+			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lewyn Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
+			Mallor Manfrey Maron Mors Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
+			Nymor Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
+			Oberyn Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Peyos Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Quentyn Qoren Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Rycas Ryon Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell Symon
+			Timyon Trebor Trystane Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Yandry
+			Zachery	Zoronno Zaryio
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Alayna Amara Aveline Averia Allyria Alysanne Alyse Amary Aryanne Ashara Aliandra
+			Beyandra
+			Callista Cassara Caroley Cassella Cedra Cerenya Corenna Cyrenna
+			Delara Delonne Donyse Dorea Dyanna
+			Elowen Elysia Eleanor Elia Ellaria Elyana Emberlia
+			Jynessa
+			Katriel
+			Laria Leyla Loreza Lynesse
+			Marei Mariya Marya Melessa Mellei Morra Myria
+			Nymella Nymeria Nysterica
+			Obara Obella
+			Seraphina Sarelya Senelle Sylva
+			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
+			Tanselia Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora Tyene
+			Ujja Uda Ursula
+			Vaenei Violet Victoria_Victaria Valiete Vellya
+			Wylia Wenyla Wenela Wynei
+			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
+			Yaena Yetsa Yetunde Ysilla
+			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia Zephyra
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 50
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	moluu-islander = {
+		graphical_cultures = { moluuislandergfx }
+
+		color = { 0.0 0.4 0.2 } #Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Canon
+			Jalabhar:1000 Quhuru:500 Tal:300 Xaro:300 Xhondo:1000 Xhoan:300 Malthar:500 Bokokko:500 Balaq:200
+
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun
+			Bapato
+			Chakoro Chibundo
+			Delmabhar Dubaku Doshuru
+			Eskender
+			Gwalahuru Gatubhar
+			Isingodo Isodo
+			Jaramogo Jiradhar Jalahuru Jarado
+			Konde Koroxhar Kwasdo
+			Lusaxharo
+			Makhan Manahuru Mermesbhar
+			Nyadundo
+			Orengo Odingaxho Olujondo Oluhuru
+			Punuxharo Paro
+			Qaro Qubhar
+			Ratemo Rudo
+			Sango Simbhar Siboxhoan
+			Tapuhuru Thabo
+			Udo
+			Xhelimo Xhakan Xhonodo Xhal
+
+			Xala Xaladaar Xaros Xhallar Marral Sallal Xalloba Sololhor Zabaho Xolhabba Zabhar Zhalla Zhabar Baqual Bharral Zolhallar
+			Bolhabhos Saros Xobha Zalor Jallono Jaros Santarro Mabhor Solor Xalla Dorral Dallalhor Danadhar Zhobaba Tolhar Zontar Jonaba
+			Maro Mhondo Malabhar Thondo Thoan Talthar Talabhar Qal Qaro Qhondo Qalthar Qalabhar Xuhuru Johuru Tuhuru Buhuru Kuhuru Nuhuru
+			Luhuru Laro Lhondo Lhoan Lalthar Labhar Maballa Lonaba Lontar Sadharo Radharo Solhonar Xolhonar Molhonor Talhonar Zonar Tanal Tanaba Tolor
+			Toralhal Tollo Banara Maras Bobhas Tadhontor Dalhobos Xhoquolhor Zoltharror Xobas Dadhor Xabo Salor Xadha Bollolhol Zhadhollar Bharrala Tallaquol
+			Tarras Bolos Tolar Mabar Joros Solthoquo Zhala Jallo Dabas Allos Altharo Marallar Ballarros Xhoquar Sorronar Morror Zantas Zhoraral Jadharror
+			Zhanar Jallol Zalar Xalar Bhalontar Madhaquar Salthbor Santonar Zarralha Bhoralthar Xhononar Manos Talla Salhontal Danoquas Dhobol Danaba Dhalla
+			Thondo Dalthar Donaba Dalaxaar Dhallar Dolzhallar Dalabhar Dolhonara Jobhal Sobhar Tolhor Torra Xaladhor Jhabar Janaba Dalabhar Salabhar Kalabhar Nalabhar
+			Yalabhar Balabhar Talabhar Ralabhar Alabhar Calabhar Mokokko Jokokko Dokokko Sokokko Tokokko Kokokko
+
+			Adedamola Afolabi Adebimpe Anulowaposi Olanrewaju Omobolanle Abiodun Enitan Oluwatoyin Babatunde Oladele Babajide Aderounke Oluwarantimi Adeyemi Ekundayo Teniayo
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Arjana Abraya
+			Bujiba Bapaya
+			Chakoya Chijja
+			Dumisa Dubaya Doshura
+			Emejja
+			Fulataya
+			Gebhuya Gwahura
+			Isoba
+			Jalataya Jalahura Jarada
+			Kobijja Koraxha Kwasya
+			Lusala Lujja
+			Manyara Makya Manahura
+			Onyaya Oluhura
+			Pojja Paya
+			Quanda Quhura Qubya
+			Shanika Simbaya
+			Tatenda Talyaya
+			Ujja Uda
+			Xara Xhonda Xha Xajja Xataya
+
+			Tanta Chasa Xhola Nola Xolla Xhonorra Xhotana Raraza Zadhata Tolorra Sala Tolla Xara Chadha Xharra Marrara Totara Rarrasa Raradha Rollaza Rana
+			Nolta Xola Joza Xatalha Larana Lodhara Zalonta Sojja Xojja Tojja Rojja Fojja Qojja Mhatana Rhatana Shatana Phatana Lhatana Dhatana Bhatana Qhatana
+			Gwanda Manda Banda Sanda Landa Bhataya Ihataya Lhataya Dhataya Jhataya Shataya Khataya Xhataya Ghataya Zhataya Tataya Tayaya Lhayaya Dhalaya Khalaya
+			Chalayaya Palaya Malayaya Phataya Natana Xatalla Zhadhata Zhonda
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+}
+
+west_summer_islander = {
+	graphical_cultures = { africangfx } # buildings
+
+	exile-islander = {
+		graphical_cultures = { exileislandersgfx }
+
+		color = { 0.0 0.4 0.2 } #Dark Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
+			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
+			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
+			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
+			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
+			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
+			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
+			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
+			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
+			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
+			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
+			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
+			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
+			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
+			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
+			Qaro Qubhar
+			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
+			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
+			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
+			Udo Utherydes
+			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
+			Xhelimo Xhakan Xhonodo Xhal
+			Zachery	Zoronno Zaryio
+		}
+		female_names = {
+			#Canon
+			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+
+			#Non Canon
+			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
+			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
+			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
+			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
+			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
+			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
+			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
+			Haenei Harraya Helanea Henerah Helissei
+			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
+			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
+			Kobijja Koraxha Kwasya Kelarra Kyra
+			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
+			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
+			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
+			Onyaya Oluhura Olyssa Onora Osmera Olivia
+			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
+			Qaena Quanda Quhura Qubya
+			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
+			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
+			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
+			Ujja Uda Ursula
+			Vaenei Violet Victoria_Victaria Valiete Vellya
+			Wenyla Wenela Wynei
+			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
+			Yaena Yetsa Yetunde
+			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+}
+
+Basilisk-Islander = {
+	graphical_cultures = { africangfx } # buildings
+
+	sothorosi-islander = {
+		graphical_cultures = { siwesterosigfx }
+
+		color = { 0.16 0.46 0.16 } #Muted Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Non Canon
+			Aquilo Alaric Aesys
+			Bann Bactro
+			Corsan Corgan
+			Davos Dario Draven
+			Eldoro Elion Ezek
+			Faelan Falcone Flint
+			Garreck Gideon Gryphos
+			Harlowe Havelock Hawkeye
+			Isen Itius
+			Jaxxo Jaerio
+			Kaelos Kaelan Knavish Kestrel
+			Lycan Lark Leviathan
+			Marrlowe Maelstrom Mordecai
+			Nylo Nyx Nereus
+			Orion Oaken Octavian
+			Peregrin Pyrus Plund
+			Quinn Quillon Quasar
+			Riven Rook Ravager
+			Salzzaro Storm Scorchius
+			Tavish Thorne Triton Thundro
+			Ulysses Umberto Ursus
+			Vaelar Valerio
+			Wylan Wraith
+			Xander Xanthos Xiphos
+			Yarrow Yorick
+			Zephyr Zagan Zephyros
+			Wyrm
+			Xanadu
+			Yonder
+			Zephyr
+		}
+		female_names = {
+			Adesewa Aquilla Althea Azura
+			Bisi Bliss Belladonna Calypso
+			Damilola Dahlia Doria Drifa
+			Enitan Elara Elestria Eowyn
+			Folake Fiora Fawn
+			Gwyndolyn Giselle Gryphira
+			Havilah Hypatia
+			Ifetayo Ismene
+			Jadesola Jessamine
+			Kaelitha Kassandra
+			Morayo Morvanna Morgana
+			Nyx Naida
+			Oni Oriana Ondine Opal
+			Pandora Phaedra
+			Quilla Quasara
+			Ravenna Rhissa
+			Simisola Seraphina Selene Sapphira
+			Toyin Thalassa Thundra
+			Ulyssia Umbra
+			Viviana
+			Xanthea Xara Xena
+			Yara Yvaine
+			Zephyrine Zara Zinnia
+			Wren Whisper
+			Xandria
+			Yara
+			Zephyra
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 30
+		mat_grf_name_chance = 10
+		father_name_chance = 5
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 5
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+	}
+
+	basilisk_islander = {
+		graphical_cultures = { siwesterosigfx }
+
+		color = { 0.0 0.6 0.0 } #Green
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Canon
+			Тумко:500
+
+			#Non Canon
+			Абрафо Адейему Аньим Аркамун
+			Бапато
+			Чакоро Чибундо
+			Делмабхар Дабаку Дошуру
+			Эскендер
+			Гвалахуру Гатубхар
+			Изингодо Изодо
+			Джарамого Джирадхар Джалахуру Джарадо
+			Кондэ Короксар Квасдо
+			Лузаксаро
+			Макхан Манахуру Мермесбхар
+			Ньядундо
+			Оренго Одингаксо Олуджондо Олухуру
+			Пунуксаро Паро
+			Кваро Кубхар
+			Ратемо Рудо
+			Санго Симбхар Сибоксоан
+			Тапухуру Тхабо
+			Удо
+			Кселимо Ксакан Ксонодо Ксал
+
+			Адедо Моло Афоло Або Адебимо Ануло Вапос Оланро Ваджу Омобо Лано Абиодун Энитан Олуват Ойин Бабо Тундо Оладело Бабадо Адероко Олувар Антимо Адейо Экунд Унайо Тениайо
+			Айотунд Олатунджи Токундо Омовале Темило Олувак Айомидо Эниоло Теджумоло Адеймо Морункола Ифедапо Адесанай Адиса Адебойе Омолайо Дуросин Джибола Джелани Джабари
+			Зубери Кайин Темидар Фолами Тивалад Дайо Колавол Аканд Сунканми Ифедайо Гбойега Иодову Кайоде Зумко Сунбол
+		}
+		female_names = {
+			#Canon
+
+			#Non Canon
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Йеванда Мониада Фиайосеми Акинтойе Гболахун Боседи Моджисола Болуватифа Ололада Олувафеми Тения Олува Олола Ифеда Адеби Бола Олувакана Моруна Адетола Оба
+			Ирети Джиболи Мони Сунбола Омо Омота Омотанва Олувайя Адери Они Ани Колапи Анитуке Теми Итана Мореника Пами Нуми Айя Унуми Кунуми Миула Унмиса Бойи Ияби
+			Айятани Анувани Фейиса Тайя Ойя Аби Конийя Кеджа Седжа Поджа Импа Титилайя Эсания Эника Кунла Ибола Боли
+		}
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		seafarer = yes
+
+		modifier = default_culture_modifier
+
+	}
+
+}
+
+Sothoryos = {
+	graphical_cultures = { africangfx } # buildings
+
+
+	brindlemen = {
+		graphical_cultures = { brindlegfx westafricangfx africangfx muslimgfx }
+
+		color = { 0.5 0.7 0.2 } #Green
+
+		used_for_random = no
+		allow_in_ruler_designer = no
+
+		alternate_start = {
+			has_alternate_start_parameter = { key = culture value = full_random }
+			NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } }
+		}
+
+		male_names = {
+			Боруг Буггуг Бургед Багдуд
+			Дурзуб
+			Фагиг Фидгуг
+			Гарекк Гоматуг Гамонк Грунг Гнабадуг Гаакт
+			Хибаб
+			Игнац Игнорг
+			Карргед Килуг
+			Муг Маркуб
+			Оггугат Отугбу Оглаб Оакгу
+			Пехракгу Парфу
+			Соргулг Шамоб Сулга
+			Ургран Узул Урим Уг Урбул
+			Вигдуг Вулуг Веторкаг Вигука Вамугбу
+			Ксоткаг Ксугарф	Ксутджа
+			Зурга Зарод Зурпигиг Зоргулг Зулмту
+
+			Ксегет Нучох Сагок Йеке Зунза Зезакуа Аджосукс Нешухгу Джуесех Ксуджут Сикхас Риджуш Ругас Такес
+			Чагот Шесзет Хесзах Уксус Тигик Зааз Нагак Негух Йегех Ухнук Сака Зехга Джакесу Хсуга Соггу Наджан
+			Наукхаг Тограс Сукс Чокха Руксаг Рокру Йогук Хеджог Якрак Джикзо Ксакхут Шугру Экако Наншу
+			Зинсбог Дертаг Виггу Богх Вортхаг Зонаг Мазхуг Буруб Шагдуб Харзуг Могак Гхорз Дургат Дурз Шагар
+
+		}
+		female_names = {
+			Бамф Боргак Булфим Була Булак Болар Бор Бадбог
+			Дулуг
+			Гашнак Глуронк Гарол Гоб Гулфим Гак Горза
+			Хомраз
+			Ламбуг Лазгар Лагак
+			Мор Морн Мурзуш Мазога Могак
+			Огхаш
+			Рогмеш Рулфим Рагаш
+			Шарн Шел Шазгоб Шагар Шарамф Шарог
+			Улумфа Урог Ушат Ушуг Урзот Угак Угор
+			Язгаш Йотул
+
+			Дургати Бурзоби Гхорза Шадбака Могака Буруба Рагаша Мога Снаки Мазога Рогбати Уроги Агроби Нарголи Шагдуби Кхарзуга
+			Грати Булфими Разоби Глоби Гхароли Гула Лагакни Боргакха Огхаса Йотули Дурза Шагара Була Глаша Рогмеша Шелура
+			Араоби Гхаки Мурзуши Орбула
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = backward_culture_modifier
+	}
+}
+
+naath_group = {
+	graphical_cultures = { africangfx } # buildings
+
+	naathi = {
+		graphical_cultures = { naathigfx westafricangfx } # portraits
+
+		color = { 0.1373 0.8235 0.4118 } #blue
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#Canon
+			Марселен:500 Моссадор:500
+
+			#DAMOC - NON-CANON
+
+			Марселон Массадор Моссудан Мессудан Мессадор Мерсалан Массодар Марделан Марссала
+			Арселен Оссадор Карселен Коссадор Лоссадор Носсадор Нарселен Харселен Хоссадор Джоссадор Джарселен
+			Барселен Боссадор Коссадор Карселен Госсадор Гарселен Мартеллар Мерталлар Картеллар Хотеллар Джартеллар
+			Артеллар Нартеллара Косстеллар Мосстеллар Милсаран Килсаран Хилсаран Билсаран Ибран Джилан Эделлан Риссенд
+			Атанис Рейан Карран Иссанд Иссандор Галлендор Эсселадор Джанселен Атилен Вилсаран Виссадор Риссадор
+			Виссадор Вистелар Киссадор Ретеллар Ретелен Эделен Мартелен Джартелен Мостелен Артелен
+
+
+		}
+		female_names = {
+
+			#Canon
+			Миссандея:500
+
+			#DAMOC - NON-CANON
+
+			Нисса Ниссандея Лиссандея Иссандея Алериара Уналейрия Гиселлара Оррисея Иссачарис Берсендея Неритина Алирелла Мачариссея Чариссая Атиллра Мерелендра
+			Урилея Иссендая Хиссанда Джаналейна Маниллея Джисмедея Эвелендая Атессея Ориссанда Рисса Риссанда Риссендая Джиссендая Миссендая Моссандорая Марселенея
+			Мелирин Исоронея Махтаранея Амрадея Ибранея Маривина Массадея Мисалана Эсселана Эссадорея Бассадорея Хиссандея Майделена Даррисана Аделайя Джилана
+			Каррая Фиссана Рейана Лайсендая Ассадая Майсиния Миллансия Нанналин Меликия Эделлана Галленая Миаселленая Марихерия Эйсания Хилания Атаниссая
+		}
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

@@ -1,0 +1,101 @@
+17100051 = {
+    name = "Jikiba"
+    culture = "exile-islander"
+}
+17100052 = {
+    name = "Kukiza"
+    culture = "exile-islander"
+}
+17100053 = {
+    name = "Mbali"
+    culture = "exile-islander"
+}
+17100054 = {
+    name = "Lulwazi"
+    culture = "exile-islander"
+}
+17100055 = {
+    name = "Thombo"
+    culture = "exile-islander"
+}
+17100056 = {
+    name = "Dindi"
+    culture = "exile-islander"
+}
+17100057 = {
+    name = "Ntombi"
+    culture = "exile-islander"
+}
+17100058 = {
+    name = "Zikomo"
+    culture = "exile-islander"
+}
+17100059 = {
+    name = "Xazi"
+    culture = "exile-islander"
+}
+17100060 = {
+    name = "Thula"
+    culture = "exile-islander"
+}
+17100061 = {
+    name = "Nandiwe"
+    culture = "exile-islander"
+}
+17100062 = {
+    name = "Xengo"
+    culture = "exile-islander"
+}
+17100063 = {
+    name = "Kwabena"
+    culture = "exile-islander"
+}
+17100064 = {
+    name = "Xola"
+    culture = "exile-islander"
+}
+17100065 = {
+    name = "Muntu"
+    culture = "exile-islander"
+}
+17100066 = {
+    name = "Nomusa"
+    culture = "exile-islander"
+}
+17100067 = {
+    name = "Lwazi"
+    culture = "exile-islander"
+}
+17100068 = {
+    name = "Kwezi"
+    culture = "exile-islander"
+}
+17100069 = {
+    name = "Xwana"
+    culture = "exile-islander"
+}
+17100070 = {
+    name = "Thando"
+    culture = "exile-islander"
+}
+17100071 = {
+    name = "Zalika"
+    culture = "exile-islander"
+}
+17100072 = {
+    name = "Biko"
+    culture = "exile-islander"
+}
+17100073 = {
+    name = "Mirembe"
+    culture = "exile-islander"
+}
+17100074 = {
+    name = "Xuru"
+    culture = "exile-islander"
+}
+17100075 = {
+    name = "Uzuri"
+    culture = "exile-islander"
+}
+

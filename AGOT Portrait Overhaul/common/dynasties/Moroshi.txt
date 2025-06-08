@@ -1,0 +1,117 @@
+19100002 = {
+    name = "Varyn"
+    culture = moroshi
+}
+19100003 = {
+    name = "Saery"
+    culture = moroshi
+}
+19100004 = {
+    name = "Thalys"
+    culture = moroshi
+}
+19100005 = {
+    name = "Marantha"
+    culture = moroshi
+}
+19100006 = {
+    name = "Dorion"
+    culture = moroshi
+}
+19100007 = {
+    name = "Seraphis"
+    culture = moroshi
+}
+19100008 = {
+    name = "Lyronis"
+    culture = moroshi
+}
+19100009 = {
+    name = "Salloshar"
+    culture = moroshi
+}
+19100010 = {
+    name = "Rhyserisar"
+    culture = moroshi
+}
+19100011 = {
+    name = "Ryllaer"
+    culture = moroshi
+}
+19100012 = {
+    name = "Mynarath"
+    culture = moroshi
+}
+19100013 = {
+    name = "Elysar"
+    culture = moroshi
+}
+19100014 = {
+    name = "Varion"
+    culture = moroshi
+}
+19100015 = {
+    name = "Sarynna"
+    culture = moroshi
+}
+19100016 = {
+    name = "Theronio"
+    culture = moroshi
+}
+19100017 = {
+    name = "Lyssar"
+    culture = moroshi
+}
+19100018 = {
+    name = "Rhyion"
+    culture = moroshi
+}
+19100019 = {
+    name = "Vesyna"
+    culture = moroshi
+}
+19100020 = {
+    name = "Aeloroth"
+    culture = moroshi
+}
+19100021 = {
+    name = "Isyra"
+    culture = moroshi
+}
+19100022 = {
+    name = "Velarys"
+    culture = moroshi
+}
+19100023 = {
+    name = "Sarion"
+    culture = moroshi
+}
+19100024 = {
+    name = "Myrion"
+    culture = moroshi
+}
+19100025 = {
+    name = "Sellys"
+    culture = moroshi
+}
+19100026 = {
+    name = "Elyrios"
+    culture = moroshi
+}
+19100027 = {
+    name = "Alysar"
+    culture = moroshi
+}
+19100028 = {
+    name = "Thyra"
+    culture = moroshi
+}
+19100029 = {
+    name = "Sarna"
+    culture = moroshi
+}
+19100030 = {
+    name = "Valys"
+    culture = moroshi
+}
+

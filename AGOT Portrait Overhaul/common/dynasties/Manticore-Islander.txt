@@ -1,0 +1,160 @@
+25102000 = {
+    name = "Chandralith"
+    culture = "manticore-islander"
+}
+25102001 = {
+    name = "Alkeshar"
+    culture = "manticore-islander"
+}
+25102002 = {
+    name = "Akeyrar"
+    culture = "manticore-islander"
+}
+25102003 = {
+    name = "Cromsha"
+    culture = "manticore-islander"
+}
+25102004 = {
+    name = "Eibersi"
+    culture = "manticore-islander"
+}
+25102005 = {
+    name = "K'Moolar"
+    culture = "manticore-islander"
+}
+25102006 = {
+    name = "Hoaglund"
+    culture = "manticore-islander"
+}
+25102007 = {
+    name = "Schacaborn"
+    culture = "manticore-islander"
+}
+25102008 = {
+    name = "Klarkashia"
+    culture = "manticore-islander"
+}
+25102009 = {
+    name = "Kirowell"
+    culture = "manticore-islander"
+}
+25102010 = {
+    name = "Luvhennia"
+    culture = "manticore-islander"
+}
+25102011 = {
+    name = "Kerahfeli"
+    culture = "manticore-islander"
+}
+25102012 = {
+    name = "Mylakhroni"
+    culture = "manticore-islander"
+}
+25102013 = {
+    name = "Zamaclia"
+    culture = "manticore-islander"
+}
+25102014 = {
+    name = "Zarnaki"
+    culture = "manticore-islander"
+}
+25102015 = {
+    name = "Mezzari"
+    culture = "manticore-islander"
+}
+25102016 = {
+    name = "Amonroth"
+    culture = "manticore-islander"
+}
+25102017 = {
+    name = "Aphoomari"
+    culture = "manticore-islander"
+}
+25102018 = {
+    name = "Appcolor"
+    culture = "manticore-islander"
+}
+25102019 = {
+    name = "Atlachsi"
+    culture = "manticore-islander"
+}
+25102020 = {
+    name = "Z'uqqastrand"
+    culture = "manticore-islander"
+}
+25102021 = {
+    name = "Binuchsi"
+    culture = "manticore-islander"
+}
+25102022 = {
+    name = "Bukshi"
+    culture = "manticore-islander"
+}
+25102023 = {
+    name = "Coinchennix"
+    culture = "manticore-islander"
+}
+25102024 = {
+    name = "Ghadamonis"
+    culture = "manticore-islander"
+}
+25102025 = {
+    name = "Gtuhaner"
+    culture = "manticore-islander"
+}
+25102026 = {
+    name = "Gurathnaki"
+    culture = "manticore-islander"
+}
+25102027 = {
+    name = "Jukshabbi"
+    culture = "manticore-islander"
+}
+25102028 = {
+    name = "Ryujinsi"
+    culture = "manticore-islander"
+}
+25102029 = {
+    name = "Gwandura"
+    culture = "manticore-islander"
+}
+25102030 = {
+    name = "Mnomquahni"
+    culture = "manticore-islander"
+}
+25102031 = {
+    name = "Mordiggianni"
+    culture = "manticore-islander"
+}
+25102032 = {
+    name = "Nssu-Ghahnboi"
+    culture = "manticore-islander"
+}
+25102033 = {
+    name = "Psuchawrling"
+    culture = "manticore-islander"
+}
+25102034 = {
+    name = "Ptar-Axtlani"
+    culture = "manticore-islander"
+}
+25102035 = {
+    name = "Uttausi"
+    culture = "manticore-islander"
+}
+25102036 = {
+    name = "Shaikori"
+    culture = "manticore-islander"
+}
+25102037 = {
+    name = "Shaurashi"
+    culture = "manticore-islander"
+}
+25102038 = {
+    name = "Shaurasho"
+    culture = "manticore-islander"
+}
+25102039 = {
+    name = "Uitzilcapaci"
+    culture = "manticore-islander"
+}

@@ -1,0 +1,160 @@
+26102000 = {
+    name = "Jabbouri"
+    culture = "marahain"
+}
+26102001 = {
+    name = "Aladdi"
+    culture = "marahain"
+}
+26102002 = {
+    name = "Malhallador"
+    culture = "marahain"
+}
+26102003 = {
+    name = "Jaffarala"
+    culture = "marahain"
+}
+26102004 = {
+    name = "Massailla"
+    culture = "marahain"
+}
+26102005 = {
+    name = "Kazemi"
+    culture = "marahain"
+}
+26102006 = {
+    name = "Mahabhari"
+    culture = "marahain"
+}
+26102007 = {
+    name = "Dallali"
+    culture = "marahain"
+}
+26102008 = {
+    name = "Ghanem"
+    culture = "marahain"
+}
+26102009 = {
+    name = "Hallafa"
+    culture = "marahain"
+}
+26102010 = {
+    name = "Kamali"
+    culture = "marahain"
+}
+26102011 = {
+    name = "Chandralith"
+    culture = "marahain"
+}
+26102012 = {
+    name = "Alkeshar"
+    culture = "marahain"
+}
+26102013 = {
+    name = "Akeyrar"
+    culture = "marahain"
+}
+26102014 = {
+    name = "Cromsha"
+    culture = "marahain"
+}
+26102015 = {
+    name = "Eibersi"
+    culture = "marahain"
+}
+26102016 = {
+    name = "K'Moolar"
+    culture = "marahain"
+}
+26102017 = {
+    name = "Hoaglund"
+    culture = "marahain"
+}
+26102018 = {
+    name = "Schacaborn"
+    culture = "marahain"
+}
+26102019 = {
+    name = "Klarkashia"
+    culture = "marahain"
+}
+26102020 = {
+    name = "Luvhennia"
+    culture = "marahain"
+}
+26102021 = {
+    name = "Kerahfeli"
+    culture = "marahain"
+}
+26102022 = {
+    name = "Mylakhroni"
+    culture = "marahain"
+}
+26102023 = {
+    name = "Zamaclia"
+    culture = "marahain"
+}
+26102024 = {
+    name = "Zarnaki"
+    culture = "marahain"
+}
+26102025 = {
+    name = "Mezzari"
+    culture = "marahain"
+}
+26102026 = {
+    name = "Amonroth"
+    culture = "marahain"
+}
+26102027 = {
+    name = "Aphoomari"
+    culture = "marahain"
+}
+26102028 = {
+    name = "Appcolor"
+    culture = "marahain"
+}
+26102029 = {
+    name = "Atlachsi"
+    culture = "marahain"
+}
+26102030 = {
+    name = "Z'uqqastrand"
+    culture = "marahain"
+}
+26102031 = {
+    name = "Binuchsi"
+    culture = "marahain"
+}
+26102032 = {
+    name = "Bukshi"
+    culture = "marahain"
+}
+26102033 = {
+    name = "Coinchennix"
+    culture = "marahain"
+}
+26102034 = {
+    name = "Ghadamonis"
+    culture = "marahain"
+}
+26102035 = {
+    name = "Gtuhaner"
+    culture = "marahain"
+}
+26102036 = {
+    name = "Gurathnaki"
+    culture = "marahain"
+}
+26102037 = {
+    name = "Jukshabbi"
+    culture = "marahain"
+}
+26102038 = {
+    name = "Ryujinsi"
+    culture = "marahain"
+}
+26102039 = {
+    name = "Gwandura"
+    culture = "marahain"
+}

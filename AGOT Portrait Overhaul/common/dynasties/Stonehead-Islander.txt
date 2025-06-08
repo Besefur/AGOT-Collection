@@ -1,0 +1,105 @@
+13100000 = {
+	name = "Alcafara"
+	culture = stonehead-islander
+}
+13100001 = {
+	name = "Bolamares"
+	culture = stonehead-islander
+}
+13100002 = {
+	name = "Cantancho
+"
+	culture = stonehead-islander
+}
+13100003 = {
+	name = "Fulancio"
+	culture = stonehead-islander
+}
+13100004 = {
+	name = "Huelayado"
+	culture = stonehead-islander
+}
+13100005 = {
+	name = "Jandrova" #canon
+	culture = stonehead-islander
+}
+13100006 = {
+	name = "Kotabano" #nc
+	culture = stonehead-islander
+}
+13100007 = {
+	name = "Xanto" #nc
+	culture = stonehead-islander
+}
+13100008 = {
+	name = "Djocantillo" #nc
+	culture = stonehead-islander
+}
+13100009 = {
+	name = "Vacarojo" #nc
+	culture = stonehead-islander
+}
+13100010 = {
+	name = "Gabotico" #nc
+	culture = stonehead-islander
+}
+13100011 = {
+	name = "Yambi" #nc
+	culture = stonehead-islander
+}
+13100012 = {
+	name = "Jarrif" #nc
+	culture = stonehead-islander
+}
+13100013 = {
+	name = "Zanzi" #nc
+	culture = stonehead-islander
+}
+13100014 = {
+	name = "Stone" #nc
+	culture = stonehead-islander
+}
+13100015 = {
+	name = "Lhorar" #nc
+	culture = stonehead-islander
+}
+13100016 = {
+	name = "Santaxa" #nc
+	culture = stonehead-islander
+}
+13100017 = {
+	name = "Tolasho" #nc
+	culture = stonehead-islander
+}
+13100018 = {
+	name = "Rogallo" #nc
+	culture = stonehead-islander
+}
+13100019 = {
+	name = "Quentynzo" #nc
+	culture = stonehead-islander
+}
+13100020 = {
+	name = "Wyllarion" #nc
+	culture = stonehead-islander
+}
+13100021 = {
+	name = "Caelos" #nc
+	culture = stonehead-islander
+}
+13100022 = {
+	name = "Jovar" #nc
+	culture = stonehead-islander
+}
+13100023 = {
+	name = "Zalmero" #nc
+	culture = stonehead-islander
+}
+13100024 = {
+	name = "Alcazar" #nc
+	culture = stonehead-islander
+}
+13100025 = {
+	name = "Urian" #nc
+	culture = stonehead-islander
+}

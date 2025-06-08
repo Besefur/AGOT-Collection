@@ -1,0 +1,109 @@
+99960200 = {
+	name = "Bharbae"
+	culture = valyrian_dothraki
+
+
+}
+99960201 = {
+	name = "Drogaera"
+	culture = valyrian_dothraki
+
+
+}
+
+99960202 = {
+	name = "Jhaquonis"
+	culture = valyrian_dothraki
+
+
+}
+99960203 = {
+	name = "Temmoe"
+	culture = valyrian_dothraki
+
+
+}
+99960204 = {
+	name = "Peono"
+	culture = valyrian_dothraki
+
+
+}
+99960205 = {
+	name = "Jhaqo"
+	culture = valyrian_dothraki
+
+
+}
+99960206 = {
+	name = "Zekkeon"
+	culture = valyrian_dothraki
+
+
+}
+99960207 = {
+	name = "Mengorea"
+	culture = valyrian_dothraki
+
+
+}
+99960208 = {
+	name = "Horrona"
+	culture = valyrian_dothraki
+
+
+}
+99960209 = {
+	name = "Onqae"
+	culture = valyrian_dothraki
+
+
+}
+99960210 = {
+	name = "Temamo"
+	culture = valyrian_dothraki
+
+
+}
+99960211 = {
+	name = "Zirqeon"
+	culture = valyrian_dothraki
+
+
+}
+99960212 = {
+	name = "Onqeon"
+	culture = valyrian_dothraki
+
+
+}
+99960213 = {
+	name = "Durkio"
+	culture = valyrian_dothraki
+
+
+}
+99960214 = {
+	name = "Haeg"
+	culture = valyrian_dothraki
+
+
+}
+99960215 = {
+	name = "Kovarreon"
+	culture = valyrian_dothraki
+
+
+}
+99960216 = {
+	name = "Marreo"
+	culture = valyrian_dothraki
+
+
+}
+99960217 = {
+	name = "Raego"
+	culture = valyrian_dothraki
+
+
+}

@@ -1,0 +1,82 @@
+#Non-canon Houses for random
+
+20012017 = {
+    name = "Mabarawa"
+    culture = ulthosi
+}
+20012018 = {
+    name = "Ulosorath"
+    culture = ulthosi
+}
+20012019 = {
+    name = "Jarava"
+    culture = ulthosi
+}
+20012020 = {
+    name = "Caralthos"
+    culture = ulthosi
+}
+20012021 = {
+    name = "Bendanga"
+    culture = ulthosi
+}
+20012022 = {
+    name = "Jangarawa"
+    culture = ulthosi
+}
+20012023 = {
+    name = "Pengonge"
+    culture = ulthosi
+}
+20012024 = {
+    name = "Tigulonga"
+    culture = ulthosi
+}
+20012025 = {
+    name = "Onka"
+    culture = ulthosi
+}
+20012026 = {
+    name = "Onga"
+    culture = ulthosi
+}
+20012027 = {
+    name = "Ongey"
+    culture = ulthosi
+}
+20012028 = {
+    name = "Jarawi"
+    culture = ulthosi
+}
+20012029 = {
+    name = "Buhawi"
+    culture = ulthosi
+}
+20012030 = {
+    name = "Jorawa"
+    culture = ulthosi
+}
+20012031 = {
+    name = "Jangi"
+    culture = ulthosi
+}
+20012032 = {
+    name = "Janjor"
+    culture = ulthosi
+}
+20012033 = {
+    name = "Jangilak"
+    culture = ulthosi
+}
+20012034 = {
+    name = "Onulos"
+    culture = ulthosi
+}
+20012035 = {
+    name = "Darawa"
+    culture = ulthosi
+}
+20012036 = {
+    name = "Rangil"
+    culture = ulthosi
+}

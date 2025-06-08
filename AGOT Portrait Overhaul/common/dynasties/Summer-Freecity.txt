@@ -1,0 +1,164 @@
+24102000 = {
+    name = "Raaqaer"
+    culture = "summer-freecity"
+}
+24102001 = {
+    name = "Rhexanos"
+    culture = "summer-freecity"
+}
+24102002 = {
+    name = "Rogaerios"
+    culture = "summer-freecity"
+}
+24102003 = {
+    name = "Trynnae"
+    culture = "summer-freecity"
+}
+24102004 = {
+    name = "Xhoxae"
+    culture = "summer-freecity"
+}
+24102005 = {
+    name = "Anerlior"
+    culture = "summer-freecity"
+}
+24102006 = {
+    name = "Antaryios"
+    culture = "summer-freecity"
+}
+24102007 = {
+    name = "Reyhaen"
+    culture = "summer-freecity"
+}
+24102008 = {
+    name = "Myrakius"
+    culture = "summer-freecity"
+}
+24102009 = {
+    name = "Maeloris"
+    culture = "summer-freecity"
+}
+24102010 = {
+    name = "Tumorish"
+    culture = "summer-freecity"
+}
+24102011 = {
+    name = "Zhoqolos"
+    culture = "summer-freecity"
+}
+24102012 = {
+    name = "Banaerys"
+    culture = "summer-freecity"
+}
+24102013 = {
+    name = "Irrokaeros"
+    culture = "summer-freecity"
+}
+24102014 = {
+    name = "Dyrelaer"
+    culture = "summer-freecity"
+}
+24102015 = {
+    name = "Xhaarys"
+    culture = "summer-freecity"
+}
+24102016 = {
+    name = "Irrahnott"
+    culture = "summer-freecity"
+}
+24102017 = {
+    name = "Baharrys"
+    culture = "summer-freecity"
+}
+24102018 = {
+    name = "Hestadios"
+    culture = "summer-freecity"
+}
+24102019 = {
+    name = "Lyrakys"
+    culture = "summer-freecity"
+}
+24102020 = {
+    name = "Chamox"
+    culture = "summer-freecity"
+}
+24102021 = {
+    name = "Lotaehan"
+    culture = "summer-freecity"
+}
+24102022 = {
+    name = "Ropnolis"
+    culture = "summer-freecity"
+}
+24102023 = {
+    name = "Dirrstaar"
+    culture = "summer-freecity"
+}
+24102024 = {
+    name = "H'ghanys"
+    culture = "summer-freecity"
+}
+24102025 = {
+    name = "Zhaalos"
+    culture = "summer-freecity"
+}
+24102026 = {
+    name = "Vhassarios"
+    culture = "summer-freecity"
+}
+24102027 = {
+    name = "Nagaryen"
+    culture = "summer-freecity"
+}
+24102028 = {
+    name = "Nefaetys"
+    culture = "summer-freecity"
+}
+24102029 = {
+    name = "Idaryios"
+    culture = "summer-freecity"
+}
+24102030 = {
+    name = "Qhobos"
+    culture = "summer-freecity"
+}
+24102031 = {
+    name    = "Volantios"
+    culture = "summer-freecity"
+}
+24102032 = {
+    name    = "Xaqas"
+    culture = "summer-freecity"
+}
+24102033 = {
+    name    = "Rynderios"
+    culture = "summer-freecity"
+}
+24102034 = {
+    name    = "Mopinaryon"
+    culture = "summer-freecity"
+}
+24102035 = {
+    name    = "Tartaryen"
+    culture = "summer-freecity"
+}
+24102036 = {
+    name    = "Rahyr"
+    culture = "summer-freecity"
+}
+24102037 = {
+    name    = "Okanylos"
+    culture = "summer-freecity"
+}
+24102038 = {
+    name    = "Faenylios"
+    culture = "summer-freecity"
+}
+24102039 = {
+    name    = "Flaerys"
+    culture = "summer-freecity"
+}
+24102040 = {
+    name    = "Aeneratys"
+    culture = "summer-freecity"
+}

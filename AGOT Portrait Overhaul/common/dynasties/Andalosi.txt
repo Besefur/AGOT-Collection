@@ -1,0 +1,160 @@
+21100000 = {
+    name = "Amberthorn"
+    culture = "andalosi"
+}
+21100001 = {
+    name = "Rhoynweaver"
+    culture = "andalosi"
+}
+21100002 = {
+    name = "Maerratis"
+    culture = "andalosi"
+}
+21100003 = {
+    name = "Hyrakfrost"
+    culture = "andalosi"
+}
+21100004 = {
+    name = "Taessar"
+    culture = "andalosi"
+}
+21100005 = {
+    name = "Ironheart"
+    culture = "andalosi"
+}
+21100006 = {
+    name = "Stormraven"
+    culture = "andalosi"
+}
+21100007 = {
+    name = "Tyrakshield"
+    culture = "andalosi"
+}
+21100008 = {
+    name = "Wolfstone"
+    culture = "andalosi"
+}
+21100009 = {
+    name = "Baenar"
+    culture = "andalosi"
+}
+21100010 = {
+    name = "Blackthorn"
+    culture = "andalosi"
+}
+21100011 = {
+    name = "Andalfyre"
+    culture = "andalosi"
+}
+21100012 = {
+    name = "Nylayos"
+    culture = "andalosi"
+}
+21100013 = {
+    name = "Rynatis"
+    culture = "andalosi"
+}
+21100014 = {
+    name = "Stonnis"
+    culture = "andalosi"
+}
+21100015 = {
+    name = "Frezslund"
+    culture = "andalosi"
+}
+21100016 = {
+    name = "Baharblade"
+    culture = "andalosi"
+}
+21100017 = {
+    name = "Farfrost"
+    culture = "andalosi"
+}
+21100018 = {
+    name = "Yodaer"
+    culture = "andalosi"
+}
+21100019 = {
+    name = "Redweave"
+    culture = "andalosi"
+}
+21100020 = {
+    name = "Archlyrios"
+    culture = "andalosi"
+}
+21100021 = {
+    name = "Stassel"
+    culture = "andalosi"
+}
+21100022 = {
+    name = "Valyrr"
+    culture = "andalosi"
+}
+21100023 = {
+    name = "Bezwick"
+    culture = "andalosi"
+}
+21100024 = {
+    name = "Oakfyre"
+    culture = "andalosi"
+}
+21100025 = {
+    name = "Opalstone"
+    culture = "andalosi"
+}
+21100026 = {
+    name = "Bowyrstone"
+    culture = "andalosi"
+}
+21100027 = {
+    name = "Thistlevaar"
+    culture = "andalosi"
+}
+21100028 = {
+    name = "Moonhorse"
+    culture = "andalosi"
+}
+21100029 = {
+    name = "Swartzvale"
+    culture = "andalosi"
+}
+21100030 = {
+    name = "Goldentrell"
+    culture = "andalosi"
+}
+21100031 = {
+    name = "Stagsong"
+    culture = "andalosi"
+}
+21100032 = {
+    name = "Wyck"
+    culture = "andalosi"
+}
+21100033 = {
+    name = "Ironclaw"
+    culture = "andalosi"
+}
+21100034 = {
+    name = "Darythorn"
+    culture = "andalosi"
+}
+21100035 = {
+    name = "Swiftfaen"
+    culture = "andalosi"
+}
+21100036 = {
+    name = "Pentoglade"
+    culture = "andalosi"
+}
+21100037 = {
+    name = "Rhoynraider"
+    culture = "andalosi"
+}
+21100038 = {
+    name = "Axestone"
+    culture = "andalosi"
+}
+21100039 = {
+    name = "Norvobane"
+    culture = "andalosi"
+}

@@ -1,0 +1,160 @@
+27102000 = {
+    name = "Essohrin"
+    culture = "rovo-dothraki"
+}
+27102001 = {
+    name = "Bharon"
+    culture = "rovo-dothraki"
+}
+27102002 = {
+    name = "Drogaera"
+    culture = "rovo-dothraki"
+}
+27102003 = {
+    name = "Sorryl"
+    culture = "rovo-dothraki"
+}
+27102004 = {
+    name = "Jhaquonis"
+    culture = "rovo-dothraki"
+}
+27102005 = {
+    name = "Ostos"
+    culture = "rovo-dothraki"
+}
+27102006 = {
+    name = "Temmoe"
+    culture = "rovo-dothraki"
+}
+27102007 = {
+    name = "Paessoran"
+    culture = "rovo-dothraki"
+}
+27102008 = {
+    name = "Pakarr"
+    culture = "rovo-dothraki"
+}
+27102009 = {
+    name = "Vhassoran"
+    culture = "rovo-dothraki"
+}
+27102010 = {
+    name = "Hestelion"
+    culture = "rovo-dothraki"
+}
+27102011 = {
+    name = "Nahiris"
+    culture = "rovo-dothraki"
+}
+27102012 = {
+    name = "Dynyris"
+    culture = "rovo-dothraki"
+}
+27102013 = {
+    name = "Forah"
+    culture = "rovo-dothraki"
+}
+27102014 = {
+    name = "Brenen"
+    culture = "rovo-dothraki"
+}
+27102015 = {
+    name = "Stassyl"
+    culture = "rovo-dothraki"
+}
+27102016 = {
+    name = "Essyris"
+    culture = "rovo-dothraki"
+}
+27102017 = {
+    name = "Aenyris"
+    culture = "rovo-dothraki"
+}
+27102018 = {
+    name = "Mopen"
+    culture = "rovo-dothraki"
+}
+27102019 = {
+    name = "Ennymion"
+    culture = "rovo-dothraki"
+}
+27102020 = {
+    name = "Dynah"
+    culture = "rovo-dothraki"
+}
+27102021 = {
+    name = "Flaerel"
+    culture = "rovo-dothraki"
+}
+27102022 = {
+    name = "Vollion"
+    culture = "rovo-dothraki"
+}
+27102023 = {
+    name = "Ahryr"
+    culture = "rovo-dothraki"
+}
+27102024 = {
+    name = "Zarraqa"
+    culture = "rovo-dothraki"
+}
+27102025 = {
+    name = "Maros"
+    culture = "rovo-dothraki"
+}
+27102026 = {
+    name = "Xaroqo"
+    culture = "rovo-dothraki"
+}
+27102027 = {
+    name = "Zekkon"
+    culture = "rovo-dothraki"
+}
+27102028 = {
+    name = "Mengorea"
+    culture = "rovo-dothraki"
+}
+27102029 = {
+    name = "Horrona"
+    culture = "rovo-dothraki"
+}
+27102030 = {
+    name = "Onqae"
+    culture = "rovo-dothraki"
+}
+27102031 = {
+    name = "Temamok"
+    culture = "rovo-dothraki"
+}
+27102032 = {
+    name = "Zirqeon"
+    culture = "rovo-dothraki"
+}
+27102033 = {
+    name = "Onqeon"
+    culture = "rovo-dothraki"
+}
+27102034 = {
+    name = "Durkarr"
+    culture = "rovo-dothraki"
+}
+27102035 = {
+    name = "Haegarth"
+    culture = "rovo-dothraki"
+}
+27102036 = {
+    name = "Kovarreon"
+    culture = "rovo-dothraki"
+}
+27102037 = {
+    name = "Marreo"
+    culture = "rovo-dothraki"
+}
+27102038 = {
+    name = "Raego"
+    culture = "rovo-dothraki"
+}
+27102039 = {
+    name = "Khaloros"
+    culture = "rovo-dothraki"
+}

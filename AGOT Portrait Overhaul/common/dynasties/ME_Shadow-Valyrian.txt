@@ -1,0 +1,68 @@
+9932901 = {
+	name = "Adiuron"
+	culture = shadow_valyrian
+}
+9932902 = {
+	name = "Belibnio"
+	culture = shadow_valyrian
+}
+9932903 = {
+	name = "Belsumis"
+	culture = shadow_valyrian
+}
+9932904 = {
+	name = "Cirtae"
+	culture = shadow_valyrian
+}
+9932905 = {
+	name = "Dilganos"
+	culture = shadow_valyrian
+}
+9932906 = {
+	name = "Enzunarea"
+	culture = shadow_valyrian
+}
+9932907 = {
+	name = "Gudeara"
+	culture = shadow_valyrian
+}
+9932908 = {
+	name = "Istarses"
+	culture = shadow_valyrian
+}
+9932909 = {
+	name = "Izdubaro"
+	culture = shadow_valyrian
+}
+9932910 = {
+	name = "Kastubilion"
+	culture = shadow_valyrian
+}
+9932911 = {
+	name = "Lidunnamoru"
+	culture = shadow_valyrian
+}
+9932912 = {
+	name = "Mulagon"
+	culture = shadow_valyrian
+}
+9932913 = {
+	name = "Multhae"
+	culture = shadow_valyrian
+}
+9932914 = {
+	name = "Nabona"
+	culture = shadow_valyrian
+}
+9932915 = {
+	name = "Nabonius"
+	culture = shadow_valyrian
+}
+9932916 = {
+	name = "Nabukbi"
+	culture = shadow_valyrian
+}
+9932917 = {
+	name = "Namtaros"
+	culture = shadow_valyrian
+}

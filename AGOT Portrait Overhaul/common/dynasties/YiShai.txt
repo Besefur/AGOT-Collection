@@ -1,0 +1,82 @@
+#Non-canon Houses for random
+
+20011037 = {
+    name = "Chandrei"
+    culture = yishai
+}
+20011038 = {
+    name = "Liyuhtun"
+    culture = yishai
+}
+20011039 = {
+    name = "Mandalayar"
+    culture = yishai
+}
+20011040 = {
+    name = "Aruni"
+    culture = yishai
+}
+20011041 = {
+    name = "Yongli"
+    culture = yishai
+}
+20011042 = {
+    name = "Lithu"
+    culture = yishai
+}
+20011043 = {
+    name = "Tawkyaung"
+    culture = yishai
+}
+20011044 = {
+    name = "Anshulei"
+    culture = yishai
+}
+20011045 = {
+    name = "Suryatha"
+    culture = yishai
+}
+20011046 = {
+    name = "Inlethu"
+    culture = yishai
+}
+20011047 = {
+    name = "Rohini"
+    culture = yishai
+}
+20011048 = {
+    name = "Laksita"
+    culture = yishai
+}
+20011049 = {
+    name = "Paganlaung"
+    culture = yishai
+}
+20011050 = {
+    name = "Angkora"
+    culture = yishai
+}
+20011051 = {
+    name = "Rohanmei"
+    culture = yishai
+}
+20011052 = {
+    name = "Chamkrong"
+    culture = yishai
+}
+20011053 = {
+    name = "Sariktang"
+    culture = yishai
+}
+20011054 = {
+    name = "Sokrei"
+    culture = yishai
+}
+20011055 = {
+    name = "Dvaravati"
+    culture = yishai
+}
+20011056 = {
+    name = "Ravikar"
+    culture = yishai
+}

@@ -1,0 +1,164 @@
+99881854 = {
+	name = "Finn"
+	culture = valyrian_northman
+}
+99881855 = {
+	name = "Winterflame"
+	culture = valyrian_northman
+}
+99881856 = {
+	name = "Ashes"
+	culture = valyrian_northman
+}
+99881857 = {
+	name = "Heatshire"
+	culture = valyrian_northman
+}
+99881858 = {
+	name = "Winterwing"
+	culture = valyrian_northman
+}
+99881859 = {
+	name = "Frostflame"
+	culture = valyrian_northman
+}
+99881860 = {
+	name = "Snowfire"
+	culture = valyrian_northman
+}
+99881861 = {
+	name = "Frostwing"
+	culture = valyrian_northman
+}
+99881862 = {
+	name = "Whiteflame"
+	culture = valyrian_northman
+}
+99881863 = {
+	name = "Hotsteel"
+	culture = valyrian_northman
+}
+99881864 = {
+	name = "Firewhisk"
+	culture = valyrian_northman
+}
+99881865 = {
+	name = "Flyfire"
+	culture = valyrian_northman
+}
+99881866 = {
+	name = "Coldflames"
+	culture = valyrian_northman
+}
+99881867 = {
+	name = "Coldhands"
+	culture = valyrian_northman
+}
+99881868 = {
+	name = "Scorchtimber"
+	culture = valyrian_northman
+}
+99881869 = {
+	name = "Ice Bow"
+	culture = valyrian_northman
+}
+99881870 = {
+	name = "Flintareon"
+	culture = valyrian_northman
+}
+99881871 = {
+	name = "Cravyon"
+	culture = valyrian_northman
+}
+99881872 = {
+	name = "Manderfall"
+	culture = valyrian_northman
+}
+99881873 = {
+	name = "Lavarivers"
+	culture = valyrian_northman
+}
+99881874 = {
+	name = "Sanderon"
+	culture = valyrian_northman
+}
+99881875 = {
+	name = "Direon"
+	culture = valyrian_northman
+}
+99881876 = {
+	name = "Loneflame"
+	culture = valyrian_northman
+}
+99881877 = {
+	name = "Manatheon"
+	culture = valyrian_northman
+}
+99881878 = {
+	name = "Firefield"
+	culture = valyrian_northman
+}
+99881879 = {
+	name = "Winstark"
+	culture = valyrian_northman
+}
+99881880 = {
+	name = "Burner"
+	culture = valyrian_northman
+}
+99881882 = {
+	name = "Heats"
+	culture = valyrian_northman
+}
+99881883 = {
+	name = "LavaWell"
+	culture = valyrian_northman
+}
+99881884 = {
+	name = "Starfront"
+	culture = valyrian_northman
+}
+99881885 = {
+	name = "Windmoor"
+	culture = valyrian_northman
+}
+99881886 = {
+	name = "Underton"
+	culture = valyrian_northman
+}
+99881887 = {
+	name = "Molten"
+	culture = valyrian_northman
+}
+99881888 = {
+	name = "Lockheed"
+	culture = valyrian_northman
+}
+99881889 = {
+	name = "Fireman"
+	culture = valyrian_northman
+}
+99881890 = {
+	name = "Hotfoot"
+	culture = valyrian_northman
+}
+99881891 = {
+	name = "Lavabed"
+	culture = valyrian_northman
+}
+99881892 = {
+	name = "Warmlake"
+	culture = valyrian_northman
+}
+99881893 = {
+	name = "Firesmith"
+	culture = valyrian_northman
+}
+99881894 = {
+	name = "Condor"
+	culture = valyrian_northman
+}
+99881895 = {
+	name = "Mountainer"
+	culture = valyrian_northman
+}

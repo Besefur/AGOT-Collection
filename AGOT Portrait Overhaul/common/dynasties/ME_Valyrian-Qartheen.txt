@@ -1,0 +1,68 @@
+99350007 = {
+	name = "Matatheon"
+	culture = valyrian_qartheen
+}
+99350008 = {
+	name = "Qar Qetheon"
+	culture = valyrian_qartheen
+}
+99350009 = {
+	name = "Hayaen"
+	culture = valyrian_qartheen
+}
+99350010 = {
+	name = "Aramaxys"
+	culture = valyrian_qartheen
+}
+99350011 = {
+	name = "Sothanar"
+	culture = valyrian_qartheen
+}
+99350012 = {
+	name = "Qar Kisaro"
+	culture = valyrian_qartheen
+}
+99350013 = {
+	name = "Merelosys"
+	culture = valyrian_qartheen
+}
+99350014 = {
+	name = "Durathon"
+	culture = valyrian_qartheen
+}
+99350015 = {
+	name = "Qar Yathon"
+	culture = valyrian_qartheen
+}
+99350017 = {
+	name = "Xhoan Exaenes"
+	culture = valyrian_qartheen
+}
+99350018 = {
+	name = "Qar Vetheara"
+	culture = valyrian_qartheen
+}
+99350019 = {
+	name = "Vaqaraena"
+	culture = valyrian_qartheen
+}
+99350020 = {
+	name = "Alegosys"
+	culture = valyrian_qartheen
+}
+99350021 = {
+	name = "Xhoan Xhorae"
+	culture = valyrian_qartheen
+}
+9969158 = {
+	name = "Gosymon"
+	culture = valyrian_qartheen
+}
+9969159 = {
+	name = "Eleglas"
+	culture = valyrian_qartheen
+}
+996919960 = {
+	name = "Qar Xarnathys"
+	culture = valyrian_qartheen
+}

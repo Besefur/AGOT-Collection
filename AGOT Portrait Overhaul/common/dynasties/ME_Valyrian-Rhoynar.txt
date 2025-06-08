@@ -1,0 +1,146 @@
+#Dorne
+1988061 = {
+	name = "Goldcinder"
+	culture = valyrian_stone_dornish
+}
+1988062 = {
+	name = "Betterleaf"
+	culture = valyrian_stone_dornish
+}
+1988063 = {
+	name = "Scythe"
+	culture = valyrian_stone_dornish
+}
+1988064 = {
+	name = "Goldhil"
+	culture = valyrian_stone_dornish
+}
+1988065 = {
+	name = "Buckhorn"
+	culture = valyrian_stone_dornish
+}
+1988066 = {
+	name = "Redwick"
+	culture = valyrian_stone_dornish
+}
+1988067 = {
+	name = "Fishswell"
+	culture = valyrian_sand_dornish
+}
+1988068 = {
+	name = "Newshall"
+	culture = valyrian_sand_dornish
+}
+1988069 = {
+	name = "Hendareon"
+	culture = valyrian_sand_dornish
+}
+1988070 = {
+	name = "Picklewood"
+	culture = valyrian_sand_dornish
+}
+1988071 = {
+	name = "Cinderfield"
+	culture = valyrian_sand_dornish
+}
+1988072 = {
+	name = "Argood"
+	culture = valyrian_sand_dornish
+}
+1988073 = {
+	name = "Grimsel"
+	culture = valyrian_salt_dornish
+}
+1988074 = {
+	name = "Nottlewood"
+	culture = valyrian_salt_dornish
+}
+1988075 = {
+	name = "Halftree"
+	culture = valyrian_salt_dornish
+}
+1988076 = {
+	name = "Goldland"
+	culture = valyrian_salt_dornish
+}
+1988077 = {
+	name = "Merlon"
+	culture = valyrian_salt_dornish
+}
+1988078 = {
+	name = "Blakstone"
+	culture = valyrian_salt_dornish
+}
+1988079 = {
+	name = "Cinderfur"
+	culture = valyrian_stone_dornish
+}
+1988080 = {
+	name = "Crowner"
+	culture = valyrian_stone_dornish
+}
+1988081 = {
+	name = "Clapton"
+	culture = valyrian_stone_dornish
+}
+1988082 = {
+	name = "Ratheon"
+	culture = valyrian_stone_dornish
+}
+1988083 = {
+	name = "Godwyck"
+	culture = valyrian_stone_dornish
+}
+1988084 = {
+	name = "Hallemore"
+	culture = valyrian_stone_dornish
+}
+1988085 = {
+	name = "Searer"
+	culture = valyrian_sand_dornish
+}
+1988086 = {
+	name = "Queenwood"
+	culture = valyrian_sand_dornish
+}
+1988087 = {
+	name = "Gilet"
+	culture = valyrian_sand_dornish
+}
+1988088 = {
+	name = "Emmerwock"
+	culture = valyrian_sand_dornish
+}
+1988089 = {
+	name = "Whiteflower"
+	culture = valyrian_sand_dornish
+}
+1988090 = {
+	name = "Broock"
+	culture = valyrian_sand_dornish
+}
+1988092 = {
+	name = "Bettle"
+	culture = valyrian_salt_dornish
+}
+1988093 = {
+	name = "Landell"
+	culture = valyrian_salt_dornish
+}
+1988094 = {
+	name = "Leeka"
+	culture = valyrian_salt_dornish
+}
+1988095 = {
+	name = "Marstone"
+	culture = valyrian_salt_dornish
+}
+1988096 = {
+	name = "Valantar"
+	culture = valyrian_salt_dornish
+}
+1988097 = {
+	name = "Matollen"
+	culture = valyrian_salt_dornish
+}
+

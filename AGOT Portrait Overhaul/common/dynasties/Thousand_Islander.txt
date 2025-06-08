@@ -1,0 +1,126 @@
+#Non-canon Houses for random
+
+70101000 = {
+    name = "Broggnar"
+    culture = islander
+}
+70101001 = {
+    name = "Cullthorn"
+    culture = islander
+}
+70101002 = {
+    name = "Dralokar"
+    culture = islander
+}
+70101003 = {
+    name = "Eleogson"
+    culture = islander
+}
+70101004 = {
+    name = "Grothgar"
+    culture = islander
+}
+70101005 = {
+    name = "Jothran"
+    culture = islander
+}
+70101006 = {
+    name = "Krullborn"
+    culture = islander
+}
+70101007 = {
+    name = "Moggothos"
+    culture = islander
+}
+70101008 = {
+    name = "Quorthammer"
+    culture = islander
+}
+70101009 = {
+    name = "Sogolothar"
+    culture = islander
+}
+70101010 = {
+    name = "Tumosher"
+    culture = islander
+}
+70101011 = {
+    name = "Ulfblade"
+    culture = islander
+}
+70101012 = {
+    name = "Ygonhart"
+    culture = islander
+}
+70101013 = {
+    name = "Torrsheld"
+    culture = islander
+}
+70101014 = {
+    name = "Betharionixar"
+    culture = islander
+}
+70101015 = {
+    name = "Cossomararx"
+    culture = islander
+}
+70101016 = {
+    name = "Frynnelisovixyr"
+    culture = islander
+}
+70101017 = {
+    name = "Gylorwynskixar"
+    culture = islander
+}
+70101018 = {
+    name = "Izembarrexyr"
+    culture = islander
+}
+70101019 = {
+    name = "Meralysson"
+    culture = islander
+}
+70101020 = {
+    name = "Lannaroskithar"
+    culture = islander
+}
+70101021 = {
+    name = "Ummarisothor"
+    culture = islander
+}
+70101022 = {
+    name = "Tagganaris"
+    culture = islander
+}
+70101023 = {
+    name = "Tormar"
+    culture = islander
+}
+70101024 = {
+    name = "Bellegereon"
+    culture = islander
+}
+70101025 = {
+    name = "Deniathorn"
+    culture = islander
+}
+70101026 = {
+    name = "Zialor"
+    culture = islander
+}
+70101027 = {
+    name = "Tagganarionixar"
+    culture = islander
+}
+70101028 = {
+    name = "Tormaroskexyr"
+    culture = islander
+}
+70101029 = {
+    name = "Zialorovithar"
+    culture = islander
+}
+70101030 = {
+    name = "Xeleogstaraq"
+    culture = islander
+}

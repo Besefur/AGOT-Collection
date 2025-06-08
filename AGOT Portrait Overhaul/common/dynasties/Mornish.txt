@@ -1,0 +1,160 @@
+28102000 = {
+    name = "Roshani"
+    culture = "mornish"
+}
+28102001 = {
+    name = "Zarvand"
+    culture = "mornish"
+}
+28102002 = {
+    name = "Yuezhir"
+    culture = "mornish"
+}
+28102003 = {
+    name = "Kushani"
+    culture = "mornish"
+}
+28102004 = {
+    name = "Tajiri"
+    culture = "mornish"
+}
+28102005 = {
+    name = "Sakkara"
+    culture = "mornish"
+}
+28102006 = {
+    name = "Yuezho"
+    culture = "mornish"
+}
+28102007 = {
+    name = "Kushiroan"
+    culture = "mornish"
+}
+28102008 = {
+    name = "Tajimoar"
+    culture = "mornish"
+}
+28102009 = {
+    name = "Sakarayev"
+    culture = "mornish"
+}
+28102010 = {
+    name = "Yuezhak"
+    culture = "mornish"
+}
+28102011 = {
+    name = "Kushano"
+    culture = "mornish"
+}
+28102012 = {
+    name = "Tajibek"
+    culture = "mornish"
+}
+28102013 = {
+    name = "Sakalo"
+    culture = "mornish"
+}
+28102014 = {
+    name = "Yuezhan"
+    culture = "mornish"
+}
+28102015 = {
+    name = "Kushim"
+    culture = "mornish"
+}
+28102016 = {
+    name = "Tajit"
+    culture = "mornish"
+}
+28102017 = {
+    name = "Sakhar"
+    culture = "mornish"
+}
+28102018 = {
+    name = "Yuezharr"
+    culture = "mornish"
+}
+28102019 = {
+    name = "Kushanka"
+    culture = "mornish"
+}
+28102020 = {
+    name = "Tajifar"
+    culture = "mornish"
+}
+28102021 = {
+    name = "Sakatali"
+    culture = "mornish"
+}
+28102022 = {
+    name = "Yuezhbek"
+    culture = "mornish"
+}
+28102023 = {
+    name = "Kusharbek"
+    culture = "mornish"
+}
+28102024 = {
+    name = "Tajin"
+    culture = "mornish"
+}
+28102025 = {
+    name = "Sakmotar"
+    culture = "mornish"
+}
+28102026 = {
+    name = "Yuelarro"
+    culture = "mornish"
+}
+28102027 = {
+    name = "Kushintarr"
+    culture = "mornish"
+}
+28102028 = {
+    name = "Tajkarr"
+    culture = "mornish"
+}
+28102029 = {
+    name = "Sakar"
+    culture = "mornish"
+}
+28102030 = {
+    name = "Yuezhist"
+    culture = "mornish"
+}
+28102031 = {
+    name = "Kushanosk"
+    culture = "mornish"
+}
+28102032 = {
+    name = "Tajistai"
+    culture = "mornish"
+}
+28102033 = {
+    name = "Sakkoich"
+    culture = "mornish"
+}
+28102034 = {
+    name = "Yuezhanoich"
+    culture = "mornish"
+}
+28102035 = {
+    name = "Kushanoitch"
+    culture = "mornish"
+}
+28102036 = {
+    name = "Tajimoich"
+    culture = "mornish"
+}
+28102037 = {
+    name = "Sakaristi"
+    culture = "mornish"
+}
+28102038 = {
+    name = "Yuezharo"
+    culture = "mornish"
+}
+28102039 = {
+    name = "Kusharayev"
+    culture = "mornish"
+}

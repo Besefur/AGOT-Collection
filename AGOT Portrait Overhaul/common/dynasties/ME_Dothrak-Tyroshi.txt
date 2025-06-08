@@ -1,0 +1,53 @@
+99930226 = {
+	name = "Rynar"
+	culture = dothrak_tyroshi
+}
+99930227 = {
+	name = "Nahor"
+	culture = dothrak_tyroshi
+}
+99930228 = {
+	name = "Tumor"
+	culture = dothrak_tyroshi
+}
+99930229 = {
+	name = "Tumayn"
+	culture = dothrak_tyroshi
+}
+
+99930231 = {
+	name = "Tumdan"
+	culture = dothrak_tyroshi
+}
+99930232 = {
+	name = "Tuhor"
+	culture = dothrak_tyroshi
+}
+99930233 = {
+	name = "Tadar"
+	culture = dothrak_tyroshi
+}
+99930234 = {
+	name = "Qumit"
+	culture = dothrak_tyroshi
+}
+99930235 = {
+	name = "Nahi"
+	culture = dothrak_tyroshi
+}
+99930236 = {
+	name = "Rymi"
+	culture = dothrak_tyroshi
+}
+99930237 = {
+	name = "Amito"
+	culture = dothrak_tyroshi
+}
+99930238 = {
+	name = "Aner"
+	culture = dothrak_tyroshi
+}
+99930239 = {
+	name = "Breys"
+	culture = dothrak_tyroshi
+}

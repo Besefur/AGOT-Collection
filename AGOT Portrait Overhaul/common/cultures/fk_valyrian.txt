@@ -1,0 +1,839 @@
+valyrian = {
+	graphical_cultures = { westerngfx } # buildings, portraits, units
+
+	high_valyrian = {
+		graphical_cultures = { valyriangfx } # portraits
+
+		used_for_random = no
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		character_modifier = {
+			dragon_hatching = 4
+			dragon_taming = 30
+			martial = 1
+			learning = 1
+		}
+
+		color = { 0.15 0.15 0.15 }
+
+		male_names = {
+			Aerys:400 Aegon:1100 Aegor Aelyx Aemon:400 Aemond Aenar Aenys:200 Aerion:300
+			Aeryn Aelor Aurion:50 Aethon:50 Aenyx:25
+			Baelor:200 Baelon:300 Baethon:50 Baenar:50 Baeryn:50 Balaeron:25 Balerion:5
+			Daegar:50 Daemon:400 Daeron:600 Daemion Daenar:50
+			Gaemon:200
+			Haegon Haerys:50 Haenar Haegar
+			Jaekar:50 Jaehaerys:400 Jacaerys Jaenar:50 Jaenyx:25
+			Lucerys Laenor Laerion:25
+			Maelys Maegon Maegor:200 Maekar Maerys:50 Matarys Maelor
+			Orys:50
+			Rhaegar Rhaegel Rhogar
+			Taegon:25
+			Valarr Viserys:400 Vaeron Vaekar:50 Vaermon Vaemond:50 Vaegon Valerion
+			Valyx:25 Vaelor
+		}
+		female_names = {
+			Allyria:50 Alearys:50 Aelinor Alysanne Aerea Alyssa Aelora
+			Baela Baenys:50 Baena:50
+			Cyeana Cymella:50 Calla
+			Daella:200 Daena Daeoril Daenerys:200 Daenys Daenaera Daenora
+			Elaena:200
+			Gael
+			Helaena Haera
+			Jaehaera Jaenara
+			Leaysa:50 Laena Lianna Larissa
+			Maera:50 Maega:50 Maegelle
+			Naerys Rhae Rhaelle Rhaena:300 Rhaeys:50 Rhaenyra Rhaelinor:50 Rhaenys:300
+			Rhaera:50
+			Saenrys:50 Syaella:50 Shaera Saera Shaena
+			Visenya:200 Vaera:50 Vaella:200 Viserra Vaena:50
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 15
+		mat_grf_name_chance = 5
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 5
+		mother_name_chance = 0
+
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+	western_valyrian = {
+		graphical_cultures = { westvalyriangfx } # portraits
+
+		color = { 0.35 0.35 0.35 }
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		character_modifier = {
+			dragon_hatching = 1
+			dragon_taming = 4
+			martial = 1
+			stewardship = 1
+		}
+
+		male_names = {
+			Aegon Aegor Aelix Aemon Aemond Aenys Aerion Aerys Alan Alaric Allar Allard
+			Alton Alyn Ardrian Arryk Aurane Arthor Addam Aethan Aenor Aelys
+			Baelor Balman Bartimos Bennard Boros Bryen Baenar Baethon Balaeron Baeron
+			Clarence Clayton Clement Crispian Corlys Corwyn
+			Daemon Daeron Danos Davos Denys:25 Dontos Duncan:25 Duram:25 Daegon Daegar
+			Daenar Daemond
+			Edwell Florian
+			Guncer Gyles Galfrid Gargon Gaemond Gaelys Gaeron
+			Haegon Hubard Haenor Haerys
+			Jacelyn Jaehaerys Janos Jarman Jarmen Jon Jorgen Justin Jacaerys Joffrey
+			Jaegon Jaemond Jaenyx
+			Lothar Lothor Lucos Lucerys Laenor Laemond:50 Laerys Laerion
+			Maegor Maekar Malentine Malliard Maric Matarys Matthos Monford Monterys
+			Morgan Morros Maerys
+			Ollidor Orys
+			Pate
+			Qarlton Quenton
+			Rhaegar Rhaegel Rolland Rhaegarth Rhaegor Rhaenor Rhaelyx Rhogar Rhaego
+			Sefton Simon Steffon Symon Symeon
+			Triston
+			Ulmer
+			Valarr Viserys Vaermon Victor Vaemond Vaellyn Vaenar Vaenor Vhaegon Vaelyx
+			Veran
+		}
+		female_names = {
+			Aelinor Aglantine Alerie Alla Alyce Alynne Alys Alysanne Annara Arianne
+			Alynna:50 Aenesa:50 Aella Aemma Aenara Aena Anora Alearys Aemira Amaena
+			Ashaera Aurana
+			Baena:50 Balaena Baelys Baenys
+			Cassana Corenna Cyrenna Cenya Cyeana Cymella
+			Dalla Delena Denyse Desmera Donyse Daella Daena Daenerys Daeryssa Daesanne:50
+			Eglantine Elaena Ermesande Elaenora Elleria Elaenys Elia
+			Falena Falyse
+			Helaea Haera Haena
+			Jeyne Jonquil Joyeuse Jaena Jahaena
+			Laeysa Leona Leonette Leyla Larissa Lianna Leana Laenora Leana
+			Malessa Malora Marei Marya Matrice Melicent Mhaegan Mhaegen Moelle Mylenda
+			Marilda Maelyra Maegelle Maella Maera
+			Naela Nora Nerys
+			Oreyne
+			Prudence Prunella
+			Rhae Rhaella Rhaelle Rhaena Rhaenyra Rhaenys Roelle Rhaera:50 Rhaelinor
+			Rhalla Rhae
+			Scolera Selyse Senelle Serenei Shiera Shireen Syaella Serra Shaena
+			Talla Tanda Tyanna
+			Unella
+			Visenya Vaena:50 Vaella Valaena Viserra Vaena Valyra Valira Valaera Valeri
+			Valarra Vaerha
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+
+	eastern_valyrian = {
+		graphical_cultures = { easternvalyriangfx republicsgfx }
+
+		color = { 0.25 0.25 0.25 }
+
+		character_modifier = {
+			dragon_hatching = 2
+			dragon_taming = 6
+			martial = 1
+			stewardship = 1
+		}
+
+		used_for_random = no
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+
+		male_names = {
+			#CANON
+
+			Alios:450
+			Belicho:450
+			Colloquo:450
+			Doniphos:450
+			Horonno:1000
+			Malaquo:450 Methyso:250 Marqelo:450
+			Nyessos:450
+			Parquello:450
+			Vogarro:450
+			Kasporio:150
+			Tybero:150
+			Mollono:200
+			Vhalaso:700
+
+			Aethan Aerion Aegon Aegor Aemon Aenys Aelor Aenar Aemond Aeryn Aurion Aelyx
+			Aerys Asporio:150 Aricho:250 Adaros Arano Aeriphos Arillos Aryrio Aryos Aeryx
+			Aerano Aerio Aronos Adareno Aeryro Aeronos Aegol Aelios Aeryio Aurios Aeronos
+			Aegnar Aerondor Aerinos Aezhor Ayrmidos Aemerys
+			Anaelos Aelon Auron Aurys Auron Aegalyx
+			Baelon Baelor Baelyx Baleron
+			Bracharo Basporio:150 Belesso Ballio Balleno Brachyllo Belodos Brachanos
+			Beleqor:150 Belyrio Belapho Beloquo Belano Belono Boronno:200 Bhalaso:200
+			Baethar Baerys Baelegar Baelarr Baeraxo Balios Balaquo Balerys
+			Corlys Corleys Corlyx Conicho Cassano Cadaros Caryos
+			Coqorro:150 Corio:250 Cossoquo:250 Coronno:150 Carios:150 Cybero:250
+			Carrax Caraxos Caeraxos Celicho Coranno Cethyso Caegaro Caeto Caetos
+			Daemion Daemon Daeron Daegar Daemond Daerion Daelar
+			Donicho:150 Donelos Donano Draqano Donio Donaro Draqoros Dynario Doronno:150
+			Davo:150 Darios:150 Daerys Daeryn Draqoros Daqarro Dorios Delicho Dethyso
+			Dyessos Darqelo Dogarro Dasporio Daurion
+			Esselo Ezzano Ezzario Essanos Essalos Essorio Eysano Esyrno
+			Gaerlos Gaemon Gaemond Galichos Goronno Gogarro Goranys Gyllonos Garridos
+			Gasporio:150 Goronno:150 Garios:150 Goqorro:150
+			Haegon Halios Helicho Hethyso Hyessos Harquello Haegarr Haegar Haegor
+			Harlano:250 Hasporio:150 Haronno:250 Harios:150 Hybario:200
+			Halaso:150 Haemond
+			Innyllo Irrio Illeno Illario Illio Innario Illoquo Illaro Illoros Ironno:200
+			Illonar Irricho
+			Jaehaerys Jacaerys Jaeherys Jeherys Jybero Jhalaso Jaethios Jargaero Jaegarro
+			Jaehaerion
+			Jasporio:150 Joraquo:150 Jorapho:150 Jaqaro Jalaquo:150 Jaqario Joronno:150
+			Laenar Laenor Lucerys Logarro
+			Lysiros Lazano Lysenno Larazo Laraquo:150 Loronno:250 Larios:150 Lybero:150
+			Lothorio:150 Loqorro:150
+			Noroquo Nakano Nakaquo Nakodos Norello Nyessano Nakeo Narios:150
+			Maegon Maelys Maekar Matarys Maegor
+			Maraphos:250 Mallaquo:250 Marano Malano Malonaro Malero:250 Melio Moronno:150
+			Maekaro Maelar Maedhros Mhalaso:150 Malarr
+			Noqorro:150
+			Orys Oryos Orios
+			Paranys Pazano Pyrio Padaro Poronno:150 Parios:150 Poqorro:150 Phalaso:150
+			Releqor:250 Relyrio Relapho:250 Rybero:150 Rhalaso:150 Rhogar:150 Rhaegelos
+			Rhaegar Rhaegel Rhaegos Rhaekar Raenyx
+			Saeros
+			Qarrano:250 Qorello Qoronno:150 Qhalaso:200
+			Yasporio:150  Yaqeo Yorys:150 Yoronno:150 Yoqorro:150
+			Stallaquo:250 Stallorno Syrano Stalleno Syricho:250 Salloros Soronno:150
+			Sarios:150 Sybero:150
+			Tregaquo Tregyros Tregonos Thoronno Thorio Tyssano Tychano Thoreno Tychoros
+			Tregyllo Toronno:150 Tario:150 Thalaso:150 Tazal Taegon
+			Taemond Tregyros Tahaegon
+			Urraxo Umaerys
+			Vargorno Variphos:250 Vyronos Vargano:250 Vargio Vyresso Voqorro:250
+			Vogorno:250 Valoquo:250 Vargello Voronno:150 Vario:150 Vhaelon Vhaelor Vaenar
+			Vaelyx Viserys Valarr Valerion Vaemond Vaegon Verrax Verxes Vhaegon Vhaerax
+			Visenys Vhaenor Viselys Vaelon Vhamithos Valenys Vaelon Vaemar Vaeron Vaerax
+			Vaelarr Vaelar Vhaegor Vhaemond Visenys Viserax Visenar Vhaeron Vhaemon
+			Valerian Vaelerian Valaerian Vhaedar Vhaerys Vaemyx
+			Zonario Zarapho Zaraquo Zyrio Zeleqor Zargano Zoronno:150 Zarios:150
+			Zhalaso:150
+			Pupolo Danilo Demetio Nereo Balderico Genesio
+		}
+		female_names = {
+
+			Allyria Alearys
+			Cyeana Cymella
+			Daella Daeoril
+			Elaena Leaysa Naerys Rhae Rhaelle Rhaeys Rhaelinor Saenrys
+			Syaella
+
+			#CANON
+			Talisa:1000 Trianna:2000 Selaesori:700
+
+
+			#NEW FEMALE NAMES
+			Aerea Aelora Aerea Aenessa Aemala Aemaera
+			Alaerys Areya Arreyana Alaena Ahrysa Ahrianna Arraya Aena Arenel
+			Ahraena Alae Aelinara Aegara Aenessa Aemyra Aela Aerora Aerianna
+			Baenys Baena Baella Baelysa Bysaria Besara Baesara Baelara Belara Belys
+			Baelora Belaera Baelarra Baemysa Baenora Balerra Baleria Baesella
+			Calla Caena Caerysa Ceres Corlyra Cymara
+			Daenerys Daella Daena Daenora Daenys Daelys
+			Daenera Dehaera Denaeya Daenela Doresa Doreza Daelora Daerea Daenyra
+			Dysaria Daenirah Daela Denysa Dora Daeryssa Daeanna
+			Elaena Elaesa
+			Elaera Eyolana Enesa Elaenys Elira Elyra Elyri Esera Elysa Elaenys Elaenora
+			Elanora Elaer Elaella Elaenyra
+			Firanissa Faeyella Ferysa Faeyolana Firaneah Ferylea Feria Firanya Firania
+			Firanela Faeyila
+			Gael Galraena Gaena Galara Gelaena Gysara
+			Helaena Hesa
+			Haera Haelora Helanea Harreyana Henolana Helyea Henaleah Henerah Harraya
+			Haena Helissa Hena Helaenys Haelys
+			Inerylla Irylla Ilola Ilona Ilia
+			Jaehaera Jaenyra
+			Jaenyra Jaera Jaerra Jaenys Jaenara Jaelanys Janira Jenira Jaelana Jelaenys
+			Lucenora Laressa Lessynea Leresa Laera Laena Lysaria Laenesa Lanesa Jaehaena
+			Laenyra Licya Lessella Lessera Lezzia Laesyra
+			Maegelle Minanea Melyna Meshaleah Milaya Meshaena Mineya Maena Maela Melina
+			Melylla Minelna Mellianna Morylea Moreya Maegala Maenora Maella Maelora
+			Naerys Nereah Norianna Nesianna Nesynea Neseyana Nesoreah Nilyna Nolona
+			Naelys Nesora Nesissa Nysaria Nesa Nilora Nilina Nilde Nesila Nissae Naenora
+			Naelora Naelle Naenyra Naella Nyra Naeryssa Naesela
+			Onalella Onalona Onalya Onalyna Orala Onaela
+			Phireah Phirona Philona Phenoreah Penyla Phenolana Phenaria Phirella Philario
+			Pysaria Pysaria
+			Qaena Qaenira Qalara
+			Rhae Rhaella Rhaenys Rhaelle Rhaenyra Raena Rhaessa Ranira Rhaela Rhaenya
+			Rhaesanne Rhaenora Rhaelora
+			Saera Shaera Shaena Saeryn Saelys Serala Shaelys Sera Seraena Saelysa Saena
+			Serylla Serylla Sirana Siranah Siraya Saella Serola Saeraxa Sireya
+			Shaenyra Shaenya Shaerys Serera Sirona Saerya
+			Tyrea Tyrra Triannya Taeynea Tirora Trianira Tiryna Taenolana Tysaria Tirysha
+			Tirola Triannolla Taenya
+			Wenela Wenyla Wynesa Wyna
+			Visenya Viserra Velle Vellya Vellena Vaerosha Vellona Voreya Vorylea Valyri
+			Venusta Vaenyra Vorynea Vaeyna Varea Valaenora Vanora Vaenora Vaerra Vaesenya
+			Vaelora Valora Vaelnora Valnora Vaynyra Valynyra Vysena
+			Valesanne Valeyna Valla Vysera Vhaera Vaerha Vaera
+			Yaena
+			Zaena Zoronna Zargana Zarya Zaarina
+
+			Daesanne:50 Bahra:50 Saerla:50 Jelaenya:50 Banera:50 Nesaenys:50 Saenehna:50
+			Maelerys:50 Daenera:50 Jaelala:50 Alaesys:50 Haehnae:50 Nesaessa:50
+			Bhaelys:50 Nelaenys:50
+			Naelarla:50 Baenna:50 Jelaenys:50 Daenella:50 Bhaenla:50 Haehra:50 Selaela:50
+			Daemys:50 Aenela:50 Renaerla:50 Bassa:50 Rhaenemera:50 Nesaehnae:50
+			Saenelys:50 Bara:50 Saehra:50
+			Vaehra:50 Jelaehra:50 Aenehnae:50 Salamera:50  Naesella:50 Saechnae:50
+			Daenerya:50 Relaechnae:50 Baesa:50 Alaesanne:50 Daella:50 Relaera:50
+			Nesaesanne:50 Vysehnae:50 Vaena:50
+			Alynna:50 Haelerla:50 Relaesa:50 Jaemala:50 Daehrys:50 Maesanne:50 Aenesa:50
+			Malaesa:50 Saena:50 Daehyrs:50 Nelaerya:50 Maesanne:50 Saerla:50 Aenesa:50
+			Malaesa:50 Saelara:50
+			Relaesanne:50 Bhaela:50 Delaehrys:50 Alaenla:50 Rhaenla:50 Rhaera:50
+			Jaehyrs:50 Saehra:50 Saenessa:50 Alaesanne:50 Jaelanys:50 Elaela:50 Hemys:50
+			Henya:50 Rhaehra:50 Raenenyra:50
+			Haenyra:50 Vaesys:50 Vysella Naenera Haemera Malaenyra Nelaella Haelena
+			Aerena Alaenys Naeressa Hessa Rhaenella Daenea Jaelassa Eraemera Delaenyra
+			Alaenya Vaerla Malaernera:50 Maesys
+			Jaerya:50 Alaera:50 Jelaehra:50 Vaenera:50 Elaerys Rhaenna Rhaessa Aenerya
+			Daenehyrs Naenla Bassa Saenys Bhaenyra Malaehra Saelasa Baenys Vhaenyra
+			Saenera Daenna
+		}
+
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 25
+		mat_grf_name_chance = 5
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 15
+		mat_grm_name_chance = 10
+		mother_name_chance = 0
+
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	mantaryan = {
+		graphical_cultures = { mantaryangfx }
+
+		color = { 0.45 0.45 0.45 }
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		character_modifier = {
+			dragon_hatching = 1
+			dragon_taming = 4
+			learning = 1
+			intrigue = 1
+		}
+
+		male_names = {
+			#CANON
+
+			Aenar Aelix
+			Daegar Haerys
+			Jaekar
+			Matarys
+			Naemerys
+			Orys Qoherys
+			Vaeron Vaekar Vaermon
+
+			Aegaron:50 Aerygon:50 Aerymion:50 Aedor:50 Aenyx:50 Ardaerys Aeravor Aegemion
+			Aurys Aeravar:50 Aenarr:50 Aerydar:50 Aerys Aemor:50 Aenarys Aegarys Aegerys
+			Aeragar:50 Aeranyx:50 Aegar:50 Aeryrys:50 Aeganys:50 Aerarion:50 Aeragarys
+			Aevor:50 Aemon:50 Aeverys Aradosys Aerysys Athaeron
+			Aemonys Aergur Aegnor Aegnar Aethelmor
+		 	Balaeron:50 Balaemor:50 Baemorys:50 Balaemor:50 Baesegarys:50 Baesegarys:50
+			Balaenyx:50 Balaegor:50 Baegel:50 Baesemor:50 Baseimion:50 Balarys Balarr
+			Baelarr Baelarth Borghul Baerghul
+			Daemalon:50 Daemavar:50 Daeranyx:50 Daeragon:50 Daerys Daemonys
+			Dhagonys Dhaegonys Dhaegar Dhaegarys Daegar Dhaemon Daemos Daemys
+			Daegarys Dagarr Daegaerys Daevor Daevar Daevarys Daethar Daetharys
+			Garaelor:50 Galaerys:50 Gahaenyx:50 Gaeron:50 Gaelyx:50 Gahaeron:50
+			Gahaemorys:50 Galaemar:50 Gaemon:50 Gaerys Galar Gaelarys Gorgonys
+			Haelorys Haelon Haegarth Haedys Haedeys Hadaeys
+			Laemond:50 Laerion:50 Laelar:50 Laegon:50 Lucaegaron:50 Laenarr:50
+			Lysaenys Lucaeus Laevar Laevarys
+			Mamyx:50 Matadar:50 Malaelar:50 Maraenar:50 Maevon:50 Matamor:50 Mortiaer
+			Maehamon:50 Matalor:50 Matamorys:50 Matamion:50 Malaemar:50 Mortarys Maerosys
+			Maerion:50 Maelyx:50 Maegorys Maelys Malaenar:50
+			Maelakor Maekarth Maekerys Maegarth
+			Nahyrys Naehyrys Naetherys
+			Orys
+			Rahaedar:50 Rahaerion:50 Raegar:50 Rhaelorys Raevorys Raeherys Raegel:50
+			Raerion:50 Ragaemon:50 Rhaemar:50 Rahaemyx:50 Rahaerys:50
+			Rhaenar:50 Rhaelon Rhaelys Rhaemar Rhaegonys
+			Saevarys Saevaerys Sythaerys Sytharys
+			Jaenyx:50 Jaeremion:50 Jaelarys:50 Jayns:50 Jacaelys Jaegon Jaemond
+			Jacaelar:50 Jaemar:50 Jaemond:50 Jaemion:50 Jaerevon:50 Jaenar:50 Jacaelys
+			Tahaelor:50 Taeron:50 Taegon:50 Tyraerys:50 Taevorys Taenor Taenorys
+			Tahaegor:50 Tyraenyx:50 Tyraemion:50 Tahaevon:50 Taedar:50 Taehegorys
+			Tahaegaron:50 Tyraevar:50 Tyraemon:50 Taecedar:50 Tahaemarr:50
+			Taenarr:50 Tahaemarr:50 Taeterys Thaenar Thaenos
+			Visemar:50 Valyx:50 Vaemarys:50 Virys:50 Vimion:50 Virys:50 Vaerys
+			Vanor:50 Visegel:50 Vaegor:50 Vadar:50 Vahaenys:50 Vanys:50
+			Vagaron:50 Vaelaenys Vaelys Vaegorys Vaegonys Vylorys
+			Yraenar:50 Yraenar Varysys Vaerysys Vaenomys Vaenomysys
+			Vhaemys Vysemys Yraelys	Yraedorys Yraedor Vaelarth
+
+		}
+		female_names = {
+
+			Allyria Alearys
+			Cyeana Cymella
+			Daella Daeoril
+			Elaena Leaysa Naerys Rhae Rhaelle Rhaeys Rhaelinor Saenrys
+			Syaella
+
+			Alaesys:50 Alaesanne:50 Aenesa:50 Aenehnae:50 Alynna:50 Aenesa:50 Alaenla:50
+			Alaesanne:50 Aenela:50 Alaera:50 Aerena Alaenya Alaenys Aenerya Aenerys Aelys
+			Aeryssys
+			Bhaenya Bhaelys:50 Bahra:50 Baenna:50 Bhaenla:50 Bara:50 Bhaenyra
+			Banera:50 Baesa:50 Bhaela:50 Bassa:50 Barya Bhaenys Baenerys Balerys
+			Daenera:50 Daella:50 Daesanne:50 Daenella:50 Daenerya:50 Daehrys:50
+			Daehyrs:50 Delaehrys:50 Daemys:50 Daenea Delaenyra Daenehyrs Daenerysys
+			Daehyrys Daenerys Daehnerys Daenys Dhaenys Dhaenyrys Daenarys Draeksys
+			Caelyss
+			Elaela:50 Elaerys Eraemera Elerys Enerys Elaenys
+			Ghaelyss Ghaelys Ghaelysa
+			Haehnae:50 Haelerla:50 Haehra:50 Hemys:50 Henya:50 Haenyra:50
+			Haemera Haelena Hessa Harrenys Haerrenys
+			Haelys Haelaenys Haelerys Haenerys
+			Jelaehra:50 Jelaenya:50 Jaelala:50 Jelaenys:50 Jaemala:50 Jaehyrs:50
+			Jaelanys:50 Jaerya:50 Jelaehra:50 Jaelassa Jelaenys Jaelysa Jaenerys
+			Kaerysa Kyrysys Kaelerys
+			Lhaenys Lhaenysa Lhaenys Laenerys Lysaraesys
+			Maesanne:50 Malaesa:50 Malaernera:50 Maelerys:50 Maesanne:50 Malaesa:50
+			Maena Malaenyra Maesys Malaehra Maelera Maelerys Maelysa Maelyrys Morghysa
+			Nesaenys:50 Nesaehnae:50 Nesaesanne:50 Nelaerya:50 Naelarla:50 Naesella:50
+			Nesaessa:50 Nelaenys:50 Naelysa Nesaenys Naederys Naemerys Naesys Naenerys
+			Naeressa Nelaella Naenera Naenla Nymarys Nymaerys Nymerys
+			Nytherys Nythrys Naethyrys Nythaerys Nythera Nyrys
+			Relaesa:50 Relaera:50 Relaechnae:50 Relaesanne:50 Rhaenla:50 Rhaera:50
+			Rhaehra:50 Raenenyra:50 Renaerla:50 Rhaenemera:50 Rhaelys Rhaenysys Rhaenrion
+			Rhaelys Raenys Rhaenys Raenerys Rhaenerys Rhaenella Rhaenna Rhaessa
+			Saerla:50 Saenelys:50 Saehra:50 Saenehna:50 Saena:50 Saerla:50 Saelara:50
+			Salamera:50 Saechnae:50 Saehra:50 Saenessa:50 Selaela:50
+			Saelys Saelysa Saerys Saenys Saenys Saelasa Shrylys
+			Taeleys Taelys Tiarys Taenerys
+			Vaelenor Vhaerya Vaenerys Vhaelys Vaenaerys Vhaenerys Vaelys Valaenys Vileys
+			Vaehra:50 Vaena:50 Vaesaena:50 Vaenera:50 Vaesys:50
+			Valarysa Vaeleryss Vaelarysa Vysella Vaesenys Vaerla Valaryss Vaelaryss
+			Velaryss Velaerys Vylorys Vaelyrys Velyrys Valyrys Vyrys Vaesys
+			Wraetha
+		}
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 5
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	tolosi = {
+		graphical_cultures = { essosivalyriangfx republicsgfx }
+
+		color = { 0.3 0.3 0.3 }
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		character_modifier = {
+			dragon_hatching = 1
+			dragon_taming = 4
+			diplomacy = 1
+			stewardship = 1
+		}
+
+		male_names = {
+			#CANON
+
+			Aenar Aelix
+			Daegar Haerys
+			Jaekar
+			Matarys
+			Orys Qoherys
+			Vaeron Vaekar Vaermon Jaegon Jaemond Gaelar
+
+			Jaenyx:50 Rahaerion:50 Taeron:50 Balaeron:50 Aegaron:50 Balaemor:50 Taegon:50 Tahaelor:50 Matadar:50 Rahaedar:50 Jaelarys:50 Balaemor:50 Laelar:50 Aenyx:50 Malaelar:50 Baemorys:50
+			Laemond:50 Mamyx:50 Aerygon:50 Baesegarys:50 Gahaenyx:50 Jaemar:50 Raegar:50 Vaemarys:50 Valyx:50 Jayns:50 Laerion:50 Garaelor:50 Jacaelar:50 Daemalon:50 Tyraenyx:50 Daemavar:50 Laegon:50
+			Malaenar:50 Galaerys:50 Aenarr:50 Maehamon:50 Matalor:50 Tyraerys:50 Aerymion:50 Balaenyx:50 Raegel:50 Tahaegor:50 Aeravar:50 Visemar:50 Rahaemyx:50 Tahaevon:50 Taedar:50 Maraenar:50
+			Maevon:50 Matamor:50 Baesegarys:50 Aedor:50 Jaeremion:50 Aemor:50 Tyraemion:50 Aerydar:50 Raerion:50 Aeranyx:50 Daeranyx:50 Aeragar:50 Matamorys:50 Tahaegaron:50 Matamion:50 Malaemar:50
+			Vanor:50 Gaeron:50 Vaegor:50 Aegar:50 Lucaegaron:50 Gaelyx:50 Virys:50 Vimion:50 Virys:50 Aeryrys:50 Visegel:50 Aeganys:50 Balaegor:50 Gahaeron:50 Baegel:50 Vadar:50 Jaemond:50 Jaerevon:50
+			Jaemion:50 Tyraevar:50 Gahaemorys:50 Laenarr:50 Ragaemon:50 Vahaenys:50 Aerarion:50 Rhaemar:50 Jaenar:50 Vanys:50 Galaemar:50 Aevor:50 Vagaron:50 Yraenar:50 Baesemor:50 Baseimion:50 Tyraemon:50
+			Maelyx:50 Rahaerys:50 Taecedar:50 Tahaemarr:50 Maerion:50 Gaemon:50 Daeragon:50 Taenarr:50 Rhaenar:50 Aemon:50
+
+		}
+		female_names = {
+
+			Allyria Alearys
+			Cyeana Cymella
+			Daella Daeoril
+			Elaena Leaysa Naerys Rhae Rhaelle Rhaeys Rhaelinor Saenrys
+			Syaella
+
+			Daesanne:50 Bahra:50 Saerla:50 Jelaenya:50 Banera:50 Nesaenys:50 Saenehna:50 Maelerys:50 Daenera:50 Jaelala:50 Alaesys:50 Haehnae:50 Nesaessa:50 Bhaelys:50 Nelaenys:50
+			Naelarla:50 Baenna:50 Jelaenys:50 Daenella:50 Bhaenla:50 Haehra:50 Selaela:50 Daemys:50 Aenela:50 Renaerla:50 Bassa:50 Rhaenemera:50 Nesaehnae:50 Saenelys:50 Bara:50 Saehra:50
+			Vaehra:50 Jelaehra:50 Aenehnae:50 Salamera:50  Naesella:50 Saechnae:50 Daenerya:50 Relaechnae:50 Baesa:50 Alaesanne:50 Daella:50 Relaera:50 Nesaesanne:50 Vysehnae:50 Vaena:50
+			Alynna:50 Haelerla:50 Relaesa:50 Jaemala:50 Daehrys:50 Maesanne:50 Aenesa:50 Malaesa:50 Saena:50 Daehyrs:50 Nelaerya:50 Maesanne:50 Saerla:50 Aenesa:50 Malaesa:50 Saelara:50
+			Relaesanne:50 Bhaela:50 Delaehrys:50 Alaenla:50 Rhaenla:50 Rhaera:50 Jaehyrs:50 Saehra:50 Saenessa:50 Alaesanne:50 Jaelanys:50 Elaela:50 Hemys:50 Henya:50 Rhaehra:50 Raenenyra:50
+			Haenyra:50 Vaesys:50 Vysella Naenera Haemera Malaenyra Nelaella Haelena Aerena Alaenys Naeressa Hessa Rhaenella Daenea Jaelassa Eraemera Delaenyra Alaenya Vaerla Malaernera:50 Maesys
+			Jaerya:50 Alaera:50 Jelaehra:50 Vaenera:50 Elaerys Rhaenna Rhaessa Aenerya Daenehyrs Naenla Bassa Saenys Bhaenyra Malaehra Saelasa	Baenys	Maena
+		}
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 5
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+
+	elyrian = {
+		graphical_cultures = { essosivalyriangfx republicsgfx }
+
+		color = { 0.55 0.55 0.55 }
+
+		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
+		character_modifier = {
+			dragon_hatching = 1
+			dragon_taming = 4
+			diplomacy = 1
+			stewardship = 1
+		}
+
+		male_names = {
+			#CANON
+
+			Aenar Aelix
+			Daegar Haerys
+			Jaekar
+			Matarys
+			Orys Qoherys
+			Vaeron Vaekar Vaermon Jaegon Jaemond Gaelar
+
+			Jaenyx:50 Rahaerion:50 Taeron:50 Balaeron:50 Aegaron:50 Balaemor:50 Taegon:50 Tahaelor:50 Matadar:50 Rahaedar:50 Jaelarys:50 Balaemor:50 Laelar:50 Aenyx:50 Malaelar:50 Baemorys:50
+			Laemond:50 Mamyx:50 Aerygon:50 Baesegarys:50 Gahaenyx:50 Jaemar:50 Raegar:50 Vaemarys:50 Valyx:50 Jayns:50 Laerion:50 Garaelor:50 Jacaelar:50 Daemalon:50 Tyraenyx:50 Daemavar:50 Laegon:50
+			Malaenar:50 Galaerys:50 Aenarr:50 Maehamon:50 Matalor:50 Tyraerys:50 Aerymion:50 Balaenyx:50 Raegel:50 Tahaegor:50 Aeravar:50 Visemar:50 Rahaemyx:50 Tahaevon:50 Taedar:50 Maraenar:50
+			Maevon:50 Matamor:50 Baesegarys:50 Aedor:50 Jaeremion:50 Aemor:50 Tyraemion:50 Aerydar:50 Raerion:50 Aeranyx:50 Daeranyx:50 Aeragar:50 Matamorys:50 Tahaegaron:50 Matamion:50 Malaemar:50
+			Vanor:50 Gaeron:50 Vaegor:50 Aegar:50 Lucaegaron:50 Gaelyx:50 Virys:50 Vimion:50 Virys:50 Aeryrys:50 Visegel:50 Aeganys:50 Balaegor:50 Gahaeron:50 Baegel:50 Vadar:50 Jaemond:50 Jaerevon:50
+			Jaemion:50 Tyraevar:50 Gahaemorys:50 Laenarr:50 Ragaemon:50 Vahaenys:50 Aerarion:50 Rhaemar:50 Jaenar:50 Vanys:50 Galaemar:50 Aevor:50 Vagaron:50 Yraenar:50 Baesemor:50 Baseimion:50 Tyraemon:50
+			Maelyx:50 Rahaerys:50 Taecedar:50 Tahaemarr:50 Maerion:50 Gaemon:50 Daeragon:50 Taenarr:50 Rhaenar:50 Aemon:50
+		}
+		female_names = {
+
+			Allyria Alearys
+			Cyeana Cymella
+			Daella Daeoril
+			Elaena Leaysa Naerys Rhae Rhaelle Rhaeys Rhaelinor Saenrys
+			Syaella
+
+			Daesanne:50 Bahra:50 Saerla:50 Jelaenya:50 Banera:50 Nesaenys:50 Saenehna:50 Maelerys:50 Daenera:50 Jaelala:50 Alaesys:50 Haehnae:50 Nesaessa:50 Bhaelys:50 Nelaenys:50
+			Naelarla:50 Baenna:50 Jelaenys:50 Daenella:50 Bhaenla:50 Haehra:50 Selaela:50 Daemys:50 Aenela:50 Renaerla:50 Bassa:50 Rhaenemera:50 Nesaehnae:50 Saenelys:50 Bara:50 Saehra:50
+			Vaehra:50 Jelaehra:50 Aenehnae:50 Salamera:50  Naesella:50 Saechnae:50 Daenerya:50 Relaechnae:50 Baesa:50 Alaesanne:50 Daella:50 Relaera:50 Nesaesanne:50 Vysehnae:50 Vaena:50
+			Alynna:50 Haelerla:50 Relaesa:50 Jaemala:50 Daehrys:50 Maesanne:50 Aenesa:50 Malaesa:50 Saena:50 Daehyrs:50 Nelaerya:50 Maesanne:50 Saerla:50 Aenesa:50 Malaesa:50 Saelara:50
+			Relaesanne:50 Bhaela:50 Delaehrys:50 Alaenla:50 Rhaenla:50 Rhaera:50 Jaehyrs:50 Saehra:50 Saenessa:50 Alaesanne:50 Jaelanys:50 Elaela:50 Hemys:50 Henya:50 Rhaehra:50 Raenenyra:50
+			Haenyra:50 Vaesys:50 Vysella Naenera Haemera Malaenyra Nelaella Haelena Aerena Alaenys Naeressa Hessa Rhaenella Daenea Jaelassa Eraemera Delaenyra Alaenya Vaerla Malaernera:50 Maesys
+			Jaerya:50 Alaera:50 Jelaehra:50 Vaenera:50 Elaerys Rhaenna Rhaessa Aenerya Daenehyrs Naenla Bassa Saenys Bhaenyra Malaehra Saelasa	Baenys	Maena
+		}
+		from_dynasty_prefix = "из "
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 40
+		mat_grf_name_chance = 5
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 10
+		mat_grm_name_chance = 30
+		mother_name_chance = 0
+
+		disinherit_from_blinding = yes
+
+		modifier = default_culture_modifier
+	}
+}
+dragon_group = {
+	graphical_cultures = { westerngfx } # buildings, portraits, units
+
+	dragon_culture = {
+		graphical_cultures = { dragongfx }
+
+		used_for_random = no
+		allow_in_ruler_designer = no
+		alternate_start = {
+			OR = {
+				has_alternate_start_parameter = { key = special_culture value = animal_kingdoms }
+				has_alternate_start_parameter = { key = special_culture value = animal_world }
+				has_alternate_start_parameter = { key = special_culture value = all }
+			}
+		}
+
+		color = { 0.15 0.15 0.15 }
+
+		male_names = {
+			#Canon
+			Quicksilver Seasmoke Urrax "Grey Ghost"
+			Stormcloud Morghul Terrax
+			#Male only
+			Arrax Balerion Caraxes Vermithor Sunfyre Tyraxes Vermax Viserion Rhaegal
+
+			#Non-Canon
+			Azuron Aderex Azantyr Azantys Acranion Artaxes Aderion Arhugon Angogon
+			Anogaron Archon Aquos Adereon Aeksion Atsiox Arryn Asshai Auroraxos Arghurys
+			Anogaros Anaxigon Aenion Aegal Aeriax Aetrox Ancylagon Archonei Aestion
+			Ancalion Alatoraxes Ashbringer Aeramyx Azorax Aeon Archaeos Aurulor
+			Bantis Braedazma Blackclaw Besieger Berserker Braavos Braavosk Braavosiax
+			Blackhorn Blazoron Belmurtys Braedax Braedion Banzolkal Blackfyre Baelal
+			Baeliphax Bamuxes Blackwing Bloodfyre Bhorash Basilisk
+			Chalfyre Chroyax Chroyane Carcosa Cymmerios Crimsonfyre Crimsora
+			Drythron Darkscale Drakaryx Deltherion Darkfyre Draggox Duskfyre
+			Darkwing Daomio Demagon Dynax Draconys Doomfyre Draegul Drakul Draconyx
+			Draugur Draeygur Draegos Droghul Draegul Deerslayer Devourer
+			Egros Embarelion Eberron Errkos Essoval Essarix Elyrion Ebrion Elenixes
+			Erinnon Essaria Essarios Erinnon Edrurzys Embrorbar Essovius Essovion Eidolon
+			Eclipse
+			Firzon Fusrodax Firestorm Fyrax Firkrax Fafnar Falkael Forgesong Fasharyon
+			Fangrys Fyrewyrm Fyrereaver Fusrodax
+			Fornaxes Firecatcher
+			Galeglider Gorthalon Goldfyre Goldscale Ghiscar Glimmer Gorgorkos Greyfyre
+			Grymax Greencomet Gloombringer Gravefyre Gorgosson Galry Gelenka Gevives
+			Gurogon Gemtail Ghardaq Gornath Gorgai Gogossos Ghiscarox Ghoyan Gloomwing
+			Ghulaerion Ghulyax Geliotikun Ghiscaros Gogossax Gengangar
+			Haryz Hegagon Helfyre Heartfyre Henkirix Highagon Hurax Hornoth Harpyhunter
+			Hozalbor Huranogar Highagon Hurlilios Hyrkoon Hyrkothos Hyrkyx
+			Issilgor Ilthax Illithinos Ignerion Idanax Ioragon Irudyx Ifequevron Ilydras
+			Jaharix Johagon Jelmazma Jedrien Jadewing Jaedos Jaesax Jaqiarzir Jehikagon
+			Jehikarys Jentyx Jhogwin Jorrael
+			Knightslayer Krythax Keligon Kastakonir Kaerinax Kastax Keliothor Konoron
+			Korzion Kostobion Kythorion Kasath Knighstbane Kataqiros Kaerinio
+			Loramon Limagon Likaxes Lovghar Lifefyre Laenion Laengar Lorcan Lys Lysros
+			Laehurlion Laraxes Lilagon Lykax Lorath Lorathos Lorathar
+			Leng Lengyl Lemuraes Leviathan
+			Mountdweller Moonshadow Monerys Morghon Malrax Maelar Maelstral Malys Moraq
+			Moonfyre Myr Mantaryon Melexes Merbugon Midnight Majesty Mardosh
+			Moonstrider Manticore Manhunter Melegros Melkaros Meleqelos Myros Myraxes
+			Nedys Nightfyre Neltharion Nightpyre Naqes Nedenkon Nektogon Nightwind
+			Nightscale Nightmare Nightshade Nefarios Necrothor Nightstalker Numio
+			Norvos Norvosar Norvonyx Neferion Neferyx Nghai Nemesis
+			Ossenaxes Odikagon Osygon Orzadrize Oktinuqir Orion Oros Obaraxes Ondorion
+			Onos Orbarion Ozzalagon Oblivion Orrax Omberon Omberyx Ombrax Orizontem
+			Ozrakar
+			Pryagon Perzypeldax Pythax Porungar Pestyre Provorpion Predatorion Pentos
+			Peldion Perzys Prumiax Pryjagon Pentodrax Pyrrhos Pyrrhax Pyrr
+			Phantom
+			Qilonarion Qelovaedar Qanax Qelos Qridron Qolahn Qohor Qohorath Qohoryx
+			Qarthax Qartharion
+			Razys Rehitys Raqagon Rhaenal Rhaeal Ryax Rhaetherion Raselion
+			Rhoynar Rhyos Raqiron Rhovagon Rizaxes Rovax Rune Rainfyre Rathylar Rhaevion
+			Rhoynefyre Rhoyne Rhoynar Rhoynax Rhoynor Rhyosar
+			Solthys Starhunter Starfyre Spyrax Soulblaze Scales Slythe Serporoth Sarhoy
+			Skysailor Starwing Seawing Shraynor Skysong Steelwing Sphinx Selhoron Sarnor
+			Sambaron Senagon Sonax Sovegon Suvion Sylviax Solstice Snow Sapphire Sarys
+			Syndor Stygai Sallosh Sarnath Sathar Sothoryos Soulreaver Skaevald Skytyrant
+			Shipbreaker Soulscorcher Skyscourge Seascourge Seawraith Shipwrecker Syndrax
+			Shadowchaser Shadowbinder
+			Sigligon Stormbringer Solstice Stageater Selhorax Selhoraxes Sarnorath Sarnyx
+			Tormoxen Thaxilix Telfyre Tallfyre Taeral Taegar Taerion Tiamaxes Toothless
+			Telarion Trogdax Tymerion Tyrosh Tyriax Tolosion Tikun Timpax Turgon Tyvaron
+			Tyraenar Tyroshios Tyroshar Therysar Therysian Tyrannus Tyrantus
+			Ulthos Ulos
+			Valeryx Vhaegal Vassarion Vezolkys Vezojaes Vaegelion Vaedar Visenion Vaelax
+			Volgavys Vishyap Valryon Viserax Valyrion Volon Volantix Valysarion Velos
+			Vesteros Vaedagon Vezendio Vhazgor Vorogoth Vexorath Vaedar Vokedre
+			Vedrazma Vesperzys Vyszalagon Vedros Volantar Volantios Vulcan Vulcar
+			Valyris Valyroth Valyssar Valyrax Volonax Volythra Veilwing Vorthuun Vaermor
+			Valaeryx
+			Whiteclaw "Winged Stranger" Whitewing Wildfyre
+			Yndros Yinishar Yeen Yin Yintar
+			Zuvdar Zobrinogar Ziragon Zalagys Zaldrizarys Zobrigon Zobrughul
+			Zaenor Zaeral Zalagon Zaldrizes Zoklax Zugerion Zamettor Zoqoros Zaraxys
+			Zorwrath Zoghon Zokladrizes Zlaver
+			"Ar Noy" "Ny Sar" "Sar Mell" "Winged Tyrant" "Dyni Tyvaros"
+
+			#Male only
+			Antarys Aegax Aemax Althorio Aerionar Ancalithor Aelios Argentos
+			Arraxon Arraxor Arraxian Arraxes Armax Armithor Arcaraxes Auregar
+			Baelax Bakkalon Bridestealer Bridetaker Balerax Baleros Basilix Basileos
+			Caraxon Caraxor Caraxian Caramax Caramithor
+			Darys Draekarion Dracon Depraetor
+			Bullbreaker Bralgor
+			Caladrius
+			Darondarys Daerax Daemax Deathwing Doom
+			Fenrion Fellfang
+			Glaurax Glaurungar Gammon Grimmothor
+			Hyperion
+			Ironfiend
+			Kepaxes
+			Matarion Morghulon Morghulion Morghulax Morghuraxes Morghulmax Morghulmithor
+			Nymarion Maegal Maekal Muttonchop Meteoros
+			Luciferon
+			Ondordarys Peasantslayer
+			Rhaegax Rhygal Rhaegoth
+			Smaugon Stormwyrm Saagael
+			Tresyx Thalantos Terraxon Terraxor Terraxian Terraxes Taergar Termithor
+			Tercaraxes Tyraxon Tyraxor Tyraxian Tyrax Tyramax Tyramithor Tycaerax
+			Urmax Urmithor Urraxes Urcaraxes Urrion Urghul
+			Verathion Vermithrax Valonqar Valzyryx Vandis Valax Velkrys Valarrak
+			Vermaxon Vermaxor Vermaxian Vermaaxes Vermaxes Vercarax Valyrios Valdrakar
+			Vermithon Vermithax Vermithai Vermithaxes Vermithorax Vermirax Vaermithos
+			Wolfbane Wraithwing Warlock
+		}
+		female_names = {
+			#Canon
+			Quicksilver Seasmoke Urrax "Grey Ghost"
+			Stormcloud Morghul Shrykos Terrax
+			#Female only
+			Dreamfyre Meleys Meraxes Moondancer Morning Silverwing Syrax Tessarion Vhagar
+
+			#Non-Canon
+			Azuron Aderex Azantyr Azantys Acranion Artaxes Aderion Arhugon Angogon
+			Anogaron Archon Aquos Adereon Aeksion Atsiox Arryn Asshai Aurorax Arghurys
+			Anogaros Anaxigon Aenion Aegal Aeriax Aetrox Ancylagon Archonei Aestion
+			Ancalion Alatoraxes Ashbringer Aeramyx Azorax Aeon Archaeos
+			Bantis Braedazma Blackclaw Besieger Berserker Braavos Braavosk Braavosiax
+			Blackhorn Blazoron Belmurtys Braedax Braedion Banzolkal Blackfyre Baelal
+			Baeliphax Bamuxes Blackwing Bloodfyre Bhorash Basilisk
+			Chalfyre Chroyax Chroyane Carcosa Cymmeri Crimsonfyre Crimsora
+			Drythron Darkscale Drakaryx Deltherion Darkfyre Draggox Duskfyre
+			Darkwing Daomio Demagon Dynax Draconys Doomfyre Draegul Drakul Draconyx
+			Draugur Draeygur Draegos Droghul Draegula Deerslayer Devourer
+			Egros Embarelion Eberron Errkos Essoval Essarix Elyrion Ebrion Elenixes
+			Erinnon Essaria Essarios Erinnon Edrurzys Embrorbar Essovius Essovion
+			Eidolon Eclipse
+			Firzon Fusrodax Firestorm Fyrax Firkrax Fafnar Falkael Forgesong Fasharyon
+			Fangrys Fyrewyrm Fyrereaver
+			Fornaxes Firecatcher Fusrodax
+			Galeglider Gorthalon Goldfyre Goldscale Ghiscar Glimmer Gorgorkos Greyfyre
+			Grymax Greencomet Gloombringer Gravefyre Gorgosson Galry Gelenka Gevives
+			Gurogon Gemtail Ghoyan Ghardaq Gornath Gorgai Gogossos Ghiscarax Ghiscaros
+			Ghulaerion Ghulyax Geliotikun Gloomwing Gogossax Gengangar
+			Haryz Hegagon Helfyre Heartfyre Henkirix Highagon Hurax Hornoth Harpyhunter
+			Hozalbor Huranogar Highagon Hurlilio Hyrkoon Hyrkothos Hyrkyx
+			Issilgor Ilthax Illithinos Ignerion Idanax Ioragon Irudyx Ifequevron Ilydras
+			Jaharix Johagon Jelmazma Jedrien Jadewing Jaedos Jaesax Jaqiarzir Jehikagon
+			Jehikarys Jentyx Jhogwin Jorrael
+			Knightslayer Krythax Keligon Kastakonir Kaerinax Kastax Keliothor Konoron
+			Korzion Kostobion Kytharion Kasath Knighstbane Kataqiros Kaerinio
+			Loramon Limagon Likaxes Lovghar Lifefyre Laenion Laengar Lorcan Lys Lysros
+			Laehurlion Laraxes Lilagon Lykax Lorath Lorathos Lorathar
+			Leng Lengyl Lemuraes Leviathan
+			Mountdweller Moonshadow Monerys Morghon Malrax Maelar Maelstral Malys
+			Moonfyre Myr Mantaryon Mhysa Melexes Merbugon Midnight Majesty Mardosh Moraq
+			Moonstrider Manticore Manhunter Melegros Melkaros Meleqelos Myros Myraxes
+			Nedys Nightfyre Neltharion Nightpyre Naqes Nedenkon Nektogon Nightwind
+			Nightscale Nightmare Nightshade Nefarion Necrothar Nightstalker Numio
+			Norvos Norvosar Norvonyx Neferion Neferyx Nghai Nemesis
+			Ossenaxes Odikagon Osygon Orzadrize Oktinuqir Orion Oros Obaraxes Ondorion
+			Onos Orbarion Ozzalagon Oblivion Orrax Omber Omberon Omberyx Ombrax Orizontem
+			Ozrakar
+			Pryagon Perzypeldax Pythax Porungar Pestyre Provorpion Predatorion Pentos
+			Peldion Perzys Prumiax Pryjagon Pentodrax Pyrrhos Pyrrhax Pyrr
+			Phantom
+			Qilonarion Qelovaedar Qanax Qelos Qridron Qolahn Qohor Qohorath Qohoryx
+			Qarthax Qartharion
+			Razys Rehitys Raqagon Rhaenal Rhaeal Ryax Rhaetherion Raselion
+			Rhoynar Rhyos Raqiron Rhovagon Rizaxes Rovax Rune Rainfyre Rathylar Rhaevion
+			Rhoynefyre Rhoyne Rhoynar Rhoynax Rhoynor Rhyosar
+			Solthys Starhunter Starfyre Spyrax Soulblaze Scales Slythe Serporoth Sarhoy
+			Skysailor Starwing Seawing Shraynor Skysong Steelwing Sphinx Selhoron Sarnor
+			Sambaron Senagon Sonax Sovegon Suvion Sylviax Solstice Snow Sapphire
+			Seascourge Syndrax Sigligon Stormbringer Solstice Stageater Selhorax
+			Shipbreaker Stagsbane Soulscorcher Skyscourge Seawraith Shipwrecker
+			Sallosh Stygai Sarys Sarnath Sathar Sothoryos Soulreaver Skaevald Selhoraxes
+			Sarnorath Sarnyx Shadowchaser Shadowbinder
+			Tormoxen Thaxilix Telfyre Tallfyre Taeral Taegar Taerion Tiamaxes Toothless
+			Telarion Trogdax Tymerion Tyrosh Tyriax Tolosion Tikun Timpax Turgon Tyvaron
+			Tikungis Tyraenar Tyroshios Tyroshar Therysar Therysian Tyrannus Tyrantus
+			Skytyrant
+			Ulthos Ulos
+			Valeryx Vhaegal Vassarion Vezolkys Vezojaes Vaegelion Vaedar Visenion Vaelax
+			Volgavys Vishyap Valryon Viserax Valyrion Volon Volantix Valysarion Velos
+			Vesteros Vaedagon Vhazgar Voragoth Vexorath Vaedar Vokedre Vesperzys
+			Vedrazma Vyszalagon Vedros Volantar Volantios Vulcan Vulcar Vorthuun Valaeryx
+			Valyris Valyroth Valyssar Valyrax Volonax Volythra Veilwing Vaermor Valdrakar
+			Whiteclaw "Winged Stranger" Whitewing Wildfyre
+			Yndros Yinishar Yeen Yin Yintar
+			Zuvdar Zobrinogar Ziragon Zalagys Zaldrizarys Zobrigon Zobrughul
+			Zaenor Zaeral Zalagon Zaldrizes Zoklax Zugerion Zamettar Zoqora Zaraxys
+			Zorwrath Zoghon Zokladrizes Zlaver
+			"Ar Noy" "Ny Sar" "Sar Mell" "Winged Tyrant" "Dyni Tyvaros"
+
+			#Female only
+			Aeris Argentas Aurulara
+			Bantisdaria Bloodsiren Basileia
+			Darilaros Daenaryon
+			Elaenal Depraedor
+			Fyreharpy Fyrrhea
+			Geliondaria Grace Grimmothal
+			Haedar Jaeherion Jaehio
+			Kastadaria
+			Litse Lambchop
+			Moonblaze Mandiax Munax Meraxys Meraxoth Meraxion Merax Meraxar Meraxian
+			Meraxon
+			Naerion "Nissa Nissa" Nightdancer Naejos Nyssael Nyraxes
+			Pantera Phyrhea
+			Rhaellax Rhaenion Rhaenyral Raqnon Rinax Ruklon Rainbow
+			Saphirax Sunshine Skydancer Sundancer Sparkle Sirensong Syraxys Symax
+			Syraxia Syraxes Syraxar Syraxon Syraxion Shrykosar Stellae Syrixa
+			Talaxes Tessarax Tessaria Tessarys Tessaraxar Tessarionis Tessarian
+			Tessarios Tessarionar Tysarax
+			Urraxian Urraxon Urraxar
+			Vhagorax Vhagara Vhagaroth Vhagarys Vhagarion Vhagares Vhagarian Vhagaron
+			Vhagarar Valyria Vipera Vermithar
+			"Winged Siren"
+			Zaldrizaria Zythraxys
+		}
+
+		from_dynasty_prefix = "из "
+		#founder_named_dynasties = yes
+
+		# Chance of male children being named after their paternal or maternal grandfather, or their father. Sum must not exceed 100.
+		pat_grf_name_chance = 0
+		mat_grf_name_chance = 0
+		father_name_chance = 0
+
+		# Chance of female children being named after their paternal or maternal grandmother, or their mother. Sum must not exceed 100.
+		pat_grm_name_chance = 0
+		mat_grm_name_chance = 0
+		mother_name_chance = 0
+
+		modifier = default_culture_modifier
+	}
+}

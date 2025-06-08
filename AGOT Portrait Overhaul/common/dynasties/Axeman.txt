@@ -1,0 +1,228 @@
+23102000 = {
+    name = "Wargwaelf"
+    culture = "axeman"
+}
+23102001 = {
+    name = "Sahaerion"
+    culture = "axeman"
+}
+23102002 = {
+    name = "Reindaer"
+    culture = "axeman"
+}
+23102003 = {
+    name = "Fyrstdaen"
+    culture = "axeman"
+}
+23102004 = {
+    name = "Ravynaexe"
+    culture = "axeman"
+}
+23102005 = {
+    name = "Malorsen"
+    culture = "axeman"
+}
+23102006 = {
+    name = "Gotyrdaenes"
+    culture = "axeman"
+}
+23102007 = {
+    name = "Irrahosh"
+    culture = "axeman"
+}
+23102008 = {
+    name = "Thaider"
+    culture = "axeman"
+}
+23102009 = {
+    name = "Maeloris"
+    culture = "axeman"
+}
+23102010 = {
+    name = "Daegon"
+    culture = "axeman"
+}
+23102011 = {
+    name = "Fyrstsen"
+    culture = "axeman"
+}
+23102012 = {
+    name = "Skaeyr"
+    culture = "axeman"
+}
+23102013 = {
+    name = "Irrokaeros"
+    culture = "axeman"
+}
+23102014 = {
+    name = "Sahaeryf"
+    culture = "axeman"
+}
+23102015 = {
+    name = "Faeskoryos"
+    culture = "axeman"
+}
+23102016 = {
+    name = "Irrahnott"
+    culture = "axeman"
+}
+23102017 = {
+    name = "Sesaedyr"
+    culture = "axeman"
+}
+23102018 = {
+    name = "Gyldenndaen"
+    culture = "axeman"
+}
+23102019 = {
+    name = "Irrahaedyr"
+    culture = "axeman"
+}
+23102020 = {
+    name = "Valyrodaene"
+    culture = "axeman"
+}
+23102021 = {
+    name = "Treodaene"
+    culture = "axeman"
+}
+23102022 = {
+    name = "Aengilwerre"
+    culture = "axeman"
+}
+23102023 = {
+    name = "Skymyrios"
+    culture = "axeman"
+}
+23102024 = {
+    name = "Gotyrdaene"
+    culture = "axeman"
+}
+23102025 = {
+    name = "Solhaekyr"
+    culture = "axeman"
+}
+23102026 = {
+    name = "Ravaerios"
+    culture = "axeman"
+}
+23102027 = {
+    name = "Malorsithe"
+    culture = "axeman"
+}
+23102028 = {
+    name = "Tundaer"
+    culture = "axeman"
+}
+23102029 = {
+    name = "Irrahthaeis"
+    culture = "axeman"
+}
+23102030 = {
+    name = "Thordeir"
+    culture = "axeman"
+}
+23102031 = {
+    name    = "Wudsmaen"
+    culture = "axeman"
+}
+23102032 = {
+    name    = "Gotysson"
+    culture = "axeman"
+}
+23102033 = {
+    name    = "Irrahfraer"
+    culture = "axeman"
+}
+23102034 = {
+    name    = "Krakynhaerth"
+    culture = "axeman"
+}
+23102035 = {
+    name    = "Jaeger"
+    culture = "axeman"
+}
+23102036 = {
+    name    = "Rahyr"
+    culture = "axeman"
+}
+23102037 = {
+    name    = "Oxblaer"
+    culture = "axeman"
+}
+23102038 = {
+    name    = "Nottaeris"
+    culture = "axeman"
+}
+23102039 = {
+    name    = "Dunedaer"
+    culture = "axeman"
+}
+23102040 = {
+    name    = "Irraerys"
+    culture = "axeman"
+}
+23102041 = {
+    name    = "Himinndaene"
+    culture = "axeman"
+}
+23102042 = {
+    name    = "Halrune"
+    culture = "axeman"
+}
+23102043 = {
+    name    = "Treofraer"
+    culture = "axeman"
+}
+23102044 = {
+    name    = "Irrahaff"
+    culture = "axeman"
+}
+23102045 = {
+    name    = "Rosehaerin"
+    culture = "axeman"
+}
+23102046 = {
+    name    = "Maelkondi"
+    culture = "axeman"
+}
+23102047 = {
+    name    = "Treosangr"
+    culture = "axeman"
+}
+23102048 = {
+    name    = "Irrahjagaer"
+    culture = "axeman"
+}
+23102049 = {
+    name    = "Teigaer"
+    culture = "axeman"
+}
+23102050 = {
+    name    = "Sahaileys"
+    culture = "axeman"
+}
+23102051 = {
+    name    = "Scaehorn"
+    culture = "axeman"
+}
+23102052 = {
+    name    = "Irraxaetyr"
+    culture = "axeman"
+}
+23102053 = {
+    name    = "Solhaeukr"
+    culture = "axeman"
+}
+23102054 = {
+    name    = "Malorsun"
+    culture = "axeman"
+}
+23102055 = {
+    name    = "Treofraer"
+    culture = "axeman"
+}
+23102056 = {
+    name    = "Styrdaene"
+    culture = "axeman"
+}

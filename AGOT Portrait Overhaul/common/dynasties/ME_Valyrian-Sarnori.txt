@@ -1,0 +1,76 @@
+9956804 = {
+	name = "Godhaena"
+	culture = valyrian_sarnori
+}
+99568995 = {
+	name = "Gajjor"
+	culture = valyrian_sarnori
+}
+9956806 = {
+	name = "Jariwae"
+	culture = valyrian_sarnori
+}
+9956807 = {
+	name = "Kamdaros"
+	culture = valyrian_sarnori
+}
+9956808 = {
+	name = "Kotakeon"
+	culture = valyrian_sarnori
+}
+9956809 = {
+	name = "Macweon"
+	culture = valyrian_sarnori
+}
+9956810 = {
+	name = "Nayakys"
+	culture = valyrian_sarnori
+}
+9956811 = {
+	name = "Pathakys"
+	culture = valyrian_sarnori
+}
+9956812 = {
+	name = "Rathodon"
+	culture = valyrian_sarnori
+}
+9956813 = {
+	name = "Sutharos"
+	culture = valyrian_sarnori
+}
+9956814 = {
+	name = "Sheladeon"
+	culture = valyrian_sarnori
+}
+995681995 = {
+	name = "Tripathys"
+	culture = valyrian_sarnori
+}
+9956816 = {
+	name = "Thakarys"
+	culture = valyrian_sarnori
+}
+9956817 = {
+	name = "Visaro"
+	culture = valyrian_sarnori
+}
+9956818 = {
+	name = "Bhuvaera"
+	culture = valyrian_sarnori
+}
+9956819 = {
+	name = "Juthano"
+	culture = valyrian_sarnori
+}
+9956820 = {
+	name = "Odeara"
+	culture = valyrian_sarnori
+}
+9956822 = {
+	name = "Amailys"
+	culture = valyrian_sarnori
+}
+9956823 = {
+	name = "Ashereon"
+	culture = valyrian_sarnori
+}

@@ -1,0 +1,105 @@
+12100000 = {
+	name = "Lago"
+	culture = lamentman
+}
+12100001 = {
+	name = "Zholomo"
+	culture = lamentman
+}
+12100002 = {
+	name = "Djombaque
+"
+	culture = lamentman
+}
+12100003 = {
+	name = "Ezaraq"
+	culture = lamentman
+}
+12100004 = {
+	name = "Sambique"
+	culture = lamentman
+}
+12100005 = {
+	name = "Talaro" #canon
+	culture = lamentman
+}
+12100006 = {
+	name = "Xyrio" #nc
+	culture = lamentman
+}
+12100007 = {
+	name = "Yondara" #nc
+	culture = lamentman
+}
+12100008 = {
+	name = "Shalos" #nc
+	culture = lamentman
+}
+12100009 = {
+	name = "Karamusa" #nc
+	culture = lamentman
+}
+12100010 = {
+	name = "Lomar" #nc
+	culture = lamentman
+}
+12100011 = {
+	name = "Isyro" #nc
+	culture = lamentman
+}
+12100012 = {
+	name = "Enxamana" #nc
+	culture = lamentman
+}
+12100013 = {
+	name = "Rocafort" #nc
+	culture = lamentman
+}
+12100014 = {
+	name = "Ixion" #nc
+	culture = lamentman
+}
+12100015 = {
+	name = "Xandar" #nc
+	culture = lamentman
+}
+12100016 = {
+	name = "Xylara" #nc
+	culture = lamentman
+}
+12100017 = {
+	name = "Zyloshan" #nc
+	culture = lamentman
+}
+12100018 = {
+	name = "Jarama" #nc
+	culture = lamentman
+}
+12100019 = {
+	name = "Holandeza" #nc
+	culture = lamentman
+}
+12100020 = {
+	name = "Rumbi" #nc
+	culture = lamentman
+}
+12100021 = {
+	name = "Laros" #nc
+	culture = lamentman
+}
+12100022 = {
+	name = "Myrion" #nc
+	culture = lamentman
+}
+12100023 = {
+	name = "Zhalara" #nc
+	culture = lamentman
+}
+12100024 = {
+	name = "Nalolo" #nc
+	culture = lamentman
+}
+12100025 = {
+	name = "Mansoa" #nc
+	culture = lamentman
+}

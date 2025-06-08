@@ -1,0 +1,104 @@
+15100000 = {
+        name = "Jhala"
+        culture = jhala-highlander
+}
+15100001 = {
+        name = "Kwasi"
+        culture = jhala-highlander
+}
+15100002 = {
+        name = "Azibo"
+        culture = jhala-highlander
+}
+15100003 = {
+        name = "Lysar"
+        culture = jhala-highlander
+}
+15100004 = {
+        name = "Nantai"
+        culture = jhala-highlander
+}
+15100005 = {
+        name = "Belay"
+        culture = jhala-highlander
+}
+15100006 = {
+        name = "Makeda"
+        culture = jhala-highlander
+}
+15100007 = {
+        name = "Adahi"
+        culture = jhala-highlander
+}
+15100008 = {
+        name = "Jabari"
+        culture = jhala-highlander
+}
+15100009 = {
+        name = "Saboro"
+        culture = jhala-highlander
+}
+15100010 = {
+        name = "Taharo"
+        culture = jhala-highlander
+}
+15100011 = {
+        name = "Amara"
+        culture = jhala-highlander
+}
+15100012 = {
+        name = "Alemayehu"
+        culture = jhala-highlander
+}
+15100013 = {
+        name = "Zenash"
+        culture = jhala-highlander
+}
+15100014 = {
+        name = "Soroa"
+        culture = jhala-highlander
+}
+15100015 = {
+        name = "Zanji"
+        culture = jhala-highlander
+}
+15100016 = {
+        name = "Kidankoro"
+        culture = jhala-highlander
+}
+15100017 = {
+        name = "Nantari"
+        culture = jhala-highlander
+}
+15100018 = {
+        name = "Jomari"
+        culture = jhala-highlander
+}
+15100019 = {
+        name = "Zalari"
+        culture = jhala-highlander
+}
+15100020 = {
+        name = "Abebemaro"
+        culture = jhala-highlander
+}
+15100021 = {
+        name = "Girmaxaro"
+        culture = jhala-highlander
+}
+15100022 = {
+        name = "Ankor"
+        culture = jhala-highlander
+}
+15100023 = {
+        name = "Amari"
+        culture = jhala-highlander
+}
+15100024 = {
+        name = "Kassaye"
+        culture = jhala-highlander
+}
+15100025 = {
+        name = "Xulysara"
+        culture = jhala-highlander
+}

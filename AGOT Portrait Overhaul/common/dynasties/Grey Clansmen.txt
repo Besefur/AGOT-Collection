@@ -1,0 +1,82 @@
+#Non-canon Houses for random
+
+20016037 = {
+    name = "Nganas"
+    culture = grey_waste
+}
+20016038 = {
+    name = "Kharatak"
+    culture = grey_waste
+}
+20016039 = {
+    name = "Tundri"
+    culture = grey_waste
+}
+20016040 = {
+    name = "Pustosha"
+    culture = grey_waste
+}
+20016041 = {
+    name = "Moroz"
+    culture = grey_waste
+}
+20016042 = {
+    name = "Yukagir"
+    culture = grey_waste
+}
+20016043 = {
+    name = "Khanty"
+    culture = grey_waste
+}
+20016044 = {
+    name = "Zimni"
+    culture = grey_waste
+}
+20016045 = {
+    name = "Sivak"
+    culture = grey_waste
+}
+20016046 = {
+    name = "Chukchi"
+    culture = grey_waste
+}
+20016047 = {
+    name = "Tungus"
+    culture = grey_waste
+}
+20016048 = {
+    name = "Uryupnik"
+    culture = grey_waste
+}
+20016049 = {
+    name = "Yasenmor"
+    culture = grey_waste
+}
+20016050 = {
+    name = "Nanai"
+    culture = grey_waste
+}
+20016051 = {
+    name = "Ulch"
+    culture = grey_waste
+}
+20016052 = {
+    name = "Taygazhar"
+    culture = grey_waste
+}
+20016053 = {
+    name = "Oroch"
+    culture = grey_waste
+}
+20016054 = {
+    name = "Negidal"
+    culture = grey_waste
+}
+20016055 = {
+    name = "Nivkh"
+    culture = grey_waste
+}
+20016056 = {
+    name = "Mertvokh"
+    culture = grey_waste
+}
