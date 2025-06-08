@@ -2,7 +2,7 @@
 namespace = mixed_culture_mix
 
 character_event = {
-	mixed_culture_mix.53
+	id = mixed_culture_mix.53
 	hide_window = yes ###No visible event, just an elicited effect
 
 	is_triggered_only = yes

@@ -2,7 +2,7 @@
 namespace = mixed_culture_mix
 
 character_event = {
-	mixed_culture_mix.15
+	id = mixed_culture_mix.15
 	hide_window = yes ###No visible event, just an elicited effect
 
 	is_triggered_only = yes
@@ -2617,7 +2617,8 @@ character_event = {
 					set_graphical_culture = exile-islander
 				}
 				20 = {
-					set_graphical_culture = summer_islander						}
+					set_graphical_culture = summer_islander
+				}
 				30 = {
 					set_graphical_culture = Summer-YiTish
 				}

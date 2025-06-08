@@ -135,14 +135,13 @@ mixed_essosi_group = {
 		character_modifier = {
 			stewardship = 2
 			essos_group_opinion = 25
-			}
+		}
 
 		color = { 0.95 0.25 0.25 }
 
 		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 
 		male_names = {
-
 			Аллакво Алларо Бегго Бруско
 			Коссомо Денио
 			Эззелино Феррего

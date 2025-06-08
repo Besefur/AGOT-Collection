@@ -1369,7 +1369,7 @@ character_event = {
 				30 = {
 					set_graphical_culture = Northman-Ghiscari
 				}
-				20 = {`
+				20 = {
 					set_graphical_culture = Summer-Westerosi
 				}
 				5 = {

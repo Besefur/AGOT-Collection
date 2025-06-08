@@ -562,7 +562,6 @@ targeted_decisions = {
 					1490	= { character_event = { id = mbs_cadet.253 } } # Salt
 					fallback= { character_event = { id = cadet.11 } } # New Dynasty
 				}
-				}
 			}
 		}
 	}
