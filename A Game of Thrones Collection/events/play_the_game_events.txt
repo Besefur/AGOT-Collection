@@ -495,7 +495,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Do it."
+		name = "Сделай это."
 		set_global_flag = ice_stolen_and_reforged
 		hidden_tooltip = {
 			random_artifact = {
@@ -589,7 +589,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Send the offer!"
+		name = "Отправьте предложение!"
 		any_independent_ruler = {
 			limit = { has_landed_title = e_iron_throne }
 			character_event = { id = play_the_game.20 days = 1 }
@@ -597,7 +597,7 @@ character_event = {
 	}
 
 	option = {
-		name = "We will look elsewhere for a match."
+		name = "Мы будем искать подходящего кандидата в другом месте."
 
 	}
 }
@@ -647,7 +647,7 @@ character_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "An excellent match!"
+		name = "Отличная пара!"
 		event_target:foreign_bride = {
 			move_character = ROOT
 		}
@@ -661,7 +661,7 @@ character_event = {
 	}
 
 	option = {
-		name = "We will find a different bride."
+		name = "Мы найдем другую невесту."
 		event_target:ambitious_essos_father = {
 			character_event = { id = play_the_game.22 days = 1 }
 		}
@@ -676,7 +676,7 @@ character_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "Send people with my daughter."
+		name = "Пошлите людей с моей дочерью."
 		trigger = {
 			any_dynasty_member = {
 				age = 16
@@ -728,7 +728,7 @@ character_event = {
 	}
 
 	option = {
-		name = "This will benefit us."
+		name = "Это принесёт нам пользу."
 		set_character_flag = attempted_iron_throne_marriage
 	}
 }
@@ -742,7 +742,7 @@ character_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "Unfortunate."
+		name = "К сожалению."
 		set_character_flag = attempted_iron_throne_marriage
 	}
 }

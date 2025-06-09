@@ -3572,7 +3572,7 @@ character_event = {
 	ai = no
 
 	option = {
-		name = "What a severe oversight!"
+		name = "Какая серьёзная оплошность!"
 	}
 }
 
@@ -3709,7 +3709,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Sure, why not"
+		name = "Конечно, почему бы и нет?"
 		event_target:absolute_mad_lad = {
 			character_event = { id = tdp_anti_dragon.51 days = 3 }
 		}
@@ -3719,7 +3719,7 @@ character_event = {
 	}
 
 	option = {
-		name = "No. That's suicide."
+		name = "Нет. Это самоубийство."
 		ai_chance = {
 			factor = 70
 		}
@@ -3737,7 +3737,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Smile you son of a..."
+		name = "Улыбнись, сукин сын..."
 		any_character = {
 			limit = { character = 77990001 } #Balerion
 			any_dynasty_member = {
@@ -3767,7 +3767,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Maybe this was a bad idea"
+		name = "Может быть, это была плохая идея."
 		death = {
 			death_reason = death_battle_dragon_fire
 			killer = 77000 #roasted by Aegon
@@ -3797,7 +3797,7 @@ character_event = { #To Aegon
 	is_triggered_only = yes
 
 	option = {
-		name = "HE WHAT??"
+		name = "ОН ЧТО??"
 	}
 }
 
@@ -3810,7 +3810,7 @@ character_event = { #To KingInDaNorf
 	is_triggered_only = yes
 
 	option = {
-		name = "Brandon the Dragonslayer!"
+		name = "Брандон, Убийца драконов!"
 	}
 }
 
@@ -3823,7 +3823,7 @@ character_event = { #To Aegon
 	is_triggered_only = yes
 
 	option = {
-		name = "Fool."
+		name = "Дурак."
 	}
 }
 
@@ -3836,7 +3836,7 @@ character_event = { #To KingInDaNorf
 	is_triggered_only = yes
 
 	option = {
-		name = "I shouldn't have sent him..."
+		name = "Я не должен был его отправлять..."
 	}
 }
 
@@ -3902,7 +3902,7 @@ character_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "Oathbreaker!"
+		name = "Клятвопреступник!"
 	}
 }
 

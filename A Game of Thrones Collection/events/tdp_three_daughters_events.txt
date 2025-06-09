@@ -233,7 +233,7 @@ long_character_event = {
 	}
 
 	option = {
-		name = "The Narrow Sea is ours!"
+		name = "Узкое море принадлежит нам!"
 		set_character_flag = begin_invading_steps
 		k_tyrosh = { holder_scope = { save_event_target_as = archon_tyrosh } }
 		k_lys = { holder_scope = { save_event_target_as = archon_lys } }

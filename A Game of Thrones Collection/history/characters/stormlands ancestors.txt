@@ -2961,6 +2961,28 @@
 		death = yes
 	}
 }
+388316 = {
+	name="Генальд"
+	dynasty=317
+	dna=ihanhqkagqe
+
+	religion="the_seven"
+	culture="stormlander"
+
+	father=318318
+	mother=314298
+
+	give_nickname=nick_storm
+	
+	8150.1.1 = { birth = yes }
+	8166.1.1 = {
+		add_trait = tough_soldier
+		add_trait = knight
+		add_trait = trained_warrior
+	}
+	8189.1.1 = { death = yes }
+
+}
 80317 = {
 	name = "Эленда" # Marries Ser Gerion Lannister in 188 AC, 30 years before Gowen Baratheon marries Tya Lannister
 	female = yes

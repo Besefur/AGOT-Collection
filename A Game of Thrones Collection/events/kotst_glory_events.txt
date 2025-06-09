@@ -385,7 +385,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Provide a modest scouting party."
+		name = EVTOPTBkotstglory10
 		custom_tooltip = { text = little_support }
 		ROOT = { wealth = -25 }
 		FROM = {

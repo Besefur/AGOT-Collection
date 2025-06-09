@@ -79,8 +79,29 @@ destroy_kingdom_dragonstone;;x
 
 RULE_REVOCATION_OF_TITLES;Отзыв титулов ИИ;x
 RULE_REVOCATION_OF_TITLES_OPTION_DEFAULT;По умолчанию;x
-RULE_REVOCATION_OF_TITLES_DEFAULT_DESC;;x
+RULE_REVOCATION_OF_TITLES_DEFAULT_DESC;ИИ как обычно может отзывать тутулы через решение. Это правило направлено чтобы не дать ИИ отзывать титулы за мелкие преступления его вассалов или просто потому что он хочет пополнить свою вотчину.;x
 RULE_REVOCATION_OF_TITLES_OPTION_WESTEROS;Отключить для Вестероса;x
-RULE_REVOCATION_OF_TITLES_WESTEROS_DESC;;x
+RULE_REVOCATION_OF_TITLES_WESTEROS_DESC;Любой правитель со столицей в Вестеросе не сможет использовать решение Отозвать титул.;x
 RULE_REVOCATION_OF_TITLES_ALL;Отключить для всех;x
-RULE_REVOCATION_OF_TITLES_ALL_DESC;;x
+RULE_REVOCATION_OF_TITLES_ALL_DESC;Никто кроме игрока не сможет использовать решение Отозвать титул.;x
+
+tax_levy_law_imperial;Подданые Империи;x
+tax_levy_law_imperial_desc;Обязательства подданных империи;x
+tax_levy_law_imperial_0;Налоговые обязательства I;x
+tax_levy_law_imperial_0_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_1;Налоговые обязательства II;x
+tax_levy_law_imperial_1_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_2;Налоговые обязательства III;x
+tax_levy_law_imperial_2_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_3;Налоговые обязательства IV;x
+tax_levy_law_imperial_3_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_4;Налоговые обязательства V;x
+tax_levy_law_imperial_4_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_5;Налоговые обязательства VI;x
+tax_levy_law_imperial_5_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_6;Налоговые обязательства VII;x
+tax_levy_law_imperial_6_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_7;Налоговые обязательства VIII;x
+tax_levy_law_imperial_7_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x
+tax_levy_law_imperial_8;Налоговые обязательства IX;x
+tax_levy_law_imperial_8_desc;Этот закон регулирует долю ополчения и доходов, предоставляемую сюзерену поддаными империи.;x

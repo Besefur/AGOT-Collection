@@ -222,7 +222,7 @@ character_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "Play a game!"
+		name = "Поиграем в игру!"
 		if = {
 			limit = {
 				OR = {
@@ -270,7 +270,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Go out for a ride!"
+		name = "Пойдем покатаемся!"
 		trigger = {
 			event_target:dragon_friend = {
 				age = 3
@@ -288,7 +288,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Take dragon on a hunt!"
+		name = "Отправимся с драконом на охоту!"
 		trigger = {
 			has_focus = focus_hunting
 			event_target:dragon_friend = {
@@ -302,7 +302,7 @@ character_event = {
 	}
 
 	option = {
-		name = "Nevermind."
+		name = "Неважно."
 		clr_character_flag = interacted_with_dragon
 		ai_chance = {
 			factor = 0
@@ -427,7 +427,7 @@ character_event = {
 	}
 
 	option = {
-		name = "I suppose [dragon_friend.GetSheHe] has earned [dragon_friend.GetHerHis] retirement"
+		name = "Я полагаю, [dragon_friend.GetSheHe] заслужил [dragon_friend.GetHerHis] пенсию."
 		trigger = {
 			event_target:dragon_friend = {
 				age = 160
@@ -918,7 +918,7 @@ character_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "Go away!!"
+		name = "Уходите!!"
 		opinion = {
 			name = opinion_taunted_with_dragon
 			who = event_target:decision_taker
@@ -931,7 +931,7 @@ character_event = {
 	}
 
 	option = {
-		name = "I'll show you!"
+		name = "Я тебе покажу!"
 		trigger = {
 			trait = dragon_rider
 		}

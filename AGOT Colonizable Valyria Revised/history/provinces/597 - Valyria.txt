@@ -48,7 +48,6 @@ religion = valyrian_rel
 
 	b_verdagos = ca_asoiaf_valyria_basevalue_1
 	b_verdagos = ca_asoiaf_valyria_basevalue_2
-
 }
 4000.1.1 = {
 	b_valyria = ct_asoiaf_valyria_basevalue_6
@@ -64,6 +63,9 @@ religion = valyrian_rel
 	b_biarvys = ct_asoiaf_valyria_basevalue_3
 
 	b_verdagos = ca_asoiaf_valyria_basevalue_3
+
+	build_wonder = wonder_city_of_wonders_valyria
+	set_wonder_stage = 10
 }
 
 7886.1.1 = { #Doom
@@ -74,4 +76,7 @@ religion = valyrian_rel
 	remove_settlement = b_skoryia
 	remove_settlement = b_biarvys
 	remove_settlement = b_verdagos
+
+	set_wonder_stage = 1
+	set_wonder_damaged = yes
 }

@@ -86,7 +86,7 @@ narrative_event = {
 	is_triggered_only = yes
 
 	option = {
-		name = "Long Live the Dragonlord!"
+		name = "Да здравствует Повелитель Драконов!"
 	}
 }
 
