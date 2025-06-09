@@ -2630,7 +2630,7 @@
 				trait = disfigured
 			}
 		}
-   	}
+	}
 
 	1 = { # scar 1 - TIER I
 		factor = 1
@@ -2648,7 +2648,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 
 	2 = { # scar 2 - TIER I
 		factor = 1
@@ -2666,7 +2666,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 
 	3 = { # scar 3 - TIER I
 		factor = 1
@@ -2684,7 +2684,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 
 	4 = { # scar 4 - TIER I
 		factor = 1
@@ -2702,7 +2702,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 	5 = { # scar 5 - TIER I
 		factor = 1
 		modifier = {
@@ -2719,7 +2719,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 	6 = { # scar 6 - TIER I
 		factor = 1
 		modifier = {
@@ -2736,7 +2736,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 	7 = { # scar 7 - TIER I
 		factor = 1
 		modifier = {
@@ -2753,7 +2753,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 	8 = { # scar 8 - TIER I
 		factor = 1
 		modifier = {
@@ -2770,7 +2770,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 	9 = { # scar 9 - TIER I
 		factor = 1
 		modifier = {
@@ -2787,7 +2787,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 	10 = { # scar 10 - TIER I
 		factor = 1
 		modifier = {
@@ -2804,7 +2804,7 @@
 				NOT = { trait = scarred }
 			}
 		}
-   	}
+	}
 
 	11 = { # burned
 		factor = 100
@@ -2819,7 +2819,7 @@
 				trait = white_walker
 			}
 		}
-   	}
+	}
 	12 = { # disfigured - nose off
 		factor = 4
 		modifier = {
@@ -2842,12 +2842,12 @@
 			factor = 100
 			character = 80012571 #Rorge
 		}
-   	}
+	}
 	13 = { # seven-pointed star #Disabled for now - Sparrows and ancient Andal zealots
 		factor = 0
 		#modifier = {
 		#}
-   	}
+	}
 }
 
 # p8 red dots
@@ -3011,7 +3011,7 @@
 				character = 4301
 			}
 		}
- 	}
+	}
 	1 = { # boils
 		factor = 100
 		modifier = {
@@ -3021,7 +3021,7 @@
 			NOT = { trait = has_pox }
 			NOT = { character = 4301 }
 		}
- 	}
+	}
 
 	2 = { # Red Dots
 		factor = 100
@@ -3095,7 +3095,7 @@
 				NOT = { trait = one_eyed }
 			}
 		}
- 	}
+	}
 
 	# 3 = { # eyepatch left and blinded
 		# factor = 100
@@ -3109,17 +3109,17 @@
 				# }
 			# }
 		# }
-  	# }
+	# }
 
 	# 4 = { # eyepatch right
 		# #Unused and disabled for now
 		# factor = 0
- 	# }
+	# }
 
 	# 5 = { # eyepatch right and blinded
 		# #Unused and disabled for now
 		# factor = 0
-  	# }
+	# }
 }
 
 # p11 player
@@ -3190,7 +3190,7 @@
 				}
 			}
 		}
-  	}
+	}
 
 	1 = { # mask 1 bone
 		factor = 1
@@ -3871,217 +3871,217 @@
 	0 = { # blank
 		factor = 100
 		trigger = {
-				practical_age > = 2
+			practical_age >= 2
 		}
 	}
 
 	1 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_1
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_1
+			practical_age < 2
+		}
+	}
 
 	2 = {
 		factor = 100
-        	trigger = {
-            		OR = {
-                		trait = dragon_2
-                		trait = dragon_27
-            		}
-            		practical_age < 2
-        	}
-    	}
+		trigger = {
+			OR = {
+				trait = dragon_2
+				trait = dragon_27
+			}
+			practical_age < 2
+		}
+	}
 
 	3 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_3
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_3
+			practical_age < 2
+		}
+	}
 
 	4 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_4
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_4
+			practical_age < 2
+		}
+	}
 
 	5 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_5
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_5
+			practical_age < 2
+		}
+	}
 
 	6 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_6
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_6
+			practical_age < 2
+		}
+	}
 
 	7 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_7
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_7
+			practical_age < 2
+		}
+	}
 
 	8 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_8
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_8
+			practical_age < 2
+		}
+	}
 	9 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_9
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_9
+			practical_age < 2
+		}
+	}
 
 	10 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_10
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_10
+			practical_age < 2
+		}
+	}
 
 	11 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_11
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_11
+			practical_age < 2
+		}
+	}
 
 	12 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_12
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_12
+			practical_age < 2
+		}
+	}
 
 	13 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_13
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_13
+			practical_age < 2
+		}
+	}
 
 	14 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_14
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_14
+			practical_age < 2
+		}
+	}
 	15 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_15
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_15
+			practical_age < 2
+		}
+	}
 
 	16 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_16
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_16
+			practical_age < 2
+		}
+	}
 
 	17 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_17
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_17
+			practical_age < 2
+		}
+	}
 
 	18 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_18
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_18
+			practical_age < 2
+		}
+	}
 
 	19 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_19
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_19
+			practical_age < 2
+		}
+	}
 
 	20 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_20
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_20
+			practical_age < 2
+		}
+	}
 	21 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_21
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_21
+			practical_age < 2
+		}
+	}
 
 	22 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_22
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_22
+			practical_age < 2
+		}
+	}
 
 	23 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_23
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_23
+			practical_age < 2
+		}
+	}
 
 	24 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_24
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_24
+			practical_age < 2
+		}
+	}
 
 	25 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_25
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_25
+			practical_age < 2
+		}
+	}
 
 	26 = {
 		factor = 100
-        	trigger = {
-            			trait = dragon_26
-            			practical_age < 2
-        	}
-    	}
+		trigger = {
+			trait = dragon_26
+			practical_age < 2
+		}
+	}
 }
 
 # p15 Dragon Child Backgrounds
@@ -4089,7 +4089,7 @@
 	0 = { # blank
 		factor = 100
 		trigger = {
-				practical_age > = 2
+			practical_age >= 2
 		}
 	}
 	1 = {
@@ -4201,32 +4201,32 @@
 	}
 	16 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 25
 			culture = dragon_culture
 			is_alive = yes
 			trait = wounded_dragon
-       		}
+		}
 		modifier = {
-		factor = 45
+			factor = 45
 			culture = dragon_culture
 			is_alive = no
-           		death_reason = death_battle
+			death_reason = death_battle
 		}
 	}
 	17 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 25
 			culture = dragon_culture
 			is_alive = yes
 			trait = maimed_dragon
-       		}
+		}
 		modifier = {
-		factor = 45
+			factor = 45
 			culture = dragon_culture
 			is_alive = no
-           		death_reason = death_battle
+			death_reason = death_battle
 		}
 	}
 	18 = {
@@ -4251,17 +4251,17 @@
 	}
 	22 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 25
 			culture = dragon_culture
 			is_alive = yes
 			trait = maimed_dragon
-       		}
+		}
 		modifier = {
-		factor = 60
+			factor = 60
 			culture = dragon_culture
 			is_alive = no
-           		death_reason = death_dragon_duel
+			death_reason = death_dragon_duel
 		}
 	}
 	23 = {
@@ -4461,7 +4461,7 @@
 	0 = { # blank
 		factor = 100
 		trigger = {
-				practical_age >= 15
+			practical_age >= 15
 		}
 	}
 	1 = {
@@ -4554,7 +4554,7 @@
 	0 = {
 		factor = 100
 		trigger = {
-				practical_age >= 15
+			practical_age >= 15
 		}
 	}
 	1 = {
@@ -5272,22 +5272,22 @@
 	}
 	4 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 15
 			culture = dragon_culture
 			trait = shy_dragon
-       		}
+		}
 	}
 	5 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 15
 			culture = dragon_culture
 			OR = {
 				trait = wroth_dragon
 				trait = lunatic_dragon
 			}
-       		}
+		}
 	}
 	6 = {
 		factor = 1
@@ -5308,7 +5308,7 @@
 			factor = 30
 			culture = dragon_culture
 			is_alive = no
-           		death_reason = death_rabble
+			death_reason = death_rabble
 		}
 	}
 	8 = {
@@ -5377,32 +5377,32 @@
 	}
 	16 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 25
 			culture = dragon_culture
 			is_alive = yes
 			trait = wounded_dragon
-       		}
+		}
 		modifier = {
-		factor = 45
+			factor = 45
 			culture = dragon_culture
 			is_alive = no
-           		death_reason = death_battle
+			death_reason = death_battle
 		}
 	}
 	17 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 25
 			culture = dragon_culture
 			is_alive = yes
 			trait = maimed_dragon
-       		}
+		}
 		modifier = {
-		factor = 45
+			factor = 45
 			culture = dragon_culture
 			is_alive = no
-           		death_reason = death_battle
+			death_reason = death_battle
 		}
 	}
 	18 = {
@@ -5440,17 +5440,17 @@
 	}
 	22 = {
 		factor = 1
-    		modifier = {
+		modifier = {
 			factor = 25
 			culture = dragon_culture
 			is_alive = yes
 			trait = maimed_dragon
-       		}
+		}
 		modifier = {
-		factor = 60
+			factor = 60
 			culture = dragon_culture
 			is_alive = no
-           		death_reason = death_dragon_duel
+			death_reason = death_dragon_duel
 		}
 	}
 	23 = {
@@ -5481,7 +5481,7 @@
 				}
 			}
 		}
- 	}
+	}
 	1 = {
 		factor = 100
 
@@ -5498,7 +5498,7 @@
 			factor = 0
 			age = 30
 		}
-  	}
+	}
 	2 = {
 		factor = 100
 
@@ -5519,7 +5519,7 @@
 			factor = 0
 			age = 50
 		}
-  	}
+	}
 	3 = {
 		factor = 100
 
@@ -5536,7 +5536,7 @@
 			factor = 0
 			NOT = { age = 50 }
 		}
-  	}
+	}
 	4 = {
 		factor = 100
 
@@ -5544,7 +5544,7 @@
 			factor = 0
 			age = 30
 		}
-  	}
+	}
 	5 = {
 		factor = 100
 
@@ -5556,7 +5556,7 @@
 			factor = 0
 			age = 50
 		}
-  	}
+	}
 	6 = {
 		factor = 100
 
@@ -5564,7 +5564,7 @@
 			factor = 0
 			NOT = { age = 50 }
 		}
-  	}
+	}
 }
 
 #p22 malnourished
@@ -5578,7 +5578,7 @@
 				trait = is_malnourished
 			}
 		}
- 	}
+	}
 
 	1 = { #pale
 		factor = 100
@@ -5587,7 +5587,7 @@
 			is_ill = no
 			NOT = { trait = is_malnourished }
 		}
-  	}
+	}
 }
 
 #p23 black eye
@@ -5602,7 +5602,7 @@
 				trait = wounded
 			}
 		}
- 	}
+	}
 
 	1 = { #black eye.
 		factor = 100
@@ -5615,7 +5615,7 @@
 			has_character_modifier = black_eye
 			has_character_modifier = concussion
 		}
-  	}
+	}
 	2 = { #Concussion.
 		factor = 100
 		modifier = {
@@ -5633,7 +5633,7 @@
 				trait = wounded
 			}
 		}
-  	}
+	}
 	3 = { #Concussion AND Black eye.
 		factor = 100
 		modifier = {
@@ -5646,7 +5646,7 @@
 				has_character_modifier = black_eye
 			}
 		}
-  	}
+	}
 }
 
 #p24 harelip
@@ -5657,7 +5657,7 @@
 			factor = 0
 			trait = harelip
 		}
- 	}
+	}
 
 	1 = { #black eye.
 		factor = 100
@@ -5665,7 +5665,7 @@
 			factor = 0
 			NOT = { trait = harelip }
 		}
-  	}
+	}
 }
 
 #To add new set of scars, add new _type_ hidden trait, edit the scar-assignment scripted effect, add entries in portrait properties, add new frame and ALL THREE tiers (regular, _mid, and _high).
@@ -5690,7 +5690,7 @@
 				trait = scarred_type_10
 			}
 		}
-   	}
+	}
 
 	1 = { # scar 1 - TIER II
 		factor = 1
@@ -5708,7 +5708,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 
 	2 = { # scar 2 - TIER II
 		factor = 1
@@ -5726,7 +5726,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 
 	3 = { # scar 3 - TIER II
 		factor = 1
@@ -5744,7 +5744,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 
 	4 = { # scar 4 - TIER II
 		factor = 1
@@ -5762,7 +5762,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 	5 = { # scar 5 - TIER II
 		factor = 1
 		modifier = {
@@ -5779,7 +5779,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 	6 = { # scar 6 - TIER II
 		factor = 1
 		modifier = {
@@ -5796,7 +5796,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 	7 = { # scar 7 - TIER II
 		factor = 1
 		modifier = {
@@ -5813,7 +5813,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 	8 = { # scar 8 - TIER II
 		factor = 1
 		modifier = {
@@ -5830,7 +5830,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 	9 = { # scar 9 - TIER II
 		factor = 1
 		modifier = {
@@ -5847,7 +5847,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 	10 = { # scar 10 - TIER II
 		factor = 1
 		modifier = {
@@ -5864,7 +5864,7 @@
 				NOT = { trait = scarred_mid }
 			}
 		}
-   	}
+	}
 }
 
 # p26 high scars - Tier III
@@ -5888,7 +5888,7 @@
 				trait = scarred_type_10
 			}
 		}
-   	}
+	}
 
 	1 = { # scar 1 - TIER III
 		factor = 100
@@ -5906,7 +5906,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 
 	2 = { # scar 2 - TIER III
 		factor = 100
@@ -5924,7 +5924,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 
 	3 = { # scar 3 - TIER III
 		factor = 100
@@ -5942,7 +5942,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 
 	4 = { # scar 4 - TIER III
 		factor = 100
@@ -5960,7 +5960,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 	5 = { # scar 5 - TIER III
 		factor = 100
 		modifier = {
@@ -5977,7 +5977,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 	6 = { # scar 6 - TIER III
 		factor = 100
 		modifier = {
@@ -5994,7 +5994,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 	7 = { # scar 7 - TIER III
 		factor = 100
 		modifier = {
@@ -6011,7 +6011,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 	8 = { # scar 8 - TIER III
 		factor = 100
 		modifier = {
@@ -6028,7 +6028,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 	9 = { # scar 9 - TIER III
 		factor = 100
 		modifier = {
@@ -6045,7 +6045,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 	10 = { # scar 10 - TIER III
 		factor = 100
 		modifier = {
@@ -6062,7 +6062,7 @@
 				NOT = { trait = scarred_high }
 			}
 		}
-   	}
+	}
 }
 
 #p27 Blood Splatter
@@ -6073,17 +6073,17 @@
 			factor = 0
 			NOT = {
 				has_game_rule = {
-	   				name = blood_splatter_rule
+					name = blood_splatter_rule
 					value = off
-	   			}
-   			}
+				}
+			}
 			OR = {
 				has_character_modifier = blood_splatter_1
 				has_character_modifier = blood_splatter_2
 				has_character_modifier = blood_splatter_3
 			}
 		}
- 	}
+	}
 
 	1 = { #Some.
 		factor = 100
@@ -6091,21 +6091,21 @@
 			factor = 0
 			NOT = { has_character_modifier = blood_splatter_1 }
 		}
-  	}
+	}
 	2 = { #A lot.
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = blood_splatter_2 }
 		}
-  	}
+	}
 	3 = { #Bathory.
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = blood_splatter_3 }
 		}
-  	}
+	}
 	4 = { #Mud splatter.
 		factor = 100
 		modifier = {
@@ -6120,7 +6120,7 @@
 				has_character_modifier = blood_splatter_3
 			}
 		}
-  	}
+	}
 }
 
 #p28 Tattoos
@@ -6158,7 +6158,7 @@
 				trait = slavic_tattoo_6
 			}
 		}
- 	}
+	}
 
 	1 = {
 		factor = 100
@@ -6166,168 +6166,168 @@
 			factor = 0
 			NOT = { trait = african_tattoo_1 }
 		}
-  	}
+	}
 	2 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_2 }
 		}
-  	}
+	}
 	3 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_3 }
 		}
-  	}
+	}
 	4 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_4 }
 		}
-  	}
+	}
 	5 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_5 }
 		}
-  	}
+	}
 	6 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_6 }
 		}
-  	}
+	}
 	7 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_7 }
 		}
-  	}
+	}
 	8 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_8 }
 		}
-  	}
+	}
 	9 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = norse_tattoo_1 }
 		}
-  	}
+	}
 	10 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = norse_tattoo_2 }
 		}
-  	}
+	}
 	11 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = norse_tattoo_3 }
 		}
-  	}
+	}
 	12 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = norse_tattoo_4 }
 		}
-  	}
+	}
 	13 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = norse_tattoo_5 }
 		}
-  	}
+	}
 	14 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = norse_tattoo_6 }
 		}
-  	}
+	}
 	15 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = slavic_tattoo_1 }
 		}
-  	}
+	}
 	16 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = slavic_tattoo_2 }
 		}
-  	}
+	}
 	17 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = slavic_tattoo_3 }
 		}
-  	}
+	}
 	18 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = slavic_tattoo_4 }
 		}
-  	}
+	}
 	19 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = slavic_tattoo_5 }
 		}
-  	}
+	}
 	20 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = slavic_tattoo_6 }
 		}
-  	}
+	}
 	21 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_9 }
 		}
-  	}
+	}
 	22 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_10 }
 		}
-  	}
+	}
 	23 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_11 }
 		}
-  	}
+	}
 	24 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { trait = african_tattoo_12 }
 		}
-  	}
+	}
 }
 
 #p29 Warpaint
@@ -6346,8 +6346,8 @@
 				has_character_modifier = tengri_warpaint_1
 				has_character_modifier = tengri_warpaint_2
 			}
- 		}
- 	}
+		}
+	}
 
 	1 = {
 		factor = 100
@@ -6355,56 +6355,56 @@
 			factor = 0
 			NOT = { has_character_modifier = aztec_warpaint_1 }
 		}
-  	}
+	}
 	2 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = aztec_warpaint_2 }
 		}
-  	}
+	}
 	3 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = finnish_warpaint_1 }
 		}
-  	}
+	}
 	4 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = finnish_warpaint_2 }
 		}
-  	}
+	}
 	5 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = zun_warpaint_1 }
 		}
-  	}
+	}
 	6 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = zun_warpaint_2 }
 		}
-  	}
+	}
 	7 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = tengri_warpaint_1 }
 		}
-  	}
+	}
 	8 = {
 		factor = 100
 		modifier = {
 			factor = 0
 			NOT = { has_character_modifier = tengri_warpaint_2 }
 		}
-  	}
+	}
 }
 #p30 Demon Child (fantasy only)
 30 = {
@@ -6413,8 +6413,8 @@
 		modifier = {
 			factor = 0
 			has_character_modifier = demon_horns
- 		}
- 	}
+		}
+	}
 
 	1 = {
 		factor = 100
@@ -6428,9 +6428,9 @@
 			factor = 0
 			NOT = {
 				has_character_modifier = demon_horns
-   			}
+			}
 		}
-  	}
+	}
 
 	2 = { #Used to hide hair on Norvosi characters
 		factor = 100
