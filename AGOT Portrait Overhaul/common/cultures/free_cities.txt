@@ -118,100 +118,89 @@ free_cities = {
 
 		male_names = {
 			#CANON
-			Ordello:800 Illyrio:800 Groleo:800 Manolo:500 Myrio:800 Gessio:800 Nevio:800 Yollo:800
+			Орделло:800 Иллирио:800 Гролео:800 Маноло:500 Мирио:800 Гессио:800 Невио:800 Йолло:800
 
 			#OTHER CITYS
-			Andrey Androw Anguy Argrave Arlan Arwood Arwyn Addam Adam Aethelmure Alesander Allaquo Beqqo Brusco Alios Anson Alvyn Alard Athos Axel
-			Belgrave Ben Benfrey Bennet Bennifer Bradamar Bryan Brynden Bryar Benjicot Bellos Barion Beslon Bryne Benedict Bernarr
-			Cossomo Denyo Cetheres Clarence Clement Cleos
-			Dafyn Damon Danwell Dennett
-			Ezzelyno Ferrego Florian Forrest Ebrose Edmund Edmure Edmyn Edwyn
-			Gyleno Gyloro Gillam Gaston Gwayne Garibald Garyn Gorgon
-			Halmon Harbert Harry
-			Izembaro
-			Jaqen Joss
-			Karyl Kirth
-			Lotho Luco Lennocks Leslyn Lewys
-			Meralyn Mero Moredo Myrmello Methyso
-			Noho Narbo Orbelo Oro
-			Pynto Qarro Pytho
-			Rego Roggo Rawney Raymond Raymun Raymund
-			Savario Salassor
-			Tycho Tagganaro Terro Ternesio Tormo Theo Theomar
-			Yorko
-			Areo Byan Ollo Daario Collio:500 Moreo Roro Tregar Kasporio Tybero Mollono:500
+			Аллакво Бегго Бруско Алиос
+			Коссомо Денио
+			Эззелино Феррего
+			Гилено Гилоро
+			Изембаро
+			Якен Джосс
+			Лото Луко
+			Мералин Меро Моредо Мирмелло Метисо
+			Нохо Нарбо Орбело Оро
+			Пинто Кварро Пито
+			Рего Рогго
+			Саварио Салассор
+			Тихо Тагганаро Терро Тернесио Тормо
+			Йорко
+			Арео Баян Олло Даарио Коллио:500 Морео Роро Трегар Каспорио Тиберо Моллоно:500
 
-			Adaros Arano Aeriphos Aeradhor Arillo Aeryio Aricho Aerano Aro Araro Adayrs Aerio Aronos Adareno Ayrio:300 Allo:300
-			Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos
-			Byllo Byrios Bydos Bylan Bysan Bysiros Byllo Bysano Byrano Byresso Balliro Byrio:300 Bollo:300 Byllirio:300
-			Copho Conicho Conos Cassan Caezar Callos Cadaro Caryos Cossoquo Callen Cyrio:500 Cessio:500 Collo:300 Cyllirio:300
-			Donicho Daarillo Daaro Daarelo Donos Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio:300 Dyllioro:300
-			Esselo Ezzano Ezzario Essano Essalo Essorio Eysan Esyrno Esodo Ezzlyso Ezzaloro Ezzo
-			Harlano	Harlyrio Hasaro Haronno Horio Horyro Harlelo Harlano Haro Harlaro Hyrio:300 Hessio:300 Hollo:300 Hyllirio:300
-			Innyllo:300 Irrio:300 Inno:300 Illen Illario:300 Illio:300 Innario:300 Illoquo:300 Innys Illaro:300 Illos:300 Illoros:300 Illadhor Illonaro Irricho
-			Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo Jaezar Jyllo Jyssan Joryllo Jaqaro Jaqeo Joreo Jorys Jaqario Jollo:300
-			Gyllaro:300 Garraro:300 Garryro Gyllonos Gyellso Gyllo Garro:300 Gylleno:300 Garrido Gollo:300 Gyllirio:300
-			Lysiros Lazan Larazys Lazyllo Lysodos Lysano Larazar Lysenno Lysar Laziros Larazo Lothorio:300 Lessio:200 Lyrio:300 Lollo:300
-			Noroquo Nakano Nyessapho Nakorno Nakaquo Nakodos Noro Norello Nyessano Nakeo Nakaro Norapho Noraphos Narapho Nyessonar Nyrio:500
-			Marohr Nakys Maryllo Mareno Mareo Maraphos Moro Mallaquo Marano Malano Malonaro Malero Melio Maryllo Messio:300 Mollo:300
-			Parro Pyllo Parridos Paranys Pazano Pyrios Pylano Pydos Pallos Paryos Padaros Pollo:300
-			Ryllo Raezaro Rapho Releqor Relidos Relyrio Relapho Relyso Rallos Ryos Rano Rono Rollo:700
-			Qiros Qiran Qysar Qycho Qarran Qorello Qollo:300
-			Yonicho Yono Ylloro Yarrido Yarano Yaaro Yaqeo Yallo:200
-			Stallaquo Stallorno Syrodos Syran Stalleno Syrno Syricho Sallello Salloro Sallo Stallonno Sallo:300
-			Tregaquo Tregyros Tregonos Thoronno Thorio Torodos Tyssano Tyros Tychan Thoren Tregys Tychyros Tychoros Trego Tregyllo Tregyllo Tessio:500 Tollo:300
-			Vyrenhor Vargorno Variphos Vyronos Vargano Vogys Vyronno Vyrano Vargio Vyresso Vogo Vareo Varano Vyrano Vargello Vyrio:300 Vollo:300
-			Zonario Zorapho Zollo Zollio Zoro Zaario Zonio Zoraphos Zarapho Zaraquo Zoronno Zaryio Zeleqor Zargano  Zyrio:300 Zollo:300
+			Адарос Арано Эйрифос Эйрадор Арилло Эйрайио Арихо Эйрано Аро Араро Адарис Эйрио Аронос Адарено Айрио:300 Алло:300
+			Брачаро Белессо Баллио Баллено Брачилло Белодо Брачано Белекор Белидос Белирио Белафо Белокво Белано Белио Баллос Белонос
+			Билло Бириос Бидос Байлан Байсан Бисирос Бисано Бирано Бирессо Баллиро Бирио:300 Болло:300 Биллирио:300
+			Кофо Коничо Конос Кассан Кейзар Каллос Кадаро Кариос Коссокво Каллен Кирио:500 Кессио:500 Колло:300 Киллирио:300
+			Доничо Даарилло Дааро Даарело Донос Донело Донано Дракано Донио Доналло Дракорос Динерро Дирио:300 Диллиоро:300
+			Эссело Эззано Эззарио Эссано Эссало Эссорио Эйсан Эсирно Эсодо Эззлисо Эззалоро Эззо
+			Харлано	Харлирио Хасаро Харонно Хорио Хориро Харлело Харо Харларо Хирио:300 Хессио:300 Холло:300 Хиллирио:300
+			Иннилло:300 Иррио:300 Инно:300 Иллен Илларио:300 Иллио:300 Иннарио:300 Иллокво:300 Иннис Илларо:300 Иллос:300 Иллорос:300 Илладор Иллонаро Ирричо
+			Якенор Йоракво Йорор Йорафо Якирос Яйрео Яйзар Йилло Йиссан Йорилло Якаро Якео Йорео Йорис Якарио Йолло:300
+			Гилларо:300 Гарраро:300 Гарриро Гиллонос Гайэллсо Гилло Гарро:300 Гиллено:300 Гарридо Голло:300 Гиллирио:300
+			Лисирос Лазан Ларазис Лазилло Лисодос Лисано Ларазар Лисенно Лисар Лазирос Ларазо Лоторио:300 Лессио:200 Лирио:300 Лолло:300
+			Норокво Накано Ниэссафо Накорно Накакво Накодос Норо Норелло Ниэссано Накео Накаро Норафо Норафос Нарафо Ниэссонар Нирио:500
+			Марор Макис Марилло Марено Марео Марафос Моро Маллакво Марано Малано Малонаро Малеро Мелио Мессио:300 Молло:300
+			Парро Пилло Парридос Паранис Пазано Пириос Пилано Пидос Паллос Париос Падарос Полло:300
+			Рилло Рейзаро Рафо Релекор Релидос Релирио Релафо Релисо Раллос Риос Рано Роно Ролло:700
+			Квирос Квиран Квисар Квихо Кварран Кворелло Кволло:300
+			Йонихо Йоно Иллоро Ярридо Ярано Яаро Якео Ялло:200
+			Сталлакво Сталлорно Сиродос Сиран Сталлено Сирно Сирихо Саллелло Саллоро Салло Сталлоно Салло:300
+			Трегакво Трегирос Трегонос Торонно Торио Тородос Тиссано Тирос Тихан Торен Трегис Тихирос Тихорос Трего Трегилло Тессио:500 Толло:300
+			Виренхор Варгорно Варифос Виронос Варгано Вогис Виронно Вирано Варгио Вирессо Вого Варео Варано Вирано Варгелло Вирио:300 Волло:300
+			Зонарио Зорафо Золло Золлио Зоро Заарио Зонио Зорафос Зарафо Заракво Зоронно Зарайио Зелекор Заргано Зирио:300 Золло:300
 
-			Pupolo Danilo Araldo Demetio Adelgardo Rufo Daavino Nereo Balderico Genesio
+			Пуполо Данило Аралдо Деметио Аделгардо Руфо Даавино Нерео Балдерико Генезио
 		}
 		female_names = {
 			#OTHER CITYS
-			Mellario Doreah Serenei Serra
-			Arwyn Allise Aleria Alerie Amena Arwen Aglantine Alia
-			Betharios Brea Bellegere Bellonara Beony Barra Brienne Belandra
-			Carellen Cass Catelyn
-			Delena Denyse Desmera Donyse Dyna Darla
-			Eglantine Elene Elyn Ellyn Emma Eionne
-			Flora Falia Freya
-			Mysaria Lanna Talea
-			Umma Yna Serala Taena Ushanora
+			Мелларио Дорея Серенея Серра
+			Алия Бетариос Брея Беллегера Беллонара
+			Мисария Ланна Талея
+			Умма Уна Серала Тейна Ашенора
 
-			Taenanea Salasha Wynella Nilolla Henona Dorelna Sirila Firanyna Waeraena Maena Nesysha Nilerah Nesola Sereah Saela Ahrysha Wenina Henysa
-			Minysha Oranea Tirelna Minala Vorysa Wyneah Laenylea Laenanah Neseah Voraria Vaerana Meshola Sireyana Firanira Daenerah Pheneyana
-			Sireyana Dorella Tiresa Daenysa Rylea Bellona Dilona Siria Syria Thorena Conosa Callosa Calena Donaria Donelia Darria Essela Ezzana Horia
-			Hororia Harlania Eysania Irria Inna Illenia Innaria Innysa Illosa Illarah Jaqena Joraphia Jaqira Jyssana Jorylla Jaqeah Jorea Noreah Loreah Soreah
-			Gylla Gyella Lysirah Lazana Lysani Lysarah Nakani Nakornah Nakodi Norelli Nyessa Naki Maryllah Malerah Maloni Malani Pylani Pazani Parrah
-			Qira Qirani Qysarah Qarrana Qorella Yonica Yonah Yaqea Yarah Syrani Syrana Thora Tora Varea Vyrana Rohani Rohana Palea Prea Salea Saea
+			Тейнанея Салаша Винелла Нилолла Хенона Дорелна Сирила Фиранайна Вейрейна Мейна Несиша Нилера Несола Серея Сейла Ахриша Венина Хениса
+			Миниша Оранея Тирелна Минала Вориса Винея Лейнилея Лейнана Несея Ворария Вейрана Мешола Серейана Фиранира Дейнера Фенейана
+			Серейана Дорелла Тиреса Дейниса Рилея Беллона Дилона Сирия Сайрия Торена Коноса Каллоса Калена Донария Донелия Даррия Эссела Эззана Хория
+			Хорория Харлания Эйсания Иррия Инна Илления Иннария Инниса Иллоса Иллара Якена Джорафия Якира Джиссана Джорилла Джакея Джорея Норея Лорея Сорея
+			Гилла Гайэлла Лисира Лазана Лисани Лисара Накани Накорна Накоди Норелли Ниэсса Наки Марилла Малера Малони Малани Пилани Пазани Парра
+			Квира Квирани Квисара Кваррана Кворелла Йоника Йона Якея Яра Сирани Сирана Тора Варея Вирана Рохани Рохана Палея Прея Салея Сейя
 
-			Dileah Elaera Onalella Nereah Erola Norianna Minanea Inerylla Aleah Tirora Firanissa Phireah Serera Sirona Triannya Taeynea Daenyea Arreyana
-			Nesianna Helanea Ahrysa Phirona Philona Faeyella Laresha Velle Nesynea Melyna Ferysa Vellena Harreyana Irylla Faeyolana Eyolana Vaerosha
-			Daenala Trianira Neseyana Henolana Lessynea Helyea Meshaleah Phenoreah Henaleah Tiryna Henerah Ahrianna Wenyla Milaya Meshaena Penyla
-			Ilola Firaneah Nesoreah Ferylea Mineya Phenolana Leresa Nilyna Phenaria Wynesa Phirella Sera Wenela Doresa Doreza Nolona Onalona Onalya
-			Elynea Arraya Harraya Sirysha Ranira Vellya Laensa Dorianna Vellona Dora Elaya Naena Maena Onalyna Seraena Nesora Feria Nesissa Saelysha
-			Vaena Haena Qaena Yaena Gaena Caena Zaena Aena Saena Raena Philario Pysaria Nysaria Nesa Melolla Firanya Firania Firanela Arenela Alea
-			Bysaria Tysaria Lysaria Dysaria Laenesa Lanesa Enesa Ahraena Faeyila Nilora Melina Nilina Tirysha Melala Sireya Tirola Zarya Zoronna Zargana
-			Serylla Taenolana Laenysha Serylla Sirana Siranah Ilona Siraya Melylla Voreya Vorylea Minelna Daenirah Triannolla Saella Mellianna Morylea Moreya
-			Wyna Lessella Helissa Nesila Taenya Vorynea Lessera Hena Orala Serola
+			Дилея Элейра Оналелла Нерея Элора Норианна Минанея Инерилла Алея Тирора Фиранисса Фирея Серера Сирона Трианния Тейайнея Дейнайея Арреяна
+			Несианна Хеланея Ахриса Фирона Филона Фейайелла Лареша Велла Несайнея Мелина Фериса Веллена Харрейана Ирилла Фейолана Эйолана Вейроша
+			Дейнала Трианира Несейана Хенолана Лессинея Хелиэя Мешалея Фенорея Хеналея Тирина Хенера Ахрианна Венила Милайя Мешейна Пенила
+			Илола Фиранея Несорея Ферилея Минейя Фенолана Лереса Нилина Фенария Винеса Фирелла Сера Венела Дореса Дореза Нолона Оналона Оналайя
+			Элинея Аррайя Харрайя Сириша Ранира Веллайя Лейнса Дорианна Веллона Дора Элайя Нейна Мейна Оналина Серейна Несора Ферия Несисса Сейлиша
+			Вейна Хейна Квейна Йейна Гейна Кейна Зейна Эйна Сейна Рейна Филарио Писария Нисария Неса Мелолла Фиранайя Фирания Фиранела Аренела Алея
+			Бисария Тисария Лисария Дисария Лейнеса Ланеса Энеса Ахрейна Фейайила Нилора Мелина Нилина Тириша Мелала Сирейя Тирола Зарайя Зоронна Заргана
+			Серилла Тейнолана Лейниша Серайлла Сирана Илона Сирайя Милилла Ворейя Ворилея Минелна Дейнира Трианнолла Сейлла Меллианна Морилея Морейя
+			Уайна Лесселла Хелисса Несила Тейнайя Воринея Лессера Хена Орала Серола
 
-			Ilia Nilde Venusta Licya Zaarina Lucrezzia
+			Илия Нильда Венуста Лисайя Заарина Лукрецция
 
 			#NON CANON
-			Cossoma Denia
-			Ferrega Ezzere
-			Gylenios Gylora
-			Izembara
-			Jaqea Jeona Jancia Jennelyn Joanna
-			Keleria Kellyn Kelyce Kella
-			Lothea Lucerre
-			Meralyia Mera Moredea Myrmellios Maerie Marianne Marissa
-			Nohia Narba Orbela Orios
-			Pynta Qarria
-			Rogga
-			Syrea Sofia
-			Tycha Tagganaria Terrios Ternesia Torma
-			Yorka
-			Zhoe Zia
+			Коссома Дения
+			Феррега Эззера
+			Гилениос Гилора
+			Изембара
+			Якея
+			Лотея Люсерра
+			Мералия Мера Моредея Мирмеллиос
+			Нохия Нарба Орбела Ориос
+			Пинта Кваррия
+			Рогга
+			Сирея
+			Тиха Тагганария Терриос Тернесия Торма
+			Йорка
 		}
 		from_dynasty_prefix = "из "
 
@@ -356,92 +345,92 @@ free_cities = {
 
  		male_names = {
 			#CANON
-			Allaquo:500 Anterro:500 Beqqo:500 Brusco:500 Bessaro:1000 Bobono:500
-			Cossomo:500 Denyo:1500 Dellono:500 Despero:500 Donalo:500
-			Elanzo:500 Essario:500 Ezzelyno:500 Falyrio:500 Ferrego:500 Ferro:500 Florio:500
-			Gesso:500 Gyleno:1000 Gyloro:1000 Galeo:1000
-			Idario:500 Izembaro:500
-			Jaqen:500 Jorio:500 Kasporio:500
-			Lotharo:500 Lotho:500 Luco:500
-			Marro:500 Merio:500 Mero:500 Moredo:500 Morio:500 Moroggo:500 Myrio:500 Myrmello:1000
-			Noho:1500 Nabbo:500 Narbo:1000 Niklos:500 Orbelo:500 Oro:500
-			Pynto:500 Qarro:500 Phario:500
-			Rallo:500 Roggo:500
-			Sellagoro:500 Syrano:500 Syrio:500
-			Terrio:500 Tomarro:500 Treblo:500 Trellio:500 Trello:500 Tycho:1500 Tagganaro:1000 Terro:500 Ternesio:500 Torlo:500
-			Tormo:1000 Terrio:1000
-			Uthero:500
-			Varro:500
-			Yorko:500
+			Аллакво:500 Антерро:500 Бегго:500 Бруско:500 Бессаро:1000 Бобоно:500
+			Коссомо:500 Денио:1500 Деллоно:500 Десперо:500 Донало:500
+			Эланзо:500 Эссарио:500 Эззелино:500 Фалирио:500 Феррего:500 Ферро:500 Флорио:500
+			Гессо:500 Гилено:1000 Гилоро:1000 Галео:1000
+			Идарио:500 Изембаро:500
+			Якен:500 Йорио:500 Каспорио:500
+			Лотаро:500 Лото:500 Луко:500
+			Марро:500 Мерио:500 Меро:500 Моредо:500 Морио:500 Морогго:500 Мирио:500 Мирмелло:1000
+			Нохо:1500 Наббо:500 Нарбо:1000 Никлос:500 Орбело:500 Оро:500
+			Пинто:500 Кварро:500 Фарио:500
+			Ралло:500 Рогго:500
+			Селлагоро:500 Сирано:500 Сирио:500
+			Террио:500 Томарро:500 Требло:500 Треллио:500 Трелло:500 Тихо:1500 Тагганаро:1000 Терро:500 Тернесио:500 Торло:500
+			Тормо:1000 Террио:1000
+			Утеро:500
+			Варро:500
+			Йорко:500
 
 			#OTHER CITYS
-			Areo Ordello Illyrio Groleo Mellario Ollo Daario Collio Moreo Roro Kasporio Tybero Mollono Pytho Oppo Alios Methyso Jaqq
+			Арео Орделло Иллирио Гролео Мелларио Олло Даарио Коллио Морео Роро Каспорио Тиберо Моллоно Пито Оппо Алиос Метисо Якк
 
 
-			Adarano:300 Adaros:300 Aeriphos:300 Aeradhor:300 Arillos:300 Aeryio:300 Aeran:300 Aro:300 Arar:300 Adayrs:300 Aerio:300 Aronos:300 Adaren
-			Bracharo:300 Ballio:300 Ballen:300 Brachyllo:300 Belodos:300 Beleqor:300 Belidos:300 Belyrio:300 Beloquo:300 Belano:300 Belys:300 Ballos:300 Belonos:300
-			Byllos Byrios Bydos Bylan Byrano Byresso Boho:500
-			Copho Conicho Conos Callos Cossoquo Coho:500
-			Donicho Daarillos Daaro Donelos Donano Draqan Draqoros Draqorro Dynerro Dynaario Doho:500
-			Essel Ezzan Ezzario:300 Essalos Essorio Esodos Ezzlyso Ezzaloro Ezzo
-			Harlano	Harlyrio Hasaro Haronno Horio Horyros Harlelo Harlan Haros Harlaro
-			Innyllo Irrio Inno Illen Illario Illio Innario Illoquo Innys Illaro Illos Illoros Illadhor Illonar Irricho
-			Jaqenhor Jaeresso Joraquo Joror Jorapho Jaqiros Jaereo Jaezar Jyssan Joryllo Jaqaro Jaqeo Joreo Jorys Jaqario Joho:500
-			Gyllar Garraro Goranys Garryros Gyllonos Garrenhor Gyellso Gyllo Garro Gyllen Garridos Goho:500
-			Lysiros Lazan Larazys Lazyllo Lysodos Lysan Larazar Lysenno Lysar Laziros Larazonar Lothorio:300 Loho:500
-			Noroquo Nakano Nyessapho Nakorno Nakaquo Nakodos Noro Norello Nyessan Nakeo Nakaro Noropho Narapho Nyesonnar
-			Marohr Nakys Maryllo Maren Maraphos Moro Mallaquo Marano Malan Malonar Malero Melio Maryllo Moho:500
-			Parro Pyllo Parridos Paranys Pazan Pyrios Pylan Pydos Pallos Paryos Padaros Poho:500
-			Ryllo Raezar Rapho Releqor Relidos Relyrio Relapho Relys Rallos Ryos Rano Rono Roho:500
-			Qiros Qiran Qysar Qycho Qarran Qorello Qoho:500
-			Yonicho Yonos Ylloros Yarridos Yaran Yaaro Yaqeo Yoho:300
-			Stallaquo Stallorno Syrodos:300 Syran:300 Stallen Syrno:300 Syricho:300 Syrar:300 Sallello Salloros Sallos Stallonno Soho:500
-			Tregaquo Tregyros Tregonos Thorenhor Thoronno Thoronar Thorio Torodos Tyssano Tyros Tychan Thoren Tregys Tychyros Tychoros Trego Tregyllo
-			Vyrenhor Vargorno Variphos Vyronos Vargano Vogys Vyronno Vyran Vargio Vyresso Vogo Vareo Varan Vyrano Vargello Voho:500
-			Zonario Zarys Zorapho Zollo Zollio Zoro Zaario Zonio Zoraphos Zarapho Zaraquo Zoronno Zyrio Zeleqor Zargano Zoho:500
+			Адарано:300 Адарос:300 Эйрифос:300 Эйрадор:300 Ариллос:300 Эйрайио:300 Эйран:300 Аро:300 Арар:300 Адайрс:300 Эйрио:300 Аронос:300 Адарен
+			Брачаро:300 Баллио:300 Баллен:300 Брачилло:300 Белодос:300 Белекор:300 Белидос:300 Белирио:300 Белокво:300 Белано:300 Белис:300 Баллос:300 Белонос:300
+			Биллос Бириос Бидос Байлан Бирано Бирессо Бохо:500
+			Кофо Коничо Конос Каллос Коссокво Кохо:500
+			Доничо Даариллос Дааро Донелос Донано Дракан Дракорро Динерро Динаарио Дохо:500
+			Эссел Эззан Эззарио:300 Эссалос Эссорио Эсодос Эззлисо Эззалоро Эззо
+			Харлано	Харлирио Хасаро Харонно Хорио Хорирос Харлено Харлан Харос Харларо
+			Иннилло Иррио Инно Иллен Илларио Иллио Иннарио Иллокво Иннис Илларо Иллос Иллорос Илладор Иллонаро Ирричо
+			Якенор Джейрессо Йоракво Йорор Йорафо Якирос Яйрео Яйзар Йиссан Йорилло Якаро Джакео Йорео Йорис Якарио Йохо:500
+			Гиллар Гарраро Горанис Гаррирос Гиллонос Гарренор Гайэллсо Гилло Гарро Гиллен Гарридос Гохо:500
+			Лисирос Лазан Ларазис Лазилло Лисодос Лисан Ларазар Лисенно Лисар Лазирос Ларазонар Лоторио:300 Лохо:500
+			Норокво Накано Ниэссафо Накорно Накакво Накодос Норо Норелло Ниэссан Накео Накаро Норофо Нарафо Ниэссонар
+			Марор Макис Марилло Марен Марафос Моро Маллакво Марано Малан Малонар Малеро Мелио Марилло Мохо:500
+			Парро Пилло Парридос Паранис Пазан Пириос Пилан Пидос Паллос Париос Падарос Похо:500
+			Рилло Рейзар Рафо Релекор Релидос Релирио Релафо Релис Раллос Риос Рано Роно Рохо:500
+			Квирос Квиран Квисар Квихо Кварран Кворелло Квохо:500
+			Йонихо Йонос Иллорос Ярридос Яран Яаро Якео Йохо:300
+			Сталлакво Сталлорно Сиродос:300 Сиран:300 Сталлен Сирно:300 Сирихо:300 Сирар:300 Саллелло Саллорос Саллос Сталлонно Сохо:500
+			Трегакво Трегирос Трегонос Торенор Торонно Торонар Торио Тородос Тиссано Тирос Тихан Торен Трегис Тихирос Тихорос Трего Трегилло
+			Виренхор Варгорно Варифос Виронос Варгано Вогис Виронно Виран Варгио Вирессо Вого Варео Варан Вирано Варгелло Вохо:500
+			Зонарио Зарис Зорафо Золло Золлио Зоро Заарио Зонио Зорафос Зарафо Заракво Зоронно Зирио Зелекор Заргано Зохо:500
 
-			Pupolo Danilo Araldo Demetio Adelgardo Rufo Daavino Nereo Balderico Genesio
+			Пуполо Данило Аралдо Деметио Аделгардо Руфо Даавино Нерео Балдерико Генезио
 		}
 		female_names = {
 			#CANON
-			Alia:500 Arrella:500 Betharios:500 Brea:500 Bellegere:500 Bellonara:500
-			Essella:500 Lynarios:500 Hermea Talea:500 Assadora:500
-			Umma Yna Serala:500 Taena Ushanora:500 Valessa:500 Wendeyne:500
+			Алия:500 Аррелла:500 Бетариос:500 Брея:500 Беллегера:500 Беллонара:500
+			Эззелла:500 Линариос:500 Гермея Талея:500 Ассадора:500
+			Умма Уна Серала:500 Тейна Ашенора:500 Валесса:500 Вендейна:500
 
 
-			Taenanea Salasha Wynella Nilolla Henona Dorelna Sirila Firanyna Waeraena Maena Nesysha Nilerah Nesola Sereah Saela Ahrysha Wenina Henysa
-			Minysha Oranea Tirelna Minala Vorysa Wyneah Laenylea Laenanah Neseah Voraria Vaerana Meshola Sireyana Firanira Daenerah Pheneyana
-			Sireyana Dorella Tiresa Daenysa Rylea Bellona Dilona Siria Syria Thorena Conosa Callosa Calena Donaria Donelia Darria Essela Ezzana Horia
-			Hororia Harlania Eysania Irria Inna Emphyria Illenia Innaria Innysa Illosa Illarah Jaqena Joraphia Jaqira Jyssana Jorylla Jaqeah Jorea Noreah Loreah Soreah
-			Gylla Gyella Lysirah Lazana Lysani Lysarah Nakani Nakornah Nakodi Norelli Nyessa Naki Maryllah Malerah Maloni Malani Pylani Pazani Parrah
-			Qira Qirani Qysarah Qarrana Yonica Yonah Yaqea Yarah Syrani Syrana Thora Tora Varea Vyrana Rohani Rohana Palea Prea Salea Saea
+			Тейнанея Салаша Винелла Нилолла Хенона Дорелна Сирила Фиранайна Вейрейна Мейна Несиша Нилера Несола Серея Сейла Ахриша Венина Хениса
+			Миниша Оранея Тирелна Минала Вориса Винея Лейнилея Лейнана Несея Ворария Вейрана Мешола Серейана Фиранира Дейнера Фенейана
+			Сирейана Дорелла Тиреса Дейниса Рилея Беллона Дилона Сирия Сайрия Торена Коноса Каллоса Калена Донария Донелия Даррия Эссела Эззана Хория
+			Хорория Харлания Эйсания Иррия Инна Эмфирия Илления Иннария Инниса Иллоса Иллара Якена Джорафия Якира Джиссана Джорилла Джакея Джорея Норея Лорея Сорея
+			Гилла Гайэлла Лисира Лазана Лисани Лисара Накани Накорна Накоди Норелли Ниэсса Наки Марилла Малера Малони Малани Пилани Пазани Парра
+			Квира Квирани Квисара Кваррана Йоника Йона Якея Яра Сирани Сирана Тора Варея Вирана Рохани Рохана Палея Прея Салея Сейя
 
-			Dileah Elaera Onalella Norianna Minanea Inerylla Aleah Tirora Firanissa Phireah Serera Sirona Triannya Taeynea Daenyea Arreyana
-			Nesianna Helanea Ahrysa Phirona Philona Faeyella Laresha Velle Nesynea Melyna Ferysa Vellena Harreyana Irylla Faeyolana Eyolana Vaerosha
-			Daenala Trianira Neseyana Henolana Lessynea Helyea Meshaleah Phenoreah Henaleah Tiryna Henerah Ahrianna Wenyla Milaya Meshaena Penyla
-			Ilola Firaneah Nesoreah Ferylea Mineya Phenolana Leresa Nilyna Phenaria Wynesa Phirella Sera Wenela Doresa Doreza Nolona Onalona Onalya
-			Elynea Arraya Harraya Sirysha Ranira Vellya Laensa Dorianna Vellona Dora Elaya Naena Maena Onalyna Seraena Nesora Feria Nesissa Saelysha
-			Vaena Haena Qaena Yaena Gaena Caena Zaena Aena Saena Raena Philario Pysaria Nysaria Nesa Melolla Firanya Firania Firanela Arenela Alea
-			Bysaria Tysaria Lysaria Dysaria Laenesa Lanesa Enesa Ahraena Faeyila Nilora Melina Nilina Tirysha Melala Sireya Tirola Zarya Zoronna Zargana
-			Serylla Taenolana Laenysha Serylla Sirana Siranah Ilona Siraya Melylla Voreya Vorylea Minelna Daenirah Triannolla Saella Mellianna Morylea Moreya
-			Wyna Lessella Helissa Nesila Taenya Vorynea Lessera Hena Orala Serola
+			Дилея Элейра Оналелла Норианна Минанея Инерилла Алея Тирора Фиранисса Фирея Серера Сирона Трианния Тейайнея Дейнайея Арреяна
+			Несианна Хеланея Ахриса Фирона Филона Фейайелла Лареша Велла Несайнея Мелина Фериса Веллена Харрейана Ирилла Фейолана Эйолана Вейроша
+			Дейнала Трианира Несейана Хенолана Лессинея Хелиэя Мешалея Фенорея Хеналея Тирина Хенера Ахрианна Венила Милайя Мешейна Пенила
+			Илола Фиранея Несорея Ферилея Минейя Фенолана Лереса Нилина Фенария Винеса Фирелла Сера Венела Дореса Дореза Нолона Оналона Оналайя
+			Элинея Аррайя Харрайя Сириша Ранира Веллайя Лейнса Дорианна Веллона Дора Элайя Нейна Мейна Оналина Серейна Несора Ферия Несисса Сейлиша
+			Вейна Хейна Квейна Йейна Гейна Кейна Зейна Эйна Сейна Рейна Филарио Писария Нисария Неса Мелолла Фиранайя Фирания Фиранела Аренела Алея
+			Бисария Тисария Лисария Дисария Лейнеса Ланеса Энеса Ахрейна Фейайила Нилора Мелина Нилина Тириша Мелала Сирейя Тирола Зарайя Зоронна Заргана
+			Серилла Тейнолана Лейниша Серайлла Сирана Илона Сирайя Милилла Ворейя Ворилея Минелна Дейнира Трианнолла Сейлла Меллианна Морилея Морейя
+			Уайна Лесселла Хелисса Несила Тейнайя Воринея Лессера Хена Орала Серола
 
-			Ilia Nilde Venusta Licya Zaarina Lucrezzia
+			Илия Нильда Венуста Лисайя Заарина Лукрецция
 
 			#NON CANON
-			Cossoma Denia
-			Ferrega Ezzere
-			Gylenios Gylora
-			Izembara
-			Jaqea
-			Lothea Lucerre
-			Meralyia Mera Moredea Myrmellios
-			Nohia Narba Orbela Orios
-			Pynta Qarria
-			Rogga
-			Syrea
-			Tycha Tagganaria Terrios Ternesia Torma
-			Yorka
+			Коссома Дения
+			Феррега Эззера
+			Гилениос Гилора
+			Изембара
+			Якея
+			Лотея Люсерра
+			Мералия Мера Моредея Мирмеллиос
+			Нохия Нарба Орбела Ориос
+			Пинта Кваррия
+			Рогга
+			Сирея
+			Тиха Тагганария Терриос Тернесия Торма
+			Йорка
 		}
 		from_dynasty_prefix = "из "
 
@@ -472,92 +461,92 @@ free_cities = {
 
  		male_names = {
 			#CANON
-			Allaquo:500 Anterro:500 Beqqo:500 Brusco:500 Bessaro:1000 Bobono:500
-			Cossomo:500 Denyo:1500 Dellono:500 Despero:500 Donalo:500
-			Elanzo:500 Essario:500 Ezzelyno:500 Falyrio:500 Ferrego:500 Ferro:500 Florio:500
-			Gesso:500 Gyleno:1000 Gyloro:1000 Galeo:1000
-			Idario:500 Izembaro:500
-			Jaqen:500 Jorio:500 Kasporio:500
-			Lotharo:500 Lotho:500 Luco:500
-			Marro:500 Merio:500 Mero:500 Moredo:500 Morio:500 Moroggo:500 Myrio:500 Myrmello:1000
-			Noho:1500 Nabbo:500 Narbo:1000 Niklos:500 Orbelo:500 Oro:500
-			Pynto:500 Qarro:500 Phario:500
-			Rallo:500 Roggo:500
-			Sellagoro:500 Syrano:500 Syrio:500
-			Terrio:500 Tomarro:500 Treblo:500 Trellio:500 Trello:500 Tycho:1500 Tagganaro:1000 Terro:500 Ternesio:500 Torlo:500
-			Tormo:1000 Terrio:1000
-			Uthero:500
-			Varro:500
-			Yorko:500
+			Аллакво:500 Антерро:500 Бегго:500 Бруско:500 Бессаро:1000 Бобоно:500
+			Коссомо:500 Денио:1500 Деллоно:500 Десперо:500 Донало:500
+			Эланзо:500 Эссарио:500 Эззелино:500 Фалирио:500 Феррего:500 Ферро:500 Флорио:500
+			Гессо:500 Гилено:1000 Гилоро:1000 Галео:1000
+			Идарио:500 Изембаро:500
+			Якен:500 Йорио:500 Каспорио:500
+			Лотаро:500 Лото:500 Луко:500
+			Марро:500 Мерио:500 Меро:500 Моредо:500 Морио:500 Морогго:500 Мирио:500 Мирмелло:1000
+			Нохо:1500 Наббо:500 Нарбо:1000 Никлос:500 Орбело:500 Оро:500
+			Пинто:500 Кварро:500 Фарио:500
+			Ралло:500 Рогго:500
+			Селлагоро:500 Сирано:500 Сирио:500
+			Террио:500 Томарро:500 Требло:500 Треллио:500 Трелло:500 Тихо:1500 Тагганаро:1000 Терро:500 Тернесио:500 Торло:500
+			Тормо:1000 Террио:1000
+			Утеро:500
+			Варро:500
+			Йорко:500
 
 			#OTHER CITYS
-			Areo Ordello Illyrio Groleo Mellario Ollo Daario Collio Moreo Roro Kasporio Tybero Mollono Pytho Oppo Alios Methyso Jaqq
+			Арео Орделло Иллирио Гролео Мелларио Олло Даарио Коллио Морео Роро Каспорио Тиберо Моллоно Пито Оппо Алиос Метисо Якк
 
 
-			Adarano:300 Adaros:300 Aeriphos:300 Aeradhor:300 Arillos:300 Aeryio:300 Aeran:300 Aro:300 Arar:300 Adayrs:300 Aerio:300 Aronos:300 Adaren
-			Bracharo:300 Ballio:300 Ballen:300 Brachyllo:300 Belodos:300 Beleqor:300 Belidos:300 Belyrio:300 Beloquo:300 Belano:300 Belys:300 Ballos:300 Belonos:300
-			Byllos Byrios Bydos Bylan Byrano Byresso Boho:500
-			Copho Conicho Conos Callos Cossoquo Coho:500
-			Donicho Daarillos Daaro Donelos Donano Draqan Draqoros Draqorro Dynerro Dynaario Doho:500
-			Essel Ezzan Ezzario:300 Essalos Essorio Esodos Ezzlyso Ezzaloro Ezzo
-			Harlano	Harlyrio Hasaro Haronno Horio Horyros Harlelo Harlan Haros Harlaro
-			Innyllo Irrio Inno Illen Illario Illio Innario Illoquo Innys Illaro Illos Illoros Illadhor Illonar Irricho
-			Jaqenhor Jaeresso Joraquo Joror Jorapho Jaqiros Jaereo Jaezar Jyssan Joryllo Jaqaro Jaqeo Joreo Jorys Jaqario Joho:500
-			Gyllar Garraro Goranys Garryros Gyllonos Garrenhor Gyellso Gyllo Garro Gyllen Garridos Goho:500
-			Lysiros Lazan Larazys Lazyllo Lysodos Lysan Larazar Lysenno Lysar Laziros Larazonar Lothorio:300 Loho:500
-			Noroquo Nakano Nyessapho Nakorno Nakaquo Nakodos Noro Norello Nyessan Nakeo Nakaro Noropho Narapho Nyesonnar
-			Marohr Nakys Maryllo Maren Maraphos Moro Mallaquo Marano Malan Malonar Malero Melio Maryllo Moho:500
-			Parro Pyllo Parridos Paranys Pazan Pyrios Pylan Pydos Pallos Paryos Padaros Poho:500
-			Ryllo Raezar Rapho Releqor Relidos Relyrio Relapho Relys Rallos Ryos Rano Rono Roho:500
-			Qiros Qiran Qysar Qycho Qarran Qorello Qoho:500
-			Yonicho Yonos Ylloros Yarridos Yaran Yaaro Yaqeo Yoho:300
-			Stallaquo Stallorno Syrodos:300 Syran:300 Stallen Syrno:300 Syricho:300 Syrar:300 Sallello Salloros Sallos Stallonno Soho:500
-			Tregaquo Tregyros Tregonos Thorenhor Thoronno Thoronar Thorio Torodos Tyssano Tyros Tychan Thoren Tregys Tychyros Tychoros Trego Tregyllo
-			Vyrenhor Vargorno Variphos Vyronos Vargano Vogys Vyronno Vyran Vargio Vyresso Vogo Vareo Varan Vyrano Vargello Voho:500
-			Zonario Zarys Zorapho Zollo Zollio Zoro Zaario Zonio Zoraphos Zarapho Zaraquo Zoronno Zyrio Zeleqor Zargano Zoho:500
+			Адарано:300 Адарос:300 Эйрифос:300 Эйрадор:300 Ариллос:300 Эйрайио:300 Эйран:300 Аро:300 Арар:300 Адайрс:300 Эйрио:300 Аронос:300 Адарен
+			Брачаро:300 Баллио:300 Баллен:300 Брачилло:300 Белодос:300 Белекор:300 Белидос:300 Белирио:300 Белокво:300 Белано:300 Белис:300 Баллос:300 Белонос:300
+			Биллос Бириос Бидос Байлан Бирано Бирессо Бохо:500
+			Кофо Коничо Конос Каллос Коссокво Кохо:500
+			Доничо Даариллос Дааро Донелос Донано Дракан Дракорро Динерро Динаарио Дохо:500
+			Эссел Эззан Эззарио:300 Эссалос Эссорио Эсодос Эззлисо Эззалоро Эззо
+			Харлано	Харлирио Хасаро Харонно Хорио Хорирос Харлено Харлан Харос Харларо
+			Иннилло Иррио Инно Иллен Илларио Иллио Иннарио Иллокво Иннис Илларо Иллос Иллорос Илладор Иллонаро Ирричо
+			Якенор Джейрессо Йоракво Йорор Йорафо Якирос Яйрео Яйзар Йиссан Йорилло Якаро Джакео Йорео Йорис Якарио Йохо:500
+			Гиллар Гарраро Горанис Гаррирос Гиллонос Гарренор Гайэллсо Гилло Гарро Гиллен Гарридос Гохо:500
+			Лисирос Лазан Ларазис Лазилло Лисодос Лисан Ларазар Лисенно Лисар Лазирос Ларазонар Лоторио:300 Лохо:500
+			Норокво Накано Ниэссафо Накорно Накакво Накодос Норо Норелло Ниэссан Накео Накаро Норофо Нарафо Ниэссонар
+			Марор Макис Марилло Марен Марафос Моро Маллакво Марано Малан Малонар Малеро Мелио Марилло Мохо:500
+			Парро Пилло Парридос Паранис Пазан Пириос Пилан Пидос Паллос Париос Падарос Похо:500
+			Рилло Рейзар Рафо Релекор Релидос Релирио Релафо Релис Раллос Риос Рано Роно Рохо:500
+			Квирос Квиран Квисар Квихо Кварран Кворелло Квохо:500
+			Йонихо Йонос Иллорос Ярридос Яран Яаро Якео Йохо:300
+			Сталлакво Сталлорно Сиродос:300 Сиран:300 Сталлен Сирно:300 Сирихо:300 Сирар:300 Саллелло Саллорос Саллос Сталлонно Сохо:500
+			Трегакво Трегирос Трегонос Торенор Торонно Торонар Торио Тородос Тиссано Тирос Тихан Торен Трегис Тихирос Тихорос Трего Трегилло
+			Виренхор Варгорно Варифос Виронос Варгано Вогис Виронно Виран Варгио Вирессо Вого Варео Варан Вирано Варгелло Вохо:500
+			Зонарио Зарис Зорафо Золло Золлио Зоро Заарио Зонио Зорафос Зарафо Заракво Зоронно Зирио Зелекор Заргано Зохо:500
 
-			Pupolo Danilo Araldo Demetio Adelgardo Rufo Daavino Nereo Balderico Genesio
+			Пуполо Данило Аралдо Деметио Аделгардо Руфо Даавино Нерео Балдерико Генезио
 		}
 		female_names = {
 			#CANON
-			Alia:500 Arrella:500 Betharios:500 Brea:500 Bellegere:500 Bellonara:500
-			Essella:500 Lynarios:500 Hermea Talea:500 Assadora:500
-			Umma Yna Serala:500 Taena Ushanora:500 Valessa:500 Wendeyne:500
+			Алия:500 Аррелла:500 Бетариос:500 Брея:500 Беллегера:500 Беллонара:500
+			Эззелла:500 Линариос:500 Гермея Талея:500 Ассадора:500
+			Умма Уна Серала:500 Тейна Ашенора:500 Валесса:500 Вендейна:500
 
 
-			Taenanea Salasha Wynella Nilolla Henona Dorelna Sirila Firanyna Waeraena Maena Nesysha Nilerah Nesola Sereah Saela Ahrysha Wenina Henysa
-			Minysha Oranea Tirelna Minala Vorysa Wyneah Laenylea Laenanah Neseah Voraria Vaerana Meshola Sireyana Firanira Daenerah Pheneyana
-			Sireyana Dorella Tiresa Daenysa Rylea Bellona Dilona Siria Syria Thorena Conosa Callosa Calena Donaria Donelia Darria Essela Ezzana Horia
-			Hororia Harlania Eysania Irria Inna Emphyria Illenia Innaria Innysa Illosa Illarah Jaqena Joraphia Jaqira Jyssana Jorylla Jaqeah Jorea Noreah Loreah Soreah
-			Gylla Gyella Lysirah Lazana Lysani Lysarah Nakani Nakornah Nakodi Norelli Nyessa Naki Maryllah Malerah Maloni Malani Pylani Pazani Parrah
-			Qira Qirani Qysarah Qarrana Yonica Yonah Yaqea Yarah Syrani Syrana Thora Tora Varea Vyrana Rohani Rohana Palea Prea Salea Saea
+			Тейнанея Салаша Винелла Нилолла Хенона Дорелна Сирила Фиранайна Вейрейна Мейна Несиша Нилера Несола Серея Сейла Ахриша Венина Хениса
+			Миниша Оранея Тирелна Минала Вориса Винея Лейнилея Лейнана Несея Ворария Вейрана Мешола Серейана Фиранира Дейнера Фенейана
+			Сирейана Дорелла Тиреса Дейниса Рилея Беллона Дилона Сирия Сайрия Торена Коноса Каллоса Калена Донария Донелия Даррия Эссела Эззана Хория
+			Хорория Харлания Эйсания Иррия Инна Эмфирия Илления Иннария Инниса Иллоса Иллара Якена Джорафия Якира Джиссана Джорилла Джакея Джорея Норея Лорея Сорея
+			Гилла Гайэлла Лисира Лазана Лисани Лисара Накани Накорна Накоди Норелли Ниэсса Наки Марилла Малера Малони Малани Пилани Пазани Парра
+			Квира Квирани Квисара Кваррана Йоника Йона Якея Яра Сирани Сирана Тора Варея Вирана Рохани Рохана Палея Прея Салея Сейя
 
-			Dileah Elaera Onalella Norianna Minanea Inerylla Aleah Tirora Firanissa Phireah Serera Sirona Triannya Taeynea Daenyea Arreyana
-			Nesianna Helanea Ahrysa Phirona Philona Faeyella Laresha Velle Nesynea Melyna Ferysa Vellena Harreyana Irylla Faeyolana Eyolana Vaerosha
-			Daenala Trianira Neseyana Henolana Lessynea Helyea Meshaleah Phenoreah Henaleah Tiryna Henerah Ahrianna Wenyla Milaya Meshaena Penyla
-			Ilola Firaneah Nesoreah Ferylea Mineya Phenolana Leresa Nilyna Phenaria Wynesa Phirella Sera Wenela Doresa Doreza Nolona Onalona Onalya
-			Elynea Arraya Harraya Sirysha Ranira Vellya Laensa Dorianna Vellona Dora Elaya Naena Maena Onalyna Seraena Nesora Feria Nesissa Saelysha
-			Vaena Haena Qaena Yaena Gaena Caena Zaena Aena Saena Raena Philario Pysaria Nysaria Nesa Melolla Firanya Firania Firanela Arenela Alea
-			Bysaria Tysaria Lysaria Dysaria Laenesa Lanesa Enesa Ahraena Faeyila Nilora Melina Nilina Tirysha Melala Sireya Tirola Zarya Zoronna Zargana
-			Serylla Taenolana Laenysha Serylla Sirana Siranah Ilona Siraya Melylla Voreya Vorylea Minelna Daenirah Triannolla Saella Mellianna Morylea Moreya
-			Wyna Lessella Helissa Nesila Taenya Vorynea Lessera Hena Orala Serola
+			Дилея Элейра Оналелла Норианна Минанея Инерилла Алея Тирора Фиранисса Фирея Серера Сирона Трианния Тейайнея Дейнайея Арреяна
+			Несианна Хеланея Ахриса Фирона Филона Фейайелла Лареша Велла Несайнея Мелина Фериса Веллена Харрейана Ирилла Фейолана Эйолана Вейроша
+			Дейнала Трианира Несейана Хенолана Лессинея Хелиэя Мешалея Фенорея Хеналея Тирина Хенера Ахрианна Венила Милайя Мешейна Пенила
+			Илола Фиранея Несорея Ферилея Минейя Фенолана Лереса Нилина Фенария Винеса Фирелла Сера Венела Дореса Дореза Нолона Оналона Оналайя
+			Элинея Аррайя Харрайя Сириша Ранира Веллайя Лейнса Дорианна Веллона Дора Элайя Нейна Мейна Оналина Серейна Несора Ферия Несисса Сейлиша
+			Вейна Хейна Квейна Йейна Гейна Кейна Зейна Эйна Сейна Рейна Филарио Писария Нисария Неса Мелолла Фиранайя Фирания Фиранела Аренела Алея
+			Бисария Тисария Лисария Дисария Лейнеса Ланеса Энеса Ахрейна Фейайила Нилора Мелина Нилина Тириша Мелала Сирейя Тирола Зарайя Зоронна Заргана
+			Серилла Тейнолана Лейниша Серайлла Сирана Илона Сирайя Милилла Ворейя Ворилея Минелна Дейнира Трианнолла Сейлла Меллианна Морилея Морейя
+			Уайна Лесселла Хелисса Несила Тейнайя Воринея Лессера Хена Орала Серола
 
-			Ilia Nilde Venusta Licya Zaarina Lucrezzia
+			Илия Нильда Венуста Лисайя Заарина Лукрецция
 
 			#NON CANON
-			Cossoma Denia
-			Ferrega Ezzere
-			Gylenios Gylora
-			Izembara
-			Jaqea
-			Lothea Lucerre
-			Meralyia Mera Moredea Myrmellios
-			Nohia Narba Orbela Orios
-			Pynta Qarria
-			Rogga
-			Syrea
-			Tycha Tagganaria Terrios Ternesia Torma
-			Yorka
+			Коссома Дения
+			Феррега Эззера
+			Гилениос Гилора
+			Изембара
+			Якея
+			Лотея Люсерра
+			Мералия Мера Моредея Мирмеллиос
+			Нохия Нарба Орбела Ориос
+			Пинта Кваррия
+			Рогга
+			Сирея
+			Тиха Тагганария Терриос Тернесия Торма
+			Йорка
 		}
 		from_dynasty_prefix = "из "
 
@@ -1700,62 +1689,67 @@ free_cities = {
 		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 
 		male_names = {
-			#Non Canon
-			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
-			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
-			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
-			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
-			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
-			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
-			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
-			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
-			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
-			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
-			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
-			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
-			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
-			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
-			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
-			Qaro Qubhar
-			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
-			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
-			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
-			Udo Utherydes
-			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
-			Xhelimo Xhakan Xhonodo Xhal
-			Zachery	Zoronno Zaryio
+			Абрафо Адейему Аньим Аркамун
+			Бапато
+			Чакоро Чибундо
+			Делмабхар Дабаку Дошуру
+			Эскендер
+			Гвалахуру Гатубхар
+			Изингодо Изодо
+			Джарамого Джирадхар Джалахуру Джарадо
+			Кондэ Короксар Квасдо
+			Лузаксаро
+			Макхан Манахуру Мермесбхар
+			Ньядундо
+			Оренго Одингаксо Олуджондо Олухуру
+			Пунуксаро Паро
+			Кваро Кубхар
+			Ратемо Рудо
+			Санго Симбхар Сибоксоан
+			Тапухуру Тхабо
+			Удо
+			Кселимо Ксакан Ксонодо Ксал
+
+			Ксала Ксаладаар Ксарос Ксаллар Маррал Саллал Ксаллоба Сололхор Забахо Ксолхабба Забхар Зхалла Зхабар Бакул Бхаррал Золхаллар
+			Болхабхос Сарос Ксобха Залор Джаллоно Джарос Сантарро Мабхор Солор Ксалла Доррал Даллалхор Данадхар Зхобаба Толхар Зонтар Джонаба
+			Маро Мхондо Малабхар Тхондо Тхоан Талтхар Талабхар Квал Кваро Квондо Квалтхар Квалабхар Ксухру Джохуру Тухуру Бухуру Кухуру Нухуру
+			Лухуру Ларо Лхондо Лхоан Лалтхар Лабхар Мабалла Лонаба Лонтар Садхаро Радхаро Солхонар Ксолхонар Молхонор Талхонар Зонар Танал Танаба Толор
+			Торалхал Толло Банара Марас Бобхас Тадхонтор Далхобос Ксокулхор Золтаррор Ксобас Дадхор Ксабо Салор Ксадха Боллолхол Задхоллар Бхаррала Таллакол
+			Таррас Болос Толар Мабар Джорос Солтокво Зхала Джалло Дабас Аллос Алтаро Мараллар Балларос Ксоквар Сорронар Моррос Зантас Зхорарал Джадхаррор
+			Зханар Джаллол Залар Ксалар Бхалонтар Мадхакар Салтбор Сантонар Зарралха Бхоралтар Ксононар Манос Талла Салхонтал Даноквас Дхобол Данаба Дхалла
+			Тхондо Далтхар Донаба Далаксаар Дхаллар Долзхаллар Далаюхар Долхонара Джобхал Собхар Толхор Торра Ксаладхор Джабар Джанаба Далабхар Салабхар Калабхар Налабхар
+			Ялабхар Балабхар Талабхар Ралабхар Алабхар Калабхар Мококко Джококко Дококко Сококко Тококко Кококко
+
+			Адедомола Афолаби Адебимпе Ануловапоси Оланреваджу Омоболанла Абиодун Энитан Олуватоин Бабатунда Оладела Бабаджида Адеранке Олуварентими Адейеми Экундайо Тениайо
 		}
 		female_names = {
-			#Canon
-			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+			Алаяйя:700 Катая:700 Коиджа:700 Ксанда:500 Чатана:500
 
 			#Non Canon
-			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
-			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
-			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
-			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
-			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
-			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
-			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
-			Haenei Harraya Helanea Henerah Helissei
-			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
-			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
-			Kobijja Koraxha Kwasya Kelarra Kyra
-			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
-			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
-			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
-			Onyaya Oluhura Olyssa Onora Osmera Olivia
-			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
-			Qaena Quanda Quhura Qubya
-			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
-			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
-			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
-			Ujja Uda Ursula
-			Vaenei Violet Victoria_Victaria Valiete Vellya
-			Wenyla Wenela Wynei
-			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
-			Yaena Yetsa Yetunde
-			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Танта Часа Ксола Нола Ксолла Ксонорра Ксотана Рараза Задхата Толорра Сала Толла Ксара Садха Ксарра Маррара Тотара Рарраса Рарадха Роллаза Рана
+			Нолта Ксола Джоза Ксатала Ларана Лодхара Залонта Соджа Ксоджа Тоджа Роджа Фоджа Кводжа Мхатана Рхатана Схатана Пхатана Лхатана Дхатана Бхатана Квхатана
+			Гванда Манда Банда Санда Ланда Бхатайя Ихатайя Лхатайя Дхатайя Джхтайя Схатайя Кхатайя Ксхатайя Гхатайя Зхатайя Татайя Таяйя Лхаяйя Дхалайя Кхалайя
+			Чалаяйя Палайя Малайяйя Фатайя Натана Ксаталла Зхадхата Зхонда
 		}
 
 		from_dynasty_prefix = "из "
@@ -1784,106 +1778,85 @@ free_cities = {
 
 		male_names = {
 			#CANON
-			Allaquo:500 Anterro:500 Beqqo:500 Brusco:500 Bessaro:1000 Bobono:500
-			Cossomo:500 Denyo:1500 Dellono:500 Despero:500 Donalo:500
-			Elanzo:500 Essario:500 Ezzelyno:500 Falyrio:500 Ferrego:500 Ferro:500
-			Florio:500
-			Gesso:500 Gyleno:1000 Gyloro:1000 Galeo:1000
-			Idario:500 Izembaro:500
-			Jaqen:500 Jorio:500 Kasporio:500
-			Lotharo:500 Lotho:500 Luco:500
-			Marro:500 Merio:500 Mero:500 Moredo:500 Morio:500 Moroggo:500 Myrio:500
-			Myrmello:1000
-			Noho:1500 Nabbo:500 Narbo:1000 Niklos:500 Orbelo:500 Oro:500
-			Pynto:500 Qarro:500 Phario:500
-			Rallo:500 Roggo:500
-			Sellagoro:500 Syrano:500 Syrio:500
-			Terrio:500 Tomarro:500 Treblo:500 Trellio:500 Trello:500 Tycho:1500
-			Tagganaro:1000 Terro:500 Ternesio:500 Torlo:500
-			Tormo:1000 Terrio:1000
-			Uthero:500
-			Varro:500
-			Yorko:500
+			Аллакво Бегго Бруско
+			Коссомо Денио
+			Эззелино Феррего
+			Гилено Гилоро
+			Изембаро
+			Якен Джосс
+			Лото Луко
+			Мералин Меро Моредо Мирмелло
+			Нохо Нарбо Орбело Оро
+			Пинто Кварро
+			Рогго
+			Сирио Салассор
+			Тихо Тагганаро Терро Тернесио Тормо
+			Йорко
+			Арео Байан Олло Даарио Коллио Морео Роро Трегар Орделло Иллирио Гролео Каспорио Тиберо Моллоно Пито Алиос Метисо
 
 			#Non Canon
-			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders
-			Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel Ajiran Asaaf
-			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano
-			Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus
-			Bryaen Bryar Brynden Bywin Bashiar
-			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos
-			Cassan Caezar Callos Cadaro Chakharro
-			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel
-			Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio Daramon
-			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan Ezuron
-			Fahryon
-			Galumo Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden
-			Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
-			Hanzoro Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle
-			Harlano Harlyrio Hasaro Haronno Horio Habaros
-			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho Ilynor
-			Jaramogo Jiradhar Jalahuru Jarado Jarakos Jasper Jon Jormar Jaymae
-			Jammos_Jamos
-			Jarid Jaeon Jeffro Janno Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo Jaonir
-			Kaelmar Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge Kanthor
-			Luzarno Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias
-			Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo Loryzar
-			Maleko Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon
-			Myles Malero Melio Maryllo Messio Mavarro Mern Netharo
-			Nzarion Nyadundo Nestor Niles Niklaes Noroquo Nakano Nyessapho Nakorno
-			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer
-			Oswell Owain Omalyar
-			Paxharo Paro Parmen Paxter Percys Phaero Pykewin Pyarro
-			Qaro Qorinyo Qalhar Qazero
-			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger
-			Ryllo Rhamaro Raezaro Rapho Releqor Relidos Rhaelor
-			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell Savoros
-			Tazarik Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan Tyzamo
-			Udo Utherydes Uzamyr
-			Vaesano Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem
-			Willis Willum Wyl Willard Wil Vezaerio
-			Xharudo Xhelimo Xhakan Xhonodo Xhal Xolyr
-			Zemoqar Zaekar Zoronno Zaryio Zhyros
+			Абрафо Адейему Аньим Аркамун
+			Бапато
+			Чакоро Чибундо
+			Делмабхар Дабаку Дошуру
+			Эскендер
+			Гвалахуру Гатубхар
+			Изингодо Изодо
+			Джарамого Джирадхар Джалахуру Джарадо
+			Кондэ Короксар Квасдо
+			Лузаксаро
+			Макхан Манахуру Мермесбхар
+			Ньядундо
+			Оренго Одингаксо Олуджондо Олухуру
+			Пунуксаро Паро
+			Кваро Кубхар
+			Ратемо Рудо
+			Санго Симбхар Сибоксоан
+			Тапухуру Тхабо
+			Удо
+			Кселимо Ксакан Ксонодо Ксал
+
+			Ксала Ксаладаар Ксарос Ксаллар Маррал Саллал Ксаллоба Сололхор Забахо Ксолхабба Забхар Зхалла Зхабар Бакул Бхаррал Золхаллар
+			Болхабхос Сарос Ксобха Залор Джаллоно Джарос Сантарро Мабхор Солор Ксалла Доррал Даллалхор Данадхар Зхобаба Толхар Зонтар Джонаба
+			Маро Мхондо Малабхар Тхондо Тхоан Талтхар Талабхар Квал Кваро Квондо Квалтхар Квалабхар Ксухру Джохуру Тухуру Бухуру Кухуру Нухуру
+			Лухуру Ларо Лхондо Лхоан Лалтхар Лабхар Мабалла Лонаба Лонтар Садхаро Радхаро Солхонар Ксолхонар Молхонор Талхонар Зонар Танал Танаба Толор
+			Торалхал Толло Банара Марас Бобхас Тадхонтор Далхобос Ксокулхор Золтаррор Ксобас Дадхор Ксабо Салор Ксадха Боллолхол Задхоллар Бхаррала Таллакол
+			Таррас Болос Толар Мабар Джорос Солтокво Зхала Джалло Дабас Аллос Алтаро Мараллар Балларос Ксоквар Сорронар Моррос Зантас Зхорарал Джадхаррор
+			Зханар Джаллол Залар Ксалар Бхалонтар Мадхакар Салтбор Сантонар Зарралха Бхоралтар Ксононар Манос Талла Салхонтал Даноквас Дхобол Данаба Дхалла
+			Тхондо Далтхар Донаба Далаксаар Дхаллар Долзхаллар Далаюхар Долхонара Джобхал Собхар Толхор Торра Ксаладхор Джабар Джанаба Далабхар Салабхар Калабхар Налабхар
+			Ялабхар Балабхар Талабхар Ралабхар Алабхар Калабхар Мококко Джококко Дококко Сококко Тококко Кококко
+
+			Адедомола Афолаби Адебимпе Ануловапоси Оланреваджу Омоболанла Абиодун Энитан Олуватоин Бабатунда Оладела Бабаджида Адеранке Олуварентими Адейеми Экундайо Тениайо
 		}
 		female_names = {
 			#Canon
-			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
-			Alia:500 Arrella:500 Betharios:500 Brea:500 Bellegere:750 Bellonara:750
-			Essella:500 Lynarios:500 Hermea Talea:500 Assadora:500
-			Umma Yna Serala:500 Taena Ushanora:500 Valessa:500 Wendeyne:500
+			Алаяйя:700 Катая:700 Коиджа:700 Ксанда:500 Чатана:500
 
 			#Non Canon
-			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise Ashira Ayina
-			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony Beshira Bahira
-			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse Chasira Ceyara
-			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana Dayena
-			Dalara Dellonara Dellegere
-			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara Eshaya Elira
-			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne Fenyara Fadila
-			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella Ghaenya Ganaar
-			Haenei Harraya Helanea Henerah Helissei Hanalya Hemira Hellonara Hellegere
-			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei Ilarya Izaar
-			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn Jovani
-			Jashara Jonara
-			Kobijja Koraxha Kwasya Kelarra Kyra Konyara Kaneya
-			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa Lethira
-			Linyara Lellonara
-			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena Maliyah
-			Marira Monet Milaya Meshaena Mineya Mhina Magara Mavira
-			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa Nyamiya Nisaa
-			Onyaya Oluhura Olyssa Onora Osmera Olivia Olara Omara
-			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla Pivora Peryna
-			Qaena Quanda Quhura Qubya Qaryssa Qalisa
-			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei Relyna Rinae
-			Shanika Simbaya Sohia Sabrine Senelle Shireen Shyra Sera Sirysha Shayana
-			Sharnah Silegere
-			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora Temira Thalira
-			Ujja Uda Ursula Ulinya Ulayla
-			Vaenei Violet Victoria_Victaria Valiete Vellya Vahira Vana
-			Wenyla Wenela Wynei Waryna Weshira
-			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani Xhyara Xelira
-			Yaena Yetsa Yetunde Yavira Yasma
-			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia Zhara Zala
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Танта Часа Ксола Нола Ксолла Ксонорра Ксотана Рараза Задхата Толорра Сала Толла Ксара Садха Ксарра Маррара Тотара Рарраса Рарадха Роллаза Рана
+			Нолта Ксола Джоза Ксатала Ларана Лодхара Залонта Соджа Ксоджа Тоджа Роджа Фоджа Кводжа Мхатана Рхатана Схатана Пхатана Лхатана Дхатана Бхатана Квхатана
+			Гванда Манда Банда Санда Ланда Бхатайя Ихатайя Лхатайя Дхатайя Джхтайя Схатайя Кхатайя Ксхатайя Гхатайя Зхатайя Татайя Таяйя Лхаяйя Дхалайя Кхалайя
+			Чалаяйя Палайя Малайяйя Фатайя Натана Ксаталла Зхадхата Зхонда
 		}
 
 		from_dynasty_prefix = "из "
@@ -1912,61 +1885,68 @@ free_cities = {
 
 		male_names = {
 			#Non Canon
-			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
-			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
-			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
-			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
-			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
-			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
-			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
-			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
-			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
-			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
-			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
-			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
-			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
-			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
-			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
-			Qaro Qubhar
-			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
-			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
-			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
-			Udo Utherydes
-			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
-			Xhelimo Xhakan Xhonodo Xhal
-			Zachery	Zoronno Zaryio
+			Абрафо Адейему Аньим Аркамун
+			Бапато
+			Чакоро Чибундо
+			Делмабхар Дабаку Дошуру
+			Эскендер
+			Гвалахуру Гатубхар
+			Изингодо Изодо
+			Джарамого Джирадхар Джалахуру Джарадо
+			Кондэ Короксар Квасдо
+			Лузаксаро
+			Макхан Манахуру Мермесбхар
+			Ньядундо
+			Оренго Одингаксо Олуджондо Олухуру
+			Пунуксаро Паро
+			Кваро Кубхар
+			Ратемо Рудо
+			Санго Симбхар Сибоксоан
+			Тапухуру Тхабо
+			Удо
+			Кселимо Ксакан Ксонодо Ксал
+
+			Ксала Ксаладаар Ксарос Ксаллар Маррал Саллал Ксаллоба Сололхор Забахо Ксолхабба Забхар Зхалла Зхабар Бакул Бхаррал Золхаллар
+			Болхабхос Сарос Ксобха Залор Джаллоно Джарос Сантарро Мабхор Солор Ксалла Доррал Даллалхор Данадхар Зхобаба Толхар Зонтар Джонаба
+			Маро Мхондо Малабхар Тхондо Тхоан Талтхар Талабхар Квал Кваро Квондо Квалтхар Квалабхар Ксухру Джохуру Тухуру Бухуру Кухуру Нухуру
+			Лухуру Ларо Лхондо Лхоан Лалтхар Лабхар Мабалла Лонаба Лонтар Садхаро Радхаро Солхонар Ксолхонар Молхонор Талхонар Зонар Танал Танаба Толор
+			Торалхал Толло Банара Марас Бобхас Тадхонтор Далхобос Ксокулхор Золтаррор Ксобас Дадхор Ксабо Салор Ксадха Боллолхол Задхоллар Бхаррала Таллакол
+			Таррас Болос Толар Мабар Джорос Солтокво Зхала Джалло Дабас Аллос Алтаро Мараллар Балларос Ксоквар Сорронар Моррос Зантас Зхорарал Джадхаррор
+			Зханар Джаллол Залар Ксалар Бхалонтар Мадхакар Салтбор Сантонар Зарралха Бхоралтар Ксононар Манос Талла Салхонтал Даноквас Дхобол Данаба Дхалла
+			Тхондо Далтхар Донаба Далаксаар Дхаллар Долзхаллар Далаюхар Долхонара Джобхал Собхар Толхор Торра Ксаладхор Джабар Джанаба Далабхар Салабхар Калабхар Налабхар
+			Ялабхар Балабхар Талабхар Ралабхар Алабхар Калабхар Мококко Джококко Дококко Сококко Тококко Кококко
+
+			Адедомола Афолаби Адебимпе Ануловапоси Оланреваджу Омоболанла Абиодун Энитан Олуватоин Бабатунда Оладела Бабаджида Адеранке Олуварентими Адейеми Экундайо Тениайо
 		}
 		female_names = {
 			#Canon
-			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+			Алаяйя:700 Катая:700 Коиджа:700 Ксанда:500 Чатана:500
 
 			#Non Canon
-			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
-			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
-			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
-			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
-			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
-			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
-			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
-			Haenei Harraya Helanea Henerah Helissei
-			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
-			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
-			Kobijja Koraxha Kwasya Kelarra Kyra
-			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
-			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
-			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
-			Onyaya Oluhura Olyssa Onora Osmera Olivia
-			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
-			Qaena Quanda Quhura Qubya
-			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
-			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
-			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
-			Ujja Uda Ursula
-			Vaenei Violet Victoria_Victaria Valiete Vellya
-			Wenyla Wenela Wynei
-			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
-			Yaena Yetsa Yetunde
-			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Танта Часа Ксола Нола Ксолла Ксонорра Ксотана Рараза Задхата Толорра Сала Толла Ксара Садха Ксарра Маррара Тотара Рарраса Рарадха Роллаза Рана
+			Нолта Ксола Джоза Ксатала Ларана Лодхара Залонта Соджа Ксоджа Тоджа Роджа Фоджа Кводжа Мхатана Рхатана Схатана Пхатана Лхатана Дхатана Бхатана Квхатана
+			Гванда Манда Банда Санда Ланда Бхатайя Ихатайя Лхатайя Дхатайя Джхтайя Схатайя Кхатайя Ксхатайя Гхатайя Зхатайя Татайя Таяйя Лхаяйя Дхалайя Кхалайя
+			Чалаяйя Палайя Малайяйя Фатайя Натана Ксаталла Зхадхата Зхонда
 		}
 
 		from_dynasty_prefix = "из "
@@ -1995,61 +1975,68 @@ free_cities = {
 
 		male_names = {
 			#Non Canon
-			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
-			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
-			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
-			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
-			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
-			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
-			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
-			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
-			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
-			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
-			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
-			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
-			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
-			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
-			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
-			Qaro Qubhar
-			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
-			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
-			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
-			Udo Utherydes
-			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
-			Xhelimo Xhakan Xhonodo Xhal
-			Zachery	Zoronno Zaryio
+			Абрафо Адейему Аньим Аркамун
+			Бапато
+			Чакоро Чибундо
+			Делмабхар Дабаку Дошуру
+			Эскендер
+			Гвалахуру Гатубхар
+			Изингодо Изодо
+			Джарамого Джирадхар Джалахуру Джарадо
+			Кондэ Короксар Квасдо
+			Лузаксаро
+			Макхан Манахуру Мермесбхар
+			Ньядундо
+			Оренго Одингаксо Олуджондо Олухуру
+			Пунуксаро Паро
+			Кваро Кубхар
+			Ратемо Рудо
+			Санго Симбхар Сибоксоан
+			Тапухуру Тхабо
+			Удо
+			Кселимо Ксакан Ксонодо Ксал
+
+			Ксала Ксаладаар Ксарос Ксаллар Маррал Саллал Ксаллоба Сололхор Забахо Ксолхабба Забхар Зхалла Зхабар Бакул Бхаррал Золхаллар
+			Болхабхос Сарос Ксобха Залор Джаллоно Джарос Сантарро Мабхор Солор Ксалла Доррал Даллалхор Данадхар Зхобаба Толхар Зонтар Джонаба
+			Маро Мхондо Малабхар Тхондо Тхоан Талтхар Талабхар Квал Кваро Квондо Квалтхар Квалабхар Ксухру Джохуру Тухуру Бухуру Кухуру Нухуру
+			Лухуру Ларо Лхондо Лхоан Лалтхар Лабхар Мабалла Лонаба Лонтар Садхаро Радхаро Солхонар Ксолхонар Молхонор Талхонар Зонар Танал Танаба Толор
+			Торалхал Толло Банара Марас Бобхас Тадхонтор Далхобос Ксокулхор Золтаррор Ксобас Дадхор Ксабо Салор Ксадха Боллолхол Задхоллар Бхаррала Таллакол
+			Таррас Болос Толар Мабар Джорос Солтокво Зхала Джалло Дабас Аллос Алтаро Мараллар Балларос Ксоквар Сорронар Моррос Зантас Зхорарал Джадхаррор
+			Зханар Джаллол Залар Ксалар Бхалонтар Мадхакар Салтбор Сантонар Зарралха Бхоралтар Ксононар Манос Талла Салхонтал Даноквас Дхобол Данаба Дхалла
+			Тхондо Далтхар Донаба Далаксаар Дхаллар Долзхаллар Далаюхар Долхонара Джобхал Собхар Толхор Торра Ксаладхор Джабар Джанаба Далабхар Салабхар Калабхар Налабхар
+			Ялабхар Балабхар Талабхар Ралабхар Алабхар Калабхар Мококко Джококко Дококко Сококко Тококко Кококко
+
+			Адедомола Афолаби Адебимпе Ануловапоси Оланреваджу Омоболанла Абиодун Энитан Олуватоин Бабатунда Оладела Бабаджида Адеранке Олуварентими Адейеми Экундайо Тениайо
 		}
 		female_names = {
 			#Canon
-			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+			Алаяйя:700 Катая:700 Коиджа:700 Ксанда:500 Чатана:500
 
 			#Non Canon
-			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
-			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
-			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
-			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
-			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
-			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
-			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
-			Haenei Harraya Helanea Henerah Helissei
-			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
-			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
-			Kobijja Koraxha Kwasya Kelarra Kyra
-			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
-			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
-			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
-			Onyaya Oluhura Olyssa Onora Osmera Olivia
-			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
-			Qaena Quanda Quhura Qubya
-			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
-			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
-			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
-			Ujja Uda Ursula
-			Vaenei Violet Victoria_Victaria Valiete Vellya
-			Wenyla Wenela Wynei
-			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
-			Yaena Yetsa Yetunde
-			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Танта Часа Ксола Нола Ксолла Ксонорра Ксотана Рараза Задхата Толорра Сала Толла Ксара Садха Ксарра Маррара Тотара Рарраса Рарадха Роллаза Рана
+			Нолта Ксола Джоза Ксатала Ларана Лодхара Залонта Соджа Ксоджа Тоджа Роджа Фоджа Кводжа Мхатана Рхатана Схатана Пхатана Лхатана Дхатана Бхатана Квхатана
+			Гванда Манда Банда Санда Ланда Бхатайя Ихатайя Лхатайя Дхатайя Джхтайя Схатайя Кхатайя Ксхатайя Гхатайя Зхатайя Татайя Таяйя Лхаяйя Дхалайя Кхалайя
+			Чалаяйя Палайя Малайяйя Фатайя Натана Ксаталла Зхадхата Зхонда
 		}
 
 		from_dynasty_prefix = "из "
@@ -2079,103 +2066,75 @@ free_cities = {
 		male_names = {
 
 			#Canon
-			Allaquo:500 Anterro:500 Beqqo:500 Brusco:500 Bessaro:1000 Bobono:500
-			Cossomo:500 Denyo:1500 Dellono:500 Despero:500 Donalo:500
-			Elanzo:500 Essario:500 Ezzelyno:500 Falyrio:500 Ferrego:500 Ferro:500
-			Florio:500
-			Gesso:500 Gyleno:1000 Gyloro:1000 Galeo:1000
-			Idario:500 Izembaro:500
-			Jaqen:500 Jorio:500 Kasporio:500
-			Lotharo:500 Lotho:500 Luco:500
-			Marro:500 Merio:500 Mero:500 Moredo:500 Morio:500 Moroggo:500 Myrio:500
-			Myrmello:1000
-			Noho:1500 Nabbo:500 Narbo:1000 Niklos:500 Orbelo:500 Oro:500
-			Pynto:500 Qarro:500 Phario:500
-			Rallo:500 Roggo:500
-			Sellagoro:500 Syrano:500 Syrio:500
-			Terrio:500 Tomarro:500 Treblo:500 Trellio:500 Trello:500 Tycho:1500
-			Tagganaro:1000 Terro:500 Ternesio:500 Torlo:500
-			Tormo:1000 Terrio:1000
-			Uthero:500
-			Varro:500
-			Yorko:500
+			Аллакво Бегго Бруско Алиос
+			Коссомо Денио
+			Эззелино Феррего
+			Гилено Гилоро
+			Изембаро
+			Якен Джосс
+			Лото Луко
+			Мералин Меро Моредо Мирмелло Метисо
+			Нохо Нарбо Орбело Оро
+			Пинто Кварро Пито
+			Рего Рогго
+			Саварио Салассор
+			Тихо Тагганаро Терро Тернесио Тормо
+			Йорко
+			Арео Баян Олло Даарио Коллио:500 Морео Роро Трегар Каспорио Тиберо Моллоно:500
 
-			#Non Canon
-			Abrazho Ademur Anyimos Arkamun Allaqar Aegano Aemyr Adaros Aranos Aeriphos
-			Andaros Anderys Andryth Arillon Aeryioris Arichor Aeranoth Arthorik Axelyr
-			Aeksion Aelric Aendahli Aranthur Aranth Arnth Arathena
-			Bapatos Benedikhar Bracharon Belessor Balyos Ballenar Braquello Beloshar
-			Belodros Brachalos Belyrion Belaphor Beloqhor Belano Balloshar Belonor
-			Bryakhos Bryanhor Bryarnos Bywynno
-			Chakoros Chibundar Casparon Cedrythos Cerionor Clarentos Cleothas Cophorik
-			Conichor Cassanos Caezaros Calloros Cadarion Caile
-			Delmabhor Dukoros Doshuron Daemonnor Darnaric Dennaros Dermett Desmondyr
-			Denyskar Donellos Dunstanos Donelhor Draqanor Dynerros Daezvala Daryon
-			Eskendor Edrykkar Elythio Ezzri Esyanor Erzyssy Embaerik Edrys Eryx
-			Gwali Gallaron Garinos Glyph Gyllorik Garriyon Galorion
-			Harlanos Harlyrion Hasanor Horasen Hontes Hugor Hugar Hugaer Heurgon
-			Haerkoon
-			Isinokhar Irrichor Illanor
-			Jaramoros Jirandhar Jalahoros Jaemaros Jorapho Jaqiron Jorys
-			Konxor Korikhar Kwasdar Korzion Kaelmar
-			Lazarykhos Larynor Lazyllon Lorynys Larth Larath Larthuza
-			Makharyos Manabhor Mermeskar Maleryth Messioris Maelor
-			Nestorik Nyessaror Numesie
-			Odygaron Ormorys Ossykar Orrynar
-			Pykharos
-			Qarlon Qaromor Qubharos Qarlios Qarlonar Qaerlon
-			Raezaron Ryllokhor Ruklon Rhaemond Rasce
-			Sandorys Simbharyon Seryth
-			Thabhoros Theoryn Taryon Thucer
-			Uthorion
-			Vezos Vaelric Velthur
-			Wylmeros Wylarr
-			Xharykhos
-			Zarykhor Zaldri Zerion
+			Адарос Арано Эйрифос Эйрадор Арилло Эйрайио Арихо Эйрано Аро Араро Адарис Эйрио Аронос Адарено Айрио:300 Алло:300
+			Брачаро Белессо Баллио Баллено Брачилло Белодо Брачано Белекор Белидос Белирио Белафо Белокво Белано Белио Баллос Белонос
+			Билло Бириос Бидос Байлан Байсан Бисирос Бисано Бирано Бирессо Баллиро Бирио:300 Болло:300 Биллирио:300
+			Кофо Коничо Конос Кассан Кейзар Каллос Кадаро Кариос Коссокво Каллен Кирио:500 Кессио:500 Колло:300 Киллирио:300
+			Доничо Даарилло Дааро Даарело Донос Донело Донано Дракано Донио Доналло Дракорос Динерро Дирио:300 Диллиоро:300
+			Эссело Эззано Эззарио Эссано Эссало Эссорио Эйсан Эсирно Эсодо Эззлисо Эззалоро Эззо
+			Харлано	Харлирио Хасаро Харонно Хорио Хориро Харлело Харо Харларо Хирио:300 Хессио:300 Холло:300 Хиллирио:300
+			Иннилло:300 Иррио:300 Инно:300 Иллен Илларио:300 Иллио:300 Иннарио:300 Иллокво:300 Иннис Илларо:300 Иллос:300 Иллорос:300 Илладор Иллонаро Ирричо
+			Якенор Йоракво Йорор Йорафо Якирос Яйрео Яйзар Йилло Йиссан Йорилло Якаро Якео Йорео Йорис Якарио Йолло:300
+			Гилларо:300 Гарраро:300 Гарриро Гиллонос Гайэллсо Гилло Гарро:300 Гиллено:300 Гарридо Голло:300 Гиллирио:300
+			Лисирос Лазан Ларазис Лазилло Лисодос Лисано Ларазар Лисенно Лисар Лазирос Ларазо Лоторио:300 Лессио:200 Лирио:300 Лолло:300
+			Норокво Накано Ниэссафо Накорно Накакво Накодос Норо Норелло Ниэссано Накео Накаро Норафо Норафос Нарафо Ниэссонар Нирио:500
+			Марор Макис Марилло Марено Марео Марафос Моро Маллакво Марано Малано Малонаро Малеро Мелио Мессио:300 Молло:300
+			Парро Пилло Парридос Паранис Пазано Пириос Пилано Пидос Паллос Париос Падарос Полло:300
+			Рилло Рейзаро Рафо Релекор Релидос Релирио Релафо Релисо Раллос Риос Рано Роно Ролло:700
+			Квирос Квиран Квисар Квихо Кварран Кворелло Кволло:300
+			Йонихо Йоно Иллоро Ярридо Ярано Яаро Якео Ялло:200
+			Сталлакво Сталлорно Сиродос Сиран Сталлено Сирно Сирихо Саллелло Саллоро Салло Сталлоно Салло:300
+			Трегакво Трегирос Трегонос Торонно Торио Тородос Тиссано Тирос Тихан Торен Трегис Тихирос Тихорос Трего Трегилло Тессио:500 Толло:300
+			Виренхор Варгорно Варифос Виронос Варгано Вогис Виронно Вирано Варгио Вирессо Вого Варео Варано Вирано Варгелло Вирио:300 Волло:300
+			Зонарио Зорафо Золло Золлио Зоро Заарио Зонио Зорафос Зарафо Заракво Зоронно Зарайио Зелекор Заргано Зирио:300 Золло:300
+
+			Пуполо Данило Аралдо Деметио Аделгардо Руфо Даавино Нерео Балдерико Генезио
 		}
 		female_names = {
 			#Canon
-			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+			Алаяйя:700 Катая:700 Коиджа:700 Ксанда:500 Чатана:500
 
 			#Non Canon
-			Aleya Arzhana Abrahya Ahryza Aelinys Andrysha Amyra Amerya Alyze Annei
-			Aelissa	Alvisa Arathia Araziia
-			Bakarya Bemisa Bujibah Bapayra Beyony Barraqha Briennys Belandrys Brionah
-			Boscolo
-			Chakoya Chijja Kassana Corenya Cyrynnah Cerzha Cymoryl Cerysha Carraro
-			Dumisya Dubayra Doshyra Dariana Dolessa Damyra Darlessys Dornya Dehara Daenya
-			Emejjah Eglantina Elenys Elyna Ellyrah Emmaya Eionnah Elspetha Emmarya Elirya
-			Erice Egessa
-			Fulataya Fionyra Falynah Falyssa Floraya Falyra Freyah Fruellah Frynysa
-			Gebhuyra Gwaharah Gennora Gallisya Gretzhel Grisyel Gannah Gwynah Gellyra
-			Gevie Gelenka Gienati Grazia Graziella
-			Haenyra Harraya Helanyse Henerah Helissya Hura Hathli
-			Isobah Ilysa Ilyze Idyrah Idanah Ismyrah Iryana Ilolyah
-			Jalataya Jalahura Jaradyah Jannia Janyse Jannaqha Jeynah Joannyse Jocelynys
-			Jaenya
-			Kobijjah Korazha Kwasyra Kelyra Kyranah Kastia Kaelina
-			Laensah Lusalah Lujja Lanyra Lelyah Lucindah Lyenys Lynoryah Lysara Leresya
-			Laerys Laraniia Larcia Lartha Lithi Lilaeth Lin
-			Mansara Manyarah Makysha Manahura Maraya Marellyah Marisya Marsellys Menyra
-			Monetys Milayah Meshayna Mineyra Mhynah Miryenna
-			Nnekarah Nalyra Nellyah Nesorah Nesilya Nilyneya Nolonyse Nomusya Naqes
-			Naelora Nerinai Nissa
-			Onyaya Oluhura Olyssyah Onorya Osmerys Olyviah
- 			Pojjah Payra Patrysa Patryzia Phyronah Phylyna Pryah Penylyah Paara
-			Qaenya Quandorah Quhurah Qubyrah
-			Ranyrah Rheana Rohanyse Rylenyah Rylla Relynah Roseyah Rohanah Rohanyae
-			Rhaelyse Rossi Ramtha
-			Shanyka Simbayrah Sophya Sabryne Senellyah Shyryne Shyrah Seryah Sirysha
-			Saenella Sartori Seianthi Sarsinaia
-			Tatendah Talyaya Tynessya Tysharyah Theonya Tarissya Thiyrah Torynah Talyra
-			Thanusa Thania Tetia
-			Ujjah Udyrah Ursylah
-			Vaenya Violethyra Victoriah Valietya Vellyrah Vaelena Vianello Visentin Vesia
-			Vivinna Velia Vela Velthina Vesnaiya
-			Wenyla Wenelra Wyneyrah
-			Xaraya Xetsya Xhondah Xharysa Xajya Xataryah Xinavyra Xiomarrah Xolanysa
-			Yaenyra Yetsya Yetundya
-			Zaenara Zarynys Zaidara Zarysha Zoranyah Zarganysa Zenaidah Zenobiah Zorythia
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Танта Часа Ксола Нола Ксолла Ксонорра Ксотана Рараза Задхата Толорра Сала Толла Ксара Садха Ксарра Маррара Тотара Рарраса Рарадха Роллаза Рана
+			Нолта Ксола Джоза Ксатала Ларана Лодхара Залонта Соджа Ксоджа Тоджа Роджа Фоджа Кводжа Мхатана Рхатана Схатана Пхатана Лхатана Дхатана Бхатана Квхатана
+			Гванда Манда Банда Санда Ланда Бхатайя Ихатайя Лхатайя Дхатайя Джхтайя Схатайя Кхатайя Ксхатайя Гхатайя Зхатайя Татайя Таяйя Лхаяйя Дхалайя Кхалайя
+			Чалаяйя Палайя Малайяйя Фатайя Натана Ксаталла Зхадхата Зхонда
 		}
 
 		from_dynasty_prefix = "из "
@@ -2204,61 +2163,68 @@ free_cities = {
 
 		male_names = {
 			#Non Canon
-			Abrafo Adeyemu Anyim Arkamun Allaquo Aegon Aemon Adaros Arano Aeriphos Anders Andren Andrew Arillo Aeryio Aricho Aeranon Arthur Axel
-			Bapato Benedict Bracharo Belesso Ballio Balleno Brachyllo Belodo Brachano Beleqor Belidos Belyrio Belapho Beloquo Belano Belyo Ballos Belonos Brus Bryan Bryar Brynden Bywin
-			Chakoro Chibundo Caspor Cedric Cerion Clarent Cleos Copho Conicho Conos Cassan Caezar Callos Cadaro
-			Delmabhar Dubaku Doshuru Damon Darnold Dennard Dermett Desmond Denys Donnel Dunstan Donelo Donano Draqano Donio Donallo Draqoros Dynerro Dyrio
-			Eskender Edric Edwyn Ellard Elwood Elyas Essalo Essorio Eysan
-			Gwalahuru Gatubhar Galladon Gallard Garon Garse Gawen Gerald Gladden Glendon Gowen Grance Gulian Gunthor Guyard Gyles Garryro Gyllonos Gyellso
-			Harlan Harrold Harys Hobber Hobert Horas Hosman Hugh Humfrey Hyle Harlano Harlyrio Hasaro Haronno Horio
-			Isingodo Isodo Igon Imry Illadhor Illonaro Irricho
-			Jaramogo Jiradhar Jalahuru Jarado Jasper Jon Jormar Jaime Jammos_Jamos Jared Jason Jeffory John Jaqenhor Joraquo Joror Jorapho Jaqiros Jaereo
-			Konde Koroxhar Kwasdo Karyl Kirth Kennoth Kelis Kenric Kedge
-			Lusaxharo Larys Leslyn Lewys Lothar Lucamore Lucas Luceon Lucias Lucos Luthor Lyle Lyman Lymond Lyonel Lysiros Lazan Larazys Lazyllo
-			Makhan Manahuru Mermesbhar Manfryd Marq Martyn Maynard Melwyn Merlon Mern Myles Malero Melio Maryllo Messio
-			Nyadundo Nestor Niles Niklas Noroquo Nakano Nyessapho Nakorno
-			Orengo Odingaxho Olujondo Oluhuru Olyvar Ormory Orryn Osmund Osney Ossifer Oswell Owain
-			Punuxharo Paro Parmen Paxter Perwyn Portifer Pykewood
-			Qaro Qubhar
-			Ratemo Rudo Randyll Raymar Robar Robert Robin Rolland Rolley Ronnel Roger Ryllo Raezaro Rapho Releqor Relidos
-			Sango Simbhar Siboxhoan Sandor Steffon Stevron Symond Simons Samwell
-			Tapuhuru Thabo Theo Theomar Thoren_Toren Tion Tommard Tristan
-			Udo Utherydes
-			Walder Walton Waltyr Wendel Whalen Wilbert Willam Willamen Willem William Willis Willum Wyl Willard Will
-			Xhelimo Xhakan Xhonodo Xhal
-			Zachery	Zoronno Zaryio
+			Абрафо Адейему Аньим Аркамун
+			Бапато
+			Чакоро Чибундо
+			Делмабхар Дабаку Дошуру
+			Эскендер
+			Гвалахуру Гатубхар
+			Изингодо Изодо
+			Джарамого Джирадхар Джалахуру Джарадо
+			Кондэ Короксар Квасдо
+			Лузаксаро
+			Макхан Манахуру Мермесбхар
+			Ньядундо
+			Оренго Одингаксо Олуджондо Олухуру
+			Пунуксаро Паро
+			Кваро Кубхар
+			Ратемо Рудо
+			Санго Симбхар Сибоксоан
+			Тапухуру Тхабо
+			Удо
+			Кселимо Ксакан Ксонодо Ксал
+
+			Ксала Ксаладаар Ксарос Ксаллар Маррал Саллал Ксаллоба Сололхор Забахо Ксолхабба Забхар Зхалла Зхабар Бакул Бхаррал Золхаллар
+			Болхабхос Сарос Ксобха Залор Джаллоно Джарос Сантарро Мабхор Солор Ксалла Доррал Даллалхор Данадхар Зхобаба Толхар Зонтар Джонаба
+			Маро Мхондо Малабхар Тхондо Тхоан Талтхар Талабхар Квал Кваро Квондо Квалтхар Квалабхар Ксухру Джохуру Тухуру Бухуру Кухуру Нухуру
+			Лухуру Ларо Лхондо Лхоан Лалтхар Лабхар Мабалла Лонаба Лонтар Садхаро Радхаро Солхонар Ксолхонар Молхонор Талхонар Зонар Танал Танаба Толор
+			Торалхал Толло Банара Марас Бобхас Тадхонтор Далхобос Ксокулхор Золтаррор Ксобас Дадхор Ксабо Салор Ксадха Боллолхол Задхоллар Бхаррала Таллакол
+			Таррас Болос Толар Мабар Джорос Солтокво Зхала Джалло Дабас Аллос Алтаро Мараллар Балларос Ксоквар Сорронар Моррос Зантас Зхорарал Джадхаррор
+			Зханар Джаллол Залар Ксалар Бхалонтар Мадхакар Салтбор Сантонар Зарралха Бхоралтар Ксононар Манос Талла Салхонтал Даноквас Дхобол Данаба Дхалла
+			Тхондо Далтхар Донаба Далаксаар Дхаллар Долзхаллар Далаюхар Долхонара Джобхал Собхар Толхор Торра Ксаладхор Джабар Джанаба Далабхар Салабхар Калабхар Налабхар
+			Ялабхар Балабхар Талабхар Ралабхар Алабхар Калабхар Мококко Джококко Дококко Сококко Тококко Кококко
+
+			Адедомола Афолаби Адебимпе Ануловапоси Оланреваджу Омоболанла Абиодун Энитан Олуватоин Бабатунда Оладела Бабаджида Адеранке Олуварентими Адейеми Экундайо Тениайо
 		}
 		female_names = {
 			#Canon
-			Alayaya:700 Chataya:700 Kojja:700 Xanda:500 Chatana:500
+			Алаяйя:700 Катая:700 Коиджа:700 Ксанда:500 Чатана:500
 
 			#Non Canon
-			Aleah Arjana Abraya Ahrysa Aelinor Andrya Amyra Amera Alise
-			Bakari Bem Bujiba Bapaya Beony Barra Brienne Belandra Briony
-			Chakoya Chijja Cassana Corenna Cyrenna Cersei Cymoril Ceryse
-			Dumisa Dubaya Doshura Darianne Dolessa Damina Darlessa Dorna Deana
-			Emejja Eglantine Elene Elyn Ellyn Emma Eionne Elspeth Emmara
-			Fulataya Fiona Falena Falyse Flora Falia Freya Fruella Frynne
-			Gebhuya Gwahura Genna Gallisa Gretchel Grisel Ganna Gwyn Gella
-			Haenei Harraya Helanea Henerah Helissei
-			Isoba Ilyse_Ilysa Ilyse_Ilyse Idera Idana Ismyra Irya Ilolei
-			Jalataya Jalahura Jarada Jannia Janei Janna Jeyne Joanne Jocelyn
-			Kobijja Koraxha Kwasya Kelarra Kyra
-			Laensa Lusala Lujja Lanna Lelia Lucinda Lyene Lynora Lysa Leresa
-			Mansa Manyara Makya Manahura Mara Marelle Marissa Marsella Mena 			Monet Milaya Meshaena Mineya Mhina
-			Nneka Nala Nella Nesoreah Nesila Nilynei Nolona Nomusa
-			Onyaya Oluhura Olyssa Onora Osmera Olivia
-			Pojja Paya Patrice Patricia Phirona Philona Prea Penyla
-			Qaena Quanda Quhura Qubya
-			Ranira Rhea Rohanne Rylene Rylla Rylena Rosey Rohana Rohanei
-			Shanika Simbaya Sophia Sabrine Senelle Shireen Shyra Sera Sirysha
-			Tatenda Talyaya Tinessa Tyshara Theona Tarissa Thiera Tora
-			Ujja Uda Ursula
-			Vaenei Violet Victoria_Victaria Valiete Vellya
-			Wenyla Wenela Wynei
-			Xara Xetsa Xhonda Xha Xajja Xataya Xinavane Xiomara Xolani
-			Yaena Yetsa Yetunde
-			Zaena Zaarina Zaida Zarya Zoronei Zarganei Zenaida Zenobia
+			Арьяна Абрайя
+			Буджиба Бапая
+			Чакойя Чииджа
+			Думиса Дубайя Дошура
+			Эмеиджа
+			Фулатая
+			Гебхайя Гвахура
+			Изоба
+			Джалатайя Джалахура Джарада
+			Кобиджа Коракса Квасья
+			Лусала Луджа
+			Маньяра Макая Манахура
+			Оньяйя Олухура
+			Поджа Пайя
+			Куанда Квухура Квубия
+			Шаника Симбайя
+			Татенда Тальяйя
+			Уджа Уда
+			Ксара Ксонда Кса Ксаджа Ксатайя
+
+			Танта Часа Ксола Нола Ксолла Ксонорра Ксотана Рараза Задхата Толорра Сала Толла Ксара Садха Ксарра Маррара Тотара Рарраса Рарадха Роллаза Рана
+			Нолта Ксола Джоза Ксатала Ларана Лодхара Залонта Соджа Ксоджа Тоджа Роджа Фоджа Кводжа Мхатана Рхатана Схатана Пхатана Лхатана Дхатана Бхатана Квхатана
+			Гванда Манда Банда Санда Ланда Бхатайя Ихатайя Лхатайя Дхатайя Джхтайя Схатайя Кхатайя Ксхатайя Гхатайя Зхатайя Татайя Таяйя Лхаяйя Дхалайя Кхалайя
+			Чалаяйя Палайя Малайяйя Фатайя Натана Ксаталла Зхадхата Зхонда
 		}
 
 		from_dynasty_prefix = "из "
@@ -2289,86 +2255,87 @@ free_cities = {
 		}
 
 		male_names = {
-			Allaquo Beqqo Brusco
-			Cossomo Denyo
-			Ezzelyno Ferrego
-			Gyleno Gyloro
-			Izembaro
-			Jaqen:2000 Joss
-			Lotho Luco
-			Meralyn Mero Moredo Myrmello
-			Noho Narbo Orbelo Oro Ordello
-			Pynto Qarro
-			Roggo
-			Syrio
-			Tycho Tagganaro Terro Ternesio Tormo
-			Yorko
+			Аллакво Бегго Бруско Алиос
+			Коссомо Денио
+			Эззелино Феррего
+			Гилено Гилоро
+			Изембаро
+			Якен Джосс
+			Лото Луко
+			Мералин Меро Моредо Мирмелло Метисо
+			Нохо Нарбо Орбело Оро
+			Пинто Кварро Пито
+			Рего Рогго
+			Саварио Салассор
+			Тихо Тагганаро Терро Тернесио Тормо
+			Йорко
+			Арео Баян Олло Даарио Коллио:500 Морео Роро Трегар Каспорио Тиберо Моллоно:500
 
-			#OTHER CITYS
-			Byan Illyrio Groleo Tregar Mellario Ollo Daario Collio Moreo Roro Kaspario Tybero Mollono Pytho
+			Адарос Арано Эйрифос Эйрадор Арилло Эйрайио Арихо Эйрано Аро Араро Адарис Эйрио Аронос Адарено Айрио:300 Алло:300
+			Брачаро Белессо Баллио Баллено Брачилло Белодо Брачано Белекор Белидос Белирио Белафо Белокво Белано Белио Баллос Белонос
+			Билло Бириос Бидос Байлан Байсан Бисирос Бисано Бирано Бирессо Баллиро Бирио:300 Болло:300 Биллирио:300
+			Кофо Коничо Конос Кассан Кейзар Каллос Кадаро Кариос Коссокво Каллен Кирио:500 Кессио:500 Колло:300 Киллирио:300
+			Доничо Даарилло Дааро Даарело Донос Донело Донано Дракано Донио Доналло Дракорос Динерро Дирио:300 Диллиоро:300
+			Эссело Эззано Эззарио Эссано Эссало Эссорио Эйсан Эсирно Эсодо Эззлисо Эззалоро Эззо
+			Харлано	Харлирио Хасаро Харонно Хорио Хориро Харлело Харо Харларо Хирио:300 Хессио:300 Холло:300 Хиллирио:300
+			Иннилло:300 Иррио:300 Инно:300 Иллен Илларио:300 Иллио:300 Иннарио:300 Иллокво:300 Иннис Илларо:300 Иллос:300 Иллорос:300 Илладор Иллонаро Ирричо
+			Якенор Йоракво Йорор Йорафо Якирос Яйрео Яйзар Йилло Йиссан Йорилло Якаро Якео Йорео Йорис Якарио Йолло:300
+			Гилларо:300 Гарраро:300 Гарриро Гиллонос Гайэллсо Гилло Гарро:300 Гиллено:300 Гарридо Голло:300 Гиллирио:300
+			Лисирос Лазан Ларазис Лазилло Лисодос Лисано Ларазар Лисенно Лисар Лазирос Ларазо Лоторио:300 Лессио:200 Лирио:300 Лолло:300
+			Норокво Накано Ниэссафо Накорно Накакво Накодос Норо Норелло Ниэссано Накео Накаро Норафо Норафос Нарафо Ниэссонар Нирио:500
+			Марор Макис Марилло Марено Марео Марафос Моро Маллакво Марано Малано Малонаро Малеро Мелио Мессио:300 Молло:300
+			Парро Пилло Парридос Паранис Пазано Пириос Пилано Пидос Паллос Париос Падарос Полло:300
+			Рилло Рейзаро Рафо Релекор Релидос Релирио Релафо Релисо Раллос Риос Рано Роно Ролло:700
+			Квирос Квиран Квисар Квихо Кварран Кворелло Кволло:300
+			Йонихо Йоно Иллоро Ярридо Ярано Яаро Якео Ялло:200
+			Сталлакво Сталлорно Сиродос Сиран Сталлено Сирно Сирихо Саллелло Саллоро Салло Сталлоно Салло:300
+			Трегакво Трегирос Трегонос Торонно Торио Тородос Тиссано Тирос Тихан Торен Трегис Тихирос Тихорос Трего Трегилло Тессио:500 Толло:300
+			Виренхор Варгорно Варифос Виронос Варгано Вогис Виронно Вирано Варгио Вирессо Вого Варео Варано Вирано Варгелло Вирио:300 Волло:300
+			Зонарио Зорафо Золло Золлио Зоро Заарио Зонио Зорафос Зарафо Заракво Зоронно Зарайио Зелекор Заргано Зирио:300 Золло:300
 
-
-			Adarano Adaros Aran Aeriphos Aeradhor Arillos Aryrio Aryos Aeryio Aricho Aerano Aro Arar Adayrs Aerio Aronos Adaren
-			Bracharo Brachadhor Belesso Ballio Ballen Brachyllo Belodos Brachanos Beleqor Belidos Belyrio Belapho Beloquo Belano Belys Ballos Belonos Balliros
-			Copho Conicho Conos Cassan Caezar Callos Cadaros Caryos Cossoquo Callen
-			Donicho Daarillos Daaro Daarelos Donos Donelos Donano Draqan Donio Donar Daarius Draqoros Draqorro Dynerro Dynaario
-			Essel Ezzan Ezzario Essanos Essalos Essorio Eysan Esyrno Esodos Ezzlyso Ezzaloro Ezzo
-			Harlano	Harlyrio Hasaro Haronno Horio Horyros Harlelo Harlan Harlaro Haros Horos
-			Innyllo Irrio Inno Illen Illario Illio Innario Illoquo Innys Illaro Illos Illoros Illonar Irricho Illadhor
-			Jaqenhor Jaeresso Joraquo Joror Jorapho Jaqiros Jaereo Jaezar Jyllo Jyssan Joryllo Jaqaro Jaqeo Joreo Jorys
-			Gyllar Garraro Goranys Garryros Gyllonos Garrenhor Gyellso Gyllo Garro Gyllen Garridos
-			Lysiros Lazan Larazys Lazyllo Lysodos Lysan Larazar Lysenno Lysar Laziros Larazo Lothorio:300
-			Noroquo Nakano Nyessapho Nakorno Nakaquo Nakodos Noro Norello Nyessan Nakeo Nakaro Norapho Norophos Nyessonar
-			Marohr Nakys Maryllo Maren Maraphos Moro Mallaquo Marano Malan Malonar Malero Melio Maryllo
-			Parro Pyllo Parridos Paranys Pazan Pyrios Pylan Pydos Pallos Paryos Padaros
-			Ryllo Raezar Rapho Releqor Relidos Relyrio Relapho Relys Rallos Ryos Rano Rono
-			Qiros Qiran Qysar Qycho Qarran Qorello
-			Yonicho Yonos Ylloros Yarridos Yaran Yaaro Yaqeo
-			Stallaquo Stallorno Syrodos Syran Stallen Syrno Syricho Syrar Sallello Salloros Sallos Stallonno
-			Tregaquo Tregyros Tregonos Thorenhor Thoronno Thoronar Thorio Torodos Tyssano Tyros Tychan Thoren Tregys Tychyros Tychoros Trego Tregyllo
-			Vyrenhor Vargorno Variphos Vyronos Vargano Vogys Vyronno Vyran Vargio Vyresso Vogo Vareo Varan Vyrano Vargello
-
-			Pupolo Danilo Araldo Demetio Adelgardo Rufo Daavino Nereo Balderico Genesio
+			Пуполо Данило Аралдо Деметио Аделгардо Руфо Даавино Нерео Балдерико Генезио
 		}
 		female_names = {
 
 			#CANON - OTHER CITIES
-			Alia Betharios Brea Bellegere Bellonara
-			Lanna Talea
-			Umma Yna Ushanora
-			Cossoma Denia
-			Ferrega Ezzere
-			Gylenios Gylora
-			Izembara
-			Jaqea
-			Lothea Lucerre
-			Meralyia Mera Moredea Myrmellios
-			Nohia Narba Orbela Orios
-			Pynta Qarria
-			Rogga
-			Syrea "S'vrone"
-			Tycha Tagganaria Terrios Ternesia Torma
-			Yorka
+			Мелларио Дорея Серенея Серра
+			Алия Бетариос Брея Беллегера Беллонара
+			Мисария Ланна Талея
+			Умма Уна Серала Тейна Ашенора
 
+			Тейнанея Салаша Винелла Нилолла Хенона Дорелна Сирила Фиранайна Вейрейна Мейна Несиша Нилера Несола Серея Сейла Ахриша Венина Хениса
+			Миниша Оранея Тирелна Минала Вориса Винея Лейнилея Лейнана Несея Ворария Вейрана Мешола Серейана Фиранира Дейнера Фенейана
+			Серейана Дорелла Тиреса Дейниса Рилея Беллона Дилона Сирия Сайрия Торена Коноса Каллоса Калена Донария Донелия Даррия Эссела Эззана Хория
+			Хорория Харлания Эйсания Иррия Инна Илления Иннария Инниса Иллоса Иллара Якена Джорафия Якира Джиссана Джорилла Джакея Джорея Норея Лорея Сорея
+			Гилла Гайэлла Лисира Лазана Лисани Лисара Накани Накорна Накоди Норелли Ниэсса Наки Марилла Малера Малони Малани Пилани Пазани Парра
+			Квира Квирани Квисара Кваррана Кворелла Йоника Йона Якея Яра Сирани Сирана Тора Варея Вирана Рохани Рохана Палея Прея Салея Сейя
 
-			Taenanea Salasha Wynella Nilolla Henona Dorelna Sirila Firanyna Waeraena Maena Nesysha Nilerah Nesola Sereah Saela Ahrysha Wenina Henysa
-			Minysha Oranea Tirelna Minala Vorysa Wyneah Laenylea Laenanah Neseah Voraria Vaerana Meshola Sireyana Firanira Daenerah Pheneyana
-			Sireyana Dorella Tiresa Daenysa Rylea Bellona Dilona Siria Syria Thorena Conosa Callosa Calena Donaria Donelia Darria Essela Ezzana Horia
-			Hororia Harlania Eysania Irria Inna Illenia Innaria Innysa Illosa Illarah Jaqena Joraphia Jaqira Jyssana Jorylla Jaqeah Jorea Noreah Loreah Soreah
-			Gylla Gyella Lysirah Lazana Lysani Lysarah Nakani Nakornah Nakodi Norelli Nyessa Naki Maryllah Malerah Maloni Malani Pylani Pazani Parrah
-			Qira Qirani Qysarah Qarrana Qorella Yonica Yonah Yaqea Yarah Syrani Syrana Thora Tora Varea Vyrana Rohani Rohana Palea Prea Salea Saea
+			Дилея Элейра Оналелла Нерея Элора Норианна Минанея Инерилла Алея Тирора Фиранисса Фирея Серера Сирона Трианния Тейайнея Дейнайея Арреяна
+			Несианна Хеланея Ахриса Фирона Филона Фейайелла Лареша Велла Несайнея Мелина Фериса Веллена Харрейана Ирилла Фейолана Эйолана Вейроша
+			Дейнала Трианира Несейана Хенолана Лессинея Хелиэя Мешалея Фенорея Хеналея Тирина Хенера Ахрианна Венила Милайя Мешейна Пенила
+			Илола Фиранея Несорея Ферилея Минейя Фенолана Лереса Нилина Фенария Винеса Фирелла Сера Венела Дореса Дореза Нолона Оналона Оналайя
+			Элинея Аррайя Харрайя Сириша Ранира Веллайя Лейнса Дорианна Веллона Дора Элайя Нейна Мейна Оналина Серейна Несора Ферия Несисса Сейлиша
+			Вейна Хейна Квейна Йейна Гейна Кейна Зейна Эйна Сейна Рейна Филарио Писария Нисария Неса Мелолла Фиранайя Фирания Фиранела Аренела Алея
+			Бисария Тисария Лисария Дисария Лейнеса Ланеса Энеса Ахрейна Фейайила Нилора Мелина Нилина Тириша Мелала Сирейя Тирола Зарайя Зоронна Заргана
+			Серилла Тейнолана Лейниша Серайлла Сирана Илона Сирайя Милилла Ворейя Ворилея Минелна Дейнира Трианнолла Сейлла Меллианна Морилея Морейя
+			Уайна Лесселла Хелисса Несила Тейнайя Воринея Лессера Хена Орала Серола
 
-			Dileah Elaera Onalella Nereah Erola Norianna Minanea Inerylla Aleah Tirora Firanissa Phireah Serera Sirona Triannya Taeynea Daenyea Arreyana
-			Nesianna Helanea Ahrysa Phirona Philona Faeyella Laresha Velle Nesynea Melyna Ferysa Vellena Harreyana Irylla Faeyolana Eyolana Vaerosha
-			Daenala Trianira Neseyana Henolana Lessynea Helyea Meshaleah Phenoreah Henaleah Tiryna Henerah Ahrianna Wenyla Milaya Meshaena Penyla
-			Ilola Firaneah Nesoreah Ferylea Mineya Phenolana Leresa Nilyna Phenaria Wynesa Phirella Sera Wenela Doresa Doreza Nolona Onalona Onalya
-			Elynea Arraya Harraya Sirysha Ranira Vellya Laensa Dorianna Vellona Dora Elaya Naena Maena Onalyna Seraena Nesora Feria Nesissa Saelysha
-			Vaena Haena Qaena Yaena Gaena Caena Zaena Aena Saena Raena Philario Pysaria Nysaria Nesa Melolla Firanya Firania Firanela Arenela Alea
-			Bysaria Tysaria Lysaria Dysaria Laenesa Lanesa Enesa Ahraena Faeyila Nilora Melina Nilina Tirysha Melala Sireya Tirola Zarya Zoronna Zargana
-			Serylla Taenolana Laenysha Serylla Sirana Siranah Ilona Siraya Melylla Voreya Vorylea Minelna Daenirah Triannolla Saella Mellianna Morylea Moreya
-			Wyna Lessella Helissa Nesila Taenya Vorynea Lessera Hena Orala Serola
+			Илия Нильда Венуста Лисайя Заарина Лукрецция
 
-			Ilia Nilde Venusta Licya Zaarina Lucrezzia
+			#NON CANON
+			Коссома Дения
+			Феррега Эззера
+			Гилениос Гилора
+			Изембара
+			Якея
+			Лотея Люсерра
+			Мералия Мера Моредея Мирмеллиос
+			Нохия Нарба Орбела Ориос
+			Пинта Кваррия
+			Рогга
+			Сирея
+			Тиха Тагганария Терриос Тернесия Торма
+			Йорка
 		}
 		from_dynasty_prefix = "из "
 

@@ -179,7 +179,7 @@ EVTTOOLTIPbattle.11;[From.GetTitledFirstName] пал, это деморализ�
 EVTDESCbattle.11;[FromFrom.GetTitledFirstName] падает перед вами, [FromFrom.GetHerHis] солдаты смотрят на вас и теряют надежду.;x
 EVTOPTAbattle.11;Теперь это наш шанс!;x
 EVTTOOLTIPbattle.12;[From.GetTitledFirstName] берётся Вами в плен.;x
-EVTDESCbattle.12;[FromFrom.GetTitledFirstName] беспомощно лежит у ваших ног, [FromFrom.GetHerHis] оружие отброшено в сторону, а ваше у [FromFrom.GetHerHis] шеи.;x
+EVTDESCbattle.12;[From.GetTitledFirstName] беспомощно лежит у ваших ног, [From.GetHerHis] оружие отброшено в сторону, а ваше у [FromFrom.GetHerHis] шеи.;x
 EVTOPTAbattle.12;Отправишься со мной в город [Root.Capital.GetName].;x
 EVTDESCbattle.13;Вы потерпели поражение. [From.GetTitledFirstName] взял вас в плен.;x
 EVTOPTAbattle.13;Я запомню это, [From.GetOnlyDynastyName].;x
