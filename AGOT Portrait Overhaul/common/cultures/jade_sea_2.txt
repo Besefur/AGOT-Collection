@@ -680,44 +680,7 @@ yi_ti_group = {
 			Ца Ци Це Цюень Цой Цай
 
 		}
-		female_names = {
-			Aava Aulikki Aura Annukka Arja Aynikki Ayri
-			Elviira Esteri Eyni Eeva Eerika Erja
-			Fynni
-			Hylkka Hyrlli Hellevi Hyrnna Hyrkka
-			Inka Iyta Inkeri
-			Janika Jutta
-			Kyllikki Kyrtta Kynerva Kyira Kylli
-			Lyyti Lumikki Laimi Loviisa
-			Myrva Marjukka Maija Maila Minea Myrka
-			Nelli Naima Noora
-			Orvokki Onyrva
-			Pyrkka Pilvi Pirja
-			Rauna Rykka Rytva Raisa
-			Sylvi Syrkka Syrpa Saima Sari Soila Suvi
-			Tyrtta Taava Tekla Tari
 
-			Ai Aoi
-			Bai Bao Boq Buq Bha
-			Cam Chan Chi Cai Chin Cha Cuyen
-			Dai Dha Duyen
-			Han Hai Hoi
-			Jia Jyl Jha Jar Jan Juyen
-			Kim Kai Kei Kan Kuyen Kha Kho Khis
-			Lien Ling Lai Lha
-			Mai Ming Mha Muyen
-			Ning Nai Nha Noi Nuyen Niq
-			Ping Peng Pha Poi Puyen iq
-			Quyen  Qha Qai Qoi Qiq Qan Qar
-			Shu Shi  Sha Sai Soi Suyen Siq
-			Thi Thu Thuy Tien Ting Tai Tuyen Toi Tiq
-			Ve Viq
-			Wai Wan Wha  Wiq
-			Xiu Xha Xia Xian Xai Xiq
-			Yen Yai Yoi Yuyen Yiq
-			Zha Zi Ze Zuyen Zoi Zai
-
-		}
 		from_dynasty_prefix = "из "
 		prefix = yes
 
@@ -744,38 +707,53 @@ yi_ti_group = {
 		male_names = {
 			#DAMOC + Non-Canon
 
-			Arjwei Arjun Arryxi Arjunli Arjunchong
-			Chunna Cha Chempa Chum Chango
-			Devendrashan Devendrajing Devendrayi Devendrashu Devendrachun
-			Guanharsha Guanarjun Guandev Guanrajiv Guanwei
-			Harshaling Harshakumar Harshadev Harshayan Harshachen
-			Jingarjun Jingnarayan Jingdevendra Jingkumar Jingshakti
-			Kishorenarayan Kishorewei Kishoredev Kishoreching Kishorarjun
-			Leidevendra Leinarayan Leikumar Leichen
-			Narayanchen Narayanjing Narayanwei Narayankumar Narayanarjun
-			Xianrajiv Xianharsha Xianarjun Xiankumar Xiandevendra
-			Rajivchen Rajivjing Rajivkumar Rajivharsha Rajivarjun
-			Weinarayan Weikishore Weiarnarayan Weidevendra Weishakti
-			Shaktinarayan Shaktiwei Shaktichen Shaktijing Shaktidev
-			Yaoarjun Yaodevendra Yaoshakti Yaonarayan Yaokumar
-			Zhiarjun Zhidevendra Zhinarayan Zhiharsha Zhiwei
+			Ао Ан Аок Аук Аои Ахо
+			Бо Бай Бао Бок Бук Бхок Бой Бюень Бхо Бар Бан Би
+			Ку Чо Чу Чен Чао Кай Кук Сок Чин Чо Кар Кан Кой Кюень Ко Ки
+			Да Дай Ду Дхок Дан Дар Док Дой До Дюень Дхо Ди
+			Фа Фай Фу Фук Фан Фар Фой Фой Фо Фюень Фхо Фи
+			Ган Гу Гок Дук Гок Ган Гар Гой Го Гюень Гхо Ги
+			Хай Хао Ху Хюань Хо Хой Хи
+			Цзи Цзу Цзук Цзок Цзан Цзар Цзой Цзо Цзюень Цо
+			Лан Лок Лук Ло Ли Лар Лхок Люень Лхо
+			Ну Мо Нху Нок Нук Най Нан Нар Ной Но Нюень Нхо Ни
+			Пхо Пху Пхок Пук Пу Пок Пхан Пхар Пан Пар Пой Пюень Пи
+			Цюань Цюуй Цюу Цюок Цюук Цюай Цюан Цюар Цюой Цюо Цюхо Цюи
+			Ру Рок Рук Рай Ран Рой Ро Рюень Рхо Ри
+			Сан Шен Шун Су Сок Шок Сай Сар Сой Со Сюень Шо Си Сун
+			Ван Вюень Ву Вок Вай Вар Вой Во Вхо Ви
+			Вьо Вьхо Вьай Вьан Вьи Вьу
+			Ксун Ксюань Ксе Ксай Ксо Ксар Ксан Кси
+			Ю Яй Йо Юень Йок Ян Йи
+			Цу Цук Цок Цай Цан Цар Цой Цо Цюень Цхо Цао Цонь Цюань Циа
+			"Цонь Сан" "Цонь Ан" "Цонь Ко" "Цонь Дан" "Хар Ли" "Хар Ло" "Фхо Го" "Фхо Со" "Хо Бой" "Ксан Ли" "Кюень Ло" "Цзи Бао" "Цзи Ки" "Цзи Шо"
+			"Цзи Сун" "Йе Сун" "Фа Сун" "Хи Сун" "Пу Сун" "Цзи Шо" "Цзи Вьан" "Шо Вьан" "Цзу Вьан" "Цзок Во" "Гюень Ко" "Цзюень Ни" "Пар Сун" "Вьи Сун"
+			"Цзиа Вьу" "Ю Вьу" "Ян Вьу" "Вьу Ю" "Нхо Шо" "Ксо Пху" "Но Цо" "Хо Гхо" "Гок Сюень" "Вьо Кай" "Вьо Цюан" "Вьо Ви" "Ви Сун" "Ви Ли" "Ви Нхо"
 		}
 		female_names = {
 			#DAMOC + Non-Canon
-			Ashapriya Arjunti Aishumei Anyuji Aparxui
-			Chuanxi Chinaruvi Chunmei Chiaxi Chitlaxmi
-			Dularuvi Dianlakshmi Daiyumei Daixiangara Datlaxmi
-			Eixiangi Eshanlakshmi Eiashuchun Einaruvi
-			Fanyulakshmi Fumayu Fashuchun Fiaxiya Fipriya
-			Gangapriya Guangxiangui Gulaxmi Guanmayu Guanglakshmi
-			Lingpriya Leilakshmi Liashuchun Liaruvi Laxiapar
-			Meilakshmi Meimeiharra Mingpriya Manlaiyu Maoharema
-			Parvatiwei Priyaqian Pripriyalaxmi Puchandini Punaradhana
-			Rupalaxmi Ruixiangi Riaxiya Ramanlakshmi Rashuxia
-			Suryalakshmi Sumeixia Shuchandan Shiarjuna Shixiangara
-			Tiangara Tiarjuna Tanaradhana Tlaxmi Tiarjun
-			Umapriya Uxiangara Uchunmei Uanlaxmi Ushuchun
-			Xingara Xiaomeera Xianmeenakshi Xiashuchun Xianlaxmi
+			Ах Ай Ан Аои Аэ
+			Бай Бао Бо Бок Бук Бха Бе Ба Би
+			Кам Чан Чи Ку Кай Кик Чин Ча Кюень Ке Ка Ки
+			Дай Ди Де Дха Дюень Да
+			Хан Хо Ху Хаи Хой Ха Хе Хи
+			Цзиа Цзил Цзу Цзха Цзар Цзан Цзюень Цзо Цзи Цза
+			Ким Кей Кан Кар Кой Ко Кха Кхо Кхис
+			Лиен Линг Лай Лу Ло Лха Ле Ла Ли
+			Май Му Минг Мха Ма Мюень Ме Ми
+			Нинг Най Нха На Не Ни Ной Нюень Ник
+			Пинг Пенг Пха Пу Пай Пой Пюень Пе Па Пиг Пи
+			Цюень Цюи Цюха Цюу Цюай Цюой Цюа Цюэ Цюик Цюан Цюар
+			Шу Ши Си Ша Се Са Су Сай Сой Сюень Сик
+			Тхи Тху Тхюэ Тиен Тинг Ту Тха Тай Тюень Те Та Той Тик Ти
+			Ве Ва Вик Ви
+			Вай Ван Вьа Вье Вха Во Вьи Вьик
+			Ксиу Ксха Ксиа Хиан Хай Ксе Кса Ксик Кси
+			Йен Я Йе Яй Йой Йюень Йик Йи
+			Цу Цха Ци Ца Це Цюень Цой Цай
+			"Ах Бай" "Ах Бао" "Mo Ку" "Mo Ча" "Mo Ке" "Хой Цза" "Хой Ке" "Хой Ник" "Хой Су" "Хой Не" "Де Хан" "Де Хо" "Де Хаи" "Дех Хи" "Цзиа Ку" "Цзиа Кай" "Цзай Бай"
+			"Цзиа Ли" "Цзиа Лу" "Цзи Си" "Цзиа Те" "Цзиа Цай" "Цзиа Линг" "Цзиа Кха" "Мха Цзай" "Мха Си" "Мха Цза" "Мха Лха" "Ме Цюа" "Цюа Пинг" "Цюи Си" "Цюи Би" "Цюа Ай" "Цюи Чи" "Ве Кай"
+			"Му Пенг" "Му Ча" "Му Кхис" "Mo Кхис" "Де Кхис" "Цзиа Кхис" "Мха Кхис" "Ло Кхис" "Цюай Ло" "Цюай Ми" "Тха Си" "Тха Ми" "Тха Ки" "Йи Цзан" "Йи Кой" "Йи Бай" "Йи Ай"
 		}
 		from_dynasty_prefix = "из "
 		prefix = yes
@@ -1092,78 +1070,87 @@ carcosian = { # Inspired by Tarim Basin Eurasian populations (Tocharian etc)
 		character_modifier = {
 			stewardship = 1
 			yi_ti_group_opinion = 25
-			}
+		}
 
 		color = { 0.8 1.0 0.2 }
 
 		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 
 		male_names = {
-			Ayng Arkon Asrik Alrik Anvi Avar Argo Andar Agni Azhur Ahai Andri Ayor Azhon
-			Agon Ayzar Aitmatov Anujin
-                	Balin Beren Baer Balari Bari Ba'al Birus Basrik Bormir
-               		Cenri Chorchan Chorjin Corvi Cyriu
-                	Daran Demos Davnin Dakar Dovur Dari Devar Durchen Daros Druv
-                	Firan Fozil Firdavsi Feidri Feldri
-                	Garei Gobi Gulzar Gulnoor Giran Gavi Giudros Gori
-                	Huran Hoshan Hushang Hareik Halon Hira Havar Hadin Huron Halin Hagi Havon
-			Ithar Ishar Ili Indar Inder Ilgar Ibos Ishin
-                	Javok Javlon Jamudin Jumalai
-                	Kanish Khoji Chama'al Kizil Khosrau Korin
-                	Lufi Ladii Lorn Lo Lomer Lu
-                	Magi Minghui Mingqi Makbiao Mitrai Mirhan Muyi Muri Mithrae Mithros Mithru
-                	Nir Nari Narzu Niyaz Nasri Nodir Nisi Navi
-                	Parvi Poyon Penfu Pyr Parm Paeyi Pah Po
-                	Qian Qodir Qobal Qurban Qosim Qamil
-                	Ra Ranar Rosh Rus Rafi Razyi Ruvi Rithar Ralon Radek
-                	Sabi Sha San Sani Sin Shokhrud Shirin Sabir Shumu Shahrukh
-                	Tahir Tarim Taklamak Tao Tohuir Tojihin Tokhari Torhan Thur
-                	Usmon Umurrik Uchuk Usto Umar
-			Valan Veros Vires
-                	Weijian Wusun Wakhan Waka
-                	Xi Xiong Xudaydod Xurshi Xushan Xai Xushud Xal
-                	Yaros Yatim Yuezhi Yulduz Yaqi Yanhi Yarkun Yuthar Yunar
-                	Zarif Zikrullo Zarnigor Zuhro Zohir Zaman
-			"Kesh Amon" "Firok Shan" "Raen Xu" "Vesen Rosh" "Dae Rin" "Drenko Shari"
-			"Raenak Tor"
-			"Tal Zar" "Luk Dao" "Luk Di" "Fei Jal" "Fei Li" "Long Fei" "Fy Lu" "Ae Gar"
-			"Raen Xu"
-			"Yin Hai" "Tsha Shi" "Yin Ta'ar" "Lian Kelior"
+			Ааро Ахво Армас Ауво Антто Аслак Аулис
+			Дирвид
+			Эеро Элмери Эско
+			Гиркко Гирно Ганну
+			Икка Иско Ийвари
+			Джири Джирки Джаркко Джуха Джуко
+			Калевун Каин Кари Кйости
+			Линнарт
+			Маркку Микун Майикку
+			Найило Найирикки
+			Оива Орво
+			Пиркун Пекко Пиркко Пану
+			Райку Раймо Райтис
+			Сакари Сойни Саку Сантту
+			Тайто Теро Туукка Туко Тарво
+			Уско Улджас
+			Вейкко Воитто Вальто
+
+			Ах Ай Ан
+			Бок Бук Бха
+			Кай Кик Чин Ча Кюень Ке
+			Дай Дха Дюень Да
+			Хан Хаи Хой
+			Цзха Цзар Цзан Цзюень
+			Ким Кай Кей Кан Кар Кюень Кха Кхо Кхис
+			Лиен Линг Лай Ли
+			Май Минг Мха Мюень
+			Нинг Най Нха Ной Нюень
+			Пинг Пенг Пха Пюень Пе Па
+			Квюень Кха Квай Квой Ква Кван Квар
+			Шу Ши Ша Сай Сой Сюень Сик
+			Тхи Тху Тхуй Тиен Тинг Тха Тай Тюень Той Тик
+			Ва Вик
+			Вай Ван Вха Вик
+			Ксиу Кса Ксиан Ксай Ксик
+			Йен Яй Йюень Йик
+			Ца Цюень Цой Цай
 		}
 		female_names = {
-			Asira Agnea Agne Annisa Ailin Anrong Agni Aiyi
-			Aima Aira Alisna Anushka  Aiturgan  Aylin  Aygul
-			Baoyin Bissa Bizza Baila Benya Bela Bia Bera Beya Brena Baira
-			Chakhra Cira Chana Cyra Caila Cera Chira
-			Dainaris Daila Dana Dil Drahona Danisa Denova
-			Elana Eira Elara Ely Eisa Emena Esra Eniya Enara Elaen Esha
-			Fira Feya Fira Fanya Fenia Filena Firae Fesia Fana Felina
-			Gulchina Gulhara Gulzara Gulnisa Gemina
-			Hanzhu Hosha Hoshura Haisha Hashina
-			Jayira Jialina Jamsha Javala Jamshi Jun
-			Khura Karimah Karama Ksira Kasha Kalira
-			Leira Lana Lokhmia Lokhmi Louti Lu Lue Lutisa Loulan Loula Loulana
-			Mina Myssa Moli Mira Maela Myra Maira Mivra Miana Mena Meira
-			Nasri Nairys Nodira Nissa Nira Naya Niva Nera Nyra Nema Nila Nara Netha Nisa
-			Paya Pira Peya Pirae Peya Pura
-			Qiara Qeya Qila Qara
-			Rhana Raema Rhiara Rastri Raenis Rushen Romia Reni Rushan Rafka Rizvana
-			Ruiying Rongmei Rusa
-			Sari Shana Shaia Sohina Shumei Shiri
-			Tasya Tesa Thia Tohur Tojihonay Tahirah Tumura Tianyi Tianrong
-			Umia Uria Umida Ustora
-			Vara Varisa Vira Vesna
-			Xuhaila Xurshia Xushan Xaina Xusuda
-			Yatima Yulia Yamina Yana Yenna
-			Xiaoli Xingza Xianghua Xiaoyan Xiaodan
-			Xara Xeni Xira Xela Xina Xora Xani Xirae Xuna Xaya
-			Yamini Yanli Yingzhen Yanrong Yingyan Yihua
-			Zarina Zikrullo Zarnigora Zuhro Zorina
-			"Nissa Nissa" "Anissa Han" "Kanti Ria" "Suna Thera" "Lina Vera" "Vesa Anu"
-			"Yara Selin" "Daya Meira" "Rani Jima" "Tar Lira" "Rasa Kim" "Esh Vira"
-			"Mar Alia" "Rita Zura" "Paya Sira" "Zara Kira" "Siti Rema" "Jaya Lira"
-			"Fira Nyra" "Sina Lo" "Naya Runa" "Lira Li" "Vira Lana" "Ra Tira" "Mina Lara"
-			"Hira Sana"
+			Аава Ауликки Аура Аннукка Арджа Айникки Айри
+			Элвиира Эстери Эйни Эева Эерика Эрджа
+			Финни
+			Хилкка Хирлли Хеллеви Хирнна Хиркка
+			Инка Ийта Инкери
+			Джаника Джутта
+			Килликки Киртта Кинерва Кайира Килли
+			Лайити Лумикки Лайми Ловииса
+			Мирва Марджукка Майджа Майла Минея Мирка
+			Нелли Наима Нура
+			Орвокки Онирва
+			Пиркка Пилви Пирджа
+			Рауна Рикка Ритва Райса
+			Сильви Сиркка Сирпа Сайма Сари Сойла Суви
+			Тиртта Таава Текла Тари
+
+			Ай Аои
+			Бай Бао Бок Бук Бха
+			Кам Чан Чи Кай Чин Ча Кюень
+			Дай Дха Дюень
+			Хан Хаи Хой
+			Цзиа Цзил Цза Цзар Цзан Цзюень
+			Ким Кай Кей Кан Кха Кхо Кхис
+			Лиен Линг Лай Лха
+			Май Минг Мха Мюень
+			Нинг Най Нха Ной Нюень Ник
+			Пинг Пенг Пха Пой Пюень Пик
+			Квюень Кха Квай Квой Квик Кван Кварr
+			Шу Ши Ша Сай Сой Сюень Сик
+			Тхм Тху Тхуй Тиен Тинг Тай Тюень Той Тик
+			Ве Вик
+			Вай Ван Ва Вик
+			Ксиу Кса Ксиа Ксиан Ксай Ксик
+			Йен Яй Йои Йюень Йик
+			Ца Ци Це Цюень Цой Цай
 		}
 		from_dynasty_prefix = "из "
 		prefix = yes
@@ -1945,52 +1932,44 @@ shadowlander = {
 
 		male_names = {
 			#DAMOC + Non-Canon
-
-			Abdullo  Amin  Anushirwan  Azamat  Ahriman
-			Behzad   Bahodir  Bahram   Baxtiyor  Boqizor
-			Chorshan  Chinghiz  Chorazm   Chorshanbek  Cholponbek
-			Dilshod  Daler  Dilrabo  Davron  Donish
-			Farhad   Farrukh  Farkhod  Farrukhzad  Firdavs
-			Ghazanfar  Gavhar  Gavharkhon  Gulom  Gulyor
-			Hafiz  Hikmat  Husrav  Hamza  Hekmatullo
-			Jaloliddin  Javohir  Javlon  Jamshed  Juman
-			Khojiakbar  Khasan  Khusniddin  Kamol  Karim
-			Lutfullah  Laziz  Lokhman  Lobar  Lutfi
-			Nusrat  Nozim  Noik  Nasriddin  Narzullo
-			Puride  Patkhokh  Poh  Purko  Poyon
-			Qodir  Qobil  Qayum  Qasim  Qirghiz
-			Rustam  Rahmat  Razoq  Rakhmon  Rashid
-			Saidmurod  Sardor  Shokhrukh  Sardor  Shohrukh
-			Tavakkal  Temur  Tohir  Tolib  Tughi
-			Umar  Usmon  Ubaydullo  Umarali  Usto
-			Xudaydod  Xursand  Xudoyberdi  Xurshid  Xoshnudbek
-			Yatim  Yulduz  Yunus  Yohibon  Yormohammad
-			Zarif  Zikrullo  Zarifjon  Zukhruf  Zuhur
-
+			#NON CANON
+			Аммит Амурри Аргант Акийа Авил
+			Белшан Бунут
+			Даган Дадазиг Дамузи Дадазиг Даданум
+			Энлил Эррат
+			Гудит
+			Ханхал Хамбаб
+			Иррара Иштап Иддин Ишме Илуат Ибнатум Ипкуат
+			Кабид Куда Курум Кабкат Кужбау
+			Лимер Луэнлила "Ла'ум" Лугатум Липит
+			Месанепада Муштал Мутубизир Мамагал Мунавиртум
+			Нуркуби	Навирум	Нинурта Накир Намху Нергал
+			Пузур Палусум
+			Куэзур Куэбум Касмат
+			Шусуэн Шулги Шипсин Шуллат Сиду Сумалика Шулпаэ Шамаш Шатат Самукан
+			Техут
+			Уту Урнамму Угазум Убарут
+			Варад Вусум
+			Ятум Ясмат
 		}
 		female_names = {
 			#DAMOC + Non-Canon
-
-			Aziza  Anahita  Afshin  Aylin  Andisha
-			Bakhti  Bahora  Bahromsoy  Behzod  Banud
-			Chorshanbe  Chorche  Cholponoi  Chodura  Chorshanbegim
-			Dilshod  Dilorom  Dilnoza  Davlatniso  Dono
-			Farruxa  Farkhunda  Farzona  Farrukhzon  Fariza
-			Gulbahor  Gulzoda  Gulnoza  Gulbahorjon  Gulyor
-			Habiba  Hikmat  Huriniso  Huriniso  Hojida
-			Jaloliddin  Javhira  Javla  Jamshed  Jumana
-			Khairona  Khorsora  Khonizor  Kamila  Karomat
-			Lutfullo  Laziza  Lokhmi  Lobarkhon  Lutfiniso
-			Nusrat  Nozim  Noik  Nasrin  Narzullo
-			Parizoda  Patkhokh  Parizoda  Purko  Patina
-			Qodir  Qoribanu  Qayumsoy  Qoshsai  Qoribanu
-			Rukhshona  Rakhmon  Razoq  Rashida  Ruqayya
-			Sitora  Shokhrukh  Shonizor  Shokhrukh  Shokhrukh
-			Tojikhon  Tohiromon  Tohiri  Talima  Tyhida
-			Umara  Ustara  Ubaydulla Umarali  Usta
-			Xurshid  Xursha  Xudodjona  Xushnudsoy  Xurshidsoy
-			Yatim  Yulduz  Yunus  Yohibon  Yormohammad
-			Zarifa  Zikrullo  Zarnigor  Zuhro  Zuhrosoy
+			Эйа Ану Ахассут Айя
+			Белесса Бикку Бау
+			Даккартум Делондра
+			Эрета Эреткига Энхедуана Эала
+			Геметега Гемита
+			Иштар Илута Иркалла
+			Китар
+			Муррита Муррим
+			Нинхурсаг Нин Нинбанда Намму Нинсан Нинтуда Нисаба Ниндукугга Нанна
+			Пуаби
+			Куэйдари
+			Сапуртум Суммирата Шубад Силили
+			Тарам
+			Урбау
+			Ваграт
+			Зиму
 
 		}
 		from_dynasty_prefix = "из "
@@ -2106,13 +2085,13 @@ qarth_group = {
 		}
 
 		female_names = {
-		#NON CANON
-		#DAMOC
+			#NON CANON
+			#DAMOC
 
-		Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
-		Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
-		Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
-		Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
+			Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
+			Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
+			Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
+			Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
 		}
 
 		from_dynasty_prefix = "из "
@@ -2163,13 +2142,13 @@ qarth_group = {
 		}
 
 		female_names = {
-		#NON CANON
-		#DAMOC
+			#NON CANON
+			#DAMOC
 
-		Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
-		Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
-		Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
-		Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
+			Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
+			Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
+			Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
+			Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
 		}
 
 		from_dynasty_prefix = "из "
@@ -2219,13 +2198,13 @@ qarth_group = {
 		}
 
 		female_names = {
-		#NON CANON
-		#DAMOC
+			#NON CANON
+			#DAMOC
 
-		Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
-		Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
-		Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
-		Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
+			Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
+			Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
+			Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
+			Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
 		}
 
 		from_dynasty_prefix = "из "
@@ -2275,13 +2254,13 @@ qarth_group = {
 		}
 
 		female_names = {
-		#NON CANON
-		#DAMOC
+			#NON CANON
+			#DAMOC
 
-		Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
-		Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
-		Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
-		Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
+			Дамис Кедея Фалина Анигони Чабрис Терситас Куфа Эуенас Ойклас Подалина Люкарета Каллинас Тимона Фарна Тихида Астайя Накси Чилона Дема Эделла Дати Айати Игона Наллора Маллора Валлора
+			Сатонис Паатис Даатим Ксаллора Дарис Фалинас Загона Теба Лидати Таллора Аллора Апеллас Лемнас Абдера Тариба Фани Лидами Лайати Кайати Периса Телемача Даятрабма Чигонис Дамия Киприс
+			Ксантиппес Оифалис Ксара Мегара Эреника Мурина Катина Кайадора Немерта Ифис Исса Сибастея "Ар Мония" Райса Ниса Сратаис Дианаис Антейя Тайя Рена Ксанта Эвадна Китерия Чиора Ахрадина
+			Таласси Маяндрия Антеха Сотера Ланика Орития Пиланта "Пиона Мей" Латис Хати "Кала Ида" "Нал Ора" "Ало Иса" "Ода Ксаен" "Сита Оан"
 		}
 
 		from_dynasty_prefix = "из "

@@ -53,13 +53,13 @@ mixed_essosi_group = {
 			Виренхор Варгорно Варифос Виронос Варгано Вогис Виронно Виран Варгио Вирессо Вого Варео Варан Виранео Варгеллио
 			Зонарио Зарис Зорафо Золло:300 Золлио:300 Золло:300 Зоро:300 Заарио:300 Зонио:300 Зорафос Зарафо Заракво Зоронно Зирио Зелекор Заргано
 
-			Aggo Bharbo Cohollo Drogo Dhako Fogo
-			Harro Horro Haro Haggo Iggo
-			Jhaquo Jhogo Jommo Kovarro Loso
-			Mago Moro Motho Mengo
-			Ogo Onqo Pono Qotho Quaro Qano
-			Rakharo Rhogoro Rommo Rogo Scoro
-			Temmo Zekko Zollo Zhako Zeggo
+			Агго Бхарбо Кохолло Дрого Дхако Фого
+			Харро Хорро Харо Хагго Игго
+			Джакво Джого Джоммо Коварро Лосо
+			Маго Моро Мото Менго
+			Ого Онко Поно Квото Куаро Кано
+			Ракхаро Рхогоро Роммо Рого Скоро
+			Теммо Зекко Золло Жако Зегго
 		}
 		female_names = {
 			Кира Роанна Мианна
@@ -104,14 +104,14 @@ mixed_essosi_group = {
 			Уайна Лесселла Хелисса Несила Тейнайя Воринея Лессера Хена Орала Серола
 
 			Илия Нильда Венуста Лисайя Заарина Лукрецция
-			Ayi Aggi Coholli Chakki
-			Dalli Drigi Dhaki
-			Esinni Fitti
-			Hirri Hari Havvi Iggi Izzi
-			Jhigi Jhogi Jolinni Kovarri Kendri
-			Losi Leqsi Lavakhi
-			Miri Mothi Malakhi Mengi Naqqi
-			Oqetti Onqi
+			Аии Агги Кохолли Кхакки
+			Далли Дриги Дхаки
+			Эсинни Фитти
+			Хирри Хари Хавви Игги Иззи
+			Чхиги Чхоги Джолинни Коварри Кендри
+			Лоси Лекси Лавакхи
+			Мири Моти Малакхи Менги Накки
+			Окветти Онки
 		}
 		from_dynasty_prefix = "из "
 
@@ -642,11 +642,11 @@ mixed_valyrian_group = {
 			#DAMOC + Non-Canon
 
 			Ао Ан Аок Аук Аои Куэн Ахо
-			Bo Bai Bao Boq Buq Bhoq Boi Buen Bho Bar Ban Bi
+			Бо Бай Бао Бок Бук Бхок Бой Бюень Бхо Бар Бан Би
 			Ку Чо Чу Чен Чао Кай Кук Сок Чин Чо Чок Кар Кан Кой Кюень Ко Ки
-			Da Dai Du Dhoq Dan Dar Doq Doi Do Duen Dho Di
+			Да Дай Ду Дхок Дан Дар Док Дой До Дюень Дхо Ди
 			Фа Фай Фу Фук Фан Фар Фок Фой Фо Фюень Фхо Фи
-			Gang Gu Goq Duq Ghoq Gan Gar Goi Go Guen Gho Gi
+			Ган Гу Гок Дук Гок Ган Гар Гой Го Гюень Гхо Ги
 			Хай Хао Ху Хюань Хар Хо Хой Хи
 			Цзи Цзу Цзок Цзук Цхок Цзан Цзар Цзой Цзо Цзюень Цо
 			Лан Лок Лук Ло Ли Лар Лхок Люень Лхо Ли

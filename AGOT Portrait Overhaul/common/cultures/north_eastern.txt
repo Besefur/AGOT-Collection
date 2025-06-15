@@ -56,29 +56,29 @@ ibbenese_group = {
 		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 
 		male_names = {
-			Togg Bodger Brogg
-			Caloth Cull Clargg Colosh
-			Doth Drogg Durr Draloth
-			Erroth Eleogg
-			Galt Groo Gurn
-			Haggon Holger Hogg
-			Jogg Joth Jarr
-			Kull
-			Morr Moggoth
-			Quort
-			Slugg Sogg Sogoloth
-			Tumosh Tugg Torr Teleoth
-			Ulf Umar Ygon
+			Тогг Боджер Брогг
+			Калот Кулл Кларгг Колош
+			Дот Дрогг Дурр Дралот
+			Эррот Элеогг
+			Галт Гру Гурн
+			Хаггон Хольгер Хоуд
+			Джогг Джот Джарр
+			Крулл
+			Морр Моггот
+			Кворт
+			Слагг Согг Соголот
+			Тумош Тугг Торр Телеот
+			Ульф Умар Игон
 
-			Unul Rotsang Ullan Jumir Luzag Ahum Enruk Zunal Gikel Chek Uzam Karor Zutsu Osran Gyar Arun
-			Zogg Nulrogg Buzogg Uzugg Azogg Azol Kyogg Noth Koth Toth Azoth Guzar Urash Sarron Usog
-			Rufo Rufog Poleg Phik Ziweg Lameg Irog Uhnog Shikog Fanog Kalleg
+			Унул Ротсанг Уллан Джамир Лузаг Ахум Энрук Зунал Гикел Чек Узам Карор Зутсу Осран Гиар Арун
+			Зогг Нулрогг Бузогг Узугг Азогг Азол Киогг Нот Кот Тот Азот Гузар Ураш Саррон Усог
+			Руфо Руфог Полег Фиг Зивег Ламег Ирог Ухног Шиког Фаног Каллег
 
 		}
 		female_names = {
-			Thirsoth Togga Kotha Culla Clargga Colosha Galta Groona Gurna Jarra Krulla Morra Moggotha Slugga Sogga Sogolotha Tumosha Tugga Torra Telotha Ulfa Umara Ygona Uma
-			Unula Rogsanga Ullana Jumira Luzaqa Ahuma Enruka Zunala Gikela Cheka Uzama Karora Zutsua Osrana Gyara Aruna Zogga Nulrogga Buzogga Azogga Azola Kyogga Uda
-			Notha Totha Azotha Guzara Sarra Sarrona Usoga Rufoga Polega Phika Alussa Kalle Ehol Fanna Leke Shike Uhnath Irah Lame Miluse Ziwega Una Ona Oda Ogga Yona Zuna Rona
+			Трисот Тогга Кота Кулла Кларгга Колоша Галта Груна Гурна Джарра Крулла Морра Моггота Слугга Согга Соголота Тумоша Тугга Торра Телота Улфа Умара Игона Ума
+			Унула Рогсанга Уллана Джумира Лузака Ахума Энрука Зунала Гикела Чека Узама Карора Зуцуя Осрана Гайра Аруна Зогга Нулрогга Бузогга Азогга Азола Кайогга Уда
+			Нота Тота Азота Гузара Сарра Саррона Усога Руфога Полега Фика Алусса Калла Эхол Фанна Лека Шика Ухнат Ирах Лама Милуса Зивега Уна Она Ода Огга Йона Зуна Рона
 		}
 		from_dynasty_prefix = "из "
 

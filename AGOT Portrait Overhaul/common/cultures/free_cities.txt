@@ -896,38 +896,46 @@ free_cities = {
 		alternate_start = { NOT = { has_alternate_start_parameter = { key = special_culture value = animal_world } } }
 
 		male_names = {
-			Adaros Adelgardo Adelmar Adronos Arodo
-			Balderico Ballio Belaros Belianos Belos
-			Cadaros Callo Caezar Callen Cossomo
-			Daario Daarillos Danyro Dariono Denyo
-			Edaron Ezzaloro Ezzo Ezzandro Esselio
-			Garraro Garryros Gyllianos Gyllaro Goranio
-			Harlanos Harlono Haronno Harlelo Hyan
-			Illenaro Illario Illoros Innyllo Irrio
-			Joradan Jorapho Jyan Jaqario Jaqenhor
-			Lazan Lazyllo Larazonar Larazar Laziros
-			Malan Mallaquo Mareo Maranian Marqos
-			Nakaro Nakorno Nakys Nakaquo Norello
-			Oro Ordello Orbelo Orando Oronos
-			Padaros Paronos Parridos Parro Poro
-			Qarran Qorello Qoran Qoro Qyran
-			Raezar Ralyrio Relidos Relyrio Ronos
-			Sallos Sallello Stallonno Stallorno Syrion
-			Thorenhor Thoren Tormio Toro Trego
-			Vareo Vargario Vargo Vargano Vyranio
-			Yaro Ylloros Yonaro Yoran Yyan
-			Zaraquo Zarys Zollio Zoriano Zoronno
+			Адарано Адарос Аран:500 Эйрифос Эйрадор Арилло Арайрио Арио:500 Эйрайио Арихо:500 Эйрано Аро:500 Арар:500 Адайрс Эйрио Аронос Адарен
+			Брачаро Брачадор Белессо Баллио Баллен Брачилло Белодос Брачанос Белекор Белидос Белирио Белафо Белокво Белано Белис:500 Баллос Белонос Баллио
+			Кофо Коничо Конос Кассан Кейзар Калло:300 Кадарос Кариос Коссокво Каллен:500 Каян:500 Коро:500
+			Доничо Даариллос Дааро Даарелос Донос Донелос Донано Дракан Донио Донар Даариус Дракорос Дракорро Динерро Динаарио Даян:500
+			Эссело:300 Эззано:300 Эззарио Эссанос Эссалос Эссорио Эйсан Эсирно Эсодос Эззлисо Эззалоро Эззо
+			Харлано	Харлирио Хасаро Харонно Хорио Хорирос Харлело Харлан:500 Хаян:500 Харларо Хоро:500
+			Иннилло Иррио Инно Иллен Илларио Иллио Иннарио Иллокво Иннис Илларо Иллос Иллорос Иян:500 Илладор Иллонар Ирричо
+			Якенор Джейрессо Йоракво Джосоро:500 Йорафо Якирос Яйрео Яйзар Йилло Якаро Джакео Йорео Йорис Джаян:500 Джакаарио Джоро:500
+			Гилларо:300 Гарраро Горанис Гаррирос Гиллонос Гарренор Гайэллсо Гилло Гарро Гиллен:500 Гарридос Гаян:500
+			Лисирос Лазан Ларазис Лазилло Лисодос Лисан Ларазар Лисенно Лисар Лазирос Ларазонар Лаян:500 Лоторио:300 Лоро:500
+			Норокво Накано Ниэссафо Накорно Накакво Накодос Норелло Ниэссан Накео Накаро Наян:500 Ниэссонар Норо:500
+			Марор Макис Марилло Марео:1000 Марафос Моро Маллакво Марано Малан Малонар Малеро Мелио Марилло Маян:500 Моро:500
+			Парро Пилло:500 Парридос Паранис Пазан Пириос:500 Пилан:500 Пидос:500 Паллос Париос Падарос Паян:500 Поро:500
+			Билло:500 Бириос:500 Бидос:500 Байлан:500 Байсан:500 Бисирос:500 Биран:50 Бирано:500 Бирессо:500 Боро:500
+			Рилло Рейзар Рафо Релекор Релидос Релирио Релафо Релис Раллос Риос Рано Роно Раян:500 Роро:500
+			Квирос Квиран Квисар:500 Квихо Кварран Кворелло Кваян:500 Кворо:500
+			Йонихо Йонос Иллорос Ярридос Яран Яаро Якео Йоро:500
+			Сталлакво Сталлорно Сиродос Сиран Сталлен Сирно Сирихо Сирар Саллелло Саллорос Саллос Сталлонно Саян:500 Соро:500
+			Трегакво Трегирос Трегонос Тореннор Торонно Торонар Торио Тородос Тиссано Тирос Тихан Торен Трегис Тихирос Тихорос Трего Трегилло Таян:500 Торо:500
+			Виренхор Варгорно Варифос Виронос Варгано Вогис Виронно Виран Варгио Вирессо Вого Варео Варан Вирано Ваян:500 Воро:500
+			Зонарио Зарис Зорафо Золло Золлио Зоро:500 Заарио Зонио Зорафос Зарафо Заракво Зоронно Зирио Зелекор Заргано Заян:300
 		}
 		female_names = {
-			Alyssara Amelyne Belanna Cynessa Dorella Elynara Falyra Gyanara 			Helanna Ilyseira Jayella Kyrelle Lyserra Minysa Nolona Perralis 			Quyara Roselia Sybellea Tyara Unessa Vorysara Wynessa Zoelyn
-			Alara Brea Doralis Elara Feraya Gylora Henona Izembara Jaqea 				Kelyra Lanna Meralyia Nohia Orbela Pynta Qarria Rogea Syrea Tycha 			Yorka Zia
-			Taenanea Salasha Wynella Nilolla Henona Dorelna Sirila Firanyna 			Waeraena Maena Nesysha Nilerah Nesola Sereah Saela Ahrysha Wenina
-			Minysha Oranea Tirelna Minala Vorysa Wyneah Laenylea Laenanah 				Neseah Voraria Vaerana Meshola Sireyana Firanira Daenerah
-			Sireyana Dorella Tiresa Daenysa Rylea Bellona Dilona Siria Syria 			Thorena Conosa Callosa Calena Donnario Donellio Darria Esselio
-			Hororia Harlania Eysania Irrio Inna Illenio Innaria Innysa Empyrio 			Illosa Illarah Jaqena Joraphia Jaqira Jyssana Jorylla Jaqeah Jorea 			Noreah Loreah Soreah
-			Gylla Gyella Lysirah Lazana Lysanio Lysarah Nakanio Nakornah 				Nakodio Norellio Nyessa Naki Maryllah Malerah Maloni Malanio 				Pylanio Pazanio Parrah
-			Qira Qiranio Qysarah Qarrana Qorella Yonica Yonah Yaqea Yarah 				Syrana Thora Tora
-			Tellario Nellario Nellario Sellario Nethario Tethario Methario 				Ilio Nildio Yenustio Licyo Zaarinio Lucrezzio
+			Тейнанея Салаша Винелла Нилолла Хенона Дорелна Сирила Фиранайна Вейрейна Мейна Нениша Нилера Несола Серея Сейла Ахриша Венина Хениса
+			Миниша Оранея Тирелна Минала Вориса Винея Лейнилея Лейнана Несея Ворария Вейрана Мешола Серейана Фиранира Дейнера Фенейана
+			Серейана Дорелла Тиреса Дейниса Рилея Беллона Дилона Сирия Сайрия Торена Коноса Каллоса Калена Доннарио Донеллио Даррия Эсселио Эззанио Хорио
+			Хорория Харлания Эйсания Иррио Инна Илленио Иннария Инниса Эмфирио Иллоса Иллара Якена Джорафия Якира Джиссана Джорилла Джакея Джорея Норея Лорея Сорея
+			Гилла Гайэлла Лисира Лазана Лисанио Лисара Наканио Накорна Накодио Нореллио Ниэсса Наки Марилла Малера Малони Маланио Пилпнио Пизанио Парра
+			Квира Квиранио Квисара Кваррана Кворелла Йоника Йона Яра Сиранио Сирана Тора Варея Вирана Рохана Роханио Палея Прея Салея Сейя
+			Баянио:500 Наянио:500 Маянио:500 Яанио:500 Гаянио:500 Хаянио:500 Ваянио:500 Таянио:500 Аянио:500 Каянио:500 Раянио:500 Кваянио:500
+
+			Дилея Элейра Оналелла Нерея Эрола Норианна Минанея Инерилла Алея Тирора Фиранисса Фирея Серера Сирона Трианния Тейайнея Дейайнея Арреяна
+			Несианна Хеланея Ахриса Фирона Филона Фейайелла Лареша Велла Несайнея Мелайна Фериса Веллена Харрейана Ирилла Фейоланна Эйолана Вейроша
+			Дейнала Трианира Несейана Хенолана Лессинея Хелиэя Мешалея Фенорея Хеналея Тирина Хенера Ахрианна Венила Милайя Мешейна Пенила
+			Илола Фиранея Несорея Ферилея Минейя Фенолана Лереса Нилина Фенария Винесса Фирелла Сера Венела Дореса Дореза Нолона Оналона Оналайя
+			Элинея Аррайя Харрайя Сириша Ранира Веллайя Лейнса Дорианна Веллона Дора Элайя Нейна Оналина Серейна Несора Ферия Ненисса Сейлиша
+			Вейна Хейна Квейна Йейна Гейна Кейна Зейна Эйна Сейна Рейна Филарио Писария Нисария Неса Мелолла Фиранайя Фирания Фиранелла Аренела
+			Бисария Тисария Лисария Дисария Лейнеса Ланеса Энеса Ахрейна Фейайила Нилора Мелина Нилина Тириша Мелала Сирейя Тирола Зарайя Зоронна Заргана
+			Серилла Тейнолана Лейниша Серилла Илона Сирайя Милилла Ворейя Ворилея Минелна Дейнира Трианнолла Сейлла Меллианна Морилея Морейя
+			Уайна Лесселла Хелисса Несила Тейнайя Воринея Лессера Хена Орала Серола
 		}
 		from_dynasty_prefix = "из "
 
