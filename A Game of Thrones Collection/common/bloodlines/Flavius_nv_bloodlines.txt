@@ -1,7 +1,7 @@
 forelbloodline = {
 	monthly_character_prestige = 0.1
 	martial = 1
-	combat_rating = 2
+	combat_rating = 5
 	learning = 1
 	inheritance = patrilineal
 	allow_bastards = yes
@@ -81,7 +81,7 @@ maegyrbloodline = {
 loharbloodline = {
 	monthly_character_prestige = 0.12
 	martial = 1
-	combat_rating = 2
+	combat_rating = 5
 	lysene_opinion = 2
 	bloodline_effect_mariner = 1
 	bloodline_effect_more_raiders = 1
